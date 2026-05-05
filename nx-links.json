@@ -1,0 +1,21 @@
+{
+    "bootloaders": {
+        "hekate_ctcaer_6.5.2_Nyx_1.9.2.zip": "https://github.com/CTCaer/hekate/releases/download/v6.5.2/hekate_ctcaer_6.5.2_Nyx_1.9.2.zip"
+    },
+    "cfws": {
+        "Atmosphere": {
+            "hats-pack.zip": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/latest/download/hats-pack.zip"
+        },
+        "DeepSea": {}
+    },
+    "hekate": {
+        "hekate_ctcaer_6.5.2_Nyx_1.9.2.zip": "https://github.com/CTCaer/hekate/releases/download/v6.5.2/hekate_ctcaer_6.5.2_Nyx_1.9.2.zip"
+    },
+    "payloads": {
+        "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.11.1/fusee.bin",
+        "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
+    }
+}
