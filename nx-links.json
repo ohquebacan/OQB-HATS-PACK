@@ -5,7 +5,7 @@
     "cfws": {
         "Atmosphere": {
             "OQB HATS Pack v22.x": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/latest/download/hats-pack.zip"
-        },
+        }
     },
     "hekate": {
         "hekate_ctcaer_6.5.2_Nyx_1.9.2.zip": "https://github.com/CTCaer/hekate/releases/download/v6.5.2/hekate_ctcaer_6.5.2_Nyx_1.9.2.zip"
