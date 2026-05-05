@@ -4,7 +4,7 @@
     },
     "cfws": {
         "Atmosphere": {
-            "OQB HATS PACK 22.X": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/latest/download/hats-pack.zip"
+            "OQB HATS Pack v22.x": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/latest/download/hats-pack.zip"
         },
         "DeepSea": {}
     },
@@ -14,6 +14,15 @@
     "payloads": {
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.11.1/fusee.bin",
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
+    },
+    "firmwares": {
+        "Firmware 22.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip",
+        "Firmware 22.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.0.0/Firmware.22.0.0.zip",
+        "Firmware 21.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip",
+        "Firmware 21.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip",
+        "Firmware 21.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/21.0.1/Firmware.21.0.1.zip",
+        "Firmware 21.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.0.0/Firmware.21.0.0.zip",
+        "Firmware 20.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip"
     },
     "hekate_ipl": {
         "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
