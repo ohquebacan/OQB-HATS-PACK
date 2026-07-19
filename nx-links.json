@@ -15,6 +15,7 @@
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
     },
     "firmwares": {
+        "Firmware 22.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.5.0/Firmware.22.5.0.zip",
         "Firmware 22.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip",
         "Firmware 22.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.0.0/Firmware.22.0.0.zip",
         "Firmware 21.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip",
@@ -27,6 +28,7 @@
         "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
     },
     "apps": {
+        "Prelude (Nextendo Network)": "https://github.com/Juanjo3222/Prelude-Nro/releases/latest/download/Prelude.nro",
         "Tico installer (0.7.3)": "https://github.com/ticohq/tico/releases/download/0.7.3/tico.nro",
         "TicoBro + Repos Roms (1.0.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Ticobro.All.Repositories.Roms.zip",
         "Tico GameCube Remapper (0.0.1)": "https://github.com/NyxTheShield/Tico-GC-Remapper/releases/download/0.0.1/ticogcremapper.nro",
