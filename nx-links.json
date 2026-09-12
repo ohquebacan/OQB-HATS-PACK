@@ -31,6 +31,7 @@
     "apps": {
         "Prelude (Nextendo Network 3.3.9)": "https://github.com/NextendoNetwork/Prelude-Nro/releases/download/v3.3.9/nextendo.nro",
         "Tico installer (0.7.8)": "https://github.com/ticohq/tico/releases/download/0.7.8/tico.nro",
+        "Tico + Cores/Bios": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/tico-0.7.2.zip",
         "TicoBro + Repos Roms (1.0.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Ticobro.All.Repositories.Roms.zip",
         "The Goonies app": "https://github.com/GoodmanBCN10/The-Goonies-APP/releases/download/v2.1.15/TheGooniesInstaller.nro",
         "PipenSX 1.4.1": "https://github.com/i3sey/pipensx/releases/download/1.4.1/pipensx.nro",
