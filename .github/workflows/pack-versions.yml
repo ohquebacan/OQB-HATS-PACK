@@ -1,0 +1,44 @@
+name: Fecha de los packs
+
+# El tag de un release no cambia al volver a subir el zip: V1.4 se publicó el 27
+# de septiembre y su archivo se reemplazó el 2 de octubre. Quien lo descargó en
+# medio tiene otro pack y no hay forma de que lo sepa.
+#
+# Esto lee la fecha de subida real de cada zip y la deja en pack-versions.json,
+# que es lo que la app compara con lo que el usuario tiene instalado.
+on:
+  schedule:
+    # A diario. Es el que de verdad lo mantiene al día: volver a subir un asset
+    # no dispara ningún evento de GitHub, así que no hay nada a lo que reaccionar.
+    - cron: "41 5 * * *"
+  release:
+    types: [published, edited, released]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fechas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Leer la fecha de cada pack y actualizar el json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 update_pack_versions.py
+
+      - name: Guardar el cambio si lo hubo
+        run: |
+          if git diff --quiet -- pack-versions.json; then
+            echo "sin cambios, no hay nada que guardar"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pack-versions.json
+          git commit -m "Actualizar la fecha de los packs
+
+          Generado por el workflow a partir de la fecha de subida de cada zip."
+          git push
