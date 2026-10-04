@@ -1,0 +1,27 @@
+name: Comprobar enlaces del catálogo
+
+# Los enlaces a /releases/latest/download/ no se rompen cuando sale una versión
+# nueva; se rompen cuando el autor renombra su archivo. Eso no avisa: la entrada
+# deja de descargar en silencio. Esto lo busca antes de que lo encuentre alguien
+# intentando instalar algo.
+on:
+  schedule:
+    # Lunes por la mañana. El minuto no es redondo a propósito: las ejecuciones
+    # en punto se amontonan y GitHub las retrasa.
+    - cron: "17 6 * * 1"
+  # Al cambiar el catálogo, para cazar un nombre mal escrito en el momento.
+  push:
+    paths:
+      - "nx-links.json"
+      - "check_links.py"
+      - ".github/workflows/check-links.yml"
+  workflow_dispatch:
+
+jobs:
+  enlaces:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar que todos los enlaces responden
+        run: python3 check_links.py nx-links.json
