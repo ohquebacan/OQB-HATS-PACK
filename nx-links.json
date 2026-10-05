@@ -4,8 +4,8 @@
     },
     "cfws": {
         "Atmosphere": {
-            "OQB HATS Pack v23.0": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
-            "OQB OVERCLOCK v22.5": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/v1.3/OQB-HATS-PACK-OVER-CLOCK.zip"
+            "OQB HATS Pack": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
+            "OQB HATS Pack con overclock": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/v1.3/OQB-HATS-PACK-OVER-CLOCK.zip"
         }
     },
     "hekate": {
@@ -92,5 +92,15 @@
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
         "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro"
+    },
+    "cfws_detalle": {
+        "OQB HATS Pack": {
+            "desc": "Para firmware 23.0.1 o inferior. El que debes instalar si no sabes cuál elegir.",
+            "grupo": "Recomendado"
+        },
+        "OQB HATS Pack con overclock": {
+            "desc": "Firmware 22.5, más viejo que el oficial. Sube el reloj de CPU y GPU: solo si ya sabes lo que hace.",
+            "grupo": "Variantes"
+        }
     }
 }
