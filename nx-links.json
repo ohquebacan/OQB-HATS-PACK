@@ -69,7 +69,8 @@
         "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip",
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
-        "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip"
+        "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip",
+        "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -85,7 +86,8 @@
         "DuckStation (PS1)": "https://github.com/ticohq/tico-duckstation/releases/latest/download/tico-duckstation.nro",
         "PPSSPP (PSP) (0.6.5)": "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip",
         "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
-        "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip"
+        "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip",
+        "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip"
     },
     "apps_mods": {
         "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
