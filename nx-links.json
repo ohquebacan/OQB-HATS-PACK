@@ -84,7 +84,8 @@
         "NetherSX2 (PS2)": "https://github.com/NaGaa95/NetherSX2_nx/releases/latest/download/NetherSX2.nro",
         "DuckStation (PS1)": "https://github.com/ticohq/tico-duckstation/releases/latest/download/tico-duckstation.nro",
         "PPSSPP (PSP) (0.6.5)": "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip",
-        "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip"
+        "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
+        "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip"
     },
     "apps_mods": {
         "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
@@ -117,8 +118,7 @@
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
         "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
-        "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
-        "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip"
+        "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip"
     },
     "cfws_detalle": {
         "OQB HATS PACK 23.0.1": {
