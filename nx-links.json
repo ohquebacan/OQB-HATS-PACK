@@ -70,7 +70,8 @@
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
         "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip",
-        "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip"
+        "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip",
+        "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -111,7 +112,8 @@
         "PipenSX": "https://github.com/i3sey/pipensx/releases/latest/download/pipensx.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
         "The Goonies app": "https://github.com/GoodmanBCN10/The-Goonies-APP/releases/latest/download/TheGooniesInstaller.nro",
-        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro"
+        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
+        "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip"
     },
     "apps_sistema": {
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
