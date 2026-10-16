@@ -4,7 +4,7 @@
     },
     "cfws": {
         "Atmosphere": {
-            "OQB HATS PACK 23.0.1": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
+            "OQB HATS PACK 23.0.1 · AMS 1.12.1": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
             "OVERCLOCK HATSPACK 22.5": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/v1.3/OQB-HATS-PACK-OVER-CLOCK.zip"
         }
     },
@@ -125,8 +125,8 @@
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip"
     },
     "cfws_detalle": {
-        "OQB HATS PACK 23.0.1": {
-            "desc": "Para firmware 23.0.1 o inferior. El que debes instalar si no sabes cuál elegir.",
+        "OQB HATS PACK 23.0.1 · AMS 1.12.1": {
+            "desc": "Para firmware 23.0.1 o inferior. Importante: corrige el bloqueo DNS, que en 23.0 no estaba funcionando. Actualiza aunque ya tengas el pack.",
             "grupo": "Recomendado"
         },
         "OVERCLOCK HATSPACK 22.5": {
