@@ -5,7 +5,7 @@
     "cfws": {
         "Atmosphere": {
             "OQB HATS PACK 23.0.1 · AMS 1.12.1": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
-            "OVERCLOCK HATSPACK 22.5": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/v1.3/OQB-HATS-PACK-OVER-CLOCK.zip"
+            "OVERCLOCK HATSPACK 23.0.1 · AMS 1.12.1": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-OC-23.0.zip"
         }
     },
     "hekate": {
@@ -129,8 +129,8 @@
             "desc": "Para firmware 23.0.1 o inferior. Importante: corrige el bloqueo DNS, que en 23.0 no estaba funcionando. Actualiza aunque ya tengas el pack.",
             "grupo": "Recomendado"
         },
-        "OVERCLOCK HATSPACK 22.5": {
-            "desc": "Firmware 22.5, más viejo que el oficial. Sube el reloj de CPU y GPU: solo si ya sabes lo que hace.",
+        "OVERCLOCK HATSPACK 23.0.1 · AMS 1.12.1": {
+            "desc": "Para firmware 23.0.1 o inferior. Es el pack oficial más overclock con Horizon-OC 2.6.0: desde su overlay subes CPU, GPU y RAM, arrancando con la entrada EMUNAND CFW + OVERCLOCK de Hekate. Incluye SaltyNX. Úsalo solo si ya sabes lo que hace.",
             "grupo": "Variantes"
         }
     }

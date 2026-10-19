@@ -31,7 +31,7 @@ ARCHIVO = "pack-versions.json"
 # y no todas son packs que la app ofrezca.
 PACKS = (
     "OQB-HATS-PACK-23.0.zip",
-    "OQB-HATS-PACK-OVER-CLOCK.zip",
+    "OQB-HATS-PACK-OC-23.0.zip",
 )
 
 
