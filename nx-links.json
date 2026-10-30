@@ -36,7 +36,6 @@
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
         "Tico + Cores/Bios": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/tico-0.7.2.zip",
         "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
-        "The Goonies app": "https://github.com/GoodmanBCN10/The-Goonies-APP/releases/latest/download/TheGooniesInstaller.nro",
         "PipenSX (1.6.3)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/pipensx.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
@@ -119,7 +118,6 @@
     "apps_instaladores": {
         "PipenSX (1.6.3)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/pipensx.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
-        "The Goonies app": "https://github.com/GoodmanBCN10/The-Goonies-APP/releases/latest/download/TheGooniesInstaller.nro",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
         "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip"
     },
