@@ -138,8 +138,9 @@
             "grupo": "Recomendado"
         },
         "OVERCLOCK HATSPACK 23.0.1 · AMS 1.12.1": {
-            "desc": "Para firmware 23.0.1 o inferior. Es el pack oficial más overclock con Horizon-OC 2.6.0: desde su overlay subes CPU, GPU y RAM. Va en las entradas EMUNAND CFW y SEMI-STOCK CFW de Hekate. Incluye SaltyNX. Úsalo solo si ya sabes lo que hace.",
-            "grupo": "Variantes"
+            "desc": "Para firmware 23.0.1 o inferior. Es el pack oficial más overclock con Horizon-OC 2.6.0: desde su overlay subes CPU, GPU y RAM. Va en las entradas EMUNAND CFW y SEMI-STOCK CFW de Hekate. Incluye SaltyNX. Ideal para usuarios avanzados.",
+            "grupo": "Variantes",
+            "etiqueta": "Usuarios avanzados"
         }
     }
 }
