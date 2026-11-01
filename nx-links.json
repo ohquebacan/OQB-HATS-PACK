@@ -142,5 +142,8 @@
             "grupo": "Variantes",
             "etiqueta": "Usuarios avanzados"
         }
+    },
+    "enlaces": {
+        "donar": "https://www.paypal.com/ncp/payment/F8U8BWLLQ7MY6"
     }
 }
