@@ -9,7 +9,9 @@ del archivo, y eso es lo que las apps comparan con la que anotaron al instalar.
 Clave: la URL tal como está en nx-links.json. Valor: {"fecha", "version"} y,
 cuando el archivo trae un .nro, la versión que el autor puso dentro (NACP):
   - "nro_version": la del .nro, si el enlace es un .nro;
-  - "nros": [{"ruta", "version"}], cada .nro de un zip con su ruta en la SD.
+  - "nros": [{"ruta", "version"}], cada .nro de un zip con su ruta en la SD;
+  - "marcas": rutas en la SD de archivos propios de un zip sin .nro (sysmodules,
+    plugins), para saber si está instalado.
 Con eso las apps leen el .nro que hay en la SD y comparan, como hace el gestor de
 homebrew de HomeNX, sin tener que haberlo instalado con nosotros. Los archivos
 solo se descargan cuando cambia su fecha.
@@ -30,6 +32,8 @@ import zipfile
 from collections import OrderedDict
 
 CATALOGO = "nx-links.json"
+# Sube cuando cambia lo que se saca de cada archivo: obliga a volver a abrirlos.
+REVISION = 2
 ARCHIVO = "app-versions.json"
 ENLACE = re.compile(r"^https://github\.com/([^/]+/[^/]+)/releases/(?:latest/download|download/([^/]+))/([^/]+)$")
 
@@ -71,12 +75,34 @@ def versiones_del_archivo(url):
         return {}
     nros = []
     with zipfile.ZipFile(io.BytesIO(datos)) as z:
-        for nombre in z.namelist():
-            if nombre.lower().endswith(".nro") and not nombre.startswith("__MACOSX"):
+        nombres = [n for n in z.namelist() if not n.startswith("__MACOSX") and not n.endswith("/")]
+        for nombre in nombres:
+            if nombre.lower().endswith(".nro"):
                 v = version_nacp(z.read(nombre))
                 if v:
                     nros.append(OrderedDict(ruta="/" + nombre.lstrip("/"), version=v))
-    return {"nros": nros} if nros else {}
+    if nros:
+        return {"nros": nros}
+    marcas = marcas_de(nombres)
+    return {"marcas": marcas} if marcas else {}
+
+
+# Archivos que muchos zips comparten: no dicen qué app está instalada.
+COMUNES = ("atmosphere/config", "atmosphere/hosts", "bootloader/", "config/", "hbmenu.nro", "atmosphere/package3", "atmosphere/stratosphere")
+
+
+def marcas_de(nombres):
+    """Hasta 3 archivos que delatan la app: primero el exefs de su sysmodule,
+    después lo que va en su propia carpeta."""
+    propios = [n for n in nombres if not n.lower().startswith(COMUNES)]
+    def peso(n):
+        bajo = n.lower()
+        if bajo.startswith("atmosphere/contents/") and bajo.endswith(("exefs.nsp", "/main")):
+            return 0
+        if bajo.startswith(("atmosphere/contents/", "switch/")):
+            return 1
+        return 2
+    return ["/" + n.lstrip("/") for n in sorted(propios, key=peso)[:3]]
 
 
 def fecha_por_cabeceras(url):
@@ -130,12 +156,12 @@ def main():
                 datos = OrderedDict(fecha=fecha, version="")
         if datos is not None:
             previo = actual.get(url, {})
-            if previo.get("fecha") == datos["fecha"] and "revisado" in previo:
-                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "revisado"))
+            if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION:
+                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "revisado"))
             else:
                 try:
                     datos.update(versiones_del_archivo(url))
-                    datos["revisado"] = True
+                    datos["revisado"] = REVISION
                 except Exception as error:  # se reintenta en la próxima pasada
                     print(f"aviso: no se pudo abrir {url}: {error}")
         if datos is None:
