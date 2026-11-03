@@ -33,7 +33,7 @@ from collections import OrderedDict
 
 CATALOGO = "nx-links.json"
 # Sube cuando cambia lo que se saca de cada archivo: obliga a volver a abrirlos.
-REVISION = 2
+REVISION = 3
 ARCHIVO = "app-versions.json"
 ENLACE = re.compile(r"^https://github\.com/([^/]+/[^/]+)/releases/(?:latest/download|download/([^/]+))/([^/]+)$")
 
@@ -76,15 +76,31 @@ def versiones_del_archivo(url):
     nros = []
     with zipfile.ZipFile(io.BytesIO(datos)) as z:
         nombres = [n for n in z.namelist() if not n.startswith("__MACOSX") and not n.endswith("/")]
+        quitar = envoltorio(nombres)
         for nombre in nombres:
             if nombre.lower().endswith(".nro"):
                 v = version_nacp(z.read(nombre))
                 if v:
-                    nros.append(OrderedDict(ruta="/" + nombre.lstrip("/"), version=v))
+                    nros.append(OrderedDict(ruta="/" + nombre[len(quitar):].lstrip("/"), version=v))
     if nros:
         return {"nros": nros}
-    marcas = marcas_de(nombres)
+    marcas = marcas_de([n[len(quitar):] for n in nombres])
     return {"marcas": marcas} if marcas else {}
+
+
+# Carpetas que van tal cual en la raíz de la SD.
+RAIZ = ("switch", "atmosphere", "config", "bootloader", "emuiibo", "themes", "tico", "mods")
+
+
+def envoltorio(nombres):
+    """La carpeta que envuelve todo el zip ("app_v1.4.0/switch/..."), que las
+    apps quitan al extraer; "" si no hay."""
+    primeras = {n.split("/", 1)[0] for n in nombres if "/" in n}
+    if len(primeras) == 1 and all("/" in n for n in nombres):
+        unica = primeras.pop()
+        if unica.lower() not in RAIZ:
+            return unica + "/"
+    return ""
 
 
 # Archivos que muchos zips comparten: no dicen qué app está instalada.
