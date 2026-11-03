@@ -1,0 +1,48 @@
+name: Fecha de las apps
+
+# Lo mismo que pack-versions.yml para las apps del catálogo: la fecha de subida
+# de cada archivo queda en app-versions.json, y las apps la comparan con la que
+# anotaron al instalarla para avisar que hay una versión nueva.
+on:
+  schedule:
+    # Cada 6 horas: una versión nueva no dispara ningún evento en este repo.
+    - cron: "23 */6 * * *"
+  push:
+    paths:
+      - "nx-links.json"
+      - "update_app_versions.py"
+      - ".github/workflows/app-versions.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: app-versions
+  cancel-in-progress: false
+
+jobs:
+  fechas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Leer la fecha de cada app y actualizar el json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 update_app_versions.py
+
+      - name: Guardar el cambio si lo hubo
+        run: |
+          if git diff --quiet -- app-versions.json; then
+            echo "sin cambios, no hay nada que guardar"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app-versions.json
+          git commit -m "Actualizar la fecha de las apps
+
+          Generado por el workflow a partir de la fecha de subida de cada archivo."
+          git pull --rebase -q
+          git push
