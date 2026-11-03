@@ -379,16 +379,18 @@
             {
                 "titulo": "Cuenta de Nextendo con correo confirmado",
                 "texto": "Crea tu cuenta en nextendo.network/register. Después abre el correo de confirmación que te llega y toca el enlace (si no lo ves, busca en la carpeta de spam). Mientras el correo no esté confirmado, no podrás jugar en línea aunque tu contraseña sea correcta.",
-                "qr": "https://nextendo.network/register"
+                "qr": "https://nextendo.network/register",
+                "qr_texto": "Escanea este código con la cámara de tu teléfono para abrir nextendo.network/register, la página donde se crea la cuenta."
             },
             {
                 "titulo": "Discord vinculado",
                 "texto": "Es el motivo más común por el que Nextendo rechaza la conexión. Para vincularlo:\n1) Únete al servidor de Discord de Nextendo.\n2) En el canal de verificación, toca el botón \"Verify my account\".\n3) El bot te enviará por mensaje privado un enlace personal a verify.nextendo.network.\n4) En esa página, inicia sesión con el correo y la contraseña de tu cuenta de Nextendo (no los de Discord).\n\nSi sales del servidor de Discord, la vinculación se pierde y tendrás que repetirla.",
-                "qr": "https://discord.gg/XPfeCMwnzQ"
+                "qr": "https://discord.gg/XPfeCMwnzQ",
+                "qr_texto": "Escanea este código con la cámara de tu teléfono para unirte al servidor de Discord de Nextendo, donde está el canal de verificación."
             },
             {
                 "titulo": "Perfil de la consola vinculado a Nextendo",
-                "texto": "El perfil de usuario con el que juegas en la Switch debe estar vinculado a tu cuenta de Nextendo. No basta con haber iniciado sesión en el servicio de Nintendo."
+                "texto": "Nextendo identifica a cada jugador por el perfil de usuario de la Switch. Por eso, el perfil con el que juegas tiene que estar vinculado a tu cuenta de Nextendo.\n\nEsa vinculación se hace desde Prelude: abre Prelude, inicia sesión con tu cuenta de Nextendo y elige el perfil de la consola con el que vas a jugar.\n\nSi juegas con otro perfil que no está vinculado, Nextendo rechaza la conexión aunque tu cuenta esté bien configurada."
             },
             {
                 "titulo": "Una sola sesión a la vez",
