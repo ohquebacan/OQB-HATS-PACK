@@ -311,12 +311,12 @@
         "revisado": true
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip": {
-        "fecha": "2026-10-13T06:50:27Z",
+        "fecha": "2026-11-03T06:20:55Z",
         "version": "1.0",
         "nros": [
             {
                 "ruta": "/switch/scene_eshop/scene_eshop.nro",
-                "version": "4.5.0"
+                "version": "5.5.0"
             }
         ],
         "revisado": true
