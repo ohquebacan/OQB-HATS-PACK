@@ -70,7 +70,7 @@
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
         "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip",
         "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip",
-        "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
+        "Scene eShop (5.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
         "HomeNX (nuevo menú HOME)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip",
@@ -127,7 +127,7 @@
     "apps_instaladores": {
         "PipenSX (1.6.6)": "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
-        "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
+        "Scene eShop (5.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro"
     },
     "apps_sistema": {
@@ -308,7 +308,7 @@
                 "apps": [
                     "PipenSX (1.6.6)",
                     "FreeShop",
-                    "Scene eShop (4.5.0)"
+                    "Scene eShop (5.5.0)"
                 ]
             },
             {
