@@ -550,6 +550,10 @@
         ],
         "notas": [
             {
+                "titulo": "La versión del juego importa",
+                "texto": "Nextendo funciona con una versión exacta de cada juego, la que hablan sus servidores: con otra, el juego puede no conectarse o cerrarse al iniciar. La versión que pide cada uno aparece en \"Quién está jugando ahora\".\n\nCómo ver qué versión tienes:\n•  En esta app: \"Tus juegos y su versión\", en el checklist, compara cada juego compatible que tienes con la que pide Nextendo.\n•  En la consola: en el menú HOME, selecciona el juego, pulsa + y entra a Información del software. La versión aparece junto al nombre.\n\nSi tu versión es distinta, no actualices ni cambies el juego hasta confirmar cuál pide Nextendo: después de una actualización del juego, Nextendo puede tardar en ser compatible."
+            },
+            {
                 "titulo": "El probador de 90DNS sale en rojo",
                 "texto": "Es normal en modo Nextendo: los dominios apuntan a los servidores de Nextendo y no a 0.0.0.0, y el probador lo marca como \"desbloqueado\". No es una conexión a Nintendo."
             }
