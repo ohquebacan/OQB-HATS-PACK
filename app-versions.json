@@ -39,10 +39,10 @@
         ],
         "revisado": true
     },
-    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/pipensx.nro": {
-        "fecha": "2026-10-23T19:56:55Z",
-        "version": "1.0",
-        "nro_version": "1.6.3",
+    "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro": {
+        "fecha": "2026-10-31T11:09:53Z",
+        "version": "",
+        "nro_version": "1.6.6",
         "revisado": true
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro": {

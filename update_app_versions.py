@@ -79,6 +79,18 @@ def versiones_del_archivo(url):
     return {"nros": nros} if nros else {}
 
 
+def fecha_por_cabeceras(url):
+    """Para enlaces que no son releases de GitHub (GitLab, por ejemplo): la
+    fecha de modificación que da el servidor, en el mismo formato."""
+    pedido = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "OQB-catalogo"})
+    with urllib.request.urlopen(pedido, timeout=60) as r:
+        ultima = r.headers.get("Last-Modified")
+    if not ultima:
+        return None
+    from email.utils import parsedate_to_datetime
+    return parsedate_to_datetime(ultima).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def release(repo, tag, cache):
     """El release, pidiéndolo una sola vez por repo y tag."""
     clave = (repo, tag)
@@ -108,15 +120,24 @@ def main():
             asset = next((a for a in (r or {}).get("assets", []) if a.get("name") == archivo), None)
             if asset:
                 datos = OrderedDict(fecha=asset["updated_at"], version=r.get("tag_name", ""))
-                previo = actual.get(url, {})
-                if previo.get("fecha") == datos["fecha"] and "revisado" in previo:
-                    datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "revisado"))
-                else:
-                    try:
-                        datos.update(versiones_del_archivo(url))
-                        datos["revisado"] = True
-                    except Exception as error:  # se reintenta en la próxima pasada
-                        print(f"aviso: no se pudo abrir {url}: {error}")
+        else:
+            try:
+                fecha = fecha_por_cabeceras(url)
+            except Exception as error:
+                fecha = None
+                print(f"aviso: {url}: {error}")
+            if fecha:
+                datos = OrderedDict(fecha=fecha, version="")
+        if datos is not None:
+            previo = actual.get(url, {})
+            if previo.get("fecha") == datos["fecha"] and "revisado" in previo:
+                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "revisado"))
+            else:
+                try:
+                    datos.update(versiones_del_archivo(url))
+                    datos["revisado"] = True
+                except Exception as error:  # se reintenta en la próxima pasada
+                    print(f"aviso: no se pudo abrir {url}: {error}")
         if datos is None:
             # Sin respuesta (o un enlace que no es de GitHub): se deja lo que había,
             # para no avisar de una actualización que no existe.
