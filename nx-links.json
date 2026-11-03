@@ -364,5 +364,193 @@
             "app": "Prelude (Nextendo Network)",
             "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4"
         }
+    },
+    "nextendo": {
+        "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4",
+        "wiki": "https://wiki.nextendo.network/errors",
+        "firmwares": [
+            "23.0.1",
+            "22.5.0"
+        ],
+        "prelude": "Prelude (Nextendo Network)",
+        "checklist": [
+            {
+                "titulo": "Cuenta de Nextendo con correo confirmado",
+                "texto": "Crea tu cuenta en nextendo.network/register y abre el enlace del correo de confirmación (revisa también el spam). Sin el correo confirmado, el juego en línea se rechaza aunque la contraseña sea correcta.",
+                "qr": "https://nextendo.network/register"
+            },
+            {
+                "titulo": "Discord vinculado",
+                "texto": "Es la causa más común de que te rechacen. 1) Entra al servidor de Discord de Nextendo. 2) En el canal de verificación pulsa \"Verify my account\". 3) El bot te manda un enlace personal a verify.nextendo.network. 4) Ahí entra con el correo y la contraseña de Nextendo (no la de Discord). Si sales del servidor, se desvincula.",
+                "qr": "https://discord.gg/XPfeCMwnzQ"
+            },
+            {
+                "titulo": "Perfil de la consola vinculado a Nextendo",
+                "texto": "En la Switch, el perfil con el que juegas tiene que estar vinculado a tu cuenta de Nextendo, no solo al servicio de Nintendo."
+            },
+            {
+                "titulo": "Una sola sesión a la vez",
+                "texto": "Una cuenta solo puede estar en línea en un lugar: no uses la Switch y el emulador al mismo tiempo. Si la otra sesión se cerró mal, se libera sola en unos 15 minutos."
+            },
+            {
+                "titulo": "Prueba de conexión",
+                "texto": "Con el modo Nextendo activo, ve a Configuración de la consola › Internet › Probar conexión. Tipo de NAT: A y B funcionan bien; C puede fallar con algunos jugadores; D dificulta unirse a muchas partidas; F impide el multijugador. El NAT no mide la velocidad ni garantiza poco retraso."
+            }
+        ],
+        "etapas": [
+            {
+                "titulo": "Te rechazan al iniciar sesión",
+                "pasos": [
+                    "Confirma tu correo: con la cuenta sin verificar se rechaza aunque la contraseña esté bien.",
+                    "Vincula tu cuenta a Discord (ver el checklist): es la causa más común.",
+                    "Revisa que la fecha y la hora de la consola sean correctas: si están muy desfasadas, falla la conexión segura.",
+                    "Cierra cualquier otra sesión con la misma cuenta. Si se cerró mal, espera unos 15 minutos."
+                ]
+            },
+            {
+                "titulo": "No hay salas o no logras unirte",
+                "pasos": [
+                    "Actualiza Prelude: varias correcciones solo están en versiones recientes.",
+                    "Revisa en la wiki si ese modo de juego ya es compatible para ese título.",
+                    "Para jugar con un amigo, los dos necesitan la misma versión del juego.",
+                    "Si sale un código de error, búscalo aquí antes de tocar la red: la mayoría son del lado del servidor."
+                ]
+            },
+            {
+                "titulo": "Te desconecta en plena partida",
+                "pasos": [
+                    "Prueba por cable si puedes: la pérdida de paquetes por Wi-Fi se ve justo así.",
+                    "Revisa que nada esté saturando tu subida, como una descarga o sincronización en segundo plano.",
+                    "Fíjate si se cayeron todos o solo tú: eso separa un problema del servidor de uno tuyo."
+                ]
+            },
+            {
+                "titulo": "Amigos o invitaciones no aparecen",
+                "pasos": [
+                    "Agregar un código solo envía una solicitud: el otro jugador tiene que aceptarla o agregarte de vuelta.",
+                    "Algunos juegos solo muestran a un amigo cuando ya entró al menos una vez a ese mismo juego.",
+                    "Si en la lista de amigos un juego sale como \"Error al cargar\", desvincular y volver a vincular la cuenta de Nintendo de la consola lo arregló a otros jugadores."
+                ]
+            },
+            {
+                "titulo": "No sé qué falló",
+                "pasos": [
+                    "Anota el código de error exacto y qué estabas haciendo cuando apareció.",
+                    "Pregunta en el Discord de Nextendo con esos dos datos: el código solo rara vez alcanza."
+                ]
+            }
+        ],
+        "errores": [
+            {
+                "codigo": "2618-0521",
+                "titulo": "Al menos una consola no responde",
+                "que_es": "No se completó la conexión directa entre los jugadores (negociación NAT). Ya se corrigió del lado del servidor.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Reintenta una vez: la negociación depende del momento y un fallo solo no dice nada.",
+                    "Si pasa siempre con el mismo jugador, prueba otra sala u otro compañero."
+                ]
+            },
+            {
+                "codigo": "2618-0502",
+                "titulo": "Una o más consolas no responden",
+                "que_es": "La sesión esperó a un participante que nunca iba a llegar (visto en visitas a islas de Animal Crossing). Corregido en el servidor.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Que el visitante salga y vuelva a intentar la visita una vez."
+                ]
+            },
+            {
+                "codigo": "2618-0006",
+                "titulo": "Vuelve a buscar partida en vez de empezar",
+                "que_es": "La sala se llenó y volvió a buscar en lugar de comenzar. Corregido en el servidor.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Si se repite, sal por completo de la sala y busca de nuevo."
+                ]
+            },
+            {
+                "codigo": "2306-0103",
+                "titulo": "Se produjo un error",
+                "que_es": "El juego le pidió algo al servidor que no respondió. Corregido en el servidor.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Anota la pantalla y la acción exactas que lo provocaron."
+                ]
+            },
+            {
+                "codigo": "2306-0502",
+                "titulo": "No se puede conectar con el servidor del juego",
+                "que_es": "El inicio de sesión funcionó, pero la segunda conexión, por un puerto alto, nunca pasó: tu red está filtrando ese puerto.",
+                "que_hacer": [
+                    "Prueba otra conexión: compartir internet desde el teléfono es la prueba más rápida. Si ahí funciona, la primera red filtraba el puerto.",
+                    "Desactiva cualquier VPN, proxy o filtro de DNS mientras pruebas."
+                ]
+            },
+            {
+                "codigo": "2122-2403",
+                "titulo": "Splatoon 3 se cierra al iniciar tras actualizar",
+                "que_es": "El parche que deja al juego conectarse con Nextendo depende de una versión exacta del juego.",
+                "que_hacer": [
+                    "Si salió una actualización del juego hace poco, esa es la causa y ya se está trabajando en ella.",
+                    "Si todavía no actualizaste el juego, déjalo como está hasta que la nueva versión sea compatible."
+                ]
+            },
+            {
+                "codigo": "2306-0401",
+                "titulo": "Te saca al buscar partida con conexión lejana o inestable",
+                "que_es": "El servidor dejó de reenviar un mensaje que tu conexión había perdido. Corregido en el servidor.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Si usas VPN, prueba sin ella: con Nextendo suma retraso sin ayudar.",
+                    "Usa cable en vez de internet compartido desde el teléfono cuando puedas."
+                ]
+            },
+            {
+                "codigo": "2002-6400",
+                "titulo": "Splatoon 3 se reinicia antes de la pantalla de título",
+                "que_es": "Faltaba un área de guardado que el juego espera en el primer arranque. Corregido.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Si sigue, inicia el juego una vez sin contenido adicional y repórtalo."
+                ]
+            },
+            {
+                "codigo": "2618-0201",
+                "titulo": "La prueba de NAT nunca termina al buscar partida",
+                "que_es": "La segunda prueba de NAT, enviada a otro servidor, no recibe respuesta. No es tu tipo de NAT ni tu router.",
+                "que_hacer": [
+                    "Reintenta: en los casos reportados, reconectar al poco rato funcionó.",
+                    "Si sigue, prueba otra ruta de red: internet del teléfono o una VPN a veces llegan por otro camino."
+                ]
+            },
+            {
+                "codigo": "2321-4992",
+                "titulo": "No puedes unirte a una partida en línea",
+                "que_es": "La búsqueda se aceptó, pero nunca se formó una sala. Se está investigando.",
+                "que_hacer": [
+                    "Reintenta a una hora con más jugadores, o en un modo que necesite menos.",
+                    "Usa una sala privada con amigos si quieres jugar ya.",
+                    "Anota la hora exacta del fallo: con eso se rastrea tu búsqueda."
+                ]
+            },
+            {
+                "codigo": "rechazo-al-iniciar",
+                "titulo": "Rechazo antes de buscar partida, al iniciar sesión",
+                "que_es": "El servidor del juego rechaza el inicio de sesión por un motivo de la cuenta, antes de cualquier prueba de NAT.",
+                "que_hacer": [
+                    "Revisa en la web que tu correo figure como verificado.",
+                    "Asegúrate de que el perfil de la consola esté vinculado a una cuenta de Nextendo.",
+                    "Cierra cualquier otra sesión con la misma cuenta.",
+                    "Si nada de eso aplica, espera un minuto y reintenta."
+                ]
+            }
+        ],
+        "notas": [
+            {
+                "titulo": "El probador de 90DNS sale en rojo",
+                "texto": "Es normal en modo Nextendo: los dominios apuntan a los servidores de Nextendo y no a 0.0.0.0, y el probador lo marca como \"desbloqueado\". No es una conexión a Nintendo."
+            }
+        ]
     }
 }
