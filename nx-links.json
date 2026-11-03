@@ -350,5 +350,15 @@
                 ]
             }
         ]
+    },
+    "firmwares_etiquetas": {
+        "Firmware 23.0.1": {
+            "etiqueta": "Compatible con Nextendo",
+            "nota": "Es una de las versiones compatibles con Nextendo Network, para jugar en línea sin cuenta de Nintendo."
+        },
+        "Firmware 22.5.0": {
+            "etiqueta": "Compatible con Nextendo",
+            "nota": "Es una de las versiones compatibles con Nextendo Network, para jugar en línea sin cuenta de Nintendo."
+        }
     }
 }
