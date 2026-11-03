@@ -74,6 +74,7 @@
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
         "HomeNX (nuevo menú HOME)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip",
+        "NXToggle (HomeNX)": "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro",
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro",
         "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro",
         "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip",
@@ -105,6 +106,7 @@
         "sys-ticon": "https://github.com/masagrator/sys-ticon/releases/latest/download/sys-ticon.zip",
         "Switch U": "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip",
         "HomeNX (nuevo menú HOME)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip",
+        "NXToggle (HomeNX)": "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro",
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
         "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip"
@@ -192,6 +194,7 @@
         "PlayGuard (control parental)": "Control parental en la consola: límite de tiempo diario, PIN y restricciones, sin app del teléfono.",
         "Porpoise (GameCube/Wii)": "Otro port de Dolphin, emulador de GameCube y Wii.",
         "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "Juega la Switch en la PC hasta 1080p60 con sonido, por USB-C o red, sin dock ni capturadora.",
-        "NX-MCP (control con IA)": "Permite que un asistente de IA controle la consola."
+        "NX-MCP (control con IA)": "Permite que un asistente de IA controle la consola.",
+        "NXToggle (HomeNX)": "Elige qué menú usa HomeNX (CardsNX o el estilo Wii U), lo activa o desactiva y lo actualiza. Necesita HomeNX instalado."
     }
 }
