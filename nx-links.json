@@ -34,7 +34,7 @@
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
         "Prelude (Nextendo Network)": "https://github.com/NextendoNetwork/Prelude-Nro/releases/latest/download/nextendo.nro",
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
-        "Tico + Cores/Bios": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/tico-0.7.2.zip",
+        "Tico + Cores/Bios": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip",
         "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
         "PipenSX (1.6.6)": "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
@@ -84,7 +84,7 @@
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
-        "Tico + Cores/Bios": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/tico-0.7.2.zip",
+        "Tico + Cores/Bios": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip",
         "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
         "Dolphin (GameCube/Wii)": "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro",
         "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro",
