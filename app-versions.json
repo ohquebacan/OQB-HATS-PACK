@@ -17,13 +17,97 @@
         "nro_version": "0.8.0",
         "revisado": 3
     },
-    "https://github.com/alucardiio-yt/retrosw/releases/latest/download/tico-0.7.2.zip": {
-        "fecha": "2026-06-06T03:44:32Z",
-        "version": "21.2.0",
+    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip": {
+        "fecha": "2026-11-03T07:24:26Z",
+        "version": "1.0",
         "nros": [
             {
-                "ruta": "/switch/tico-installer.nro",
-                "version": "0.7.2"
+                "ruta": "/switch/tico/tico.nro",
+                "version": "0.8.0"
+            },
+            {
+                "ruta": "/tico/modules/duckstation/tico-duckstation.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/mupen64plus/tico-mupen64plus.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/fceumm/tico-fceumm.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/dekopon/tico-dekopon.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/drastic/tico-drastic.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/flycast/tico-flycast.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/bluemsx/tico-bluemsx.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/dolphin/tico-dolphin.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/fbneo/tico-fbneo.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/gambatte/tico-gambatte.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/yabasanshiro/tico-yabasanshiro.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/beetle_vb/tico-beetle-vb.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/beetle_cygne/tico-beetle-cygne.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/genesis_plus_gx/tico-genesisplusgx.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/stella/tico-stella.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/mgba/tico-mgba.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/ppsspp/tico-ppsspp.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/snes9x/tico-snes9x.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/picodrive/tico-picodrive.nro",
+                "version": "3.0.2"
+            },
+            {
+                "ruta": "/tico/modules/nethersx2/tico-nethersx2_dk.nro",
+                "version": "3.0.0"
+            },
+            {
+                "ruta": "/tico/modules/nethersx2/tico-nethersx2.nro",
+                "version": "3.0.0"
             }
         ],
         "revisado": 3
