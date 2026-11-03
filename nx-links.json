@@ -86,19 +86,19 @@
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
         "Tico + Cores/Bios": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/tico-0.7.2.zip",
         "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
+        "Dolphin (GameCube/Wii)": "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro",
+        "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro",
+        "Cemu (Wii U)": "https://github.com/NaGaa95/Cemu-nx/releases/latest/download/cemu.nro",
+        "DraStic (Nintendo DS)": "https://github.com/NaGaa95/DrasticDS_nx/releases/latest/download/DrasticDS.nro",
+        "DuckStation (PS1) (1.0.0)": "https://github.com/ticohq/tico-duckstation/releases/download/1.0.0/tico-duckstation.nro",
+        "NetherSX2 (PS2)": "https://github.com/NaGaa95/NetherSX2_nx/releases/latest/download/NetherSX2.nro",
+        "PPSSPP (PSP) (0.6.5)": "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip",
         "VITA 3K": "https://github.com/NaGaa95/Vita3K-nx/releases/latest/download/Vita3K.nro",
         "Dusk": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip",
         "Simpsons Hit And Run (Port)": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Simp-H-A-R.zip",
-        "Dolphin (GameCube/Wii)": "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro",
-        "Cemu (Wii U)": "https://github.com/NaGaa95/Cemu-nx/releases/latest/download/cemu.nro",
-        "DraStic (Nintendo DS)": "https://github.com/NaGaa95/DrasticDS_nx/releases/latest/download/DrasticDS.nro",
-        "NetherSX2 (PS2)": "https://github.com/NaGaa95/NetherSX2_nx/releases/latest/download/NetherSX2.nro",
-        "DuckStation (PS1) (1.0.0)": "https://github.com/ticohq/tico-duckstation/releases/download/1.0.0/tico-duckstation.nro",
-        "PPSSPP (PSP) (0.6.5)": "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip",
         "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
-        "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip",
         "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip",
-        "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro"
+        "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip"
     },
     "apps_mods": {
         "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
@@ -117,26 +117,26 @@
     },
     "apps_sysmodules": {
         "SaltyNX": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip",
-        "SysDVR": "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip",
         "Horizon-OC": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip",
         "Fizeau (2.8.2)": "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip",
-        "CyberFoil": "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip",
+        "SysDVR": "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip",
         "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip",
+        "CyberFoil": "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip",
         "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro"
     },
     "apps_instaladores": {
         "PipenSX (1.6.6)": "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
-        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
-        "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip"
+        "Scene eShop (4.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
+        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro"
     },
     "apps_sistema": {
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
         "Prelude (Nextendo Network)": "https://github.com/NextendoNetwork/Prelude-Nro/releases/latest/download/nextendo.nro",
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
-        "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
+        "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro",
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
@@ -203,5 +203,152 @@
         "CardsNX (como app)": "El menú de tarjetas de HomeNX como app normal, para probarlo sin cambiar el menú HOME.",
         "HomeNX estilo Wii U (como app)": "El menú estilo Wii U de HomeNX como app normal, para probarlo sin cambiar el menú HOME.",
         "PipenSX (1.6.6)": "Gestor de descargas por BitTorrent e instalador de paquetes, directo en la consola."
+    },
+    "apps_grupos": {
+        "apps_emuladores": [
+            {
+                "titulo": "Tico: todo en uno",
+                "apps": [
+                    "Tico installer",
+                    "Tico + Cores/Bios",
+                    "TicoBro + Repos Roms"
+                ]
+            },
+            {
+                "titulo": "Nintendo",
+                "apps": [
+                    "Dolphin (GameCube/Wii)",
+                    "Porpoise (GameCube/Wii)",
+                    "Cemu (Wii U)",
+                    "DraStic (Nintendo DS)"
+                ]
+            },
+            {
+                "titulo": "PlayStation",
+                "apps": [
+                    "DuckStation (PS1) (1.0.0)",
+                    "NetherSX2 (PS2)",
+                    "PPSSPP (PSP) (0.6.5)",
+                    "VITA 3K"
+                ]
+            },
+            {
+                "titulo": "Ports y juegos",
+                "apps": [
+                    "Dusk",
+                    "Simpsons Hit And Run (Port)",
+                    "osu!stream",
+                    "Switch Hero",
+                    "Autorun (juegos de PC) (test-build-4)"
+                ]
+            }
+        ],
+        "apps_mods": [
+            {
+                "titulo": "Mods de juegos",
+                "apps": [
+                    "SimpleModDownloader",
+                    "SimpleModManager",
+                    "ARCropolis y Skyline"
+                ]
+            },
+            {
+                "titulo": "Iconos",
+                "apps": [
+                    "IconGrabber OQB",
+                    "sys-ticon"
+                ]
+            },
+            {
+                "titulo": "Menú HOME",
+                "apps": [
+                    "Switch U",
+                    "HomeNX (nuevo menú HOME)",
+                    "NXToggle (HomeNX)",
+                    "CardsNX (como app)",
+                    "HomeNX estilo Wii U (como app)"
+                ]
+            },
+            {
+                "titulo": "Editores de partidas",
+                "apps": [
+                    "ToTK Save Editor",
+                    "ACNH Save Editor (1.4.0)",
+                    "PKHeX-NX (0.9.5 beta)"
+                ]
+            }
+        ],
+        "apps_sysmodules": [
+            {
+                "titulo": "Rendimiento y pantalla",
+                "apps": [
+                    "SaltyNX",
+                    "Horizon-OC",
+                    "Fizeau (2.8.2)"
+                ]
+            },
+            {
+                "titulo": "Jugar o transmitir en la PC",
+                "apps": [
+                    "SysDVR",
+                    "Switch Frame Tap (jugar en la PC) (0.7.13.1)"
+                ]
+            },
+            {
+                "titulo": "Otros",
+                "apps": [
+                    "CyberFoil",
+                    "NX-MCP (control con IA)"
+                ]
+            }
+        ],
+        "apps_instaladores": [
+            {
+                "titulo": "Tiendas e instaladores",
+                "apps": [
+                    "PipenSX (1.6.6)",
+                    "FreeShop",
+                    "Scene eShop (4.5.0)"
+                ]
+            },
+            {
+                "titulo": "Partidas",
+                "apps": [
+                    "JKSV BACAN"
+                ]
+            }
+        ],
+        "apps_sistema": [
+            {
+                "titulo": "Red y juego en línea",
+                "apps": [
+                    "90DNS Setter (OQB)",
+                    "Prelude (Nextendo Network)"
+                ]
+            },
+            {
+                "titulo": "Jugar a distancia",
+                "apps": [
+                    "Akira",
+                    "Chiaki",
+                    "Green (Xbox Cloud Gaming)"
+                ]
+            },
+            {
+                "titulo": "Música, TV y video",
+                "apps": [
+                    "TsVitch",
+                    "Switify (Spotify) (0.7.1)",
+                    "SwitchStream (Stremio)",
+                    "XUPER TV SWITCH"
+                ]
+            },
+            {
+                "titulo": "Control parental",
+                "apps": [
+                    "PlayGuard (control parental)"
+                ]
+            }
+        ]
     }
 }
