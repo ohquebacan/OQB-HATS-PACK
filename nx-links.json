@@ -553,6 +553,237 @@
                 "titulo": "El probador de 90DNS sale en rojo",
                 "texto": "Es normal en modo Nextendo: los dominios apuntan a los servidores de Nextendo y no a 0.0.0.0, y el probador lo marca como \"desbloqueado\". No es una conexión a Nintendo."
             }
-        ]
+        ],
+        "conectados": "https://nextendo.network/api/online-counts",
+        "juegos": {
+            "0100b0c013912000": {
+                "nombre": "Among Us",
+                "estado": "Experimental",
+                "requiere": "Versión del juego 2026.19.0 o 2026.18.0"
+            },
+            "01006f8002326000": {
+                "nombre": "Animal Crossing: New Horizons",
+                "estado": "Estable",
+                "requiere": "Versión del juego 3.0.3"
+            },
+            "01009b500007c000": {
+                "nombre": "ARMS",
+                "estado": "Estable",
+                "requiere": "Versión del juego 5.5.1"
+            },
+            "010047700d540000": {
+                "nombre": "Clubhouse Games: 51 Worldwide Classics",
+                "estado": "Estable"
+            },
+            "0100f9f00c696000": {
+                "nombre": "Crash Team Racing Nitro-Fueled"
+            },
+            "0100cea007d08000": {
+                "nombre": "Crypt of the NecroDancer"
+            },
+            "01001b300b9be000": {
+                "nombre": "Diablo III: Eternal Collection"
+            },
+            "0100a250097f0000": {
+                "nombre": "Dragon Ball FighterZ"
+            },
+            "01008c8012920000": {
+                "nombre": "Dying Light: Platinum Edition"
+            },
+            "010092a00c4b6000": {
+                "nombre": "Friday the 13th: The Game"
+            },
+            "0100c62011050000": {
+                "nombre": "Game Boy - Nintendo Classics"
+            },
+            "010012f017576000": {
+                "nombre": "Game Boy Advance - Nintendo Classics"
+            },
+            "0100fa5010788000": {
+                "nombre": "Game Builder Garage"
+            },
+            "0100ab401f136000": {
+                "nombre": "Guilty Gear -Strive-"
+            },
+            "0100ea6014bb8000": {
+                "nombre": "Just Dance 2022"
+            },
+            "0100830008426000": {
+                "nombre": "Just Shapes & Beats"
+            },
+            "0100227010460000": {
+                "nombre": "Kirby Fighters 2"
+            },
+            "0100a8e016236000": {
+                "nombre": "Kirby's Dream Buffet"
+            },
+            "0100dca0064a6000": {
+                "nombre": "Luigi's Mansion 3",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.4.0"
+            },
+            "010086000e148000": {
+                "nombre": "Mario & Sonic at the Olympic Games Tokyo 2020",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.0.1"
+            },
+            "0100c9c00e25c000": {
+                "nombre": "Mario Golf: Super Rush"
+            },
+            "0100152000022000": {
+                "nombre": "Mario Kart 8 Deluxe",
+                "estado": "Estable",
+                "requiere": "Versión del juego 4.0.0"
+            },
+            "01006fe013472000": {
+                "nombre": "Mario Party Superstars"
+            },
+            "010019401051c000": {
+                "nombre": "Mario Strikers: Battle League",
+                "estado": "Limitado"
+            },
+            "0100bde00862a000": {
+                "nombre": "Mario Tennis Aces",
+                "estado": "Casi estable",
+                "requiere": "Versión del juego 3.1.1"
+            },
+            "0100c6f01c4f8000": {
+                "nombre": "METAL GEAR SOLID: Peace Walker"
+            },
+            "01003da010e8a000": {
+                "nombre": "Miitopia"
+            },
+            "0100a7c01b792000": {
+                "nombre": "Minecraft Dungeons II",
+                "estado": "Limitado",
+                "requiere": "Versión del juego 1.0.17"
+            },
+            "01006bd001e06000": {
+                "nombre": "Minecraft: Nintendo Switch Edition",
+                "estado": "Limitado",
+                "requiere": "Versión del juego 1.0.17"
+            },
+            "01007430037f6000": {
+                "nombre": "Monopoly for Nintendo Switch"
+            },
+            "0100770008dd8000": {
+                "nombre": "Monster Hunter Generations Ultimate",
+                "estado": "Estable"
+            },
+            "0100b04011742000": {
+                "nombre": "Monster Hunter Rise"
+            },
+            "0100d870045b6000": {
+                "nombre": "NES - Nintendo Classics"
+            },
+            "0100c9a00ece6000": {
+                "nombre": "Nintendo 64 - Nintendo Classics"
+            },
+            "0100d2f00d5c0000": {
+                "nombre": "Nintendo Switch Sports"
+            },
+            "01006fd0080b2000": {
+                "nombre": "Overcooked! 2"
+            },
+            "0100ad9012510000": {
+                "nombre": "PAC-MAN 99",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.0.0"
+            },
+            "0100b3f000be2000": {
+                "nombre": "Pokkén Tournament DX"
+            },
+            "0100f43008c44000": {
+                "nombre": "Pokémon Legends: Z-A"
+            },
+            "0100a3d008c5c000": {
+                "nombre": "Pokémon Scarlet and Violet"
+            },
+            "0100abf008968000": {
+                "nombre": "Pokémon Sword and Shield"
+            },
+            "0100abd01785c000": {
+                "nombre": "Portal 2",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.0.3"
+            },
+            "0100de600beee000": {
+                "nombre": "Saints Row: The Third - The Full Package"
+            },
+            "0100b3c014bda000": {
+                "nombre": "SEGA Genesis - Nintendo Classics"
+            },
+            "01008d300c50c000": {
+                "nombre": "SNES - Nintendo Classics"
+            },
+            "01004cc023582000": {
+                "nombre": "SpeedRunners 2: King of Speed"
+            },
+            "0100f8f0000a2000": {
+                "nombre": "Splatoon 2",
+                "estado": "Estable",
+                "requiere": "Versión del juego 5.5.2"
+            },
+            "0100c2500fc20000": {
+                "nombre": "Splatoon 3",
+                "estado": "Experimental",
+                "requiere": "Versión del juego 11.3.0"
+            },
+            "0100e65002bb8000": {
+                "nombre": "Stardew Valley"
+            },
+            "01003fb00c5a8000": {
+                "nombre": "Super Kirby Clash"
+            },
+            "010028600ebda000": {
+                "nombre": "Super Mario 3D World + Bowser's Fury"
+            },
+            "0100277011f1a000": {
+                "nombre": "Super Mario Bros. 35",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.0.2"
+            },
+            "010015100b514000": {
+                "nombre": "Super Mario Bros. Wonder",
+                "estado": "Casi estable",
+                "requiere": "Versión del juego 1.2.1"
+            },
+            "01009b90006dc000": {
+                "nombre": "Super Mario Maker 2",
+                "estado": "Experimental",
+                "requiere": "Versión del juego 3.0.3"
+            },
+            "0100000000010000": {
+                "nombre": "Super Mario Odyssey"
+            },
+            "0100965017338000": {
+                "nombre": "Super Mario Party Jamboree",
+                "estado": "Estable",
+                "requiere": "Versión del juego 2.3.0"
+            },
+            "010001701248c000": {
+                "nombre": "Super Monkey Ball Banana Mania"
+            },
+            "01006a800016e000": {
+                "nombre": "Super Smash Bros. Ultimate",
+                "estado": "Casi estable",
+                "requiere": "Versión del juego 13.0.5"
+            },
+            "0100e46006708000": {
+                "nombre": "Terraria"
+            },
+            "010040600c5ce000": {
+                "nombre": "Tetris 99"
+            },
+            "0100fcf002a58000": {
+                "nombre": "Ultimate Chicken Horse"
+            },
+            "0100b6e012ebe000": {
+                "nombre": "UNO"
+            },
+            "01000bf0152fa000": {
+                "nombre": "Zombie Army 4: Dead War"
+            }
+        }
     }
 }
