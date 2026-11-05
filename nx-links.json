@@ -81,7 +81,9 @@
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro",
         "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro",
         "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip",
-        "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro"
+        "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro",
+        "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
+        "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -112,6 +114,7 @@
         "NXToggle (HomeNX)": "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro",
         "CardsNX (como app)": "https://github.com/ad3333m/homenx/releases/download/cardsnx/CardsNX.nro",
         "HomeNX estilo Wii U (como app)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX.nro",
+        "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
         "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip"
@@ -138,6 +141,7 @@
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
+        "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
         "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro",
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
@@ -205,7 +209,9 @@
         "CardsNX (como app)": "El menú de tarjetas de HomeNX como app normal, para probarlo sin cambiar el menú HOME.",
         "HomeNX estilo Wii U (como app)": "El menú estilo Wii U de HomeNX como app normal, para probarlo sin cambiar el menú HOME.",
         "PipenSX (1.6.6)": "Gestor de descargas por BitTorrent e instalador de paquetes, directo en la consola.",
-        "TorrentShopNX": "Cliente de BitTorrent con instalador por streaming, directo en la consola."
+        "TorrentShopNX": "Cliente de BitTorrent con instalador por streaming, directo en la consola.",
+        "Nexvyn OS (escritorio, como app)": "Un escritorio al estilo de una computadora, con tienda de apps, juegos y temas. Se abre como app normal y no cambia el menú HOME.",
+        "LunarNX (Xbox y PlayStation a distancia)": "Juega desde la Switch con tu Xbox o tu PlayStation a distancia, o en la nube de Xbox (xCloud)."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -269,7 +275,8 @@
                     "HomeNX (nuevo menú HOME)",
                     "NXToggle (HomeNX)",
                     "CardsNX (como app)",
-                    "HomeNX estilo Wii U (como app)"
+                    "HomeNX estilo Wii U (como app)",
+                    "Nexvyn OS (escritorio, como app)"
                 ]
             },
             {
@@ -335,7 +342,8 @@
                 "apps": [
                     "Akira",
                     "Chiaki",
-                    "Green (Xbox Cloud Gaming)"
+                    "Green (Xbox Cloud Gaming)",
+                    "LunarNX (Xbox y PlayStation a distancia)"
                 ]
             },
             {
