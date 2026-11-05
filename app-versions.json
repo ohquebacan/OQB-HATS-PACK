@@ -444,12 +444,20 @@
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip": {
-        "fecha": "2026-11-02T01:44:41Z",
+        "fecha": "2026-11-05T18:33:50Z",
         "version": "latest",
         "nros": [
             {
+                "ruta": "/switch/SwitchU/bin/homenx-loader.nro",
+                "version": "1.2.0"
+            },
+            {
                 "ruta": "/switch/SwitchU/bin/cardsnx.nro",
                 "version": "1.2.0"
+            },
+            {
+                "ruta": "/switch/SwitchU/bin/sphaira.nro",
+                "version": "1.0.8"
             },
             {
                 "ruta": "/switch/SwitchU/bin/homebrew-manager.nro",
@@ -458,32 +466,24 @@
             {
                 "ruta": "/switch/SwitchU/bin/homenx-toggle.nro",
                 "version": "1.2.0"
-            },
-            {
-                "ruta": "/switch/SwitchU/bin/homenx-loader.nro",
-                "version": "1.2.0"
-            },
-            {
-                "ruta": "/switch/SwitchU/bin/sphaira.nro",
-                "version": "1.0.8"
             }
         ],
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro": {
-        "fecha": "2026-11-02T01:25:39Z",
+        "fecha": "2026-11-05T18:17:36Z",
         "version": "latest",
         "nro_version": "1.2.0",
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/cardsnx/CardsNX.nro": {
-        "fecha": "2026-11-02T01:25:43Z",
+        "fecha": "2026-11-05T18:17:41Z",
         "version": "cardsnx",
         "nro_version": "1.2.0",
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX.nro": {
-        "fecha": "2026-11-02T01:25:40Z",
+        "fecha": "2026-11-05T18:17:37Z",
         "version": "latest",
         "nro_version": "1.2.0",
         "revisado": 3
@@ -515,6 +515,18 @@
         "fecha": "2026-10-18T17:03:49Z",
         "version": "1.0.0",
         "nro_version": "1.0.0",
+        "revisado": 3
+    },
+    "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
+        "fecha": "2026-11-02T21:36:05Z",
+        "version": "v1.2.0",
+        "nro_version": "1.2.0",
+        "revisado": 3
+    },
+    "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro": {
+        "fecha": "2026-09-07T09:25:28Z",
+        "version": "v0.3.3",
+        "nro_version": "0.3.3",
         "revisado": 3
     }
 }
