@@ -444,7 +444,7 @@
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip": {
-        "fecha": "2026-11-05T18:33:50Z",
+        "fecha": "2026-11-06T00:13:35Z",
         "version": "latest",
         "nros": [
             {
@@ -471,19 +471,19 @@
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro": {
-        "fecha": "2026-11-05T18:17:36Z",
+        "fecha": "2026-11-05T23:58:18Z",
         "version": "latest",
         "nro_version": "1.2.0",
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/cardsnx/CardsNX.nro": {
-        "fecha": "2026-11-05T18:17:41Z",
+        "fecha": "2026-11-05T23:58:22Z",
         "version": "cardsnx",
         "nro_version": "1.2.0",
         "revisado": 3
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX.nro": {
-        "fecha": "2026-11-05T18:17:37Z",
+        "fecha": "2026-11-05T23:58:19Z",
         "version": "latest",
         "nro_version": "1.2.0",
         "revisado": 3
@@ -527,6 +527,12 @@
         "fecha": "2026-09-07T09:25:28Z",
         "version": "v0.3.3",
         "nro_version": "0.3.3",
+        "revisado": 3
+    },
+    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro": {
+        "fecha": "2026-11-06T06:34:39Z",
+        "version": "1.0",
+        "nro_version": "2.21.1",
         "revisado": 3
     }
 }
