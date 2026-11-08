@@ -40,6 +40,7 @@
         "TorrentShopNX": "https://github.com/Langegen/TorrentShopNX/releases/latest/download/TorrentShopNX.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
+        "Checkpoint": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro",
         "VITA 3K": "https://github.com/NaGaa95/Vita3K-nx/releases/latest/download/Vita3K.nro",
         "Switch U": "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip",
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
@@ -134,7 +135,8 @@
         "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
         "Scene eShop (5.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
-        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro"
+        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
+        "Checkpoint": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro"
     },
     "apps_sistema": {
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
@@ -169,6 +171,7 @@
         "Tico installer": "Instala Tico, un frontend de emulación pensado para el control, rápido y sencillo.",
         "Tico + Cores/Bios": "Tico con los núcleos de emulación y las BIOS ya configurados.",
         "JKSV BACAN": "Respalda y restaura tus partidas, con copia en la nube por WebDAV (Koofr, Nextcloud o Google Drive). Es nuestra versión de JKSV.",
+        "Checkpoint": "Otro gestor de partidas, muy usado: respalda y restaura, con explorador de archivos, FTP y transferencia por USB. Alternativa a JKSV BACAN.",
         "VITA 3K": "Emulador experimental de PlayStation Vita.",
         "Switch U": "Reemplaza el menú HOME por uno al estilo de Wii U, con temas, carpetas y pantalla de bloqueo.",
         "Akira": "Juega tu PS4 o PS5 a distancia (Remote Play) desde la Switch, usando chiaki-ng.",
@@ -328,7 +331,8 @@
             {
                 "titulo": "Partidas",
                 "apps": [
-                    "JKSV BACAN"
+                    "JKSV BACAN",
+                    "Checkpoint"
                 ]
             }
         ],
