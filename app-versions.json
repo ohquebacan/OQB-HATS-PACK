@@ -3,19 +3,22 @@
         "fecha": "2026-10-01T18:55:20Z",
         "version": "1.0",
         "nro_version": "1.0.0",
-        "revisado": 3
+        "icono": "2d59898024f2.jpg",
+        "revisado": 4
     },
     "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro": {
         "fecha": "2026-11-07T23:59:10Z",
         "version": "",
         "nro_version": "4.0.20",
-        "revisado": 3
+        "icono": "11a05f583200.jpg",
+        "revisado": 4
     },
     "https://github.com/ticohq/tico/releases/latest/download/tico.nro": {
         "fecha": "2026-10-22T02:29:45Z",
         "version": "0.8.0",
         "nro_version": "0.8.0",
-        "revisado": 3
+        "icono": "fa54791ac9e9.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip": {
         "fecha": "2026-11-03T07:24:26Z",
@@ -110,7 +113,8 @@
                 "version": "3.0.0"
             }
         ],
-        "revisado": 3
+        "icono": "fa54791ac9e9.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip": {
         "fecha": "2026-05-02T00:37:52Z",
@@ -121,43 +125,50 @@
                 "version": "1.0.0"
             }
         ],
-        "revisado": 3
+        "icono": "062f414a51b2.jpg",
+        "revisado": 4
     },
     "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro": {
         "fecha": "2026-10-31T11:09:53Z",
         "version": "",
         "nro_version": "1.6.6",
-        "revisado": 3
+        "icono": "f62236170201.jpg",
+        "revisado": 4
     },
     "https://github.com/Langegen/TorrentShopNX/releases/latest/download/TorrentShopNX.nro": {
         "fecha": "2026-11-04T08:54:19Z",
         "version": "2.21",
         "nro_version": "2.21",
-        "revisado": 3
+        "icono": "8ee50788cdee.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro": {
         "fecha": "2026-09-28T22:18:08Z",
         "version": "1.0",
         "nro_version": "2.0.9",
-        "revisado": 3
+        "icono": "15d43c7645c0.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro": {
         "fecha": "2026-06-21T08:30:14Z",
         "version": "v2.7-bacan",
         "nro_version": "2026-06-14 OQB",
-        "revisado": 3
+        "icono": "9fa2b2cf4792.jpg",
+        "revisado": 4
     },
     "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro": {
         "fecha": "2026-10-13T18:57:33Z",
         "version": "v5.3.0",
         "nro_version": "5.3.0",
-        "revisado": 3
+        "icono": "6ed7dc0c668a.jpg",
+        "revisado": 4
     },
     "https://github.com/NaGaa95/Vita3K-nx/releases/latest/download/Vita3K.nro": {
         "fecha": "2026-11-02T17:05:49Z",
         "version": "1.4.1",
         "nro_version": "1.4.1",
-        "revisado": 3
+        "icono": "0aa8456d1d88.jpg",
+        "revisado": 4
     },
     "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip": {
         "fecha": "2026-11-02T20:30:39Z",
@@ -168,19 +179,22 @@
                 "version": "1.4.0"
             }
         ],
-        "revisado": 3
+        "icono": "e12edc01e094.jpg",
+        "revisado": 4
     },
     "https://github.com/xlanor/akira/releases/latest/download/akira.nro": {
         "fecha": "2026-10-05T23:41:45Z",
         "version": "v0.6.5",
         "nro_version": "0.6.5",
-        "revisado": 3
+        "icono": "de937fceb30d.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro": {
         "fecha": "2026-05-07T00:17:33Z",
         "version": "1.0",
         "nro_version": "2.2.0",
-        "revisado": 3
+        "icono": "64a1fecaffae.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip": {
         "fecha": "2026-06-22T06:02:57Z",
@@ -191,7 +205,8 @@
                 "version": "1.4.1.0"
             }
         ],
-        "revisado": 3
+        "icono": "9125c4823fb0.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Simp-H-A-R.zip": {
         "fecha": "2026-08-08T04:23:45Z",
@@ -202,25 +217,29 @@
                 "version": "00.61"
             }
         ],
-        "revisado": 3
+        "icono": "353a39eb0478.jpg",
+        "revisado": 4
     },
     "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro": {
         "fecha": "2026-01-09T18:47:52Z",
         "version": "v0.3.2",
         "nro_version": "0.3.2",
-        "revisado": 3
+        "icono": "eb51f3c72b1a.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro": {
         "fecha": "2026-10-02T07:23:58Z",
         "version": "3.0.0",
         "nro_version": "3.0.0",
-        "revisado": 3
+        "icono": "a3bc13229f00.jpg",
+        "revisado": 4
     },
     "https://github.com/nadrino/SimpleModManager/releases/latest/download/SimpleModManager.nro": {
         "fecha": "2026-02-23T20:27:32Z",
         "version": "2.1.4",
         "nro_version": "2.1.4",
-        "revisado": 3
+        "icono": "57638a8a52ea.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ARCropolis.and.Skyline.zip": {
         "fecha": "2026-05-08T06:20:29Z",
@@ -230,7 +249,7 @@
             "/atmosphere/contents/01006A800016E000/exefs/main.npdm",
             "/atmosphere/contents/01006A800016E000/romfs/skyline/plugins/libarcropolis.nro"
         ],
-        "revisado": 3
+        "revisado": 4
     },
     "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip": {
         "fecha": "2026-11-03T16:21:32Z",
@@ -240,7 +259,7 @@
             "/atmosphere/contents/0000000000534C56/flags/boot2.flag",
             "/atmosphere/contents/0000000000534C56/toolbox.json"
         ],
-        "revisado": 3
+        "revisado": 4
     },
     "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip": {
         "fecha": "2026-02-10T20:43:56Z",
@@ -251,7 +270,8 @@
                 "version": "6.3"
             }
         ],
-        "revisado": 3
+        "icono": "6f7d6fcfb236.jpg",
+        "revisado": 4
     },
     "https://github.com/masagrator/sys-ticon/releases/latest/download/sys-ticon.zip": {
         "fecha": "2026-10-18T09:56:47Z",
@@ -261,13 +281,14 @@
             "/atmosphere/contents/00FF747765616BFF/flags/boot2.flag",
             "/atmosphere/contents/00FF747765616BFF/toolbox.json"
         ],
-        "revisado": 3
+        "revisado": 4
     },
     "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro": {
         "fecha": "2026-10-06T00:49:45Z",
         "version": "2.1.2",
         "nro_version": "2.1.2",
-        "revisado": 3
+        "icono": "7fb456a13042.jpg",
+        "revisado": 4
     },
     "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip": {
         "fecha": "2026-10-31T20:46:50Z",
@@ -278,7 +299,8 @@
                 "version": "1.5.1"
             }
         ],
-        "revisado": 3
+        "icono": "04b084a9e877.jpg",
+        "revisado": 4
     },
     "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip": {
         "fecha": "2026-10-16T00:37:50Z",
@@ -289,7 +311,8 @@
                 "version": "2.0.0"
             }
         ],
-        "revisado": 3
+        "icono": "037594cd0b12.jpg",
+        "revisado": 4
     },
     "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip": {
         "fecha": "2025-11-22T10:51:33Z",
@@ -300,37 +323,43 @@
                 "version": "2.8.2"
             }
         ],
-        "revisado": 3
+        "icono": "3cae24a6a165.jpg",
+        "revisado": 4
     },
     "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro": {
         "fecha": "2026-11-02T20:56:46Z",
         "version": "1.2.1",
         "nro_version": "1.2.1",
-        "revisado": 3
+        "icono": "fbdccd736b32.jpg",
+        "revisado": 4
     },
     "https://github.com/NaGaa95/Cemu-nx/releases/latest/download/cemu.nro": {
         "fecha": "2026-11-03T03:44:55Z",
         "version": "1.3.1",
         "nro_version": "1.3.2",
-        "revisado": 3
+        "icono": "7a0ff244e083.jpg",
+        "revisado": 4
     },
     "https://github.com/NaGaa95/DrasticDS_nx/releases/latest/download/DrasticDS.nro": {
         "fecha": "2026-11-02T17:23:40Z",
         "version": "1.2.1",
         "nro_version": "1.2.1",
-        "revisado": 3
+        "icono": "345f02e6a679.jpg",
+        "revisado": 4
     },
     "https://github.com/NaGaa95/NetherSX2_nx/releases/latest/download/NetherSX2.nro": {
         "fecha": "2026-11-02T22:28:34Z",
         "version": "1.4.1",
         "nro_version": "1.4.1",
-        "revisado": 3
+        "icono": "6089b40b9560.jpg",
+        "revisado": 4
     },
     "https://github.com/ticohq/tico-duckstation/releases/download/1.0.0/tico-duckstation.nro": {
         "fecha": "2026-07-26T09:29:12Z",
         "version": "1.0.0",
         "nro_version": "1.0.0",
-        "revisado": 3
+        "icono": "9cfebf5935d9.jpg",
+        "revisado": 4
     },
     "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip": {
         "fecha": "2026-08-26T05:29:49Z",
@@ -341,7 +370,8 @@
                 "version": "0.6.5"
             }
         ],
-        "revisado": 3
+        "icono": "22927aa3bbde.jpg",
+        "revisado": 4
     },
     "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip": {
         "fecha": "2026-09-12T23:24:52Z",
@@ -352,13 +382,15 @@
                 "version": "1.0"
             }
         ],
-        "revisado": 3
+        "icono": "b869d7e4dccd.jpg",
+        "revisado": 4
     },
     "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro": {
         "fecha": "2026-08-24T09:28:28Z",
         "version": "v1.0.30",
         "nro_version": "1.0.30",
-        "revisado": 3
+        "icono": "26652409ae4e.jpg",
+        "revisado": 4
     },
     "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip": {
         "fecha": "2026-08-20T01:53:28Z",
@@ -369,7 +401,8 @@
                 "version": "0.7.1"
             }
         ],
-        "revisado": 3
+        "icono": "03d70f35960c.jpg",
+        "revisado": 4
     },
     "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip": {
         "fecha": "2026-09-24T10:59:43Z",
@@ -380,13 +413,15 @@
                 "version": "0.0.1"
             }
         ],
-        "revisado": 3
+        "icono": "74642a84d281.jpg",
+        "revisado": 4
     },
     "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro": {
         "fecha": "2026-08-25T22:59:04Z",
         "version": "v1.0.1",
         "nro_version": "1.0.1",
-        "revisado": 3
+        "icono": "5358274e5c6d.jpg",
+        "revisado": 4
     },
     "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip": {
         "fecha": "2026-08-28T15:02:14Z",
@@ -397,7 +432,8 @@
                 "version": "1.4.0"
             }
         ],
-        "revisado": 3
+        "icono": "3d692e0e7657.jpg",
+        "revisado": 4
     },
     "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip": {
         "fecha": "2026-09-11T04:14:22Z",
@@ -408,7 +444,8 @@
                 "version": "0.9.5"
             }
         ],
-        "revisado": 3
+        "icono": "291de0d61f2c.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip": {
         "fecha": "2026-10-06T01:24:11Z",
@@ -419,7 +456,8 @@
                 "version": "0.3.0"
             }
         ],
-        "revisado": 3
+        "icono": "70936ee762c6.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip": {
         "fecha": "2026-11-03T06:20:55Z",
@@ -430,13 +468,15 @@
                 "version": "5.5.0"
             }
         ],
-        "revisado": 3
+        "icono": "c6b646e9caa7.jpg",
+        "revisado": 4
     },
     "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro": {
         "fecha": "2026-10-12T18:32:08Z",
         "version": "2.0.0",
         "nro_version": "2.0.0",
-        "revisado": 3
+        "icono": "fa8620f5c001.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip": {
         "fecha": "2026-11-02T22:34:21Z",
@@ -447,7 +487,8 @@
                 "version": "0.14.1"
             }
         ],
-        "revisado": 3
+        "icono": "c0e7ab524d45.jpg",
+        "revisado": 4
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip": {
         "fecha": "2026-11-06T00:13:35Z",
@@ -474,37 +515,43 @@
                 "version": "1.2.0"
             }
         ],
-        "revisado": 3
+        "icono": "f3788b786bcc.jpg",
+        "revisado": 4
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro": {
         "fecha": "2026-11-05T23:58:18Z",
         "version": "latest",
         "nro_version": "1.2.0",
-        "revisado": 3
+        "icono": "f3788b786bcc.jpg",
+        "revisado": 4
     },
     "https://github.com/ad3333m/homenx/releases/download/cardsnx/CardsNX.nro": {
         "fecha": "2026-11-05T23:58:22Z",
         "version": "cardsnx",
         "nro_version": "1.2.0",
-        "revisado": 3
+        "icono": "b06cc081f22c.jpg",
+        "revisado": 4
     },
     "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX.nro": {
         "fecha": "2026-11-05T23:58:19Z",
         "version": "latest",
         "nro_version": "1.2.0",
-        "revisado": 3
+        "icono": "99aaaad6a52c.jpg",
+        "revisado": 4
     },
     "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro": {
         "fecha": "2026-10-24T08:11:40Z",
         "version": "v1.3.0",
         "nro_version": "1.3.0",
-        "revisado": 3
+        "icono": "a6a098c76ce0.jpg",
+        "revisado": 4
     },
     "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro": {
         "fecha": "2026-11-04T21:20:21Z",
         "version": "v1.1.1",
         "nro_version": "1.1.1",
-        "revisado": 3
+        "icono": "aad4343ca7da.jpg",
+        "revisado": 4
     },
     "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip": {
         "fecha": "2026-10-18T16:51:03Z",
@@ -515,30 +562,35 @@
                 "version": "0.7.13.1"
             }
         ],
-        "revisado": 3
+        "icono": "f9393d7dd6c8.jpg",
+        "revisado": 4
     },
     "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro": {
         "fecha": "2026-10-18T17:03:49Z",
         "version": "1.0.0",
         "nro_version": "1.0.0",
-        "revisado": 3
+        "icono": "2e8982a8a5eb.jpg",
+        "revisado": 4
     },
     "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
         "fecha": "2026-11-02T21:36:05Z",
         "version": "v1.2.0",
         "nro_version": "1.2.0",
-        "revisado": 3
+        "icono": "279b56bb5046.jpg",
+        "revisado": 4
     },
     "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro": {
         "fecha": "2026-09-07T09:25:28Z",
         "version": "v0.3.3",
         "nro_version": "0.3.3",
-        "revisado": 3
+        "icono": "cc08393ff8a1.jpg",
+        "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro": {
         "fecha": "2026-11-08T05:23:54Z",
         "version": "1.0",
         "nro_version": "2.21.25",
-        "revisado": 3
+        "icono": "876cfd6d6846.jpg",
+        "revisado": 4
     }
 }
