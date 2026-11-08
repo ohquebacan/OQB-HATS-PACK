@@ -1,0 +1,372 @@
+{
+  "partidas": [
+    {
+      "id": "01009BF0072D4000",
+      "juego": "Captain Toad: Treasure Tracker",
+      "titulo": "100%: todos los episodios",
+      "descripcion": "Todos los episodios con todos los coleccionables y desafíos.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1445943",
+      "fuente": "https://gamebanana.com/mods/596687",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "010035F022078000",
+      "juego": "Dragon Ball: Sparking! Zero",
+      "titulo": "100%: historia y personajes",
+      "descripcion": "Historia completa, todos los personajes y el 100% de dominio con cada uno.",
+      "raiz": "100% DBS",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dbs-sparking-zero-100.zip",
+      "fuente": "https://gbatemp.net/download/dragon-ball-sparking-zero-100-completed-save-game.39467/",
+      "autor": "DrGiraffe, adaptada a Switch por dankonion (GBAtemp)"
+    },
+    {
+      "id": "0100AE00096EA000",
+      "juego": "Hyrule Warriors: Definitive Edition",
+      "titulo": "Historia completa",
+      "descripcion": "Historia terminada, la mayoría de insignias, trajes y armas.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1444640",
+      "fuente": "https://gamebanana.com/mods/596221",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01004D300C5AE000",
+      "juego": "Kirby and the Forgotten Land",
+      "titulo": "Tercer mundo completo",
+      "descripcion": "Partida avanzada hasta terminar el tercer mundo.",
+      "raiz": "Kirby and the Forgotten Land/3rd World Complete",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/kirby-forgotten-land-mundo3.rar",
+      "fuente": "https://gbatemp.net/download/kirby-and-the-forgotten-land-3rd-world-complete.39446/",
+      "autor": "bibliomon (GBAtemp)"
+    },
+    {
+      "id": "01007E3006DDA000",
+      "juego": "Kirby Star Allies",
+      "titulo": "Historia y modos completos",
+      "descripcion": "Historia y todos los modos completos, incluido Héroes en otra dimensión. Hecha con la versión 4.0.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1556447",
+      "fuente": "https://gamebanana.com/mods/593543",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100DCA0064A6000",
+      "juego": "Luigi's Mansion 3",
+      "titulo": "100%: todos los pisos y fantasmas",
+      "descripcion": "Todos los pisos completos, todos los objetos especiales y todos los fantasmas únicos.",
+      "raiz": "lm3_powersave",
+      "url": "https://gamebanana.com/dl/1302485",
+      "fuente": "https://gamebanana.com/mods/549481",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100152000022000",
+      "juego": "Mario Kart 8 Deluxe",
+      "titulo": "100%: todo desbloqueado",
+      "descripcion": "Todas las piezas, todas las copas con 3 estrellas, Mario y kart dorados y trajes amiibo. Hecha con la versión 3.0.3 del juego.",
+      "raiz": "JKSV/Mario Kart 8 Deluxe/Mario Kart 8 Deluxe Complete Save [v3.0.3]",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mk8dx-100-v303.zip",
+      "fuente": "https://gbatemp.net/download/mario-kart-8-deluxe-100-save-dump-v3-0-3.39026/",
+      "autor": "justsomegamerwhoplays (GBAtemp)"
+    },
+    {
+      "id": "0100C6F01C4F8000",
+      "juego": "Metal Gear Solid: Peace Walker",
+      "titulo": "Partida completa",
+      "descripcion": "Partida completa de Peace Walker (Master Collection Vol. 2).",
+      "raiz": "done save - 2026-09-13_13-29-23 - Copy",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mgs-peace-walker-completa.rar",
+      "fuente": "https://gbatemp.net/download/metal-gear-solid-peace-walker-master-collection-vol-2-complete-save.40016/",
+      "autor": "sysuah (GBAtemp)"
+    },
+    {
+      "id": "010019A01E2F2000",
+      "juego": "Metroid Prime 4: Beyond",
+      "titulo": "100%: juego completo",
+      "descripcion": "Juego completo en normal, con todo recolectado. Empieza en la zona de reunión.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1678311",
+      "fuente": "https://gamebanana.com/mods/670012",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "010019A01E2F2000",
+      "juego": "Metroid Prime 4: Beyond",
+      "titulo": "Galería completa",
+      "descripcion": "Toda la galería desbloqueada, en normal y difícil. La partida queda en la zona final.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1678310",
+      "fuente": "https://gamebanana.com/mods/670012",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01006560184E6000",
+      "juego": "Mortal Kombat 1",
+      "titulo": "100%: todo desbloqueado",
+      "descripcion": "Todos los trajes, brutalities y fatalities. Pide la última actualización del juego.",
+      "raiz": "",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mk1-100.zip",
+      "fuente": "https://gbatemp.net/download/mk1-latest-save-game-100.39939/",
+      "autor": "Spezer006 (GBAtemp)"
+    },
+    {
+      "id": "0100EA80032EA000",
+      "juego": "New Super Mario Bros. U Deluxe",
+      "titulo": "Todos los niveles y monedas estrella",
+      "descripcion": "Todos los niveles desbloqueados y todas las monedas estrella, en Mario U y Luigi U.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1447159",
+      "fuente": "https://gamebanana.com/mods/597066",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01008FE00E2F6000",
+      "juego": "One Piece: Pirate Warriors 4",
+      "titulo": "100%: historia y bitácora",
+      "descripcion": "Historia y bitácora de tesoros al 100%, mapas abiertos, 999 millones de berries y todos los personajes al nivel 30. Hecha con la versión 1.8.7.",
+      "raiz": "One Piece Pirate Warriors 4/One Piece Pirate Warriors 4",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/one-piece-pw4-100.rar",
+      "fuente": "https://gbatemp.net/download/one-piece-pirate-warrior-4-100-story-100-treasure-log-98-gallery.38832/",
+      "autor": "daicahuyoi (GBAtemp)"
+    },
+    {
+      "id": "0100A3900C3E2000",
+      "juego": "Paper Mario: The Origami King",
+      "titulo": "Historia completa",
+      "descripcion": "Historia principal terminada, empieza en Ciudad Toad con la mayoría de mejoras.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1431381",
+      "fuente": "https://gamebanana.com/mods/591766",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100F4C009322000",
+      "juego": "Pikmin 3 Deluxe",
+      "titulo": "100%: todas las medallas",
+      "descripcion": "Todas las insignias y medallas de platino, todos los mapas y la historia paralela. La ranura 1 tiene todos los coleccionables.",
+      "raiz": "Pikmin 3 Deluxe",
+      "url": "https://gamebanana.com/dl/1556433",
+      "fuente": "https://gamebanana.com/mods/632136",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01008C50239BE000",
+      "juego": "Plants vs. Zombies: Replanted",
+      "titulo": "Historia completa",
+      "descripcion": "Modo historia completo, todas las plantas y el multijugador desbloqueado.",
+      "raiz": "PVZ SAVE",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/pvz-replanted-historia.zip",
+      "fuente": "https://gbatemp.net/download/plants-vs-zombies-replanted-save-file.40093/",
+      "autor": "dankonion (GBAtemp)"
+    },
+    {
+      "id": "0100000011D90000",
+      "juego": "Pokémon Diamante Brillante",
+      "titulo": "100%: Pokédex nacional",
+      "descripcion": "Pokédex nacional completa, ficha de entrenador dorada, todos los regalos misteriosos y concursos, objetos y dinero al máximo. Empieza en Ciudad Vetusta.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1565001",
+      "fuente": "https://gamebanana.com/mods/634809",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100A3D008C5C000",
+      "juego": "Pokémon Escarlata",
+      "titulo": "100%: Pokédex completa",
+      "descripcion": "Todos los gimnasios, la Pokédex completa y el campeón derrotado.",
+      "raiz": "Pokemon Karmesin Save",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/pokemon-escarlata-100.rar",
+      "fuente": "https://gbatemp.net/download/pokemon-scarlett-100-save-file.39685/",
+      "autor": "Hasashi (GBAtemp)"
+    },
+    {
+      "id": "0100A3D008C5C000",
+      "juego": "Pokémon Escarlata",
+      "titulo": "100%: Pokédex y DLC 1",
+      "descripcion": "Pokédex completas con un Pokémon de cada especie, historia, posjuego y DLC 1 terminados, objetos y dinero al máximo. Empieza en la Academia Naranja.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1567781",
+      "fuente": "https://gamebanana.com/mods/635681",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100ABF008968000",
+      "juego": "Pokémon Espada",
+      "titulo": "100%: Pokédex completa",
+      "descripcion": "Historia terminada, Pokédex completas (también la del DLC 1, todas variocolor), objetos, dinero y ropa al máximo. Los DLC no están avanzados.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1567410",
+      "fuente": "https://gamebanana.com/mods/635571",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100F43008C44000",
+      "juego": "Pokémon Leyendas Z-A",
+      "titulo": "100%: Pokédex completa",
+      "descripcion": "Pokédex completa, todas las misiones de la historia, rango máximo en el battle royale, mapa completo, todas las MT y toda la ropa.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1566700",
+      "fuente": "https://gamebanana.com/mods/633425",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01001F5010DFA000",
+      "juego": "Pokémon Leyendas: Arceus",
+      "titulo": "100%: Pokédex e historia",
+      "descripcion": "Pokédex completa, historia terminada y todas las misiones del juego base, con dinero y objetos al máximo.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1560523",
+      "fuente": "https://gamebanana.com/mods/633414",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "0100187003A36000",
+      "juego": "Pokémon: Let's Go, Eevee!",
+      "titulo": "100%: Pokédex completa",
+      "descripcion": "Pokédex completa (casi todos los Pokémon guardados), dinero y objetos al máximo, toda la ropa y todos los puntos de viaje. Empieza en Ciudad Azafrán.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1567824",
+      "fuente": "https://gamebanana.com/mods/635686",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "010049900F546000",
+      "juego": "Super Mario 3D All-Stars",
+      "titulo": "100%: los tres juegos",
+      "descripcion": "Mario 64 con 120 estrellas, Sunshine con 120 soles y todas las monedas azules, y Galaxy con 242 estrellas.",
+      "raiz": "0x010049900F546000 Super Mario 3D All-Stars/0",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sm3d-all-stars-100.rar",
+      "fuente": "https://gbatemp.net/download/super-mario-3d-all-stars-switch-100-save-file.36641/",
+      "autor": "ShadowOne333 (GBAtemp)"
+    },
+    {
+      "id": "010028600EBDA000",
+      "juego": "Super Mario 3D World + Bowser's Fury",
+      "titulo": "100%: los dos juegos",
+      "descripcion": "Super Mario 3D World y Bowser's Fury al 100%.",
+      "raiz": "0x010028600EBDA000 Super Mario 3D World + Bowser's Fury/0",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sm3dw-bowsers-fury-100.rar",
+      "fuente": "https://gbatemp.net/download/super-mario-3d-world-bowsers-fury-100-save-file.36962/",
+      "autor": "ShadowOne333 y AngelDavil88 (GBAtemp)"
+    },
+    {
+      "id": "010015100B514000",
+      "juego": "Super Mario Bros. Wonder",
+      "titulo": "100%: todo completado",
+      "descripcion": "Todas las medallas, semillas maravilla, insignias y estatuillas, y el mundo secreto al 100%.",
+      "raiz": "Super Mario Bros Wonder Save",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/smb-wonder-100.rar",
+      "fuente": "https://gbatemp.net/download/super-mario-bros-wonder-100-save-file.39686/",
+      "autor": "Hasashi (GBAtemp)"
+    },
+    {
+      "id": "010099C022B96000",
+      "juego": "Super Mario Galaxy",
+      "titulo": "120 estrellas con Mario",
+      "descripcion": "Historia completa con Mario y las 120 estrellas. Con Luigi está empezada.",
+      "raiz": "",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/smg-120-estrellas.rar",
+      "fuente": "https://gbatemp.net/download/super-mario-galaxy-1-switch-save-file-100.39867/",
+      "autor": "Hasashi (GBAtemp)"
+    },
+    {
+      "id": "0100000000010000",
+      "juego": "Super Mario Odyssey",
+      "titulo": "100%: 999 lunas",
+      "descripcion": "Historia completa, 999 lunas con el barco dorado, todas las monedas moradas, capturas, música y trajes.",
+      "raiz": "",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/smo-100.rar",
+      "fuente": "https://gbatemp.net/download/super-mario-odyssey-100-save-file-switch-eden.39926/",
+      "autor": "Hasashi (GBAtemp)"
+    },
+    {
+      "id": "01006A800016E000",
+      "juego": "Super Smash Bros. Ultimate",
+      "titulo": "100%: luchadores, escenarios y espíritus",
+      "descripcion": "Todos los luchadores, escenarios y espíritus, y todos los desafíos. Sirve con cualquier versión y sin DLC.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1693962",
+      "fuente": "https://gamebanana.com/mods/596171",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01007EF00011E000",
+      "juego": "The Legend of Zelda: Breath of the Wild",
+      "titulo": "100% con DLC",
+      "descripcion": "Todo conseguido: 30 corazones, 3 círculos de resistencia, todo el DLC con sus medallas, todas las misiones y santuarios, y 900 kologs.",
+      "raiz": "",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/zelda-botw-100-dlc.zip",
+      "fuente": "https://gbatemp.net/download/the-legend-of-zelda-breath-of-the-wild-100-with-dlc-save.39803/",
+      "autor": "championgamer (GBAtemp)"
+    },
+    {
+      "id": "01006BB00C6F0000",
+      "juego": "The Legend of Zelda: Link's Awakening",
+      "titulo": "100%: juego terminado",
+      "descripcion": "Ranura 1: juego terminado con todo coleccionado. Ranura 2: igual, justo antes del huevo del Pez del Viento.",
+      "raiz": "",
+      "url": "https://gamebanana.com/dl/1523540",
+      "fuente": "https://gamebanana.com/mods/622035",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "id": "01002DA013484000",
+      "juego": "The Legend of Zelda: Skyward Sword HD",
+      "titulo": "En el Mar de Arena de Lanayru",
+      "descripcion": "Partida avanzada hasta el Mar de Arena de Lanayru.",
+      "raiz": "The Legend of Zelda  Skyward Sword HD/Skippers Map",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/zelda-skyward-hd-lanayru.rar",
+      "fuente": "https://gbatemp.net/download/the-legend-of-zelda-skyward-sword-hd-lanayru-sand-sea.39448/",
+      "autor": "bibliomon (GBAtemp)"
+    },
+    {
+      "id": "0100F2C0115B6000",
+      "juego": "The Legend of Zelda: Tears of the Kingdom",
+      "titulo": "100%: todo completado",
+      "descripcion": "Todas las armaduras al máximo, los 152 santuarios y raíces, las 1000 semillas kolog y los 31 mapas antiguos con sus tesoros.",
+      "raiz": "The Legend of Zelda  Tears of the Kingdom/TotK",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/zelda-totk-100.zip",
+      "fuente": "https://gbatemp.net/download/the-legend-of-zelda-tears-of-the-kingdom-100-save-file.38083/",
+      "autor": "ShadowOne333 (GBAtemp)"
+    },
+    {
+      "id": "0100563010E0C000",
+      "juego": "WarioWare: Get It Together!",
+      "titulo": "Modo historia terminado",
+      "descripcion": "El modo historia terminado.",
+      "raiz": "WarioWare  Get It Together!/Story Mode Finished - 2021.10.05 @ 20.39.02",
+      "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/warioware-git-historia.rar",
+      "fuente": "https://gbatemp.net/download/warioware-get-it-together.39449/",
+      "autor": "bibliomon (GBAtemp)"
+    },
+    {
+      "id": "01006000040C2000",
+      "juego": "Yoshi's Crafted World",
+      "titulo": "100%: todos los niveles",
+      "descripcion": "Todos los niveles y los de Poochy completos, con todos los trajes, música y escenas.",
+      "raiz": "Yoshi_s Crafted World/Yoshi_s Crafted World",
+      "url": "https://gamebanana.com/dl/1556487",
+      "fuente": "https://gamebanana.com/mods/632151",
+      "autor": "MegaMarble (GameBanana)",
+      "licencia": "CC BY-NC-ND 4.0"
+    }
+  ]
+}
