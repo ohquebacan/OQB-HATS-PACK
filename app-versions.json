@@ -5,10 +5,10 @@
         "nro_version": "1.0.0",
         "revisado": 3
     },
-    "https://github.com/NextendoNetwork/Prelude-Nro/releases/latest/download/nextendo.nro": {
-        "fecha": "2026-11-07T08:57:20Z",
-        "version": "v4.0.19",
-        "nro_version": "4.0.19",
+    "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro": {
+        "fecha": "2026-11-07T23:59:10Z",
+        "version": "",
+        "nro_version": "4.0.20",
         "revisado": 3
     },
     "https://github.com/ticohq/tico/releases/latest/download/tico.nro": {
