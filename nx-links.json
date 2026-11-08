@@ -32,7 +32,7 @@
     },
     "apps": {
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
-        "Prelude (Nextendo Network)": "https://github.com/NextendoNetwork/Prelude-Nro/releases/latest/download/nextendo.nro",
+        "Prelude (Nextendo Network)": "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro",
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
         "Tico + Cores/Bios": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip",
         "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
@@ -140,7 +140,7 @@
     },
     "apps_sistema": {
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
-        "Prelude (Nextendo Network)": "https://github.com/NextendoNetwork/Prelude-Nro/releases/latest/download/nextendo.nro",
+        "Prelude (Nextendo Network)": "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro",
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
