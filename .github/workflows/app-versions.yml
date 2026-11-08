@@ -27,6 +27,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Pillow, para achicar los íconos
+        run: python3 -m pip install --quiet pillow
+
       - name: Leer la fecha de cada app y actualizar el json
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,13 +37,14 @@ jobs:
 
       - name: Guardar el cambio si lo hubo
         run: |
-          if git diff --quiet -- app-versions.json; then
+          git add -A $(ls -d iconos iconos.zip 2>/dev/null) 2>/dev/null || true
+          if git diff --quiet -- app-versions.json && git diff --cached --quiet; then
             echo "sin cambios, no hay nada que guardar"
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add app-versions.json
+          git add -A app-versions.json $(ls -d iconos iconos.zip 2>/dev/null)
           git commit -m "Actualizar la fecha de las apps
 
           Generado por el workflow a partir de la fecha de subida de cada archivo."
