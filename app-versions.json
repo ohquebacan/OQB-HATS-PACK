@@ -142,6 +142,13 @@
         "icono": "8ee50788cdee.jpg",
         "revisado": 4
     },
+    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro": {
+        "fecha": "2026-11-09T08:01:57Z",
+        "version": "1.0",
+        "nro_version": "3.0.3",
+        "icono": "876cfd6d6846.jpg",
+        "revisado": 4
+    },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro": {
         "fecha": "2026-09-28T22:18:08Z",
         "version": "1.0",
@@ -171,12 +178,12 @@
         "revisado": 4
     },
     "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip": {
-        "fecha": "2026-11-02T20:30:39Z",
-        "version": "1.4.0",
+        "fecha": "2026-11-09T16:48:57Z",
+        "version": "1.4.1",
         "nros": [
             {
                 "ruta": "/switch/SwitchU-Manager/SwitchU-Manager.nro",
-                "version": "1.4.0"
+                "version": "1.4.1"
             }
         ],
         "icono": "e12edc01e094.jpg",
@@ -573,9 +580,9 @@
         "revisado": 4
     },
     "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
-        "fecha": "2026-11-09T02:49:10Z",
-        "version": "v1.2.2",
-        "nro_version": "1.2.2",
+        "fecha": "2026-11-09T18:55:20Z",
+        "version": "v1.2.3",
+        "nro_version": "1.2.3",
         "icono": "279b56bb5046.jpg",
         "revisado": 4
     },
@@ -584,13 +591,6 @@
         "version": "v0.3.3",
         "nro_version": "0.3.3",
         "icono": "cc08393ff8a1.jpg",
-        "revisado": 4
-    },
-    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro": {
-        "fecha": "2026-11-09T08:01:57Z",
-        "version": "1.0",
-        "nro_version": "3.0.3",
-        "icono": "876cfd6d6846.jpg",
         "revisado": 4
     }
 }
