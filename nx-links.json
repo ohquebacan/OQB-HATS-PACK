@@ -460,7 +460,8 @@
                 "pasos": [
                     "Anota el código de error exacto, si apareció uno, y qué estabas haciendo en ese momento.",
                     "Pregunta en el Discord de Nextendo con esos dos datos. Con el código solo, casi nunca es posible saber qué pasó."
-                ]
+                ],
+                "seccion": "errores"
             }
         ],
         "errores": [
