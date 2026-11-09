@@ -588,6 +588,9 @@
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro": {
         "fecha": "2026-11-09T07:36:51Z",
-        "version": "1.0"
+        "version": "1.0",
+        "nro_version": "3.0.2",
+        "icono": "876cfd6d6846.jpg",
+        "revisado": 4
     }
 }
