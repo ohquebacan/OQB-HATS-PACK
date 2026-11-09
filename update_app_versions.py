@@ -32,6 +32,7 @@ import re
 import struct
 import subprocess
 import sys
+import time
 import urllib.request
 import zipfile
 from collections import OrderedDict
@@ -136,10 +137,36 @@ def armar_zip_de_iconos(datos_por_url):
     return True
 
 
-def versiones_del_archivo(url):
+def descargar(url, asset_api=None):
+    """El archivo completo. GitHub a veces responde 504 en el enlace normal
+    (releases/download) mientras la API sí lo entrega: se intenta el enlace dos
+    veces y después la API del asset."""
+    intentos = [(url, False), (url, False)]
+    if asset_api:
+        intentos.append((asset_api, True))
+    ultimo = None
+    for i, (desde, por_api) in enumerate(intentos):
+        if i:
+            time.sleep(5)
+        try:
+            pedido = urllib.request.Request(desde, headers={"User-Agent": "OQB-catalogo"})
+            if por_api:
+                pedido.add_header("Accept", "application/octet-stream")
+                # Sin redirigir: la API manda a un enlace firmado de S3, que
+                # rechaza el pedido si además lleva la credencial.
+                if os.environ.get("GH_TOKEN"):
+                    pedido.add_unredirected_header("Authorization", "Bearer " + os.environ["GH_TOKEN"])
+            with urllib.request.urlopen(pedido, timeout=300) as r:
+                return r.read()
+        except Exception as error:
+            ultimo = error
+            print(f"aviso: intento {i + 1} con {desde}: {error}")
+    raise ultimo
+
+
+def versiones_del_archivo(url, asset_api=None):
     """Lo que hay dentro del archivo: la versión de su .nro o de los de un zip."""
-    with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "OQB-catalogo"}), timeout=300) as r:
-        datos = r.read()
+    datos = descargar(url, asset_api)
     if url.lower().endswith(".nro"):
         v = version_nacp(datos)
         salida = {"nro_version": v} if v else {}
@@ -240,12 +267,15 @@ def main():
     for url in urls_de_apps():
         m = ENLACE.match(url)
         datos = None
+        asset_api = None
         if m:
             repo, tag, archivo = m.groups()
             r = release(repo, tag, cache)
             asset = next((a for a in (r or {}).get("assets", []) if a.get("name") == archivo), None)
             if asset:
                 datos = OrderedDict(fecha=asset["updated_at"], version=r.get("tag_name", ""))
+                if asset.get("url"):
+                    asset_api = asset["url"]
         else:
             try:
                 fecha = fecha_por_cabeceras(url)
@@ -260,10 +290,15 @@ def main():
                 datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado"))
             else:
                 try:
-                    datos.update(versiones_del_archivo(url))
+                    datos.update(versiones_del_archivo(url, asset_api))
                     datos["revisado"] = REVISION
-                except Exception as error:  # se reintenta en la próxima pasada
+                except Exception as error:
+                    # Se deja la entrada anterior completa (fecha incluida): así
+                    # no queda una fecha nueva sin versión ni ícono, el ícono no
+                    # se borra de iconos.zip y la próxima pasada lo reintenta
+                    # porque la fecha sigue siendo distinta.
                     print(f"aviso: no se pudo abrir {url}: {error}")
+                    datos = None
         if datos is None:
             # Sin respuesta (o un enlace que no es de GitHub): se deja lo que había,
             # para no avisar de una actualización que no existe.
