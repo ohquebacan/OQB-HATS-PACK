@@ -812,5 +812,9 @@
                 "nombre": "Zombie Army 4: Dead War"
             }
         }
+    },
+    "firmware_aviso": {
+        "version": "23.5.0",
+        "soportado": false
     }
 }
