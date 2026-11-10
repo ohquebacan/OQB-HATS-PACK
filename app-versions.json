@@ -235,16 +235,16 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro": {
-        "fecha": "2026-10-02T07:23:58Z",
-        "version": "3.0.0",
-        "nro_version": "3.0.0",
+        "fecha": "2026-11-10T04:39:36Z",
+        "version": "3.1.0",
+        "nro_version": "3.1.0",
         "icono": "a3bc13229f00.jpg",
         "revisado": 4
     },
-    "https://github.com/nadrino/SimpleModManager/releases/latest/download/SimpleModManager.nro": {
-        "fecha": "2026-02-23T20:27:32Z",
-        "version": "2.1.4",
-        "nro_version": "2.1.4",
+    "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro": {
+        "fecha": "2026-11-10T04:40:15Z",
+        "version": "3.0.0",
+        "nro_version": "3.0.0",
         "icono": "57638a8a52ea.jpg",
         "revisado": 4
     },
@@ -580,9 +580,9 @@
         "revisado": 4
     },
     "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
-        "fecha": "2026-11-09T18:55:20Z",
-        "version": "v1.2.3",
-        "nro_version": "1.2.3",
+        "fecha": "2026-11-10T00:22:20Z",
+        "version": "v1.2.6",
+        "nro_version": "1.2.6",
         "icono": "279b56bb5046.jpg",
         "revisado": 4
     },
