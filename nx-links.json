@@ -579,6 +579,18 @@
             {
                 "titulo": "El probador de 90DNS sale en rojo",
                 "texto": "Es normal cuando usas Nextendo. El probador de 90DNS marca como \"desbloqueado\" todo lo que no apunta a 0.0.0.0, y en modo Nextendo esas direcciones apuntan a los servidores de Nextendo. No significa que tu consola se esté conectando con Nintendo."
+            },
+            {
+                "titulo": "Nextendo solo se activa en la NAND con la que arrancas",
+                "texto": "Prelude escribe el archivo de Nextendo solo para la NAND con la que encendiste la consola (sysNAND o emuNAND). La otra no cambia. Para usarlo en emuNAND, abre Prelude arrancando en emuNAND."
+            },
+            {
+                "titulo": "Después de activar, apaga la consola del todo",
+                "texto": "Los cambios de Prelude se leen al encender. Después de activar el modo Nextendo o de actualizar Prelude, apaga la consola del todo y vuelve a encenderla."
+            },
+            {
+                "titulo": "Prelude 4.0.18 o anterior no se actualiza solo",
+                "texto": "Las versiones 4.0.18 o anteriores ya no pueden actualizarse desde la app. Instala Prelude una vez desde Apps (o desde nextendo.network/download) y después se actualiza solo."
             }
         ],
         "conectados": "https://nextendo.network/api/online-counts",
@@ -603,13 +615,16 @@
                 "estado": "Estable"
             },
             "0100f9f00c696000": {
-                "nombre": "Crash Team Racing Nitro-Fueled"
+                "nombre": "Crash Team Racing Nitro-Fueled",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.0.15"
             },
             "0100cea007d08000": {
                 "nombre": "Crypt of the NecroDancer"
             },
             "01001b300b9be000": {
-                "nombre": "Diablo III: Eternal Collection"
+                "nombre": "Diablo III: Eternal Collection",
+                "estado": "Casi estable"
             },
             "0100a250097f0000": {
                 "nombre": "Dragon Ball FighterZ"
@@ -627,7 +642,8 @@
                 "nombre": "Game Boy Advance - Nintendo Classics"
             },
             "0100fa5010788000": {
-                "nombre": "Game Builder Garage"
+                "nombre": "Game Builder Garage",
+                "estado": "Estable"
             },
             "0100ab401f136000": {
                 "nombre": "Guilty Gear -Strive-"
@@ -655,7 +671,9 @@
                 "requiere": "Versión del juego 1.0.1"
             },
             "0100c9c00e25c000": {
-                "nombre": "Mario Golf: Super Rush"
+                "nombre": "Mario Golf: Super Rush",
+                "estado": "Limitado",
+                "requiere": "Versión del juego 4.0.0"
             },
             "0100152000022000": {
                 "nombre": "Mario Kart 8 Deluxe",
@@ -663,7 +681,8 @@
                 "requiere": "Versión del juego 4.0.0"
             },
             "01006fe013472000": {
-                "nombre": "Mario Party Superstars"
+                "nombre": "Mario Party Superstars",
+                "estado": "Estable"
             },
             "010019401051c000": {
                 "nombre": "Mario Strikers: Battle League",
@@ -675,15 +694,17 @@
                 "requiere": "Versión del juego 3.1.1"
             },
             "0100c6f01c4f8000": {
-                "nombre": "METAL GEAR SOLID: Peace Walker"
+                "nombre": "METAL GEAR SOLID: Peace Walker",
+                "estado": "Estable"
             },
             "01003da010e8a000": {
-                "nombre": "Miitopia"
+                "nombre": "Miitopia",
+                "estado": "Estable"
             },
             "0100a7c01b792000": {
                 "nombre": "Minecraft Dungeons II",
                 "estado": "Limitado",
-                "requiere": "Versión del juego 1.0.17"
+                "requiere": "Versión del juego 1.1.3.0"
             },
             "01006bd001e06000": {
                 "nombre": "Minecraft: Nintendo Switch Edition",
@@ -704,13 +725,17 @@
                 "nombre": "NES - Nintendo Classics"
             },
             "0100c9a00ece6000": {
-                "nombre": "Nintendo 64 - Nintendo Classics"
+                "nombre": "Nintendo 64 - Nintendo Classics",
+                "estado": "Estable",
+                "requiere": "Versión del juego 4.2.0"
             },
             "0100d2f00d5c0000": {
                 "nombre": "Nintendo Switch Sports"
             },
             "01006fd0080b2000": {
-                "nombre": "Overcooked! 2"
+                "nombre": "Overcooked! 2",
+                "estado": "Estable",
+                "requiere": "Versión del juego 1.0.19"
             },
             "0100ad9012510000": {
                 "nombre": "PAC-MAN 99",
@@ -718,16 +743,22 @@
                 "requiere": "Versión del juego 1.0.0"
             },
             "0100b3f000be2000": {
-                "nombre": "Pokkén Tournament DX"
+                "nombre": "Pokkén Tournament DX",
+                "estado": "Casi estable"
             },
             "0100f43008c44000": {
-                "nombre": "Pokémon Legends: Z-A"
+                "nombre": "Pokémon Legends: Z-A",
+                "estado": "Limitado",
+                "requiere": "Versión del juego 2.0.2"
             },
             "0100a3d008c5c000": {
-                "nombre": "Pokémon Scarlet and Violet"
+                "nombre": "Pokémon Scarlet and Violet",
+                "estado": "Limitado",
+                "requiere": "Versión del juego 4.0.0"
             },
             "0100abf008968000": {
-                "nombre": "Pokémon Sword and Shield"
+                "nombre": "Pokémon Sword and Shield",
+                "requiere": "Versión del juego 1.3.2"
             },
             "0100abd01785c000": {
                 "nombre": "Portal 2",
@@ -735,13 +766,18 @@
                 "requiere": "Versión del juego 1.0.3"
             },
             "0100de600beee000": {
-                "nombre": "Saints Row: The Third - The Full Package"
+                "nombre": "Saints Row: The Third - The Full Package",
+                "estado": "Estable"
             },
             "0100b3c014bda000": {
                 "nombre": "SEGA Genesis - Nintendo Classics"
             },
             "01008d300c50c000": {
                 "nombre": "SNES - Nintendo Classics"
+            },
+            "01006e001823c000": {
+                "nombre": "Sonic Racing: CrossWorlds",
+                "estado": "Experimental"
             },
             "01004cc023582000": {
                 "nombre": "SpeedRunners 2: King of Speed"
@@ -763,7 +799,9 @@
                 "nombre": "Super Kirby Clash"
             },
             "010028600ebda000": {
-                "nombre": "Super Mario 3D World + Bowser's Fury"
+                "nombre": "Super Mario 3D World + Bowser's Fury",
+                "estado": "Casi estable",
+                "requiere": "Versión del juego 1.2.2"
             },
             "0100277011f1a000": {
                 "nombre": "Super Mario Bros. 35",
@@ -800,13 +838,19 @@
                 "nombre": "Terraria"
             },
             "010040600c5ce000": {
-                "nombre": "Tetris 99"
+                "nombre": "Tetris 99",
+                "estado": "Estable"
             },
             "0100fcf002a58000": {
                 "nombre": "Ultimate Chicken Horse"
             },
             "0100b6e012ebe000": {
-                "nombre": "UNO"
+                "nombre": "UNO",
+                "requiere": "Versión del juego 1.1.17"
+            },
+            "010099f013898000": {
+                "nombre": "World War Z",
+                "estado": "Experimental"
             },
             "01000bf0152fa000": {
                 "nombre": "Zombie Army 4: Dead War"
