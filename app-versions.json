@@ -368,18 +368,6 @@
         "icono": "26652409ae4e.jpg",
         "revisado": 4
     },
-    "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip": {
-        "fecha": "2026-08-20T01:53:28Z",
-        "version": "v0.7.1",
-        "nros": [
-            {
-                "ruta": "/switch/Switify/Switify.nro",
-                "version": "0.7.1"
-            }
-        ],
-        "icono": "03d70f35960c.jpg",
-        "revisado": 4
-    },
     "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip": {
         "fecha": "2026-11-11T07:18:13Z",
         "version": "v1.2.0",
