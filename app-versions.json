@@ -381,7 +381,7 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip": {
-        "fecha": "2026-11-11T04:22:27Z",
+        "fecha": "2026-11-11T05:08:22Z",
         "version": "v1.1.0",
         "nros": [
             {
@@ -390,18 +390,6 @@
             }
         ],
         "icono": "1ae8461eca99.jpg",
-        "revisado": 4
-    },
-    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip": {
-        "fecha": "2026-11-11T02:40:03Z",
-        "version": "1.0",
-        "nros": [
-            {
-                "ruta": "/switch/NXtify/NXtify.nro",
-                "version": "0.9.6"
-            }
-        ],
-        "icono": "e67203265e07.jpg",
         "revisado": 4
     },
     "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip": {
