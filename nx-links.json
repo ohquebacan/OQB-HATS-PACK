@@ -65,6 +65,7 @@
         "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
+        "SpotiBacán (Spotify, con descargas)": "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip",
         "NXtify (Spotify)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip",
         "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip",
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
@@ -143,6 +144,7 @@
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
         "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
+        "SpotiBacán (Spotify, con descargas)": "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip",
         "NXtify (Spotify)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
@@ -192,6 +194,7 @@
         "osu!stream": "Juego de ritmo osu!stream portado a la Switch.",
         "Green (Xbox Cloud Gaming)": "Juega en la nube de Xbox (xCloud) desde la Switch.",
         "Switify (Spotify) (0.7.1)": "Cliente de Spotify, con música en segundo plano mientras juegas.",
+        "SpotiBacán (Spotify, con descargas)": "Nuestro cliente de Spotify: descarga canciones a la SD para escucharlas sin internet, con letras y música de fondo mientras juegas. Requiere Premium.",
         "NXtify (Spotify)": "Cliente de música de Spotify con letras sincronizadas, y un overlay para seguir escuchando y controlarla mientras juegas.",
         "Autorun (juegos de PC) (test-build-4)": "Corre juegos de Windows en la Switch. Versión de prueba.",
         "ToTK Save Editor": "Edita tu partida de Zelda: Tears of the Kingdom: vida, inventario, caballos y planos de Autobuild.",
@@ -351,6 +354,7 @@
                 "titulo": "Música, TV y video",
                 "apps": [
                     "Switify (Spotify) (0.7.1)",
+                    "SpotiBacán (Spotify, con descargas)",
                     "NXtify (Spotify)",
                     "SwitchStream (Stremio)",
                     "XUPER TV SWITCH"
