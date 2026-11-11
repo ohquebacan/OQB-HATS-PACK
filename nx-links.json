@@ -4,8 +4,8 @@
     },
     "cfws": {
         "Atmosphere": {
-            "OQB HATS PACK 23.0.1 · AMS 1.12.1": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
-            "OVERCLOCK HATSPACK 23.0.1 · AMS 1.12.1": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-OC-23.0.zip"
+            "OQB HATS PACK 23.5 · AMS 1.12.2": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-23.0.zip",
+            "OVERCLOCK HATSPACK 23.5 · AMS 1.12.2": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-HATS-PACK-OC-23.0.zip"
         }
     },
     "hekate": {
@@ -148,12 +148,12 @@
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro"
     },
     "cfws_detalle": {
-        "OQB HATS PACK 23.0.1 · AMS 1.12.1": {
-            "desc": "Para firmware 23.0.1 o inferior. Importante: corrige el bloqueo DNS, que en 23.0 no estaba funcionando. Actualiza aunque ya tengas el pack.",
+        "OQB HATS PACK 23.5 · AMS 1.12.2": {
+            "desc": "Para firmware 23.5 o inferior. Atmosphère 1.12.2 con soporte para 23.5, Hekate actualizado y MissionControl 0.16.1.",
             "grupo": "Recomendado"
         },
-        "OVERCLOCK HATSPACK 23.0.1 · AMS 1.12.1": {
-            "desc": "Para firmware 23.0.1 o inferior. Es el pack oficial más overclock con Horizon-OC 2.6.0: desde su overlay subes CPU, GPU y RAM. Va en las entradas EMUNAND CFW y SEMI-STOCK CFW de Hekate. Incluye SaltyNX. Ideal para usuarios avanzados.",
+        "OVERCLOCK HATSPACK 23.5 · AMS 1.12.2": {
+            "desc": "Para firmware 23.5 o inferior. Es el pack oficial más overclock con Horizon-OC 2.6.0: desde su overlay subes CPU, GPU y RAM. Va en las entradas EMUNAND CFW y SEMI-STOCK CFW de Hekate. Incluye SaltyNX. Ideal para usuarios avanzados.",
             "grupo": "Variantes",
             "etiqueta": "Usuarios avanzados"
         }
@@ -849,7 +849,7 @@
     },
     "firmware_aviso": {
         "version": "23.5.0",
-        "soportado": false,
+        "soportado": true,
         "warmboot_url": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-WARMBOOT-23.5.zip"
     }
 }
