@@ -87,7 +87,9 @@ def main():
             print(f"aviso: {nombre} no está en ningún release; se deja como estaba")
         elif entrada["fijado"]:
             print(f"fijado: {nombre} se deja en {entrada['fecha']}")
-        elif entrada["fecha"] != publicadas[nombre]:
+        elif publicadas[nombre] > entrada["fecha"]:
+            # Solo hacia adelante: una fecha puesta a mano más nueva que la
+            # subida (para que salte el aviso de un arreglo) se respeta.
             cambios.append((nombre, entrada["fecha"] or "(nada)", publicadas[nombre]))
             entrada["fecha"] = publicadas[nombre]
 
