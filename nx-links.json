@@ -35,7 +35,6 @@
         "Prelude (Nextendo Network)": "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro",
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
         "Tico + Cores/Bios": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip",
-        "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
         "PipenSX (1.6.6)": "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro",
         "TorrentShopNX": "https://github.com/Langegen/TorrentShopNX/releases/latest/download/TorrentShopNX.nro",
         "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
@@ -47,8 +46,6 @@
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
         "Dusk": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip",
-        "Simpsons Hit And Run (Port)": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Simp-H-A-R.zip",
-        "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro",
         "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
         "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
         "ARCropolis y Skyline": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ARCropolis.and.Skyline.zip",
@@ -68,6 +65,7 @@
         "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
+        "NXtify (Spotify)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip",
         "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip",
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
@@ -90,7 +88,6 @@
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
         "Tico + Cores/Bios": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/tico-0.8.0-cores.zip",
-        "TicoBro + Repos Roms": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip",
         "Dolphin (GameCube/Wii)": "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro",
         "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro",
         "Cemu (Wii U)": "https://github.com/NaGaa95/Cemu-nx/releases/latest/download/cemu.nro",
@@ -100,7 +97,6 @@
         "PPSSPP (PSP) (0.6.5)": "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip",
         "VITA 3K": "https://github.com/NaGaa95/Vita3K-nx/releases/latest/download/Vita3K.nro",
         "Dusk": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip",
-        "Simpsons Hit And Run (Port)": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Simp-H-A-R.zip",
         "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
         "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip",
         "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip"
@@ -146,8 +142,8 @@
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
         "Green (Xbox Cloud Gaming)": "https://github.com/rmrf404/green-nx/releases/latest/download/green-nx.nro",
         "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
-        "TsVitch": "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro",
         "Switify (Spotify) (0.7.1)": "https://github.com/DomazinUS/Switify/releases/download/v0.7.1/Switify-0.7.1.zip",
+        "NXtify (Spotify)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro"
@@ -177,8 +173,6 @@
         "Switch U": "Reemplaza el menú HOME por uno al estilo de Wii U, con temas, carpetas y pantalla de bloqueo.",
         "Akira": "Juega tu PS4 o PS5 a distancia (Remote Play) desde la Switch, usando chiaki-ng.",
         "Chiaki": "Juega tu PS4 o PS5 a distancia (Remote Play) desde la Switch.",
-        "Simpsons Hit And Run (Port)": "Port de The Simpsons: Hit & Run para la Switch.",
-        "TsVitch": "Ve canales de televisión en vivo desde la Switch.",
         "SimpleModDownloader": "Busca y descarga mods de GameBanana directamente en la consola.",
         "SimpleModManager": "Activa y desactiva los mods de tus juegos desde la consola.",
         "ARCropolis y Skyline": "Cargador de mods para Super Smash Bros. Ultimate.",
@@ -198,6 +192,7 @@
         "osu!stream": "Juego de ritmo osu!stream portado a la Switch.",
         "Green (Xbox Cloud Gaming)": "Juega en la nube de Xbox (xCloud) desde la Switch.",
         "Switify (Spotify) (0.7.1)": "Cliente de Spotify, con música en segundo plano mientras juegas.",
+        "NXtify (Spotify)": "Cliente de música de Spotify con letras sincronizadas, y un overlay para seguir escuchando y controlarla mientras juegas.",
         "Autorun (juegos de PC) (test-build-4)": "Corre juegos de Windows en la Switch. Versión de prueba.",
         "ToTK Save Editor": "Edita tu partida de Zelda: Tears of the Kingdom: vida, inventario, caballos y planos de Autobuild.",
         "ACNH Save Editor (1.4.0)": "Edita tu partida de Animal Crossing: New Horizons, con respaldo automático antes de cada cambio.",
@@ -225,8 +220,7 @@
                 "titulo": "Tico: todo en uno",
                 "apps": [
                     "Tico installer",
-                    "Tico + Cores/Bios",
-                    "TicoBro + Repos Roms"
+                    "Tico + Cores/Bios"
                 ]
             },
             {
@@ -251,7 +245,6 @@
                 "titulo": "Ports y juegos",
                 "apps": [
                     "Dusk",
-                    "Simpsons Hit And Run (Port)",
                     "osu!stream",
                     "Switch Hero",
                     "Autorun (juegos de PC) (test-build-4)"
@@ -357,8 +350,8 @@
             {
                 "titulo": "Música, TV y video",
                 "apps": [
-                    "TsVitch",
                     "Switify (Spotify) (0.7.1)",
+                    "NXtify (Spotify)",
                     "SwitchStream (Stremio)",
                     "XUPER TV SWITCH"
                 ]
