@@ -7,9 +7,9 @@
         "revisado": 4
     },
     "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro": {
-        "fecha": "2026-11-08T18:59:41Z",
+        "fecha": "2026-11-11T00:56:17Z",
         "version": "",
-        "nro_version": "4.0.21",
+        "nro_version": "5.0.0",
         "icono": "11a05f583200.jpg",
         "revisado": 4
     },
@@ -116,18 +116,6 @@
         "icono": "fa54791ac9e9.jpg",
         "revisado": 4
     },
-    "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Ticobro.All.Repositories.Roms.zip": {
-        "fecha": "2026-05-02T00:37:52Z",
-        "version": "21.2.0",
-        "nros": [
-            {
-                "ruta": "/switch/ticobro/Ticbro.nro",
-                "version": "1.0.0"
-            }
-        ],
-        "icono": "062f414a51b2.jpg",
-        "revisado": 4
-    },
     "https://gitlab.com/api/v4/projects/88330126/packages/generic/pipensx/1.6.6/pipensx.nro": {
         "fecha": "2026-10-31T11:09:53Z",
         "version": "",
@@ -213,25 +201,6 @@
             }
         ],
         "icono": "9125c4823fb0.jpg",
-        "revisado": 4
-    },
-    "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Simp-H-A-R.zip": {
-        "fecha": "2026-08-08T04:23:45Z",
-        "version": "21.2.0",
-        "nros": [
-            {
-                "ruta": "/switch/Simpsons_Hit_And_Run/simpsons.nro",
-                "version": "00.61"
-            }
-        ],
-        "icono": "353a39eb0478.jpg",
-        "revisado": 4
-    },
-    "https://github.com/giovannimirulla/TsVitch/releases/latest/download/TsVitch.nro": {
-        "fecha": "2026-01-09T18:47:52Z",
-        "version": "v0.3.2",
-        "nro_version": "0.3.2",
-        "icono": "eb51f3c72b1a.jpg",
         "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro": {
@@ -411,6 +380,18 @@
         "icono": "03d70f35960c.jpg",
         "revisado": 4
     },
+    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip": {
+        "fecha": "2026-11-11T02:40:03Z",
+        "version": "1.0",
+        "nros": [
+            {
+                "ruta": "/switch/NXtify/NXtify.nro",
+                "version": "0.9.6"
+            }
+        ],
+        "icono": "e67203265e07.jpg",
+        "revisado": 4
+    },
     "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip": {
         "fecha": "2026-09-24T10:59:43Z",
         "version": "test-build-4",
@@ -580,9 +561,9 @@
         "revisado": 4
     },
     "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
-        "fecha": "2026-11-10T19:26:36Z",
-        "version": "v1.3.0",
-        "nro_version": "1.3.0",
+        "fecha": "2026-11-11T00:14:21Z",
+        "version": "v1.3.5",
+        "nro_version": "1.3.5",
         "icono": "279b56bb5046.jpg",
         "revisado": 4
     },
