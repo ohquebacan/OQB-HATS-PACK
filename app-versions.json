@@ -380,6 +380,18 @@
         "icono": "03d70f35960c.jpg",
         "revisado": 4
     },
+    "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip": {
+        "fecha": "2026-11-11T04:03:14Z",
+        "version": "v1.0.0",
+        "nros": [
+            {
+                "ruta": "/switch/SpotiBacan/SpotiBacan.nro",
+                "version": "1.0.0"
+            }
+        ],
+        "icono": "1ae8461eca99.jpg",
+        "revisado": 4
+    },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/NXtify.zip": {
         "fecha": "2026-11-11T02:40:03Z",
         "version": "1.0",
