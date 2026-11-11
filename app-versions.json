@@ -381,12 +381,12 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip": {
-        "fecha": "2026-11-11T04:03:14Z",
-        "version": "v1.0.0",
+        "fecha": "2026-11-11T04:22:27Z",
+        "version": "v1.1.0",
         "nros": [
             {
                 "ruta": "/switch/SpotiBacan/SpotiBacan.nro",
-                "version": "1.0.0"
+                "version": "1.1.0"
             }
         ],
         "icono": "1ae8461eca99.jpg",
