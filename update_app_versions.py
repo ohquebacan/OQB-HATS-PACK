@@ -87,6 +87,21 @@ def icono_nro(nro):
         return None
 
 
+# Ícono propio para un archivo sin .nro (un NSP, por ejemplo): una imagen en
+# iconos-propios/ con el nombre del archivo publicado más .png o .jpg.
+PROPIOS = "iconos-propios"
+
+
+def icono_propio(url):
+    base = url.rsplit("/", 1)[-1]
+    for ext in (".png", ".jpg"):
+        ruta = os.path.join(PROPIOS, base + ext)
+        if os.path.exists(ruta):
+            with open(ruta, "rb") as fichero:
+                return guardar_icono(fichero.read())
+    return None
+
+
 def guardar_icono(crudo):
     """Lo achica a LADO_ICONO y lo guarda en iconos/; devuelve su nombre."""
     if not crudo:
@@ -306,6 +321,10 @@ def main():
             if url in actual:
                 nuevo[url] = actual[url]
             continue
+        if not datos.get("icono"):
+            propio = icono_propio(url)
+            if propio:
+                datos["icono"] = propio
         nuevo[url] = datos
 
     iconos_cambiaron = False if solo_comprobar else armar_zip_de_iconos(nuevo)
