@@ -145,10 +145,10 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro": {
-        "fecha": "2026-11-08T10:29:43Z",
+        "fecha": "2026-11-12T09:01:00Z",
         "version": "v3.1-bacan",
         "nro_version": "3.1 OQB",
-        "icono": "ed40bfd406da.jpg",
+        "icono": "2a79c5b6eb7e.jpg",
         "revisado": 4
     },
     "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro": {
@@ -279,8 +279,8 @@
         "revisado": 4
     },
     "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip": {
-        "fecha": "2026-10-16T00:37:50Z",
-        "version": "2.6.0-rel",
+        "fecha": "2026-11-12T12:00:49Z",
+        "version": "2.6.1",
         "nros": [
             {
                 "ruta": "/switch/Benchmark-Toolbox.nro",
