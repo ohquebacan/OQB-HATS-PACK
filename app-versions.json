@@ -561,5 +561,16 @@
         "nro_version": "0.3.3",
         "icono": "cc08393ff8a1.jpg",
         "revisado": 4
+    },
+    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip": {
+        "fecha": "2026-11-12T06:15:14Z",
+        "version": "1.0",
+        "marcas": [
+            "/atmosphere/contents/01003A400C3DA000/exefs/main.npdm",
+            "/atmosphere/contents/01003A400C3DA000/exefs/subsdk9",
+            "/atmosphere/contents/05003A400C3DA000/exefs/main.npdm",
+            "/atmosphere/contents/05003A400C3DA000/exefs/subsdk9"
+        ],
+        "revisado": 4
     }
 }

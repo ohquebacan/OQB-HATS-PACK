@@ -83,7 +83,8 @@
         "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip",
         "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro",
         "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
-        "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro"
+        "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
+        "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -145,7 +146,8 @@
         "SpotiBacán (Spotify, con descargas)": "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
-        "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro"
+        "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro",
+        "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip"
     },
     "cfws_detalle": {
         "OQB HATS PACK 23.5 · AMS 1.12.2": {
@@ -210,7 +212,8 @@
         "TorrentShopNX": "Cliente de BitTorrent con instalador por streaming, directo en la consola.",
         "Bacán Shop": "Nuestra tienda de juegos por torrent, con instalación directa en la consola.",
         "Nexvyn OS (escritorio, como app)": "Un escritorio al estilo de una computadora, con tienda de apps, juegos y temas. Se abre como app normal y no cambia el menú HOME.",
-        "LunarNX (Xbox y PlayStation a distancia)": "Juega desde la Switch con tu Xbox o tu PlayStation a distancia, o en la nube de Xbox (xCloud)."
+        "LunarNX (Xbox y PlayStation a distancia)": "Juega desde la Switch con tu Xbox o tu PlayStation a distancia, o en la nube de Xbox (xCloud).",
+        "YouTube (NSP + parches)": "YouTube para el menú HOME, con sus parches de Atmosphère. OQB Updater instala el NSP automáticamente en la SD y copia los parches necesarios."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -350,7 +353,8 @@
                 "apps": [
                     "SpotiBacán (Spotify, con descargas)",
                     "SwitchStream (Stremio)",
-                    "XUPER TV SWITCH"
+                    "XUPER TV SWITCH",
+                    "YouTube (NSP + parches)"
                 ]
             },
             {
