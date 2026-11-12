@@ -362,6 +362,12 @@
         ]
     },
     "firmwares_etiquetas": {
+        "Firmware 23.5.0": {
+            "etiqueta": "Compatible con Nextendo",
+            "nota": "Es una de las versiones compatibles con Nextendo Network, para jugar en línea sin cuenta de Nintendo.",
+            "app": "Prelude (Nextendo Network)",
+            "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4"
+        },
         "Firmware 23.0.1": {
             "etiqueta": "Compatible con Nextendo",
             "nota": "Es una de las versiones compatibles con Nextendo Network, para jugar en línea sin cuenta de Nintendo.",
@@ -377,10 +383,11 @@
     },
     "nextendo": {
         "presentacion": "Nextendo Network es un servicio gratuito que te permite jugar en línea en tu Switch sin una cuenta de Nintendo: partidas, amigos y visitas en los juegos compatibles. Para usarlo necesitas Prelude, una app que conecta tu consola con los servidores de Nextendo.",
-        "como_empezar": "1) Instala un firmware compatible (23.0.1 o 22.5.0). En la sección de firmwares aparecen marcados como compatibles con Nextendo.\n2) Instala Prelude desde Apps › Sistema y utilidades.\n3) Crea tu cuenta en nextendo.network y vincúlala con tu Discord.\n4) Activa el modo Nextendo desde Prelude.\n\nEn el video tutorial verás cada paso con detalle.",
+        "como_empezar": "1) Instala un firmware compatible (23.5.0, 23.0.1 o 22.5.0). En la sección de firmwares aparecen marcados como compatibles con Nextendo.\n2) Instala Prelude desde Apps › Sistema y utilidades.\n3) Crea tu cuenta en nextendo.network y vincúlala con tu Discord.\n4) Activa el modo Nextendo desde Prelude.\n\nEn el video tutorial verás cada paso con detalle.",
         "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4",
         "wiki": "https://wiki.nextendo.network/errors",
         "firmwares": [
+            "23.5.0",
             "23.0.1",
             "22.5.0"
         ],
