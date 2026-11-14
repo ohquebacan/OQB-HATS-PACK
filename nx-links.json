@@ -882,7 +882,8 @@
         "warmboot_url": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/V1.4/OQB-WARMBOOT-23.5.zip"
     },
     "iconos_acceso_directo": {
-        "nextendo.nro": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/nextendo.jpg"
+        "nextendo.nro": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/nextendo.jpg",
+        "Switube.nro": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/switube.jpg"
     },
     "nexus_bacan": {
         "url": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/nexus-1.0/OQB-NEXUS-BACAN.zip",

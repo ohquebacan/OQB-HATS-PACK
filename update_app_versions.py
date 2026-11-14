@@ -87,8 +87,9 @@ def icono_nro(nro):
         return None
 
 
-# Ícono propio para un archivo sin .nro (un NSP, por ejemplo): una imagen en
-# iconos-propios/ con el nombre del archivo publicado más .png o .jpg.
+# Ícono propio: una imagen en iconos-propios/ con el nombre del archivo
+# publicado más .png o .jpg. Sirve para un archivo sin .nro (un NSP) y también
+# para reemplazar el ícono que trae el .nro cuando no nos gusta.
 PROPIOS = "iconos-propios"
 
 
@@ -321,10 +322,9 @@ def main():
             if url in actual:
                 nuevo[url] = actual[url]
             continue
-        if not datos.get("icono"):
-            propio = icono_propio(url)
-            if propio:
-                datos["icono"] = propio
+        propio = icono_propio(url)
+        if propio:
+            datos["icono"] = propio
         nuevo[url] = datos
 
     iconos_cambiaron = False if solo_comprobar else armar_zip_de_iconos(nuevo)
