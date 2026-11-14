@@ -84,7 +84,8 @@
         "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro",
         "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
         "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
-        "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip"
+        "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip",
+        "Switube (YouTube Music)": "https://github.com/dl3g0/Switube/releases/latest/download/Switube-Complete-SD.zip"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -147,7 +148,8 @@
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro",
-        "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip"
+        "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip",
+        "Switube (YouTube Music)": "https://github.com/dl3g0/Switube/releases/latest/download/Switube-Complete-SD.zip"
     },
     "cfws_detalle": {
         "OQB HATS PACK 23.5 · AMS 1.12.2": {
@@ -213,7 +215,8 @@
         "Bacán Shop": "Nuestra tienda de juegos por torrent, con instalación directa en la consola.",
         "Nexvyn OS (escritorio, como app)": "Un escritorio al estilo de una computadora, con tienda de apps, juegos y temas. Se abre como app normal y no cambia el menú HOME.",
         "LunarNX (Xbox y PlayStation a distancia)": "Juega desde la Switch con tu Xbox o tu PlayStation a distancia, o en la nube de Xbox (xCloud).",
-        "YouTube (NSP + parches)": "YouTube para el menú HOME, con sus parches de Atmosphère. OQB Updater instala el NSP automáticamente en la SD y copia los parches necesarios."
+        "YouTube (NSP + parches)": "YouTube para el menú HOME, con sus parches de Atmosphère. OQB Updater instala el NSP automáticamente en la SD y copia los parches necesarios.",
+        "Switube (YouTube Music)": "Cliente de YouTube Music: busca, arma playlists y descarga canciones para escucharlas sin internet. Trae un overlay para seguir oyendo música mientras juegas."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -352,6 +355,7 @@
                 "titulo": "Música, TV y video",
                 "apps": [
                     "SpotiBacán (Spotify, con descargas)",
+                    "Switube (YouTube Music)",
                     "SwitchStream (Stremio)",
                     "XUPER TV SWITCH",
                     "YouTube (NSP + parches)"
