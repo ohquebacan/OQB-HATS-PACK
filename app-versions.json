@@ -573,17 +573,5 @@
         ],
         "revisado": 4,
         "icono": "7561f8fe3b6d.jpg"
-    },
-    "https://github.com/dl3g0/Switube/releases/latest/download/Switube-Complete-SD.zip": {
-        "fecha": "2026-11-14T04:44:09Z",
-        "version": "0.1.0",
-        "nros": [
-            {
-                "ruta": "/switch\\Switube\\Switube.nro",
-                "version": "0.1.0"
-            }
-        ],
-        "icono": "f5d61510402f.jpg",
-        "revisado": 4
     }
 }
