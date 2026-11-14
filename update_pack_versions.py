@@ -95,6 +95,12 @@ def main():
 
         nuevo[nombre] = entrada
 
+    # Las entradas que este script no calcula (el pack de Nexus Bacán, que se
+    # fecha a mano) se conservan tal cual: sin ellas la app no avisa su update.
+    for nombre, entrada in actual.items():
+        if nombre not in nuevo:
+            nuevo[nombre] = entrada
+
     if not cambios:
         print("sin cambios")
         return 0
