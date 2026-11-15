@@ -23,6 +23,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Siempre sobre main: en un evento de release el checkout por defecto es
+          # el tag (sin rama) y el push final fallaba.
+          ref: main
 
       - name: Leer la fecha de cada pack y actualizar el json
         env:
