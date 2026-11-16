@@ -592,5 +592,12 @@
         "nro_version": "2.2.3",
         "icono": "666f741d5804.jpg",
         "revisado": 4
+    },
+    "https://github.com/natureglass/Brewser/releases/latest/download/brewser.nro": {
+        "fecha": "2026-09-17T20:33:17Z",
+        "version": "v0.1.1.31",
+        "nro_version": "0.1.131",
+        "icono": "ee028a646545.jpg",
+        "revisado": 4
     }
 }
