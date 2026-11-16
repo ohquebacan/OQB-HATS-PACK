@@ -85,7 +85,8 @@
         "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
         "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
         "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip",
-        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip"
+        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
+        "sLaunch (nuevo menú HOME)": "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -117,7 +118,8 @@
         "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
         "ToTK Save Editor": "https://github.com/electrotamp/ToTK-Save-Editor-App/releases/latest/download/totk_save_editor.nro",
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
-        "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip"
+        "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip",
+        "sLaunch (nuevo menú HOME)": "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro"
     },
     "apps_sysmodules": {
         "SaltyNX": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip",
@@ -173,7 +175,7 @@
         "JKSV BACAN": "Respalda y restaura tus partidas, con copia en la nube (Koofr, Nextcloud o Google Drive), y pone partidas completas al 100% de muchos juegos. Es nuestra versión de JKSV.",
         "Checkpoint": "Otro gestor de partidas, muy usado: respalda y restaura, con explorador de archivos, FTP y transferencia por USB. Alternativa a JKSV BACAN.",
         "VITA 3K": "Emulador experimental de PlayStation Vita.",
-        "Switch U": "Reemplaza el menú HOME por uno al estilo de Wii U, con temas, carpetas y pantalla de bloqueo.",
+        "Switch U": "Reemplaza el menú HOME por uno al estilo de Wii U, con temas, carpetas y pantalla de bloqueo. No se puede usar junto a HomeNX ni sLaunch.",
         "Akira": "Juega tu PS4 o PS5 a distancia (Remote Play) desde la Switch, usando chiaki-ng.",
         "Chiaki": "Juega tu PS4 o PS5 a distancia (Remote Play) desde la Switch.",
         "SimpleModDownloader": "Busca y descarga mods de GameBanana directamente en la consola.",
@@ -202,7 +204,7 @@
         "Switch Hero": "Juego de ritmo con guitarra, al estilo de Guitar Hero.",
         "SwitchStream (Stremio)": "Cliente de Stremio para ver películas y series en la Switch.",
         "XUPER TV SWITCH": "Televisión en vivo y contenido a la carta en la Switch.",
-        "HomeNX (nuevo menú HOME)": "Reemplaza el menú HOME, con carátulas, logros, Discord y Spotify. No se puede usar junto a Switch U.",
+        "HomeNX (nuevo menú HOME)": "Reemplaza el menú HOME, con carátulas, logros, Discord y Spotify. No se puede usar junto a Switch U ni sLaunch.",
         "PlayGuard (control parental)": "Control parental en la consola: límite de tiempo diario, PIN y restricciones, sin app del teléfono.",
         "Porpoise (GameCube/Wii)": "Otra versión de Dolphin, el emulador de GameCube y Wii.",
         "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "Juega con tu Switch en la PC hasta en 1080p a 60 FPS y con sonido, por USB-C o por red, sin dock ni capturadora.",
@@ -216,7 +218,8 @@
         "Nexvyn OS (escritorio, como app)": "Un escritorio al estilo de una computadora, con tienda de apps, juegos y temas. Se abre como app normal y no cambia el menú HOME.",
         "LunarNX (Xbox y PlayStation a distancia)": "Juega desde la Switch con tu Xbox o tu PlayStation a distancia, o en la nube de Xbox (xCloud).",
         "YouTube (NSP + parches)": "YouTube para el menú HOME, con sus parches de Atmosphère. OQB Updater instala el NSP automáticamente en la SD y copia los parches necesarios.",
-        "Switube (YouTube Music)": "Cliente de YouTube Music: busca, arma playlists y descarga canciones para escucharlas sin internet. Trae un overlay para seguir oyendo música mientras juegas."
+        "Switube (YouTube Music)": "Cliente de YouTube Music: busca, arma playlists y descarga canciones para escucharlas sin internet. Trae un overlay para seguir oyendo música mientras juegas.",
+        "sLaunch (nuevo menú HOME)": "Reemplaza el menú HOME por uno rápido y muy personalizable: temas, fondos de video, widgets y música. Se instala y se quita desde su app sInstaller, que también lo actualiza. No se puede usar junto a Switch U ni HomeNX."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -277,6 +280,7 @@
                     "Switch U",
                     "HomeNX (nuevo menú HOME)",
                     "NXToggle (HomeNX)",
+                    "sLaunch (nuevo menú HOME)",
                     "CardsNX (como app)",
                     "HomeNX estilo Wii U (como app)",
                     "Nexvyn OS (escritorio, como app)"
