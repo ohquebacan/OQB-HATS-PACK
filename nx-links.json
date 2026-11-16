@@ -86,7 +86,8 @@
         "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
         "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip",
         "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
-        "sLaunch (nuevo menú HOME)": "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro"
+        "sLaunch (nuevo menú HOME)": "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro",
+        "Brewser (apps y juegos web)": "https://github.com/natureglass/Brewser/releases/latest/download/brewser.nro"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
@@ -151,7 +152,8 @@
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro",
         "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip",
-        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip"
+        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
+        "Brewser (apps y juegos web)": "https://github.com/natureglass/Brewser/releases/latest/download/brewser.nro"
     },
     "cfws_detalle": {
         "OQB HATS PACK 23.5 · AMS 1.12.2": {
@@ -219,7 +221,8 @@
         "LunarNX (Xbox y PlayStation a distancia)": "Juega desde la Switch con tu Xbox o tu PlayStation a distancia, o en la nube de Xbox (xCloud).",
         "YouTube (NSP + parches)": "YouTube para el menú HOME, con sus parches de Atmosphère. OQB Updater instala el NSP automáticamente en la SD y copia los parches necesarios.",
         "Switube (YouTube Music)": "Cliente de YouTube Music: busca, arma playlists y descarga canciones para escucharlas sin internet. Trae un overlay para seguir oyendo música mientras juegas.",
-        "sLaunch (nuevo menú HOME)": "Reemplaza el menú HOME por uno rápido y muy personalizable: temas, fondos de video, widgets y música. Se instala y se quita desde su app sInstaller, que también lo actualiza. No se puede usar junto a Switch U ni HomeNX."
+        "sLaunch (nuevo menú HOME)": "Reemplaza el menú HOME por uno rápido y muy personalizable: temas, fondos de video, widgets y música. Se instala y se quita desde su app sInstaller, que también lo actualiza. No se puede usar junto a Switch U ni HomeNX.",
+        "Brewser (apps y juegos web)": "Plataforma de apps y juegos hechos con tecnología web, con su propio catálogo (brewser.io). No es un navegador para cualquier página. Para que vaya mejor, ábrelo manteniendo R al abrir un juego."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -369,6 +372,12 @@
                 "titulo": "Control parental",
                 "apps": [
                     "PlayGuard (control parental)"
+                ]
+            },
+            {
+                "titulo": "Apps y juegos web",
+                "apps": [
+                    "Brewser (apps y juegos web)"
                 ]
             }
         ]
