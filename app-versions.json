@@ -14,9 +14,9 @@
         "revisado": 4
     },
     "https://github.com/ticohq/tico/releases/latest/download/tico.nro": {
-        "fecha": "2026-10-22T02:29:45Z",
-        "version": "0.8.0",
-        "nro_version": "0.8.0",
+        "fecha": "2026-11-16T17:21:52Z",
+        "version": "0.8.2",
+        "nro_version": "0.8.2",
         "icono": "fa54791ac9e9.jpg",
         "revisado": 4
     },
@@ -549,9 +549,9 @@
         "revisado": 4
     },
     "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
-        "fecha": "2026-11-16T05:07:27Z",
-        "version": "v1.3.19",
-        "nro_version": "1.3.19",
+        "fecha": "2026-11-16T17:52:36Z",
+        "version": "v1.3.25",
+        "nro_version": "1.3.25",
         "icono": "279b56bb5046.jpg",
         "revisado": 4
     },
@@ -584,6 +584,13 @@
             }
         ],
         "icono": "f5d61510402f.jpg",
+        "revisado": 4
+    },
+    "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro": {
+        "fecha": "2026-11-12T18:28:15Z",
+        "version": "v2.2.3",
+        "nro_version": "2.2.3",
+        "icono": "666f741d5804.jpg",
         "revisado": 4
     }
 }
