@@ -549,9 +549,9 @@
         "revisado": 4
     },
     "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro": {
-        "fecha": "2026-11-16T19:18:27Z",
-        "version": "v1.3.26",
-        "nro_version": "1.3.26",
+        "fecha": "2026-11-17T00:00:01Z",
+        "version": "v1.3.27",
+        "nro_version": "1.3.27",
         "icono": "279b56bb5046.jpg",
         "revisado": 4
     },
@@ -575,12 +575,12 @@
         "icono": "7561f8fe3b6d.jpg"
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip": {
-        "fecha": "2026-11-14T11:48:44Z",
+        "fecha": "2026-11-17T02:46:24Z",
         "version": "1.0",
         "nros": [
             {
                 "ruta": "/switch/Switube/Switube.nro",
-                "version": "0.1.0"
+                "version": "0.2.0"
             }
         ],
         "icono": "f5d61510402f.jpg",
