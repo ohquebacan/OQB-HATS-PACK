@@ -290,13 +290,13 @@
         "icono": "037594cd0b12.jpg",
         "revisado": 4
     },
-    "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip": {
-        "fecha": "2025-11-22T10:51:33Z",
-        "version": "v2.8.2",
+    "https://github.com/averne/Fizeau/releases/download/v2.8.3/Fizeau-2.8.3-5bf3f0d.zip": {
+        "fecha": "2026-11-15T13:07:02Z",
+        "version": "v2.8.3",
         "nros": [
             {
                 "ruta": "/switch/Fizeau/Fizeau.nro",
-                "version": "2.8.2"
+                "version": "2.8.3"
             }
         ],
         "icono": "3cae24a6a165.jpg",
@@ -601,9 +601,9 @@
         "revisado": 4
     },
     "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro": {
-        "fecha": "2026-11-18T21:20:32Z",
-        "version": "v2.0.0",
-        "nro_version": "1.0.0",
+        "fecha": "2026-11-19T11:21:51Z",
+        "version": "v2.1.0",
+        "nro_version": "2.1.0",
         "icono": "9aa5bf14f4f0.jpg",
         "revisado": 4
     },
