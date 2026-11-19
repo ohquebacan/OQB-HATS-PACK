@@ -56,7 +56,7 @@
         "IconGrabber OQB": "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro",
         "CyberFoil": "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip",
         "Horizon-OC": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip",
-        "Fizeau (2.8.2)": "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip",
+        "Fizeau (2.8.3)": "https://github.com/averne/Fizeau/releases/download/v2.8.3/Fizeau-2.8.3-5bf3f0d.zip",
         "Dolphin (GameCube/Wii)": "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro",
         "Cemu (Wii U)": "https://github.com/NaGaa95/Cemu-nx/releases/latest/download/cemu.nro",
         "DraStic (Nintendo DS)": "https://github.com/NaGaa95/DrasticDS_nx/releases/latest/download/DrasticDS.nro",
@@ -126,7 +126,7 @@
     "apps_sysmodules": {
         "SaltyNX": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip",
         "Horizon-OC": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip",
-        "Fizeau (2.8.2)": "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip",
+        "Fizeau (2.8.3)": "https://github.com/averne/Fizeau/releases/download/v2.8.3/Fizeau-2.8.3-5bf3f0d.zip",
         "SysDVR": "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip",
         "Switch Frame Tap (jugar en la PC) (0.7.23-beta3)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.23-beta3/switch-frame-tap-0.7.23-beta3-switch.zip",
         "CyberFoil": "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip",
@@ -309,7 +309,7 @@
         "IconGrabber OQB": "Cambia los iconos de tus juegos por los de SteamGridDB. Es nuestra versión, con arreglos.",
         "CyberFoil": "Instalador de juegos en formato NSP, NSZ, XCI y XCZ.",
         "Horizon-OC": "Overclock de CPU, GPU y RAM para Atmosphère. Para usuarios avanzados.",
-        "Fizeau (2.8.2)": "Ajusta los colores de la pantalla: temperatura de color, filtro de luz azul, contraste y gamma.",
+        "Fizeau (2.8.3)": "Ajusta los colores de la pantalla: temperatura de color, filtro de luz azul, contraste y gamma.",
         "Dolphin (GameCube/Wii)": "Emulador de GameCube y Wii.",
         "Cemu (Wii U)": "Emulador de Wii U.",
         "DraStic (Nintendo DS)": "Emulador de Nintendo DS.",
@@ -425,7 +425,7 @@
                 "apps": [
                     "SaltyNX",
                     "Horizon-OC",
-                    "Fizeau (2.8.2)"
+                    "Fizeau (2.8.3)"
                 ]
             },
             {
