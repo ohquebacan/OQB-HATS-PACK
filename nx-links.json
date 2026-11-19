@@ -80,7 +80,7 @@
         "HomeNX estilo Wii U (como app)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX.nro",
         "PlayGuard (control parental)": "https://github.com/JigSawFr/PlayGuard/releases/latest/download/playguard.nro",
         "Porpoise (GameCube/Wii)": "https://github.com/PalindromicBreadLoaf/nezumiiruka/releases/latest/download/nezumiiruka.nro",
-        "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip",
+        "Switch Frame Tap (jugar en la PC) (0.7.23-beta3)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.23-beta3/switch-frame-tap-0.7.23-beta3-switch.zip",
         "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro",
         "Nexvyn OS (escritorio, como app)": "https://github.com/sonerx7/Nexvyn-OS-NX/releases/latest/download/NexvynOS.nro",
         "LunarNX (Xbox y PlayStation a distancia)": "https://github.com/thinkzhou/LunarNX/releases/latest/download/LunarNX.nro",
@@ -128,7 +128,7 @@
         "Horizon-OC": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip",
         "Fizeau (2.8.2)": "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip",
         "SysDVR": "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip",
-        "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip",
+        "Switch Frame Tap (jugar en la PC) (0.7.23-beta3)": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.23-beta3/switch-frame-tap-0.7.23-beta3-switch.zip",
         "CyberFoil": "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip",
         "NX-MCP (control con IA)": "https://github.com/CompSciOrBust/NX-MCP/releases/latest/download/launcher.nro"
     },
@@ -329,7 +329,7 @@
         "HomeNX (nuevo menú HOME)": "Reemplaza el menú HOME, con carátulas, logros, Discord y Spotify. No se puede usar junto a Switch U ni sLaunch.",
         "PlayGuard (control parental)": "Control parental en la consola: límite de tiempo diario, PIN y restricciones, sin app del teléfono.",
         "Porpoise (GameCube/Wii)": "Otra versión de Dolphin, el emulador de GameCube y Wii.",
-        "Switch Frame Tap (jugar en la PC) (0.7.13.1)": "Juega con tu Switch en la PC hasta en 1080p a 60 FPS y con sonido, por USB-C o por red, sin dock ni capturadora.",
+        "Switch Frame Tap (jugar en la PC) (0.7.23-beta3)": "Juega con tu Switch en la PC hasta en 1080p a 60 FPS y con sonido, por USB-C o por red, sin dock ni capturadora.",
         "NX-MCP (control con IA)": "Permite que un asistente de inteligencia artificial controle la consola.",
         "NXToggle (HomeNX)": "Elige qué menú usa HomeNX (CardsNX o el estilo Wii U), lo activa o desactiva y lo actualiza. Necesita HomeNX instalado.",
         "CardsNX (como app)": "El menú de tarjetas de HomeNX como app normal, para probarlo sin cambiar el menú HOME.",
@@ -432,7 +432,7 @@
                 "titulo": "Jugar o transmitir en la PC",
                 "apps": [
                     "SysDVR",
-                    "Switch Frame Tap (jugar en la PC) (0.7.13.1)"
+                    "Switch Frame Tap (jugar en la PC) (0.7.23-beta3)"
                 ]
             },
             {
