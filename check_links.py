@@ -89,11 +89,17 @@ def main():
 
     # Varias secciones comparten la misma url; se comprueba una vez y se
     # informa de todos los sitios donde aparece.
+    # Los ports vienen de ports.json de alucardiio-yt (sync_ports.py): si uno se
+    # rompe, se arregla allá. Aquí no se comprueban para no avisar de lo que
+    # no podemos arreglar.
+    de_ports = set((catalogo.get("apps_ports") or {}).values()) | set((catalogo.get("iconos_ports") or {}).values())
     donde = {}
     for camino, url in recorrer(catalogo):
+        if url in de_ports or (camino and camino[0] in ("apps_ports", "iconos_ports")):
+            continue
         donde.setdefault(url, []).append("/".join(camino))
 
-    print(f"{len(donde)} enlaces distintos en {len(list(recorrer(catalogo)))} entradas\n")
+    print(f"{len(donde)} enlaces distintos para comprobar (sin los ports)\n")
 
     rotos = []
     for numero, (url, sitios) in enumerate(sorted(donde.items()), start=1):

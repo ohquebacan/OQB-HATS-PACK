@@ -248,6 +248,68 @@ def marcas_de(nombres):
     return ["/" + n.lstrip("/") for n in sorted(propios, key=peso)[:3]]
 
 
+def pedir_rango(url, rango, tamano=None):
+    pedido = urllib.request.Request(url, headers={"User-Agent": "OQB-catalogo", "Range": rango})
+    with urllib.request.urlopen(pedido, timeout=120) as r:
+        if r.status != 206:
+            raise ValueError(f"el servidor no da rangos (HTTP {r.status})")
+        if tamano is not None:
+            tamano.append(int(r.headers.get("Content-Range", "/0").rsplit("/", 1)[-1]))
+        return r.read()
+
+
+def indice_zip(url):
+    """Los nombres de los archivos de un zip remoto sin bajarlo: el final (donde
+    está el índice) y el índice, con dos pedidos parciales. Los ports pesan
+    hasta 2 GB; bajarlos enteros cada vez que cambian no tiene sentido."""
+    # El tamaño con un pedido de 1 byte: el servidor de GitHub no acepta
+    # «los últimos N bytes» (bytes=-N), solo rangos con inicio y fin.
+    tamano = []
+    pedir_rango(url, "bytes=0-0", tamano)
+    total = tamano[0]
+    if total <= 0:
+        raise ValueError("sin tamaño")
+    cola = pedir_rango(url, f"bytes={max(0, total - 65536)}-{total - 1}")
+    fin = cola.rfind(b"PK\x05\x06")
+    if fin < 0:
+        raise ValueError("no es un zip")
+    tam, desde = struct.unpack("<II", cola[fin + 12:fin + 20])
+    if desde == 0xFFFFFFFF or tam == 0xFFFFFFFF:  # zip64
+        z64 = cola.rfind(b"PK\x06\x06")
+        if z64 < 0:
+            raise ValueError("zip64 sin su registro")
+        tam, desde = struct.unpack("<QQ", cola[z64 + 40:z64 + 56])
+    indice = pedir_rango(url, f"bytes={desde}-{desde + tam - 1}")
+    nombres, p = [], 0
+    while p + 46 <= len(indice) and indice[p:p + 4] == b"PK\x01\x02":
+        largo, extra, comentario = struct.unpack("<HHH", indice[p + 28:p + 34])
+        nombres.append(indice[p + 46:p + 46 + largo].decode("utf-8", "replace"))
+        p += 46 + largo + extra + comentario
+    return nombres
+
+
+def versiones_de_port(url, url_icono):
+    """Para un port: qué archivos deja en la SD (para saber si está instalado) y
+    su ícono, el de ports.json."""
+    nombres = [n for n in indice_zip(url) if not n.startswith("__MACOSX") and not n.endswith("/")]
+    quitar = envoltorio(nombres)
+    propios = [n[len(quitar):] for n in nombres]
+    # Primero el .nro del port: es lo que mejor dice que está instalado.
+    nros = ["/" + n.lstrip("/") for n in propios if n.lower().startswith("switch/") and n.lower().endswith(".nro")]
+    marcas = (nros[:1] + [m for m in marcas_de(propios) if m not in nros[:1]])[:3]
+    salida = {"marcas": marcas} if marcas else {}
+    if url_icono:
+        try:
+            pedido = urllib.request.Request(url_icono, headers={"User-Agent": "OQB-catalogo"})
+            with urllib.request.urlopen(pedido, timeout=60) as r:
+                icono = guardar_icono(r.read())
+            if icono:
+                salida["icono"] = icono
+        except Exception as error:
+            print(f"aviso: ícono de {url}: {error}")
+    return salida
+
+
 def fecha_por_cabeceras(url):
     """Para enlaces que no son releases de GitHub (GitLab, por ejemplo): la
     fecha de modificación que da el servidor, en el mismo formato."""
@@ -278,6 +340,11 @@ def main():
     except FileNotFoundError:
         actual = OrderedDict()
 
+    with open(CATALOGO, encoding="utf-8") as fichero:
+        catalogo = json.load(fichero, object_pairs_hook=OrderedDict)
+    ports = set((catalogo.get("apps_ports") or {}).values())
+    iconos_ports = catalogo.get("iconos_ports") or {}
+
     cache = {}
     nuevo = OrderedDict()
     for url in urls_de_apps():
@@ -306,7 +373,10 @@ def main():
                 datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado"))
             else:
                 try:
-                    datos.update(versiones_del_archivo(url, asset_api))
+                    if url in ports:
+                        datos.update(versiones_de_port(url, iconos_ports.get(url)))
+                    else:
+                        datos.update(versiones_del_archivo(url, asset_api))
                     datos["revisado"] = REVISION
                 except Exception as error:
                     # Se deja la entrada anterior completa (fecha incluida): así
