@@ -587,9 +587,9 @@
         "revisado": 4
     },
     "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro": {
-        "fecha": "2026-11-18T19:18:03Z",
-        "version": "v2.5.0",
-        "nro_version": "2.5.0",
+        "fecha": "2026-11-19T01:08:01Z",
+        "version": "v2.5.2",
+        "nro_version": "2.5.2",
         "icono": "666f741d5804.jpg",
         "revisado": 4
     },
@@ -598,6 +598,1285 @@
         "version": "v0.1.1.31",
         "nro_version": "0.1.131",
         "icono": "ee028a646545.jpg",
+        "revisado": 4
+    },
+    "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro": {
+        "fecha": "2026-11-18T21:20:32Z",
+        "version": "v2.0.0",
+        "nro_version": "1.0.0",
+        "icono": "9aa5bf14f4f0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
+        "fecha": "2026-09-15T20:15:52Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/atmosphere/contents/0100B00B51230000/romfs/common.rpf",
+            "/atmosphere/contents/0100B00B51230000/romfs/update/update.rpf",
+            "/atmosphere/contents/0100B00B51230000/romfs/update/update2.rpf"
+        ],
+        "icono": "9b4ec4185403.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": {
+        "fecha": "2026-11-18T03:05:21Z",
+        "version": "",
+        "marcas": [
+            "/switch/gow-nx/gow-nx.nro",
+            "/switch/gow-nx/data/mods/gow1_psp2_SCEA.psarc.kbm.tsv",
+            "/switch/gow-nx/data/mods/gow1_psp2_SCEA.psarc.vtpatch"
+        ],
+        "icono": "ee137f4c39b0.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": {
+        "fecha": "2026-11-16T03:07:47Z",
+        "version": "",
+        "marcas": [
+            "/switch/kof2002um-nx/kof2002um-nx.nro",
+            "/switch/kof2002um-nx/game.nxidx",
+            "/switch/kof2002um-nx/game.nxpack"
+        ],
+        "icono": "48fe30ecb758.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip": {
+        "fecha": "2026-11-13T18:43:10Z",
+        "version": "",
+        "marcas": [
+            "/switch/manhunt1_nx/manhunt.nro",
+            "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1A.RIB",
+            "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1B.RIB"
+        ],
+        "icono": "2071f458e377.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip": {
+        "fecha": "2026-11-14T05:36:51Z",
+        "version": "",
+        "marcas": [
+            "/switch/mp2-nx/mp2-nx.nro",
+            "/switch/mp2-nx/LICENSE-decomp-CC0.txt",
+            "/switch/mp2-nx/LICENSE-Dusklight-Switch-CC0.txt"
+        ],
+        "icono": "56470bf5135c.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip": {
+        "fecha": "2026-11-16T00:34:03Z",
+        "version": "",
+        "marcas": [
+            "/switch/msr/msr.nro",
+            "/switch/msr/code.bin",
+            "/switch/msr/exheader.bin"
+        ],
+        "icono": "8c9b135e6b77.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip": {
+        "fecha": "2026-11-16T03:51:11Z",
+        "version": "",
+        "marcas": [
+            "/switch/goldeneye_xbla/Goldeneye_remastered.nro",
+            "/switch/goldeneye_xbla/arranque_29.log",
+            "/switch/goldeneye_xbla/cache/nfsmw_dksh.bin"
+        ],
+        "icono": "9d67dde84ab6.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip": {
+        "fecha": "2026-10-29T00:58:20Z",
+        "version": "",
+        "marcas": [
+            "/switch/shaolinmonks/shaolinmonks.nro",
+            "/switch/shaolinmonks/cache/pipelines.bin",
+            "/switch/shaolinmonks/cache/shaders/008026acb75a563c.spv"
+        ],
+        "icono": "e5ce71549f71.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshot.zip": {
+        "fecha": "2026-11-18T21:57:55Z",
+        "version": "",
+        "marcas": [
+            "/switch/NFSHP2-Switch/NFSHP2-Switch.nro",
+            "/switch/NFSHP2-Switch/ZDIR.BIN",
+            "/switch/NFSHP2-Switch/ZZDATA.BIN"
+        ],
+        "icono": "48a58b4cb522.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip": {
+        "fecha": "2026-10-26T03:18:14Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfscx/nfscx.nro",
+            "/switch/nfscx/game/default.xbe",
+            "/switch/nfscx/game/NFS/ZDIR.BIN"
+        ],
+        "icono": "eb1993e4cd07.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfs3.zip": {
+        "fecha": "2026-11-02T05:14:58Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfs_3/nfs_3.nro",
+            "/switch/nfs_3/game/nfs3.bin",
+            "/switch/nfs_3/game/nfs3.cue"
+        ],
+        "icono": "2b339a5b486f.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshs.zip": {
+        "fecha": "2026-11-01T19:58:20Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfs4_retroarch/nfs4_high_stakes.nro",
+            "/switch/nfs4_retroarch/game/Need for Speed - High Stakes (USA).bin",
+            "/switch/nfs4_retroarch/game/Need for Speed - High Stakes (USA).cue"
+        ],
+        "icono": "78042bd57a2e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfspu.zip": {
+        "fecha": "2026-11-02T05:26:11Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfs_5/nfs_5.nro",
+            "/switch/nfs_5/game/n1.bin",
+            "/switch/nfs_5/game/n10.bin"
+        ],
+        "icono": "387da908efbc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfu2.zip": {
+        "fecha": "2026-10-26T03:22:18Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfsu2x/nfsu2x.nro",
+            "/switch/nfsu2x/game/B3/B3.xbe",
+            "/switch/nfsu2x/game/B3/Data/After.kfs"
+        ],
+        "icono": "b2152051d4ab.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp1.zip": {
+        "fecha": "2026-09-30T22:35:02Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfsmw-nx/nfsmw-nx.nro",
+            "/switch/nfsmw-nx/game_root/default.xex",
+            "/switch/nfsmw-nx/game_root/Movies/attract_movie_spanish_pal.wmv"
+        ],
+        "icono": "b90bdeb959e2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip": {
+        "fecha": "2026-09-30T22:35:32Z",
+        "version": "",
+        "marcas": [
+            "/switch/nfsmw-nx/game_root/NFS/ZZDATA0.BIN",
+            "/switch/nfsmw-nx/game_root/NFS/ZZDATA1.BIN",
+            "/switch/nfsmw-nx/game_root/NFS/ZZDATA2.BIN"
+        ],
+        "icono": "b90bdeb959e2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/db3.zip": {
+        "fecha": "2026-11-16T03:51:16Z",
+        "version": "",
+        "marcas": [
+            "/switch/tenkaichi-NX.nro",
+            "/switch/bt3-switch-data/DBZP.BIN",
+            "/switch/bt3-switch-data/disc/BIN/DBZP.BIN"
+        ],
+        "icono": "2c843df930e2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conded.zip": {
+        "fecha": "2026-11-19T01:16:30Z",
+        "version": "",
+        "marcas": [
+            "/switch/condemned-nx/condemned-nx.nro",
+            "/switch/condemned-nx/cco.toml",
+            "/switch/condemned-nx/cco_shaders.dslib"
+        ],
+        "icono": "9e3e523ee817.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blodext.zip": {
+        "fecha": "2026-11-04T20:56:58Z",
+        "version": "",
+        "marcas": [
+            "/switch/brextreme-nx/brextreme.nro",
+            "/switch/brextreme-nx/LICENSES.txt",
+            "/switch/brextreme-nx/brextreme-settings.toml"
+        ],
+        "icono": "4c6067fe8b82.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jak2.zip": {
+        "fecha": "2026-11-08T03:21:14Z",
+        "version": "",
+        "marcas": [
+            "/switch/jak2/jak2.nro",
+            "/switch/jak2/data/.DS_Store",
+            "/switch/jak2/data/out/jak2/obj/mech-ag.go"
+        ],
+        "icono": "ccacb27d4e6e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tgf.zip": {
+        "fecha": "2026-11-19T01:19:31Z",
+        "version": "",
+        "marcas": [
+            "/switch/godfather-nx/godfather.nro",
+            "/switch/godfather-nx/game/cmd.txt",
+            "/switch/godfather-nx/game/default.xbe"
+        ],
+        "icono": "26606145f0ba.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt2.zip": {
+        "fecha": "2026-11-02T05:41:49Z",
+        "version": "",
+        "marcas": [
+            "/switch/gran_turismo_2/gt2.nro",
+            "/switch/gran_turismo_2/game/gt2.cue",
+            "/switch/gran_turismo_2/game/gt22.bin"
+        ],
+        "icono": "bf153a1573e8.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt3.zip": {
+        "fecha": "2026-11-03T23:54:18Z",
+        "version": "",
+        "marcas": [
+            "/switch/gt3r/gt3r.nro",
+            "/switch/gt3r/gt3.iso"
+        ],
+        "icono": "acf4f4d4c3dd.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pep.zip": {
+        "fecha": "2026-11-02T05:53:56Z",
+        "version": "",
+        "marcas": [
+            "/switch/pepsiman/pepsiman.nro",
+            "/switch/pepsiman/game/pep.bin",
+            "/switch/pepsiman/game/pep.cue"
+        ],
+        "icono": "d0f4ab6bf3c1.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/med.zip": {
+        "fecha": "2026-11-02T06:04:34Z",
+        "version": "",
+        "marcas": [
+            "/switch/medievil/medievil.nro",
+            "/switch/medievil/game/med.cue",
+            "/switch/medievil/game/med1.bin"
+        ],
+        "icono": "97ede7de7ece.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/herc.zip": {
+        "fecha": "2026-11-02T06:18:31Z",
+        "version": "",
+        "marcas": [
+            "/switch/hercules/hercules.nro",
+            "/switch/hercules/game/herc.bin",
+            "/switch/hercules/game/herc.cue"
+        ],
+        "icono": "7176f4e1e422.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip": {
+        "fecha": "2026-11-02T06:30:40Z",
+        "version": "",
+        "marcas": [
+            "/switch/twisted_metal/twisted_metal.nro",
+            "/switch/twisted_metal/game/tw.cue",
+            "/switch/twisted_metal/game/tw1.bin"
+        ],
+        "icono": "22cb424123f3.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip": {
+        "fecha": "2026-10-29T23:19:47Z",
+        "version": "",
+        "marcas": [
+            "/switch/street-nx/street.nro",
+            "/switch/street-nx/game/data/anims.big",
+            "/switch/street-nx/game/data/aptanims/aptfntz.big"
+        ],
+        "icono": "654854b73fec.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip": {
+        "fecha": "2026-11-16T03:14:20Z",
+        "version": "",
+        "marcas": [
+            "/switch/oot3dre/oot3d_native_game.nro",
+            "/switch/oot3dre/boot-status.txt",
+            "/switch/oot3dre/config/anisotropy"
+        ],
+        "icono": "029ed302d389.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip": {
+        "fecha": "2026-10-22T01:02:34Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/switchwaker/switchwaker.nro",
+            "/switch/switchwaker/GZLE01.iso",
+            "/switch/switchwaker/initial_dksh_cache.bin"
+        ],
+        "icono": "5239fc788034.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip": {
+        "fecha": "2026-10-22T01:08:42Z",
+        "version": "",
+        "marcas": [
+            "/switch/wwhd/wwhd.nro",
+            "/switch/wwhd/background_shaders/done.txt",
+            "/switch/wwhd/game/code/app.xml"
+        ],
+        "icono": "59831d1c95ce.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip": {
+        "fecha": "2026-11-02T00:34:42Z",
+        "version": "",
+        "marcas": [
+            "/switch/resident_evil_1_retroarch/resident_evil_1.nro",
+            "/switch/resident_evil_1_retroarch/game/re1.bin",
+            "/switch/resident_evil_1_retroarch/game/re1.cue"
+        ],
+        "icono": "d4dad0f0ae86.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip": {
+        "fecha": "2026-11-02T01:27:10Z",
+        "version": "",
+        "marcas": [
+            "/switch/resident_evil_2_leon/resident_evil_2_leon.nro",
+            "/switch/resident_evil_2_leon/game/re21.bin",
+            "/switch/resident_evil_2_leon/game/re21.cue"
+        ],
+        "icono": "79c11b84ebc5.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip": {
+        "fecha": "2026-11-02T01:34:26Z",
+        "version": "",
+        "marcas": [
+            "/switch/resident_evil_2_claire/resident_evil_2_claire.nro",
+            "/switch/resident_evil_2_claire/game/re22.bin",
+            "/switch/resident_evil_2_claire/game/re22.cue"
+        ],
+        "icono": "9a42f1227925.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re3.zip": {
+        "fecha": "2026-11-02T01:57:30Z",
+        "version": "",
+        "marcas": [
+            "/switch/resident_evil_3/resident_evil_3.nro",
+            "/switch/resident_evil_3/game/re3.bin",
+            "/switch/resident_evil_3/game/re3.cue"
+        ],
+        "icono": "e1dfa2daf29d.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/resu.zip": {
+        "fecha": "2026-11-02T02:10:56Z",
+        "version": "",
+        "marcas": [
+            "/switch/resident_evil_survivor/resident_evil_survivor.nro",
+            "/switch/resident_evil_survivor/game/resu.bin",
+            "/switch/resident_evil_survivor/game/resu.cue"
+        ],
+        "icono": "7db5611ddb80.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/revc.zip": {
+        "fecha": "2026-11-15T20:03:46Z",
+        "version": "",
+        "marcas": [
+            "/switch/recvx/recvx.nro",
+            "/switch/recvx/recvx.log",
+            "/switch/recvx/Resident Evil - Code - Veronica X (USA).iso"
+        ],
+        "icono": "ec9cc1974932.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip": {
+        "fecha": "2026-10-30T18:30:40Z",
+        "version": "",
+        "marcas": [
+            "/switch/tekken3/tekken3_nx.nro",
+            "/switch/tekken3/config.txt",
+            "/switch/tekken3/disc/Tekken 3 (USA) (Track 1).bin"
+        ],
+        "icono": "ad9fe2ed0935.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spm.zip": {
+        "fecha": "2026-11-02T00:55:40Z",
+        "version": "",
+        "marcas": [
+            "/switch/super_metroid_snes/super_metroid_snes.nro",
+            "/switch/super_metroid_snes/game/spm.smc",
+            "/retroarch/cores/snes9x_libretro_libnx.nro"
+        ],
+        "icono": "b61c01b6eae2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bl4ck.zip": {
+        "fecha": "2026-10-25T19:28:25Z",
+        "version": "",
+        "marcas": [
+            "/switch/Black/black.nro",
+            "/switch/Black/chars/guns/GrdLnchr.wdd",
+            "/switch/Black/chars/guns/GrdLnchr.wdo"
+        ],
+        "icono": "7f500389dc13.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cashd.zip": {
+        "fecha": "2026-11-19T01:32:09Z",
+        "version": "",
+        "marcas": [
+            "/switch/cvhd/cvhd.nro",
+            "/switch/cvhd/args.txt",
+            "/switch/cvhd/deko3d"
+        ],
+        "icono": "d350901419b2.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip": {
+        "fecha": "2026-07-18T00:00:26Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/sotn/sotn.nro",
+            "/switch/sotn/assets/.DS_Store",
+            "/switch/sotn/assets/.nomedia"
+        ],
+        "icono": "edefa16355f2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip": {
+        "fecha": "2026-11-13T18:46:59Z",
+        "version": "",
+        "marcas": [
+            "/switch/spm-nx/spm-nx.nro",
+            "/switch/spm-nx/01793160909_01d6eccc00680000_thread_info.bin",
+            "/switch/spm-nx/01794104284_05446530aca7e000.log"
+        ],
+        "icono": "844acfcc70cf.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip": {
+        "fecha": "2026-10-09T00:41:04Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/strikers/strikers.nro",
+            "/switch/strikers/cache/dawn_cache.db",
+            "/switch/strikers/cache/pipeline_cache.db"
+        ],
+        "icono": "5a5caa82c602.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip": {
+        "fecha": "2026-11-16T03:16:27Z",
+        "version": "",
+        "marcas": [
+            "/switch/partyboard/partyboard.nro",
+            "/switch/partyboard/initial_dawn_cache.db",
+            "/switch/partyboard/initial_pipeline_cache.db"
+        ],
+        "icono": "0590f0b1d28a.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip": {
+        "fecha": "2026-10-22T01:27:09Z",
+        "version": "",
+        "marcas": [
+            "/switch/b3x/b3x.nro",
+            "/switch/b3x/b3x_env.txt",
+            "/switch/b3x/game/dashupdate.xbe"
+        ],
+        "icono": "e1c24a1da770.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip": {
+        "fecha": "2026-10-21T20:57:28Z",
+        "version": "",
+        "marcas": [
+            "/switch/skate3rust/skate3rust.nro",
+            "/switch/skate3rust/assets/private/audio/aems/AC_Commerce_Unit_1.abk",
+            "/switch/skate3rust/assets/private/audio/aems/AC_Commerce_Unit_2.abk"
+        ],
+        "icono": "c32706acde35.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip": {
+        "fecha": "2026-10-10T05:39:06Z",
+        "version": "",
+        "marcas": [
+            "/switch/defjamx/defjamx.nro",
+            "/switch/defjamx/defjamx_log.txt",
+            "/switch/defjamx/game/assets/ai/ai.viv"
+        ],
+        "icono": "690f3ea8f65d.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip": {
+        "fecha": "2026-10-18T20:05:51Z",
+        "version": "",
+        "marcas": [
+            "/switch/pes21_nx/pes21_nx.nro",
+            "/switch/pes21_nx/assets/responses/CmdCheckString.bin",
+            "/switch/pes21_nx/assets/responses/CmdCreateUser.bin"
+        ],
+        "icono": "20c3a134412d.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conker.zip": {
+        "fecha": "2026-10-28T02:38:37Z",
+        "version": "",
+        "marcas": [
+            "/switch/ConkerRecomp/ConkerRecomp_ES.nro",
+            "/switch/ConkerRecomp/conker.z64",
+            "/switch/ConkerRecomp/Mods/CONKERS_BFD_HIRESTEXTURES.rtz"
+        ],
+        "icono": "b3ec18282005.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip": {
+        "fecha": "2026-07-06T06:59:54Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/redriver2/REDRIVER2.nro",
+            "/switch/redriver2/config.ini",
+            "/switch/redriver2/DRIVER2/DATA/CARCONT.RAW"
+        ],
+        "icono": "7b99100cc377.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip": {
+        "fecha": "2026-10-29T00:56:43Z",
+        "version": "",
+        "marcas": [
+            "/switch/MKDD-NX/MKDD-NX.nro",
+            "/switch/MKDD-NX/config/settings.ini",
+            "/switch/MKDD-NX/config/shaders.bin"
+        ],
+        "icono": "268e5a539c5f.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip": {
+        "fecha": "2026-10-19T00:35:47Z",
+        "version": "",
+        "marcas": [
+            "/switch/mk64_spaghetti/Spaghettify.nro",
+            "/switch/mk64_spaghetti/mk64.o2r",
+            "/switch/mk64_spaghetti/spaghetti.o2r"
+        ],
+        "icono": "0e8dc1209659.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip": {
+        "fecha": "2026-10-19T00:56:22Z",
+        "version": "",
+        "marcas": [
+            "/switch/ReChan/rechan.nro",
+            "/switch/ReChan/discimage/Jackie Chan Stuntmaster (USA).bin",
+            "/switch/ReChan/discimage/Jackie Chan Stuntmaster (USA).cue"
+        ],
+        "icono": "9f84615a39d9.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip": {
+        "fecha": "2026-10-19T01:00:14Z",
+        "version": "",
+        "marcas": [
+            "/switch/pvzultimate/pvzultimate_nx.nro",
+            "/switch/pvzultimate/assets/main.rsb",
+            "/switch/pvzultimate/debug.log"
+        ],
+        "icono": "89dfac15e60b.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip": {
+        "fecha": "2026-10-19T04:49:41Z",
+        "version": "",
+        "marcas": [
+            "/switch/halo/halo.nro",
+            "/switch/halo/brokers.txt",
+            "/switch/halo/config.toml"
+        ],
+        "icono": "fbfe00e85e41.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip": {
+        "fecha": "2026-11-14T05:48:11Z",
+        "version": "",
+        "marcas": [
+            "/switch/BattleShip-Remix/BattleShip-Remix.nro",
+            "/switch/BattleShip-Remix/assets/BattleShip.svg",
+            "/switch/BattleShip-Remix/assets/custom/fonts/Inconsolata-OFL.txt"
+        ],
+        "icono": "96deacf5f0a0.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip": {
+        "fecha": "2026-10-19T04:54:41Z",
+        "version": "",
+        "marcas": [
+            "/switch/BattleShip/BattleShip.nro",
+            "/switch/BattleShip/assets/custom/fonts/Inconsolata-OFL.txt",
+            "/switch/BattleShip/assets/custom/fonts/Inconsolata-Regular.ttf"
+        ],
+        "icono": "bb26eddde92e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/flat.zip": {
+        "fecha": "2026-10-19T04:58:22Z",
+        "version": "",
+        "marcas": [
+            "/switch/fo2x/fo2x-vulkan.nro",
+            "/switch/fo2x/fo2x_env.txt",
+            "/switch/fo2x/game/dashupdate.xbe"
+        ],
+        "icono": "0a26ae422744.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mc3.zip": {
+        "fecha": "2026-10-26T03:13:27Z",
+        "version": "",
+        "marcas": [
+            "/switch/mcdub3-nx/mcdub3-nx-usa.nro",
+            "/switch/mcdub3-nx/game/assets_x.dat",
+            "/switch/mcdub3-nx/game/assets_x.dat_1"
+        ],
+        "icono": "3844f6678706.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip": {
+        "fecha": "2026-08-08T09:27:00Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/gdash/gdash_nx.nro",
+            "/switch/gdash/assets/achievement_01.ogg",
+            "/switch/gdash/assets/BackOnTrack.mp3"
+        ],
+        "icono": "41fbd954590b.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip": {
+        "fecha": "2026-08-08T09:29:41Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/hitmango/hitmango_nx.nro",
+            "/switch/hitmango/.casetest",
+            "/switch/hitmango/.fonts/fonts.xml"
+        ],
+        "icono": "e9b3134d2678.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip": {
+        "fecha": "2026-08-15T01:20:04Z",
+        "version": "",
+        "marcas": [
+            "/switch/bully/bully_nx.nro",
+            "/switch/bully/assets/AVConfig.json",
+            "/switch/bully/assets/data_0.zip"
+        ],
+        "icono": "27fc2cea707e.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip": {
+        "fecha": "2026-08-06T01:22:35Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/smwr_nx/smwr.nro",
+            "/switch/smwr_nx/assets/.godot/exported/133200997/export-00015d5996968710cf2c3c004046a31f-test_carry_box.scn",
+            "/switch/smwr_nx/assets/.godot/exported/133200997/export-001d7d2eb3d1f9b5520c2441db16a7d4-Vanilla.res"
+        ],
+        "icono": "85e51d594562.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip": {
+        "fecha": "2026-08-06T01:22:17Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/smbr_nx/smbr.nro",
+            "/switch/smbr_nx/assets/.godot/exported/660892210/export-003c1967ff291712f92c50dfe35fdcc4-LongFirebar.scn",
+            "/switch/smbr_nx/assets/.godot/exported/660892210/export-00ba62a006e94e6ae4d89962b3593e85-QuitDialog.scn"
+        ],
+        "icono": "cea52650dd6e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip": {
+        "fecha": "2026-08-15T01:02:17Z",
+        "version": "",
+        "marcas": [
+            "/switch/gtasa/gtasa_nx.nro",
+            "/switch/gtasa/anim/anim.img",
+            "/switch/gtasa/anim/cuts.img"
+        ],
+        "icono": "b2733b7e4fd6.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip": {
+        "fecha": "2026-07-09T02:49:21Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/gtactw/gtactw_nx.nro",
+            "/switch/gtactw/additional.png",
+            "/switch/gtactw/airport_dry.mp3"
+        ],
+        "icono": "20fc62b909e6.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip": {
+        "fecha": "2026-07-11T04:07:31Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/gtalcs/gtalcs_nx.nro",
+            "/switch/gtalcs/data_main.wad",
+            "/switch/gtalcs/data_music.wad"
+        ],
+        "icono": "ea9ca3295d35.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip": {
+        "fecha": "2026-08-07T01:26:51Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/acpc_nx/acpc_nx.nro",
+            "/switch/acpc_nx/.synth_dev_random",
+            "/switch/acpc_nx/.synth_proc_cpuinfo"
+        ],
+        "icono": "c36efcc82f4e.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip": {
+        "fecha": "2026-08-07T01:26:03Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/abc/abc_nx.nro",
+            "/switch/abc/config.txt",
+            "/switch/abc/F2FSave.bin"
+        ],
+        "icono": "2191e9c49f86.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip": {
+        "fecha": "2026-08-08T07:09:45Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/crazytaxi/crazytaxi_nx.nro",
+            "/switch/crazytaxi/assets/break_down_country.json",
+            "/switch/crazytaxi/assets/data/.DS_Store"
+        ],
+        "icono": "ff4f1e89895b.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip": {
+        "fecha": "2026-08-08T07:09:17Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/celeste64/Celeste64.nro",
+            "/switch/celeste64/Content/Audio/Master.bank",
+            "/switch/celeste64/Content/Audio/Master.strings.bank"
+        ],
+        "icono": "478fa9ec2d2e.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/drm.zip": {
+        "fecha": "2026-08-08T07:10:45Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/drmariomania_nx/drmario.nro",
+            "/switch/drmariomania_nx/assets/.godot/exported/133200997/export-001844bc70c375f7239108f329e7bfe1-OfficialCustomLevelPanel.scn",
+            "/switch/drmariomania_nx/assets/.godot/exported/133200997/export-06cc1573c73c7fbe2c07630646fbf6bd-NES.res"
+        ],
+        "icono": "c793b13fd405.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip": {
+        "fecha": "2026-08-08T07:11:26Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/ff3_3d/ff3_3d_nx.nro",
+            "/switch/ff3_3d/config.txt",
+            "/switch/ff3_3d/libff3.so"
+        ],
+        "icono": "2f06c23fec8d.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip": {
+        "fecha": "2026-06-22T06:02:57Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/Dusk/dusk.nro",
+            "/dusk/achievements.json",
+            "/dusk/config.json"
+        ],
+        "icono": "1ba572758acc.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip": {
+        "fecha": "2026-05-25T04:29:06Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/2s2h/2ship.nro",
+            "/switch/2s2h/2ship.o2r",
+            "/switch/2s2h/2ship2harkinian.json"
+        ],
+        "icono": "66ecd02d9968.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip": {
+        "fecha": "2026-05-31T01:24:12Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/soh/soh.nro",
+            "/switch/soh/mods/Reloaded_v10.4.2_HD.otr",
+            "/switch/soh/mods/Reloaded_v10.4.2_HD_LButton.otr"
+        ],
+        "icono": "40c496a2a2db.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip": {
+        "fecha": "2026-08-08T07:13:30Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/ffd/ffd_nx.nro",
+            "/switch/ffd/config.txt",
+            "/switch/ffd/ffl.bin"
+        ],
+        "icono": "f8460f0cd67b.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd2.zip": {
+        "fecha": "2026-08-08T07:14:08Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/ffd2_nx/ffd2_nx.nro",
+            "/switch/ffd2_nx/config.txt",
+            "/switch/ffd2_nx/libchange.so"
+        ],
+        "icono": "9ff7d6731e05.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4d.zip": {
+        "fecha": "2026-08-08T07:12:15Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/ff4_3d/ff4_3d_nx.nro",
+            "/switch/ff4_3d/config.txt",
+            "/switch/ff4_3d/libff4.so"
+        ],
+        "icono": "459ad9497dcd.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4tay.zip": {
+        "fecha": "2026-08-08T07:13:07Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/ff4tay/ff4tay_nx.nro",
+            "/switch/ff4tay/config.txt",
+            "/switch/ff4tay/libff4a.so"
+        ],
+        "icono": "04814e09a428.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip": {
+        "fecha": "2026-08-07T01:27:23Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/angrybirds/angrybirds_nx.nro",
+            "/switch/angrybirds/angrybirds_nx_stage.txt",
+            "/switch/angrybirds/assets/assets.list"
+        ],
+        "icono": "24ab05a41459.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/angjo.zip": {
+        "fecha": "2026-08-20T01:28:35Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/angrybirdsjourney_nx/angrybirdsjourney_nx.nro",
+            "/switch/angrybirdsjourney_nx/.synth_dev_random",
+            "/switch/angrybirdsjourney_nx/.synth_proc_cpuinfo"
+        ],
+        "icono": "c0de1e75f528.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/agn2.zip": {
+        "fecha": "2026-08-07T01:29:27Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/angrybird2_nx/angrybird2_nx.nro",
+            "/switch/angrybird2_nx/.synth_dev_random",
+            "/switch/angrybird2_nx/.synth_proc_cpuinfo"
+        ],
+        "icono": "aeba72e1aadf.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/coi.zip": {
+        "fecha": "2026-08-07T01:30:50Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/coi/coi_nx.nro",
+            "/switch/coi/config.txt",
+            "/switch/coi/libfmodex.so"
+        ],
+        "icono": "28c683adcfe3.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip": {
+        "fecha": "2026-08-07T01:24:53Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/badpiggies_nx/badpiggies_nx.nro",
+            "/switch/badpiggies_nx/.synth_dev_random",
+            "/switch/badpiggies_nx/.synth_proc_cpuinfo"
+        ],
+        "icono": "613ba1aa33b2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip": {
+        "fecha": "2026-10-19T05:25:49Z",
+        "version": "",
+        "marcas": [
+            "/switch/the_simpsons_game/the_simpsons_game.nro",
+            "/switch/the_simpsons_game/game/$systemupdate/su20076000_00000000",
+            "/switch/the_simpsons_game/game/audiostreams/80b_crow/amb_80b_crowd_qd_01.exa.snu"
+        ],
+        "icono": "4532d02ed1bf.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip": {
+        "fecha": "2026-08-08T04:23:45Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/Simpsons_Hit_And_Run/simpsons.nro",
+            "/switch/Simpsons_Hit_And_Run/eax.dll",
+            "/switch/Simpsons_Hit_And_Run/music00.rcf"
+        ],
+        "icono": "ea36eb71b155.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip": {
+        "fecha": "2026-11-18T21:37:12Z",
+        "version": "",
+        "marcas": [
+            "/switch/fh1-nx/fh1nx.nro",
+            "/switch/fh1-nx/deko3d_glsl.bin",
+            "/switch/fh1-nx/fh1nx.toml"
+        ],
+        "icono": "4784dd49e8fc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh12.zip": {
+        "fecha": "2026-11-18T21:38:33Z",
+        "version": "",
+        "marcas": [
+            "/switch/fh1-nx/game_root/media/animatedobjects.zip",
+            "/switch/fh1-nx/game_root/media/gamemodes.zip",
+            "/switch/fh1-nx/game_root/media/Livery.zip"
+        ],
+        "icono": "4784dd49e8fc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic1.zip": {
+        "fecha": "2026-11-14T04:40:03Z",
+        "version": "",
+        "marcas": [
+            "/switch/alice-nx/alice.nro",
+            "/switch/alice-nx/alice.toml",
+            "/switch/alice-nx/deko3d_shaders.bin"
+        ],
+        "icono": "2cf7b84adafa.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic2.zip": {
+        "fecha": "2026-11-14T04:41:16Z",
+        "version": "",
+        "marcas": [
+            "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntry.xxx",
+            "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntryExtra.xxx",
+            "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntryManual.xxx"
+        ],
+        "icono": "2cf7b84adafa.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip": {
+        "fecha": "2026-11-16T01:10:06Z",
+        "version": "",
+        "marcas": [
+            "/switch/ds2scholar-nx/ds2.nro",
+            "/switch/ds2scholar-nx/ds2.toml",
+            "/switch/ds2scholar-nx/ds2scholar-forwarder.nsp"
+        ],
+        "icono": "d41b767f5aad.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark22.zip": {
+        "fecha": "2026-11-16T01:11:44Z",
+        "version": "",
+        "marcas": [
+            "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/DlcData010306_110.bdt",
+            "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/DlcData010306_110.bhd",
+            "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/sound/frpg2_ps100200.fsb"
+        ],
+        "icono": "d41b767f5aad.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish1.zip": {
+        "fecha": "2026-11-13T19:48:35Z",
+        "version": "",
+        "marcas": [
+            "/switch/dishonored-nx/dishonored.nro",
+            "/switch/dishonored-nx/dishonored.toml",
+            "/switch/dishonored-nx/game_root/Binaries/build.properties"
+        ],
+        "icono": "66200307bac4.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish2.zip": {
+        "fecha": "2026-11-13T19:47:31Z",
+        "version": "",
+        "marcas": [
+            "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/Lighting.tfc",
+            "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/L_LightH_HighChaos_Geom.xxx",
+            "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/L_LightH_HighChaos_LFC.tfc"
+        ],
+        "icono": "66200307bac4.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear11.zip": {
+        "fecha": "2026-10-24T01:00:55Z",
+        "version": "",
+        "marcas": [
+            "/switch/gears2-nx/gears2-nx.nro",
+            "/switch/gears2-nx/game/Coalesced.pad",
+            "/switch/gears2-nx/game/default.xex"
+        ],
+        "icono": "e671565f7be5.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear12.zip": {
+        "fecha": "2026-10-24T00:35:46Z",
+        "version": "",
+        "marcas": [
+            "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10.xxx",
+            "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10_S.xxx",
+            "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10_S_LOC_ESM.xxx"
+        ],
+        "icono": "e671565f7be5.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising1.zip": {
+        "fecha": "2026-10-30T20:19:17Z",
+        "version": "",
+        "marcas": [
+            "/switch/mgr-nx-deko/mgr.nro",
+            "/switch/mgr-nx-deko/deko3d_glsl.bin",
+            "/switch/mgr-nx-deko/game_root/default.xex"
+        ],
+        "icono": "fa8e46a76e98.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising2.zip": {
+        "fecha": "2026-10-30T19:41:44Z",
+        "version": "",
+        "marcas": [
+            "/switch/mgr-nx-deko/game_root/media/movie/ev3010.usm",
+            "/switch/mgr-nx-deko/game_root/media/movie/ev3020.usm",
+            "/switch/mgr-nx-deko/game_root/media/movie/ev3030.usm"
+        ],
+        "icono": "fa8e46a76e98.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes1.zip": {
+        "fecha": "2026-10-28T01:15:02Z",
+        "version": "",
+        "marcas": [
+            "/switch/dantes-inferno-nx/dantes-inferno-nx.nro",
+            "/switch/dantes-inferno-nx/game/bigfile0.viv",
+            "/switch/dantes-inferno-nx/game/default.xex"
+        ],
+        "icono": "a08454adb32c.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes2.zip": {
+        "fecha": "2026-10-28T01:14:48Z",
+        "version": "",
+        "marcas": [
+            "/switch/dantes-inferno-nx/game/bigfile1.viv"
+        ],
+        "icono": "a08454adb32c.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d11.zip": {
+        "fecha": "2026-10-19T02:42:34Z",
+        "version": "",
+        "marcas": [
+            "/switch/left4dead/wine-nx-runtime.nro",
+            "/switch/left4dead/build-manifest.json",
+            "/switch/left4dead/config/keys.txt"
+        ],
+        "icono": "7ba093d26d2b.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d12.zip": {
+        "fecha": "2026-10-19T02:41:48Z",
+        "version": "",
+        "marcas": [
+            "/switch/left4dead/drive_c/dxvk/d3d9.dll",
+            "/switch/left4dead/drive_c/dxvk64/d3d10core.dll",
+            "/switch/left4dead/drive_c/dxvk64/d3d11.dll"
+        ],
+        "icono": "7ba093d26d2b.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw41.zip": {
+        "fecha": "2026-10-18T19:46:49Z",
+        "version": "",
+        "marcas": [
+            "/switch/codmw/codmw.nro",
+            "/switch/codmw/codmw.toml",
+            "/switch/codmw/codmw_pipelines_base.bin"
+        ],
+        "icono": "d01ad1287038.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw42.zip": {
+        "fecha": "2026-10-18T19:45:51Z",
+        "version": "",
+        "marcas": [
+            "/switch/codmw/game/Aftermath_load.bik",
+            "/switch/codmw/game/mp_pipeline.ff",
+            "/switch/codmw/game/mp_pipeline_load.ff"
+        ],
+        "icono": "d01ad1287038.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip": {
+        "fecha": "2026-10-19T01:06:10Z",
+        "version": "",
+        "marcas": [
+            "/switch/boz/codboz.nro",
+            "/switch/boz/atlas56.bin",
+            "/switch/boz/atlas56.hdr"
+        ],
+        "icono": "70d6f99bd922.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip": {
+        "fecha": "2026-11-18T00:52:18Z",
+        "version": "",
+        "marcas": [
+            "/switch/bo2zm/bo2cp.nro",
+            "/switch/bo2zm/bo2cp.toml",
+            "/switch/bo2zm/bo2cp_shaders.spvpack"
+        ],
+        "icono": "d8b5bade86d1.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod22.zip": {
+        "fecha": "2026-11-18T01:12:28Z",
+        "version": "",
+        "marcas": [
+            "/switch/bo2zm/game/base.ipak",
+            "/switch/bo2zm/game/stream/cmn_root.all.sabs",
+            "/switch/bo2zm/game/stream/cmn_root.english.sabs"
+        ],
+        "icono": "d8b5bade86d1.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod23.zip": {
+        "fecha": "2026-11-18T01:02:31Z",
+        "version": "",
+        "marcas": [
+            "/switch/bo2zm/game/a1_vault_menendez_1.webm",
+            "/switch/bo2zm/game/a1_vault_menendez_2.webm",
+            "/switch/bo2zm/game/a1_vault_menendez_3.webm"
+        ],
+        "icono": "d8b5bade86d1.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": {
+        "fecha": "2026-10-26T03:45:44Z",
+        "version": "",
+        "marcas": [
+            "/switch/sh3-nx/sh3-nx.nro",
+            "/switch/sh3-nx/data/arc.arc",
+            "/switch/sh3-nx/data/bgam.arc"
+        ],
+        "icono": "ec9c5707b1e3.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip": {
+        "fecha": "2026-10-19T04:43:38Z",
+        "version": "",
+        "marcas": [
+            "/switch/sh3-nx/data/movie/ed_b.000",
+            "/switch/sh3-nx/data/movie/ed_n.000",
+            "/switch/sh3-nx/data/movie/ed_u.000"
+        ],
+        "icono": "ec9c5707b1e3.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip": {
+        "fecha": "2026-10-26T03:39:51Z",
+        "version": "",
+        "marcas": [
+            "/switch/sh2-nx/sh2-nx.nro",
+            "/switch/sh2-nx/alsoft.ini",
+            "/switch/sh2-nx/binkw32.dll"
+        ],
+        "icono": "4b5415c44cfc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip": {
+        "fecha": "2026-10-16T00:50:38Z",
+        "version": "",
+        "marcas": [
+            "/switch/sh2-nx/sh2e/bg/ap/ap.map",
+            "/switch/sh2-nx/sh2e/bg/ap/ap01.cam",
+            "/switch/sh2-nx/sh2e/bg/ap/ap01.map"
+        ],
+        "icono": "4b5415c44cfc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip": {
+        "fecha": "2026-10-16T00:51:00Z",
+        "version": "",
+        "marcas": [
+            "/switch/sh2-nx/sh2e/pic/add/itemmenux.tex",
+            "/switch/sh2-nx/sh2e/pic/add/mapboldwin.tex",
+            "/switch/sh2-nx/sh2e/pic/add/mapmark.tex"
+        ],
+        "icono": "4b5415c44cfc.jpg",
+        "revisado": 4
+    },
+    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip": {
+        "fecha": "2026-07-04T04:47:12Z",
+        "version": "21.2.0",
+        "marcas": [
+            "/switch/SilentHillPC.nro",
+            "/switch/gamedata/Silent Hill (USA).bin"
+        ],
+        "icono": "f1f8422941af.jpg",
         "revisado": 4
     }
 }
