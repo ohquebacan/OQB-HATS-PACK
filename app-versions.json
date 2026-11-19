@@ -529,13 +529,13 @@
         "icono": "aad4343ca7da.jpg",
         "revisado": 4
     },
-    "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.13.1/switch-frame-tap-0.7.13.1-switch.zip": {
-        "fecha": "2026-10-18T16:51:03Z",
-        "version": "v0.7.13.1",
+    "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.23-beta3/switch-frame-tap-0.7.23-beta3-switch.zip": {
+        "fecha": "2026-11-17T20:57:49Z",
+        "version": "v0.7.23-beta3",
         "nros": [
             {
                 "ruta": "/switch/switch-frame-tap/switch-frame-tap.nro",
-                "version": "0.7.13.1"
+                "version": "0.7.23"
             }
         ],
         "icono": "f9393d7dd6c8.jpg",
