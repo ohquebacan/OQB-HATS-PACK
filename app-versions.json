@@ -859,6 +859,17 @@
         "icono": "acf4f4d4c3dd.jpg",
         "revisado": 4
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/yugi.zip": {
+        "fecha": "2026-11-20T02:05:44Z",
+        "version": "",
+        "marcas": [
+            "/switch/yfm-redecomp/yfm-redecomp.nro",
+            "/switch/yfm-redecomp/game/README.txt",
+            "/switch/yfm-redecomp/game/Yu-Gi-Oh! Forbidden Memories (USA).bin"
+        ],
+        "icono": "8807377c617e.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pep.zip": {
         "fecha": "2026-11-02T05:53:56Z",
         "version": "",
@@ -890,6 +901,17 @@
             "/switch/hercules/game/herc.cue"
         ],
         "icono": "7176f4e1e422.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pz.zip": {
+        "fecha": "2026-11-20T01:46:19Z",
+        "version": "",
+        "marcas": [
+            "/switch/pz41/pz41.nro",
+            "/pz41/args.txt",
+            "/pz41/game/natives/libfmod.so"
+        ],
+        "icono": "e6a200625460.jpg",
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip": {
@@ -1066,6 +1088,17 @@
             "/switch/sotn/assets/.nomedia"
         ],
         "icono": "edefa16355f2.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip": {
+        "fecha": "2026-11-20T01:54:22Z",
+        "version": "",
+        "marcas": [
+            "/switch/LM-NX/LM-NX.nro",
+            "/switch/LM-NX/cache/lmnx-f447-gxabi2-8bd445c65795e6a2283bc086/paquete.lmp",
+            "/switch/LM-NX/cache/lmnx-tint-8bd445c65795e6a2283bc086/paquete.lmp"
+        ],
+        "icono": "aff4750b1faa.jpg",
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip": {
@@ -1385,6 +1418,17 @@
             "/switch/crazytaxi/assets/data/.DS_Store"
         ],
         "icono": "ff4f1e89895b.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/crazyd.zip": {
+        "fecha": "2026-11-20T01:50:01Z",
+        "version": "",
+        "marcas": [
+            "/switch/crazytaxi/crazytaxi.nro",
+            "/switch/crazytaxi/COPYING.txt",
+            "/switch/crazytaxi/crazytaxi.toml"
+        ],
+        "icono": "c41088f04e17.jpg",
         "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip": {
@@ -1812,6 +1856,39 @@
             "/switch/bo2zm/game/a1_vault_menendez_3.webm"
         ],
         "icono": "d8b5bade86d1.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip": {
+        "fecha": "2026-11-20T01:42:21Z",
+        "version": "",
+        "marcas": [
+            "/switch/tf2_nx/tf2_nx.nro",
+            "/switch/tf2_nx/assets/extras_dir.vpk",
+            "/switch/tf2_nx/files/dejavusans-bold.ttf"
+        ],
+        "icono": "c27cb916ef3b.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip": {
+        "fecha": "2026-11-20T01:42:15Z",
+        "version": "",
+        "marcas": [
+            "/switch/tf2_nx/lib/libclient.so",
+            "/switch/tf2_nx/lib/libdatacache.so",
+            "/switch/tf2_nx/lib/libengine.so"
+        ],
+        "icono": "c27cb916ef3b.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip": {
+        "fecha": "2026-11-20T01:40:52Z",
+        "version": "",
+        "marcas": [
+            "/switch/tf2_nx/tf2legacy/vpks/tf2c_assets_004.vpk",
+            "/switch/tf2_nx/tf2legacy/vpks/tf2c_assets_005.vpk",
+            "/switch/tf2_nx/tf2legacy/vpks/tf2l_assets_000.vpk"
+        ],
+        "icono": "c27cb916ef3b.jpg",
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": {
