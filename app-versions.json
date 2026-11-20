@@ -7,9 +7,9 @@
         "revisado": 4
     },
     "https://git.nextendo.network/NextendoNetwork/Prelude-Nextendo/releases/download/latest/nextendo.nro": {
-        "fecha": "2026-11-15T02:23:29Z",
+        "fecha": "2026-11-20T14:18:10Z",
         "version": "",
-        "nro_version": "5.0.1",
+        "nro_version": "5.0.2",
         "icono": "11a05f583200.jpg",
         "revisado": 4
     },
@@ -124,9 +124,9 @@
         "revisado": 4
     },
     "https://github.com/Langegen/TorrentShopNX/releases/latest/download/TorrentShopNX.nro": {
-        "fecha": "2026-11-18T05:23:00Z",
-        "version": "2.25",
-        "nro_version": "2.25",
+        "fecha": "2026-11-20T10:33:34Z",
+        "version": "2.26",
+        "nro_version": "2.26",
         "icono": "8ee50788cdee.jpg",
         "revisado": 4
     },
@@ -166,12 +166,12 @@
         "revisado": 4
     },
     "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip": {
-        "fecha": "2026-11-09T16:48:57Z",
-        "version": "1.4.1",
+        "fecha": "2026-11-20T05:19:02Z",
+        "version": "1.4.2",
         "nros": [
             {
                 "ruta": "/switch/SwitchU-Manager/SwitchU-Manager.nro",
-                "version": "1.4.1"
+                "version": "1.4.2"
             }
         ],
         "icono": "e12edc01e094.jpg",
@@ -671,6 +671,28 @@
             "/switch/msr/exheader.bin"
         ],
         "icono": "8c9b135e6b77.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metfu.zip": {
+        "fecha": "2026-11-20T19:45:29Z",
+        "version": "",
+        "marcas": [
+            "/switch/metroid_fusion/metroid_fusion.nro",
+            "/switch/metroid_fusion/game/metfu.gba",
+            "/retroarch/cores/mgba_libretro_libnx.nro"
+        ],
+        "icono": "60c3adf9f231.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metze.zip": {
+        "fecha": "2026-11-20T19:48:30Z",
+        "version": "",
+        "marcas": [
+            "/switch/metroid_zero_mission/metroid_zero_mission.nro",
+            "/switch/metroid_zero_mission/game/metze.gba",
+            "/retroarch/cores/mgba_libretro_libnx.nro"
+        ],
+        "icono": "5a2336f300e8.jpg",
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip": {
