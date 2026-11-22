@@ -204,16 +204,16 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro": {
-        "fecha": "2026-11-21T19:57:54Z",
-        "version": "3.9.0",
-        "nro_version": "3.9.0",
+        "fecha": "2026-11-22T21:52:57Z",
+        "version": "3.10.0",
+        "nro_version": "3.10.0",
         "icono": "a3bc13229f00.jpg",
         "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro": {
-        "fecha": "2026-11-10T07:34:30Z",
-        "version": "3.4.1",
-        "nro_version": "3.4.1",
+        "fecha": "2026-11-22T21:54:15Z",
+        "version": "3.5.0",
+        "nro_version": "3.5.0",
         "icono": "1797044e7bdb.jpg",
         "revisado": 4
     },
@@ -317,9 +317,9 @@
         "revisado": 4
     },
     "https://github.com/NaGaa95/DrasticDS_nx/releases/latest/download/DrasticDS.nro": {
-        "fecha": "2026-11-02T17:23:40Z",
-        "version": "1.2.1",
-        "nro_version": "1.2.1",
+        "fecha": "2026-11-22T21:21:21Z",
+        "version": "1.2.2",
+        "nro_version": "1.2.2",
         "icono": "345f02e6a679.jpg",
         "revisado": 4
     },
@@ -638,6 +638,17 @@
             "/switch/kof2002um-nx/game.nxpack"
         ],
         "icono": "48fe30ecb758.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/coloso.zip": {
+        "fecha": "2026-11-22T19:50:42Z",
+        "version": "",
+        "marcas": [
+            "/switch/celosia_nx/celosia_nx.nro",
+            "/switch/celosia_nx/assets/GAMECORE.XFF",
+            "/switch/celosia_nx/assets/IOPRP300.IMG"
+        ],
+        "icono": "2f8f5b305e50.jpg",
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip": {
