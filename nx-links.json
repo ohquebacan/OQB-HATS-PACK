@@ -88,7 +88,8 @@
         "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
         "sLaunch (nuevo menú HOME)": "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro",
         "Brewser (apps y juegos web)": "https://github.com/natureglass/Brewser/releases/latest/download/brewser.nro",
-        "RadioNX (radio por internet)": "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro"
+        "RadioNX (radio por internet)": "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro",
+        "PortNX (2.2.0)": "https://github.com/CostelaCNX/PortNX/releases/download/v2.2.0/PortNX-v2.2.0.zip"
     },
     "apps_emuladores": {
         "Tico installer": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
