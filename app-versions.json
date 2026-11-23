@@ -1684,6 +1684,28 @@
         "icono": "ea36eb71b155.jpg",
         "revisado": 4
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip": {
+        "fecha": "2026-11-23T07:27:11Z",
+        "version": "",
+        "marcas": [
+            "/switch/blur-nx/blur-nx.nro",
+            "/switch/blur-nx/deko3d_glsl.bin",
+            "/switch/blur-nx/deko3d_shaders.bin"
+        ],
+        "icono": "b2b45a9b0c61.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip": {
+        "fecha": "2026-11-23T07:29:28Z",
+        "version": "",
+        "marcas": [
+            "/switch/blur-nx/game_root/layer1/cache/root_streaming.pak",
+            "/switch/blur-nx/game_root/layer1/levels/jpn_mharuna/Level.level.lz4b",
+            "/switch/blur-nx/game_root/layer1/levels/jpn_mharuna/Level.levelphysics.lz4b"
+        ],
+        "icono": "b2b45a9b0c61.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip": {
         "fecha": "2026-11-23T04:11:06Z",
         "version": "",
@@ -1737,6 +1759,28 @@
             "/switch/fh1-nx/game_root/media/Livery.zip"
         ],
         "icono": "4784dd49e8fc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip": {
+        "fecha": "2026-11-23T05:38:55Z",
+        "version": "",
+        "marcas": [
+            "/switch/deadpool-nx/deadpool.nro",
+            "/switch/deadpool-nx/deadpool.toml",
+            "/switch/deadpool-nx/deko3d_glsl.bin"
+        ],
+        "icono": "107802593f39.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp2.zip": {
+        "fecha": "2026-11-23T05:29:33Z",
+        "version": "",
+        "marcas": [
+            "/switch/deadpool-nx/game/$SystemUpdate/AvatarEditor.xex",
+            "/switch/deadpool-nx/game/$SystemUpdate/BiometricSetup.xex",
+            "/switch/deadpool-nx/game/$SystemUpdate/dash.ExtraAVCodecs.xex"
+        ],
+        "icono": "107802593f39.jpg",
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic1.zip": {
