@@ -124,9 +124,9 @@
         "revisado": 4
     },
     "https://github.com/Langegen/TorrentShopNX/releases/latest/download/TorrentShopNX.nro": {
-        "fecha": "2026-11-20T10:33:34Z",
-        "version": "2.26",
-        "nro_version": "2.26",
+        "fecha": "2026-11-23T09:09:40Z",
+        "version": "2.27",
+        "nro_version": "2.27",
         "icono": "8ee50788cdee.jpg",
         "revisado": 4
     },
@@ -605,6 +605,18 @@
         "version": "v2.1.0",
         "nro_version": "2.1.0",
         "icono": "9aa5bf14f4f0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/CostelaCNX/PortNX/releases/download/v2.2.0/PortNX-v2.2.0.zip": {
+        "fecha": "2026-10-12T14:56:58Z",
+        "version": "v2.2.0",
+        "nros": [
+            {
+                "ruta": "/switch/PortNX/PortNX.nro",
+                "version": "2.2.0"
+            }
+        ],
+        "icono": "60aaf99b5cf5.jpg",
         "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
