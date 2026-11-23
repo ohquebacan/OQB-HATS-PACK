@@ -545,14 +545,14 @@
             "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4"
         },
         "Firmware 22.5.0": {
-            "etiqueta": "Compatible con Nextendo",
-            "nota": "Es una de las versiones compatibles con Nextendo Network, para jugar en línea sin cuenta de Nintendo.",
+            "etiqueta": "Nextendo + nube",
+            "nota": "Es una de las versiones compatibles con Nextendo Network, para jugar en línea sin cuenta de Nintendo. Es la única en la que Nextendo también guarda tus partidas en la nube.",
             "app": "Prelude (Nextendo Network)",
             "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4"
         }
     },
     "nextendo": {
-        "presentacion": "Nextendo Network es un servicio gratuito que te permite jugar en línea en tu Switch sin una cuenta de Nintendo: partidas, amigos y visitas en los juegos compatibles. Para usarlo necesitas Prelude, una app que conecta tu consola con los servidores de Nextendo.",
+        "presentacion": "Nextendo Network es un servicio gratuito que te permite jugar en línea en tu Switch sin una cuenta de Nintendo: partidas, amigos y visitas en los juegos compatibles. En el firmware 22.5.0 además guarda tus partidas en la nube. Para usarlo necesitas Prelude, una app que conecta tu consola con los servidores de Nextendo.",
         "como_empezar": "1) Instala un firmware compatible (23.5.0, 23.0.1 o 22.5.0). En la sección de firmwares aparecen marcados como compatibles con Nextendo.\n2) Instala Prelude desde Apps › Sistema y utilidades.\n3) Crea tu cuenta en nextendo.network y vincúlala con tu Discord.\n4) Activa el modo Nextendo desde Prelude.\n\nEn el video tutorial verás cada paso con detalle.",
         "video": "https://www.youtube.com/watch?v=HXm7Q7lobj4",
         "wiki": "https://wiki.nextendo.network/errors",
@@ -727,6 +727,220 @@
                 ]
             },
             {
+                "codigo": "2306-0819",
+                "titulo": "Hay que actualizar el juego",
+                "que_es": "Probablemente tu versión del juego es más vieja que la que pide Nextendo para jugar en línea (por ejemplo, Mario Kart 8 Deluxe o Super Smash Bros. Ultimate). Es el único de estos códigos con el que la consola muestra su mensaje de actualización.",
+                "que_hacer": [
+                    "En modo Nextendo la consola no puede bajar la actualización sola: búscala en Bacán Shop, o vuelve al modo Nintendo o a tu sysNAND, actualiza ahí y regresa al modo Nextendo.",
+                    "Revisa la versión que pide cada juego en «Tus juegos y su versión», en el checklist."
+                ]
+            },
+            {
+                "codigo": "2306-0803",
+                "titulo": "Mario Kart 8 Deluxe: la consola no está vinculada a Nextendo",
+                "que_es": "Lo más probable es que el perfil con el que juegas no esté vinculado a ninguna cuenta de Nextendo.",
+                "que_hacer": [
+                    "Vincula ese perfil a tu cuenta de Nextendo con Prelude y vuelve a abrir el juego.",
+                    "Si la consola tiene varios perfiles, revisa que el del juego sea el vinculado."
+                ]
+            },
+            {
+                "codigo": "2306-0807",
+                "titulo": "Mario Kart 8 Deluxe: falta vincular Discord",
+                "que_es": "Tu correo está confirmado, pero probablemente a tu cuenta de Nextendo le falta el Discord vinculado, que es obligatorio para jugar en línea.",
+                "que_hacer": [
+                    "Vincula Discord desde el servidor de Discord de Nextendo (mira el punto «Discord vinculado» del checklist) y vuelve a entrar.",
+                    "Revisa en tu cuenta de nextendo.network que Discord aparezca como vinculado."
+                ]
+            },
+            {
+                "codigo": "2306-0808",
+                "titulo": "Mario Kart 8 Deluxe: correo sin confirmar",
+                "que_es": "Probablemente todavía no abriste el enlace del correo de confirmación de tu cuenta de Nextendo. Sin eso no te deja entrar.",
+                "que_hacer": [
+                    "Abre el correo de confirmación y toca el enlace. Si no lo ves, busca en spam.",
+                    "Si no lo encuentras, pide que te lo reenvíen desde tu cuenta en nextendo.network."
+                ]
+            },
+            {
+                "codigo": "2306-0810",
+                "titulo": "Mario Kart 8 Deluxe: tu cuenta ya está conectada en otro lado",
+                "que_es": "Una cuenta de Nextendo solo puede estar en línea en un lugar a la vez. Lo más probable es que esté abierta en otra consola o emulador, o que quede una sesión vieja tras un cierre inesperado.",
+                "que_hacer": [
+                    "Cierra el juego en el otro equipo, espera unos minutos y vuelve a intentarlo.",
+                    "Si el juego se cerró de golpe, espera unos minutos a que termine la sesión anterior."
+                ]
+            },
+            {
+                "codigo": "2306-0811",
+                "titulo": "Mario Kart 8 Deluxe: no se pudo contactar el servidor de cuentas",
+                "que_es": "Probablemente el servidor de cuentas de Nextendo no respondió y no pudo comprobar tu cuenta. La consola muestra su mensaje de mantenimiento. Suele ser un problema de Nextendo y pasar en minutos.",
+                "que_hacer": [
+                    "Vuelve a intentarlo en unos minutos.",
+                    "Si dura, revisa los anuncios en el Discord de Nextendo."
+                ]
+            },
+            {
+                "codigo": "2306-0804",
+                "titulo": "Mario Kart 8 Deluxe: rechazaron la prueba de tu identidad",
+                "que_es": "Lo más probable es que la credencial que el juego manda al iniciar sesión esté dañada o ya no sea válida.",
+                "que_hacer": [
+                    "Apaga la consola del todo y vuelve a encenderla: así recibe una credencial nueva.",
+                    "Revisa que Prelude esté al día y el modo Nextendo activo."
+                ]
+            },
+            {
+                "codigo": "2306-0806",
+                "titulo": "Mario Kart 8 Deluxe: la prueba de tu identidad caducó",
+                "que_es": "La credencial que el juego manda al iniciar sesión dura un tiempo limitado, y probablemente ya venció.",
+                "que_hacer": [
+                    "Cierra el juego y vuelve a abrirlo.",
+                    "Si sigue, apaga la consola del todo y vuelve a encenderla."
+                ]
+            },
+            {
+                "codigo": "2306-0809",
+                "titulo": "Mario Kart 8 Deluxe: la identidad es de otra cuenta",
+                "que_es": "La credencial que mandó el juego probablemente es de otra cuenta de Nextendo o de otra consola. Suele pasar si cambiaste de cuenta con el juego abierto.",
+                "que_hacer": [
+                    "Cierra el juego, revisa con qué cuenta está vinculado el perfil y vuelve a abrirlo.",
+                    "No uses perfiles ni archivos copiados de otra persona."
+                ]
+            },
+            {
+                "codigo": "2306-0805",
+                "titulo": "Mario Kart 8 Deluxe: entraste sin cuenta de Nextendo",
+                "que_es": "El juego se conectó sin ninguna cuenta de Nextendo. Lo más probable es que el modo Nextendo no esté activo o que el perfil no esté vinculado.",
+                "que_hacer": [
+                    "Revisa en Prelude que el modo Nextendo esté activo y el perfil vinculado.",
+                    "Apaga la consola del todo y vuelve a encenderla."
+                ]
+            },
+            {
+                "codigo": "2306-0818",
+                "titulo": "Mario Kart 8 Deluxe: el servidor no conoce tu cuenta",
+                "que_es": "La cuenta con la que entró el juego probablemente ya no existe, por ejemplo porque se borró.",
+                "que_hacer": [
+                    "Vuelve a vincular el perfil con tu cuenta actual de Nextendo desde Prelude."
+                ]
+            },
+            {
+                "codigo": "2306-0820",
+                "titulo": "Mario Kart 8 Deluxe: cuenta desactivada",
+                "que_es": "Probablemente tu cuenta de Nextendo está desactivada, por ejemplo por una sanción. La consola dice que el servicio no está disponible.",
+                "que_hacer": [
+                    "Si crees que es un error, escríbele al equipo en el Discord de Nextendo."
+                ]
+            },
+            {
+                "codigo": "2306-0802",
+                "titulo": "Mario Kart 8 Deluxe: inicio de sesión rechazado por otro motivo",
+                "que_es": "Te rechazaron por un motivo que no tiene código propio, algo que no debería pasar. Antes del 18 de octubre este código salía para todos los rechazos, así que un reporte viejo puede ser cualquiera de los otros.",
+                "que_hacer": [
+                    "Revisa que tu correo esté confirmado y Discord vinculado en nextendo.network.",
+                    "Apaga la consola del todo y vuelve a intentarlo.",
+                    "Si sigue, repórtalo en el Discord de Nextendo con la hora exacta."
+                ]
+            },
+            {
+                "codigo": "2306-0318",
+                "titulo": "Mario Kart 8 Deluxe: la sala ya no existe",
+                "que_es": "Lo más probable es que los últimos jugadores salieron de la sala entre que la viste y que entraste. Nextendo ya corrigió que la sala se cerrara al irse quien la creó.",
+                "que_hacer": [
+                    "Actualiza la lista de amigos o de salas y vuelve a entrar."
+                ]
+            },
+            {
+                "codigo": "2306-0322",
+                "titulo": "Mario Kart 8 Deluxe: la sala está llena",
+                "que_es": "Las salas de Mario Kart 8 Deluxe admiten 12 jugadores como máximo. No es un problema de tu conexión ni de tu cuenta.",
+                "que_hacer": [
+                    "Espera a que se libere un lugar o entra a otra sala."
+                ]
+            },
+            {
+                "codigo": "2306-1201",
+                "titulo": "Mario Kart 8 Deluxe: no se pudo subir un fantasma",
+                "que_es": "El servidor rechazó el fantasma antes de recibirlo. En un juego sin modificar, lo más probable es que el almacenamiento de fantasmas de Nextendo esté lleno.",
+                "que_hacer": [
+                    "Vuelve a intentarlo más tarde y avísales si se repite.",
+                    "Revisa que ningún mod cambie tus fantasmas o tu partida."
+                ]
+            },
+            {
+                "codigo": "2306-1204",
+                "titulo": "Mario Kart 8 Deluxe: no se pudo bajar un fantasma",
+                "que_es": "Ese fantasma probablemente ya no existe: se borró entre que se mostró la lista y la descarga.",
+                "que_hacer": [
+                    "Sal de la lista de fantasmas y vuelve a abrirla."
+                ]
+            },
+            {
+                "codigo": "2618-0510",
+                "titulo": "No se puede conectar con las otras consolas",
+                "que_es": "Las partidas van de consola a consola. Lo más probable es que dos conexiones muy restringidas (VPN, datos móviles, algunas redes) quedaran en la misma sala y no puedan verse.",
+                "que_hacer": [
+                    "Apaga cualquier VPN mientras juegas.",
+                    "Mejor tu Wi-Fi de casa que compartir datos del celular.",
+                    "Vuelve a buscar partida: la siguiente búsqueda ya tiene en cuenta tu tipo de conexión."
+                ]
+            },
+            {
+                "codigo": "2321-2304",
+                "titulo": "Splatoon 3 rechaza la consola",
+                "que_es": "Pasaba cuando la credencial de la consola no traía la prueba de identidad que pide Splatoon 3. Nextendo lo corrigió el 25 de agosto; si te sigue saliendo, probablemente la consola tiene guardada una credencial vieja.",
+                "que_hacer": [
+                    "Apaga la consola del todo y vuelve a encenderla.",
+                    "Revisa que Prelude esté al día y el modo Nextendo activo."
+                ]
+            },
+            {
+                "codigo": "2124-0210",
+                "titulo": "Esta cuenta ya no se puede usar",
+                "que_es": "Pasaba cuando varias personas vinculaban su consola al mismo tiempo y una quedaba en la cuenta de otro. Nextendo ya lo corrigió.",
+                "que_hacer": [
+                    "Vuelve a vincular la consola desde el principio.",
+                    "Si sigue, escríbeles en el Discord de Nextendo con tu código de amigo."
+                ]
+            },
+            {
+                "codigo": "0x0000167B",
+                "titulo": "Falla la vinculación de la cuenta",
+                "que_es": "Lo más probable es que tu consola tenga borrada su identidad (PRODINFO en blanco, común en emuNAND o con Incognito) y no tenga el certificado que pide la vinculación.",
+                "que_hacer": [
+                    "Actualiza Prelude.",
+                    "Abre «Account Link» en Prelude: te dice si tu consola lo necesita.",
+                    "Actívalo, reinicia la consola y vuelve a vincular."
+                ]
+            },
+            {
+                "codigo": "2210-1024",
+                "titulo": "Se cierra la pantalla de la foto de perfil",
+                "que_es": "Problema conocido de la página para cambiar la foto de perfil desde la consola. Nextendo lo está investigando. La foto casi siempre se aplica igual y no se daña nada.",
+                "que_hacer": [
+                    "Vuelve a abrir tu perfil y revisa la foto: lo normal es que ya esté puesta.",
+                    "Mantén Prelude al día."
+                ]
+            },
+            {
+                "codigo": "2179-8013",
+                "titulo": "Este juego no es compatible con la nube",
+                "que_es": "Las partidas en la nube de Nextendo no funcionan con todos los juegos, por ejemplo con Splatoon 3.",
+                "que_hacer": [
+                    "No hace falta hacer nada: tu partida sigue guardada en la consola.",
+                    "Si quieres una copia, respáldala con JKSV BACÁN."
+                ]
+            },
+            {
+                "codigo": "2179-8001",
+                "titulo": "La nube rechazó tu cuenta",
+                "que_es": "Probablemente la credencial de tu cuenta de Nextendo venció o fue rechazada al subir o bajar una partida.",
+                "que_hacer": [
+                    "Apaga la consola del todo y vuelve a encenderla.",
+                    "Revisa en Prelude que el perfil siga vinculado a tu cuenta de Nextendo."
+                ]
+            },
+            {
                 "codigo": "rechazo-al-iniciar",
                 "titulo": "Te rechaza al iniciar sesión, antes de buscar partida",
                 "que_es": "El servidor del juego rechaza el inicio de sesión por un problema de la cuenta, antes de cualquier prueba de conexión.",
@@ -739,6 +953,10 @@
             }
         ],
         "notas": [
+            {
+                "titulo": "Partidas guardadas en la nube (firmware 22.5.0)",
+                "texto": "Desde Prelude 5.0.2, Nextendo guarda una copia de tus partidas en tu cuenta. Aparece en el menú HOME como «Datos guardados en la nube», igual que con Nintendo Switch Online.\n\n•  Solo funciona en el firmware 22.5.0 y con el modo Nextendo activo. En otro firmware, Prelude no la instala.\n•  El perfil de la consola tiene que estar vinculado a tu cuenta de Nextendo.\n•  La copia se sube sola al cerrar cada juego. También puedes subir o bajar partidas a mano, perfil por perfil.\n•  Después de instalarla desde Prelude, apaga la consola del todo y vuelve a encenderla.\n•  Si bajar una partida falla, se vuelve a poner la que tenías. Si eso también falla, esa partida deja de subirse hasta que una bajada funcione, para no subir una partida dañada.\n•  Algunos juegos no son compatibles, como Splatoon 3: muestran el error 2179-8013.\n•  Puedes desactivarla o quitarla desde Prelude cuando quieras; tus partidas no se tocan. El modo Nintendo la apaga.\n\nSi quieres esta función y tienes otro firmware, puedes instalar el 22.5.0 desde Firmwares: aparece marcado."
+            },
             {
                 "titulo": "La versión del juego importa",
                 "texto": "Nextendo solo funciona con una versión exacta de cada juego, la misma que usan sus servidores. Con otra versión, el juego puede no conectarse o incluso cerrarse al iniciar. La versión que pide cada juego aparece en \"Quién está jugando ahora\".\n\nCómo saber qué versión tienes:\n•  En esta app: el punto \"Tus juegos y su versión\" del checklist compara cada juego compatible que tienes con la versión que pide Nextendo.\n•  En la consola: en el menú HOME, selecciona el juego, pulsa + y entra a Información del software. La versión aparece junto al nombre.\n\nSi tienes otra versión, no actualices el juego hasta confirmar cuál pide Nextendo: después de una actualización, puede pasar un tiempo hasta que la nueva versión sea compatible."
@@ -786,9 +1004,6 @@
                 "estado": "Estable",
                 "requiere": "Versión del juego 1.0.15"
             },
-            "0100cea007d08000": {
-                "nombre": "Crypt of the NecroDancer"
-            },
             "01001b300b9be000": {
                 "nombre": "Diablo III: Eternal Collection",
                 "estado": "Casi estable"
@@ -802,30 +1017,12 @@
             "010092a00c4b6000": {
                 "nombre": "Friday the 13th: The Game"
             },
-            "0100c62011050000": {
-                "nombre": "Game Boy - Nintendo Classics"
-            },
-            "010012f017576000": {
-                "nombre": "Game Boy Advance - Nintendo Classics"
-            },
             "0100fa5010788000": {
                 "nombre": "Game Builder Garage",
                 "estado": "Estable"
             },
-            "0100ab401f136000": {
-                "nombre": "Guilty Gear -Strive-"
-            },
-            "0100ea6014bb8000": {
-                "nombre": "Just Dance 2022"
-            },
             "0100830008426000": {
                 "nombre": "Just Shapes & Beats"
-            },
-            "0100227010460000": {
-                "nombre": "Kirby Fighters 2"
-            },
-            "0100a8e016236000": {
-                "nombre": "Kirby's Dream Buffet"
             },
             "0100dca0064a6000": {
                 "nombre": "Luigi's Mansion 3",
@@ -845,7 +1042,7 @@
             "0100152000022000": {
                 "nombre": "Mario Kart 8 Deluxe",
                 "estado": "Estable",
-                "requiere": "Versión del juego 4.0.0"
+                "requiere": "Versión del juego 4.0.1"
             },
             "01006fe013472000": {
                 "nombre": "Mario Party Superstars",
@@ -875,7 +1072,7 @@
             },
             "01006bd001e06000": {
                 "nombre": "Minecraft: Nintendo Switch Edition",
-                "estado": "Limitado",
+                "estado": "Estable",
                 "requiere": "Versión del juego 1.0.17"
             },
             "01007430037f6000": {
@@ -887,9 +1084,6 @@
             },
             "0100b04011742000": {
                 "nombre": "Monster Hunter Rise"
-            },
-            "0100d870045b6000": {
-                "nombre": "NES - Nintendo Classics"
             },
             "0100c9a00ece6000": {
                 "nombre": "Nintendo 64 - Nintendo Classics",
@@ -907,7 +1101,7 @@
             "0100ad9012510000": {
                 "nombre": "PAC-MAN 99",
                 "estado": "Estable",
-                "requiere": "Versión del juego 1.0.0"
+                "requiere": "Versión del juego 1.1.0"
             },
             "0100b3f000be2000": {
                 "nombre": "Pokkén Tournament DX",
@@ -945,19 +1139,6 @@
                 "nombre": "Saints Row: The Third - The Full Package",
                 "estado": "Estable"
             },
-            "0100b3c014bda000": {
-                "nombre": "SEGA Genesis - Nintendo Classics"
-            },
-            "01008d300c50c000": {
-                "nombre": "SNES - Nintendo Classics"
-            },
-            "01006e001823c000": {
-                "nombre": "Sonic Racing: CrossWorlds",
-                "estado": "Experimental"
-            },
-            "01004cc023582000": {
-                "nombre": "SpeedRunners 2: King of Speed"
-            },
             "0100f8f0000a2000": {
                 "nombre": "Splatoon 2",
                 "estado": "Estable",
@@ -968,16 +1149,15 @@
                 "estado": "Estable",
                 "requiere": "Versión del juego 5.5.2"
             },
+            "01003c700009c800": {
+                "nombre": "Splatoon 2",
+                "estado": "Estable",
+                "requiere": "Versión del juego 5.5.2"
+            },
             "0100c2500fc20000": {
                 "nombre": "Splatoon 3",
                 "estado": "Experimental",
                 "requiere": "Versión del juego 11.3.0"
-            },
-            "0100e65002bb8000": {
-                "nombre": "Stardew Valley"
-            },
-            "01003fb00c5a8000": {
-                "nombre": "Super Kirby Clash"
             },
             "010028600ebda000": {
                 "nombre": "Super Mario 3D World + Bowser's Fury",
@@ -1015,23 +1195,12 @@
                 "estado": "Casi estable",
                 "requiere": "Versión del juego 13.0.5"
             },
-            "0100e46006708000": {
-                "nombre": "Terraria"
-            },
             "010040600c5ce000": {
                 "nombre": "Tetris 99",
                 "estado": "Estable"
             },
             "0100fcf002a58000": {
                 "nombre": "Ultimate Chicken Horse"
-            },
-            "0100b6e012ebe000": {
-                "nombre": "UNO",
-                "requiere": "Versión del juego 1.1.17"
-            },
-            "010099f013898000": {
-                "nombre": "World War Z",
-                "estado": "Experimental"
             },
             "01000bf0152fa000": {
                 "nombre": "Zombie Army 4: Dead War"
