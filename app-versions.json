@@ -204,16 +204,16 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro": {
-        "fecha": "2026-11-22T21:52:57Z",
-        "version": "3.10.0",
-        "nro_version": "3.10.0",
+        "fecha": "2026-11-23T04:21:43Z",
+        "version": "3.11.0",
+        "nro_version": "3.11.0",
         "icono": "a3bc13229f00.jpg",
         "revisado": 4
     },
     "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro": {
-        "fecha": "2026-11-22T21:54:15Z",
-        "version": "3.5.0",
-        "nro_version": "3.5.0",
+        "fecha": "2026-11-23T04:21:38Z",
+        "version": "3.6.0",
+        "nro_version": "3.6.0",
         "icono": "1797044e7bdb.jpg",
         "revisado": 4
     },
@@ -1123,6 +1123,17 @@
         "icono": "edefa16355f2.jpg",
         "revisado": 4
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip": {
+        "fecha": "2026-11-23T00:39:35Z",
+        "version": "",
+        "marcas": [
+            "/switch/soulcalibur2/soulcalibur2.nro",
+            "/switch/soulcalibur2/bgm.afs",
+            "/switch/soulcalibur2/Default.xbe"
+        ],
+        "icono": "e02bc9c7d7a7.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip": {
         "fecha": "2026-11-20T01:54:22Z",
         "version": "",
@@ -1330,6 +1341,28 @@
             "/switch/mcdub3-nx/game/assets_x.dat_1"
         ],
         "icono": "3844f6678706.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank1.zip": {
+        "fecha": "2026-11-23T00:40:31Z",
+        "version": "",
+        "marcas": [
+            "/switch/shank1-nx/shank1.nro",
+            "/switch/shank1-nx/deko3d_glsl.bin",
+            "/switch/shank1-nx/game_root.nxidx"
+        ],
+        "icono": "18ac91c07da8.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank.zip": {
+        "fecha": "2026-11-23T00:16:57Z",
+        "version": "",
+        "marcas": [
+            "/switch/shank2-nx/shank2.nro",
+            "/switch/shank2-nx/deko3d_glsl.bin",
+            "/switch/shank2-nx/game_root.nxidx"
+        ],
+        "icono": "a4210c4654dd.jpg",
         "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip": {
@@ -1651,6 +1684,39 @@
         "icono": "ea36eb71b155.jpg",
         "revisado": 4
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip": {
+        "fecha": "2026-11-23T04:11:06Z",
+        "version": "",
+        "marcas": [
+            "/switch/umvc3-ce.nro",
+            "/switch/umvc3.nro",
+            "/umvc3/ce-data/Characters.ini"
+        ],
+        "icono": "0b50d1dcd91c.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc32.zip": {
+        "fecha": "2026-11-23T04:14:52Z",
+        "version": "",
+        "marcas": [
+            "/ce/CloneEngine.asi",
+            "/ce/ColorExpansion.asi",
+            "/ce/mag_patch.asi"
+        ],
+        "icono": "0b50d1dcd91c.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc33.zip": {
+        "fecha": "2026-11-23T04:17:50Z",
+        "version": "",
+        "marcas": [
+            "/ce-data/nativePCx64/chr/archive/0001_08.arc",
+            "/ce-data/nativePCx64/chr/archive/0001_09.arc",
+            "/ce-data/nativePCx64/chr/archive/0001_10.arc"
+        ],
+        "icono": "0b50d1dcd91c.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip": {
         "fecha": "2026-11-18T21:37:12Z",
         "version": "",
@@ -1924,6 +1990,39 @@
         "icono": "c27cb916ef3b.jpg",
         "revisado": 4
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip": {
+        "fecha": "2026-11-23T03:37:32Z",
+        "version": "",
+        "marcas": [
+            "/switch/shh-nx/shh.nro",
+            "/switch/shh-nx/cache/vfs_index_game_root.bin",
+            "/switch/shh-nx/deko3d.log"
+        ],
+        "icono": "255ebaadb50f.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip": {
+        "fecha": "2026-11-23T01:58:21Z",
+        "version": "",
+        "marcas": [
+            "/switch/shd-nx/shd.nro",
+            "/switch/shd-nx/game/AvatarAssetPack",
+            "/switch/shd-nx/game/default.xex"
+        ],
+        "icono": "f227e9d9bd34.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip": {
+        "fecha": "2026-11-23T01:59:32Z",
+        "version": "",
+        "marcas": [
+            "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-deu_SF.xxx",
+            "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-eng_SF.xxx",
+            "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-esm_SF.xxx"
+        ],
+        "icono": "f227e9d9bd34.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": {
         "fecha": "2026-10-26T03:45:44Z",
         "version": "",
@@ -1977,16 +2076,6 @@
             "/switch/sh2-nx/sh2e/pic/add/mapmark.tex"
         ],
         "icono": "4b5415c44cfc.jpg",
-        "revisado": 4
-    },
-    "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip": {
-        "fecha": "2026-07-04T04:47:12Z",
-        "version": "21.2.0",
-        "marcas": [
-            "/switch/SilentHillPC.nro",
-            "/switch/gamedata/Silent Hill (USA).bin"
-        ],
-        "icono": "f1f8422941af.jpg",
         "revisado": 4
     }
 }
