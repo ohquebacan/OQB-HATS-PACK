@@ -139,7 +139,8 @@
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
         "Scene eShop (5.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
-        "Checkpoint": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro"
+        "Checkpoint": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro",
+        "PortNX (2.2.0)": "https://github.com/CostelaCNX/PortNX/releases/download/v2.2.0/PortNX-v2.2.0.zip"
     },
     "apps_sistema": {
         "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro",
@@ -367,7 +368,8 @@
         "Switube (YouTube Music)": "Cliente de YouTube Music: busca, arma playlists y descarga canciones para escucharlas sin internet. Trae un overlay para seguir oyendo música mientras juegas.",
         "sLaunch (nuevo menú HOME)": "Reemplaza el menú HOME por uno rápido y muy personalizable: temas, fondos de video, widgets y música. Se instala y se quita desde su app sInstaller, que también lo actualiza. No se puede usar junto a Switch U ni HomeNX.",
         "Brewser (apps y juegos web)": "Plataforma de apps y juegos hechos con tecnología web, con su propio catálogo (brewser.io). No es un navegador para cualquier página. Para que vaya mejor, ábrelo manteniendo R al abrir un juego.",
-        "RadioNX (radio por internet)": "Escucha radio por internet con emisoras de todo el mundo."
+        "RadioNX (radio por internet)": "Escucha radio por internet con emisoras de todo el mundo.",
+        "PortNX (2.2.0)": "Descarga e instala ports de juegos de PC para Switch desde su catálogo, con ficha de cada port antes de instalarlo."
     },
     "apps_grupos": {
         "apps_emuladores": [
