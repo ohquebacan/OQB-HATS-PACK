@@ -1051,7 +1051,8 @@
             "23.5.0"
         ],
         "oc": true,
-        "tamano": "8 MB"
+        "tamano": "8 MB",
+        "atmosphere": "1.12.2"
     },
     "nexus_bacan_2": {
         "url": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/nexus-1.0/OQB-NEXUS-BACAN-2.zip",
@@ -1060,7 +1061,8 @@
             "23.5.0"
         ],
         "oc": true,
-        "tamano": "8 MB"
+        "tamano": "8 MB",
+        "atmosphere": "1.12.2"
     },
     "iconos_ports": {
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
