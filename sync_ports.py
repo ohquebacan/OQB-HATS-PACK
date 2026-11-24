@@ -19,7 +19,12 @@ En nx-links.json:
 Un port que deja de estar en ports.json sale de las dos.
 
 Si ports.json no se puede leer o no tiene el formato esperado no se cambia
-nada: mejor una lista vieja que una vacía.
+nada: mejor una lista vieja que una vacía. Tampoco si de una vez desaparece
+más de un cuarto de los ports (un archivo movido, a medio subir o reemplazado):
+eso se revisa a mano.
+
+Cada lectura buena queda copiada tal cual en ports-origen.json, con su
+historia en git: si el autor lo mueve o lo borra, la lista sigue aquí.
 
 Uso:
     python3 sync_ports.py            # actualiza nx-links.json
@@ -36,6 +41,8 @@ ORIGEN = "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports
 CATALOGO = "nx-links.json"
 AGENTE = "OQB-HATS-PACK catalogo (+https://github.com/ohquebacan/OQB-HATS-PACK)"
 MINIMO = 10  # menos que esto es un ports.json roto o a medio subir
+MAX_QUITADOS = 0.25  # más que esto de una vez: no se aplica
+RESPALDO = "ports-origen.json"
 PARTE = re.compile(r"^(.*?)\s*\(\s*PARTE\s*(\d+)\s*\)\s*$", re.IGNORECASE)
 ACTUALIZACION = re.compile(r"^\(\s*SOLO\s+ACTUALIZACI[OÓ]N\s*\)\s*", re.IGNORECASE)
 
@@ -46,6 +53,7 @@ def leer_origen():
         datos = json.loads(r.read().decode("utf-8"), object_pairs_hook=OrderedDict)
     if not isinstance(datos, dict):
         raise ValueError("ports.json no es un objeto")
+    leer_origen.crudo = datos
     ports = OrderedDict()
     iconos = OrderedDict()
     for nombre, entrada in datos.items():
@@ -101,6 +109,18 @@ def main():
     anteriores = catalogo.get("apps_ports", OrderedDict())
     urls_anteriores = set(anteriores.values()) if isinstance(anteriores, dict) else set()
     urls_nuevas = set(ports.values())
+
+    quitados = [n for n in anteriores if n not in ports] if isinstance(anteriores, dict) else []
+    if anteriores and len(quitados) > MAX_QUITADOS * len(anteriores):
+        print(f"aviso: ports.json quitaría {len(quitados)} de {len(anteriores)} ports de una vez; "
+              "probablemente se movió o se reemplazó. No se cambia nada (revisar a mano).")
+        return 0
+
+    # La copia tal cual del origen, solo cuando la lectura es buena.
+    if not solo_comprobar:
+        with open(RESPALDO, "w", encoding="utf-8") as fichero:
+            json.dump(leer_origen.crudo, fichero, ensure_ascii=False, indent=2)
+            fichero.write("\n")
 
     # Los ports van solo en su sección: en «apps» (Todas las aplicaciones,
     # buscador) serían más de cien entradas de ruido. Si alguno quedó ahí, sale.

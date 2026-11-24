@@ -1,0 +1,562 @@
+{
+  "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png"
+  },
+  "God of War Collection (1 + 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png"
+  },
+  "The King of Fighters 2002: Ultimate Match": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png"
+  },
+  "Shadow of the Colossus": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/coloso.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/coloso.png"
+  },
+  "Manhunt 1": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/manh.png"
+  },
+  "Metroid Prime 2: Echoes": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metp2.png"
+  },
+  "Metroid: Samus Returns": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mts.png"
+  },
+  "Metroid Fusion": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metfu.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metfu.png"
+  },
+  "Metroid: Zero Mission": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metze.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metze.png"
+  },
+  "GoldenEye 007": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/golden.png"
+  },
+  "Mortal Kombat: Shaolin Monks": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mksh.png"
+  },
+  "Need For Speed: Hot Pursuit 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshot.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfshot.png"
+  },
+  "Need For Speed: Carbon": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsc.png"
+  },
+  "Need For Speed 3: Hot Pursuit": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfs3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfs3.png"
+  },
+  "Need For Speed 4: High Stakes": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshs.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfshs.png"
+  },
+  "Need For Speed 5: Porsche Unleashed": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfspu.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfspu.png"
+  },
+  "Need For Speed: Underground 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfu2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfu2.png"
+  },
+  "Need For Speed: Most Wanted (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsmw-nx.png"
+  },
+  "Need For Speed: Most Wanted (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nfsmw-nx.png"
+  },
+  "Dragon Ball: Budokai Tenkaichi 3": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/db3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/db3.png"
+  },
+  "Condemned Criminal Origins": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conded.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/conded.png"
+  },
+  "Bloody Roar Extreme": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blodext.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/blodext.png"
+  },
+  "Jak 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jak2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/jak2.png"
+  },
+  "The Godfather: The Game": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tgf.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tgf.png"
+  },
+  "Gran Turismo 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gt2.png"
+  },
+  "Gran Turismo 3": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gt3.png"
+  },
+  "Yu-Gi-Oh: Forbidden Memories": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/yugi.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/yugi.png"
+  },
+  "Pepsiman": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pep.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pepsiman.png"
+  },
+  "Medievil": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/med.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/med.png"
+  },
+  "Disney Hercules": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/herc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/herc.png"
+  },
+  "Project Zomboid": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pz.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pz.png"
+  },
+  "Sonic All Stars Racing Transformed": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sonic.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sonic.png"
+  },
+  "Twisted Metal": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tw.png"
+  },
+  "Fifa Street": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffs.png"
+  },
+  "TLOZ: Ocarina of Time (3DS)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zoot.png"
+  },
+  "TLOZ: Wind Waker (GAMECUBE)": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wkr.jpg"
+  },
+  "TLOZ: Wind Waker (HD WII U)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wwh.png"
+  },
+  "Resident Evil 1": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re1.png"
+  },
+  "Resident Evil 2 (LEON)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re21.png"
+  },
+  "Resident Evil 2 (CLAIRE)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re22.png"
+  },
+  "Resident Evil 3 NEMESIS": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re3.png"
+  },
+  "Resident Evil Survivor": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/resu.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/resu.png"
+  },
+  "Resident Evil: Code Veronica": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/revc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/revc.png"
+  },
+  "Tekken 3": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tek3.png"
+  },
+  "Super Metroid": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spm.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/spm.png"
+  },
+  "Black": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bl4ck.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bl4ck.png"
+  },
+  "Castlevania: Harmony of Despair": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cashd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cashd.png"
+  },
+  "Castlevania: Symphony of the Night": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
+  },
+  "Soul Calibur 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/soulc.png"
+  },
+  "Luigi's Mansion": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/luigi.png"
+  },
+  "Super Paper Mario": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/spmw.png"
+  },
+  "Super Mario Strikers": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/skrs.png"
+  },
+  "Mario Party 4": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mp4.png"
+  },
+  "Burnout 3: Takedown": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/b3x.png"
+  },
+  "Skate 3 (Tarda en arrancar)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/skate3.png"
+  },
+  "Def Jam: Fight For NY": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dfj.png"
+  },
+  "PES 2021": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pes21.jpg"
+  },
+  "Conker's Bad Fur Day ": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conker.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/conker.png"
+  },
+  "Driver 2": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
+  },
+  "Mario Kart Double Dash": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mkdd.png"
+  },
+  "Mario Kart 64": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mk64.png"
+  },
+  "Jackie Chan Stuntmaster": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/jack.png"
+  },
+  "Plants vs Zombies Ultimate": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pvzu.png"
+  },
+  "Halo: Combat Evolved": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hce.png"
+  },
+  "Super Smash Bros Remix": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smashr.png"
+  },
+  "Super Smash Bros 64": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smash.png"
+  },
+  "FlatOut 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/flat.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/flat.png"
+  },
+  "Midnight Club 3: DUB EDITION": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mc3.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mc3.png"
+  },
+  "Shank 1": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shank1.png"
+  },
+  "Shank 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shank2.png"
+  },
+  "Geometry Dash": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
+  },
+  "Hitman Go": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hitmango.png"
+  },
+  "Bully": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bull.png"
+  },
+  "Super Mario World Remastered": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smw.png"
+  },
+  "Super Mario Bros Remastered": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smbx.png"
+  },
+  "Grand Theft Auto: San Andreas": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/g54.png"
+  },
+  "Grand Theft Auto: Chinatown Wars": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtacw.png"
+  },
+  "Grand Theft Auto: Liberty City Stories": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtalcs.png"
+  },
+  "Animal Crossing: Pocket Camp": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/acpc.png"
+  },
+  "After Burner Climax": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/abc.png"
+  },
+  "Crazy Taxi": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crt.png"
+  },
+  "Crazy Taxi (Dreamcast)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/crazyd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crazyd.png"
+  },
+  "Celeste 64": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cel.png"
+  },
+  "Dr. Mario Mania": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/drm.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/drm.png"
+  },
+  "Final Fantasy III: 3D Remake": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff3d.png"
+  },
+  "TLOZ: Twilight Princess": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldatp.png"
+  },
+  "TLOZ: Majoras Mask": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldamm.png"
+  },
+  "TLOZ: Ocarina of Time": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldaott.png"
+  },
+  "Final Fantasy: Dimensions": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffd.png"
+  },
+  "Final Fantasy: Dimensions II": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffd2.png"
+  },
+  "Final Fantasy IV: 3D Remake": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4d.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff4d.png"
+  },
+  "Final Fantasy IV: The After Years": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4tay.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ff4tay.png"
+  },
+  "Angry Birds 1": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang1.png"
+  },
+  "Angry Birds Journey": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/angjo.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/angjo.png"
+  },
+  "Angry Birds 2": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/agn2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ang2.png"
+  },
+  "Castle of Illusion": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/coi.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/coi.png"
+  },
+  "Bad Piggies": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bp.png"
+  },
+  "The Simpsons: The Game": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simpg.png"
+  },
+  "The Simpsons: Hit And Run": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
+  },
+  "Blur (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/blur.png"
+  },
+  "Blur (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/blur.png"
+  },
+  "Ultimate Marvel vs Capcom 3 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mvc3.png"
+  },
+  "Ultimate Marvel vs Capcom 3 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc32.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mvc3.png"
+  },
+  "Ultimate Marvel vs Capcom 3 (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc33.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mvc3.png"
+  },
+  "Forza Horizon 1 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fh1.png"
+  },
+  "Forza Horizon 1 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fh1.png"
+  },
+  "Deadpool (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/deadp.png"
+  },
+  "Deadpool (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/deadp.png"
+  },
+  "Alice: Madness Returns (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/alic.png"
+  },
+  "Alice: Madness Returns (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/alic.png"
+  },
+  "Dark Souls II: Scholar of the First Sin (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dark2.png"
+  },
+  "Dark Souls II: Scholar of the First Sin (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark22.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dark2.png"
+  },
+  "Dishonored (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dish.png"
+  },
+  "Dishonored (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dish.png"
+  },
+  "Gears of War 2 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear11.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gear.png"
+  },
+  "Gears of War 2 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gear.png"
+  },
+  "Metal Gear Rising (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/rising.png"
+  },
+  "Metal Gear Rising (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/rising.png"
+  },
+  "Dante's Inferno (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dantes.png"
+  },
+  "Dante's Inferno (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dantes.png"
+  },
+  "Left 4 Dead (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d11.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/l4d.png"
+  },
+  "Left 4 Dead (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/l4d.png"
+  },
+  "Call of Duty 4: Modern Warfare (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw41.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cwm.png"
+  },
+  "Call of Duty 4: Modern Warfare (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw42.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cwm.png"
+  },
+  "Call of Duty: Black Ops Zombies": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/boz.png"
+  },
+  "Call of Duty: Black Ops 2 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cod2.png"
+  },
+  "Call of Duty: Black Ops 2 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod22.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cod2.png"
+  },
+  "Call of Duty: Black Ops 2 (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod23.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cod2.png"
+  },
+  "Team Fortress 2 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
+  },
+  "Team Fortress 2 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
+  },
+  "Team Fortress 2 (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
+  },
+  "Silent Hill: Homecoming": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shome.png"
+  },
+  "Silent Hill: Downpour (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
+  },
+  "Silent Hill: Downpour (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
+  },
+  "Silent Hill 3 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh3.png"
+  },
+  "Silent Hill 3 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh3.png"
+  },
+  "Silent Hill 2: Enhanced Edition (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+  },
+  "Silent Hill 2: Enhanced Edition (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+  },
+  "Silent Hill 2: Enhanced Edition (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+  },
+  "Silent Hill 1 (Actualizado)": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
+  }
+}
