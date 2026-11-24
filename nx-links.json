@@ -71,7 +71,7 @@
         "ACNH Save Editor (1.4.0)": "https://github.com/cbreezy210/ACNH-Save-Editor/releases/download/v.1.4.0/acnh_editor_v1.4.0.zip",
         "PKHeX-NX (0.9.5 beta)": "https://github.com/cbreezy210/PKHeX-NX/releases/download/v0.9.5-beta/PKHeX-NX-Beta-v0.9.5.zip",
         "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip",
-        "Scene eShop (5.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
+        "Scene eShop (5.8.1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
         "SwitchStream (Stremio)": "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro",
         "XUPER TV SWITCH": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OPEN-TV-SWITCH.zip",
         "HomeNX (nuevo menú HOME)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip",
@@ -139,7 +139,7 @@
         "TorrentShopNX": "https://github.com/Langegen/TorrentShopNX/releases/latest/download/TorrentShopNX.nro",
         "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
-        "Scene eShop (5.5.0)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
+        "Scene eShop (5.8.1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
         "Checkpoint": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro",
         "PortNX (2.2.0)": "https://github.com/CostelaCNX/PortNX/releases/download/v2.2.0/PortNX-v2.2.0.zip"
@@ -484,7 +484,7 @@
                     "TorrentShopNX",
                     "Bacán Shop",
                     "FreeShop",
-                    "Scene eShop (5.5.0)"
+                    "Scene eShop (5.8.1)"
                 ]
             },
             {
