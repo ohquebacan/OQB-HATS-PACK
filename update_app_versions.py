@@ -291,11 +291,24 @@ def indice_zip(url):
             raise ValueError("zip64 sin su registro")
         tam, desde = struct.unpack("<QQ", cola[z64 + 40:z64 + 56])
     indice = pedir_rango(url, f"bytes={desde}-{desde + tam - 1}")
-    nombres, p = [], 0
+    nombres, p, descomprimido = [], 0, 0
     while p + 46 <= len(indice) and indice[p:p + 4] == b"PK\x01\x02":
+        comp, desc = struct.unpack("<II", indice[p + 20:p + 28])
         largo, extra, comentario = struct.unpack("<HHH", indice[p + 28:p + 34])
         nombres.append(indice[p + 46:p + 46 + largo].decode("utf-8", "replace"))
+        if desc == 0xFFFFFFFF:
+            # zip64: el tamaño real va en el extra 0x0001 (primero el descomprimido).
+            datos_extra = indice[p + 46 + largo:p + 46 + largo + extra]
+            q = 0
+            while q + 4 <= len(datos_extra):
+                ident, tam = struct.unpack("<HH", datos_extra[q:q + 4])
+                if ident == 1 and tam >= 8:
+                    desc = struct.unpack("<Q", datos_extra[q + 4:q + 12])[0]
+                    break
+                q += 4 + tam
+        descomprimido += desc
         p += 46 + largo + extra + comentario
+    indice_zip.descomprimido = descomprimido
     return nombres, total
 
 
@@ -360,6 +373,8 @@ def versiones_de_port(url, url_icono):
     marcas = (nros[:1] + [m for m in marcas_de(propios_port) if m not in nros[:1]])[:3]
     salida = {"marcas": marcas} if marcas else {}
     salida["bytes"] = total
+    # Lo que ocupa en la SD: la pestaña Ports lo instala mientras baja (sin el zip).
+    salida["descomprimido"] = indice_zip.descomprimido
     salida.update(icono_de_port(url, url_icono))
     return salida
 
@@ -423,9 +438,9 @@ def main():
                 datos = OrderedDict(fecha=fecha, version="")
         if datos is not None:
             previo = actual.get(url, {})
-            # Un port de antes del tamaño se vuelve a mirar una vez (dos pedidos parciales).
-            if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION and (url not in ports or "bytes" in previo):
-                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v", "icono_acceso"))
+            # Un port sin el tamaño descomprimido se vuelve a mirar una vez (tres pedidos parciales).
+            if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION and (url not in ports or "descomprimido" in previo):
+                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v", "icono_acceso", "descomprimido"))
                 # Marcas de antes con archivos compartidos: se quitan sin volver a leer el zip.
                 if url in ports and datos.get("marcas"):
                     limpias = sin_compartidos(datos["marcas"])
