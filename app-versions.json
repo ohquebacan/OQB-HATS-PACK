@@ -626,6 +626,51 @@
         "icono": "60aaf99b5cf5.jpg",
         "revisado": 4
     },
+    "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip": {
+        "fecha": "2026-11-24T04:57:39Z",
+        "version": "new",
+        "marcas": [
+            "/switch/mkw-launcher.nro",
+            "/switch/kartpad/retro-rewind/RetroRewind6/UI/English.szs",
+            "/switch/kartpad/retro-rewind/RetroRewind6/UI/Race_U.szs"
+        ],
+        "bytes": 1879958807,
+        "descomprimido": 2134187888,
+        "icono": "ecd731405bdf.jpg",
+        "icono_v": 3,
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9f0fa061707c.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip": {
+        "fecha": "2026-11-24T04:58:51Z",
+        "version": "new",
+        "marcas": [
+            "/switch/kartpad/retro-rewind/RetroRewind6/strm/119_N.brstm",
+            "/switch/kartpad/retro-rewind/RetroRewind6/strm/uRR_N.brstm",
+            "/switch/kartpad/retro-rewind/RetroRewind6/strm/gpDC_N.brstm"
+        ],
+        "bytes": 1750211318,
+        "descomprimido": 1778522301,
+        "icono": "ecd731405bdf.jpg",
+        "icono_v": 3,
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9f0fa061707c.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip": {
+        "fecha": "2026-11-24T04:59:38Z",
+        "version": "new",
+        "marcas": [
+            "/switch/kartpad/data/files/thp/ending/ending_normal_50.thp",
+            "/switch/kartpad/data/files/rel/StaticR.rel",
+            "/switch/kartpad/data/files/opening.bnr"
+        ],
+        "bytes": 958420589,
+        "descomprimido": 1019018014,
+        "icono": "ecd731405bdf.jpg",
+        "icono_v": 3,
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9f0fa061707c.jpg",
+        "revisado": 4
+    },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
         "fecha": "2026-09-15T20:15:52Z",
         "version": "21.2.0",
