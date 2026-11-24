@@ -715,8 +715,7 @@
         "version": "",
         "marcas": [
             "/switch/metroid_fusion/metroid_fusion.nro",
-            "/switch/metroid_fusion/game/metfu.gba",
-            "/retroarch/cores/mgba_libretro_libnx.nro"
+            "/switch/metroid_fusion/game/metfu.gba"
         ],
         "bytes": 29501759,
         "icono": "0881b00bc9e8.jpg",
@@ -728,8 +727,7 @@
         "version": "",
         "marcas": [
             "/switch/metroid_zero_mission/metroid_zero_mission.nro",
-            "/switch/metroid_zero_mission/game/metze.gba",
-            "/retroarch/cores/mgba_libretro_libnx.nro"
+            "/switch/metroid_zero_mission/game/metze.gba"
         ],
         "bytes": 29503766,
         "icono": "b652b249fb79.jpg",
@@ -1195,8 +1193,7 @@
         "version": "",
         "marcas": [
             "/switch/super_metroid_snes/super_metroid_snes.nro",
-            "/switch/super_metroid_snes/game/spm.smc",
-            "/retroarch/cores/snes9x_libretro_libnx.nro"
+            "/switch/super_metroid_snes/game/spm.smc"
         ],
         "bytes": 24599541,
         "icono": "f6ba9d27f2ec.jpg",
