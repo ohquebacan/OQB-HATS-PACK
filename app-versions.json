@@ -628,8 +628,9 @@
             "/atmosphere/contents/0100B00B51230000/romfs/update/update2.rpf"
         ],
         "bytes": 1699451444,
-        "icono": "9b4ec4185403.jpg",
-        "revisado": 4
+        "icono": "2af159f8c230.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": {
         "fecha": "2026-11-18T03:05:21Z",
@@ -640,8 +641,9 @@
             "/switch/gow-nx/data/mods/gow1_psp2_SCEA.psarc.vtpatch"
         ],
         "bytes": 3640982000,
-        "icono": "ee137f4c39b0.jpg",
-        "revisado": 4
+        "icono": "319f06364386.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": {
         "fecha": "2026-11-16T03:07:47Z",
@@ -652,8 +654,9 @@
             "/switch/kof2002um-nx/game.nxpack"
         ],
         "bytes": 1157877276,
-        "icono": "48fe30ecb758.jpg",
-        "revisado": 4
+        "icono": "85aa30987442.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/coloso.zip": {
         "fecha": "2026-11-22T19:50:42Z",
@@ -664,8 +667,9 @@
             "/switch/celosia_nx/assets/IOPRP300.IMG"
         ],
         "bytes": 3732130160,
-        "icono": "2f8f5b305e50.jpg",
-        "revisado": 4
+        "icono": "665a7168de72.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip": {
         "fecha": "2026-11-13T18:43:10Z",
@@ -676,8 +680,9 @@
             "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1B.RIB"
         ],
         "bytes": 2500756759,
-        "icono": "2071f458e377.jpg",
-        "revisado": 4
+        "icono": "5d204633c387.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip": {
         "fecha": "2026-11-14T05:36:51Z",
@@ -688,8 +693,9 @@
             "/switch/mp2-nx/LICENSE-Dusklight-Switch-CC0.txt"
         ],
         "bytes": 1360479547,
-        "icono": "56470bf5135c.jpg",
-        "revisado": 4
+        "icono": "c7c7e28d3f6d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip": {
         "fecha": "2026-11-16T00:34:03Z",
@@ -700,8 +706,9 @@
             "/switch/msr/exheader.bin"
         ],
         "bytes": 749381792,
-        "icono": "8c9b135e6b77.jpg",
-        "revisado": 4
+        "icono": "2a5d139c1f7f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metfu.zip": {
         "fecha": "2026-11-20T19:45:29Z",
@@ -712,8 +719,9 @@
             "/retroarch/cores/mgba_libretro_libnx.nro"
         ],
         "bytes": 29501759,
-        "icono": "60c3adf9f231.jpg",
-        "revisado": 4
+        "icono": "0881b00bc9e8.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metze.zip": {
         "fecha": "2026-11-20T19:48:30Z",
@@ -724,8 +732,9 @@
             "/retroarch/cores/mgba_libretro_libnx.nro"
         ],
         "bytes": 29503766,
-        "icono": "5a2336f300e8.jpg",
-        "revisado": 4
+        "icono": "b652b249fb79.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip": {
         "fecha": "2026-11-16T03:51:11Z",
@@ -736,8 +745,9 @@
             "/switch/goldeneye_xbla/cache/nfsmw_dksh.bin"
         ],
         "bytes": 767501180,
-        "icono": "9d67dde84ab6.jpg",
-        "revisado": 4
+        "icono": "ea2924edc867.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip": {
         "fecha": "2026-10-29T00:58:20Z",
@@ -748,8 +758,9 @@
             "/switch/shaolinmonks/cache/shaders/008026acb75a563c.spv"
         ],
         "bytes": 2988690996,
-        "icono": "e5ce71549f71.jpg",
-        "revisado": 4
+        "icono": "476065b1e12b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshot.zip": {
         "fecha": "2026-11-18T21:57:55Z",
@@ -760,8 +771,9 @@
             "/switch/NFSHP2-Switch/ZZDATA.BIN"
         ],
         "bytes": 3135449158,
-        "icono": "48a58b4cb522.jpg",
-        "revisado": 4
+        "icono": "ceab7b1c734c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip": {
         "fecha": "2026-10-26T03:18:14Z",
@@ -772,8 +784,9 @@
             "/switch/nfscx/game/NFS/ZDIR.BIN"
         ],
         "bytes": 3085513275,
-        "icono": "eb1993e4cd07.jpg",
-        "revisado": 4
+        "icono": "3d9f34cc4830.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfs3.zip": {
         "fecha": "2026-11-02T05:14:58Z",
@@ -784,8 +797,9 @@
             "/switch/nfs_3/game/nfs3.cue"
         ],
         "bytes": 549994871,
-        "icono": "2b339a5b486f.jpg",
-        "revisado": 4
+        "icono": "a2b7ebee3371.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshs.zip": {
         "fecha": "2026-11-01T19:58:20Z",
@@ -796,8 +810,9 @@
             "/switch/nfs4_retroarch/game/Need for Speed - High Stakes (USA).cue"
         ],
         "bytes": 754688920,
-        "icono": "78042bd57a2e.jpg",
-        "revisado": 4
+        "icono": "e8f75caa27e4.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfspu.zip": {
         "fecha": "2026-11-02T05:26:11Z",
@@ -808,8 +823,9 @@
             "/switch/nfs_5/game/n10.bin"
         ],
         "bytes": 679098092,
-        "icono": "387da908efbc.jpg",
-        "revisado": 4
+        "icono": "ee76a9f57039.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfu2.zip": {
         "fecha": "2026-10-26T03:22:18Z",
@@ -820,8 +836,9 @@
             "/switch/nfsu2x/game/B3/Data/After.kfs"
         ],
         "bytes": 2769428868,
-        "icono": "b2152051d4ab.jpg",
-        "revisado": 4
+        "icono": "cfe111d315bd.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp1.zip": {
         "fecha": "2026-09-30T22:35:02Z",
@@ -832,8 +849,9 @@
             "/switch/nfsmw-nx/game_root/Movies/attract_movie_spanish_pal.wmv"
         ],
         "bytes": 3335319976,
-        "icono": "b90bdeb959e2.jpg",
-        "revisado": 4
+        "icono": "2b77222c212e.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip": {
         "fecha": "2026-09-30T22:35:32Z",
@@ -844,8 +862,9 @@
             "/switch/nfsmw-nx/game_root/NFS/ZZDATA2.BIN"
         ],
         "bytes": 3736840712,
-        "icono": "b90bdeb959e2.jpg",
-        "revisado": 4
+        "icono": "2b77222c212e.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/db3.zip": {
         "fecha": "2026-11-16T03:51:16Z",
@@ -856,8 +875,9 @@
             "/switch/bt3-switch-data/disc/BIN/DBZP.BIN"
         ],
         "bytes": 2914348558,
-        "icono": "2c843df930e2.jpg",
-        "revisado": 4
+        "icono": "5a74c7cd8c6d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conded.zip": {
         "fecha": "2026-11-19T01:16:30Z",
@@ -868,8 +888,9 @@
             "/switch/condemned-nx/cco_shaders.dslib"
         ],
         "bytes": 3705334924,
-        "icono": "9e3e523ee817.jpg",
-        "revisado": 4
+        "icono": "08ce83b92f1e.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blodext.zip": {
         "fecha": "2026-11-04T20:56:58Z",
@@ -880,8 +901,9 @@
             "/switch/brextreme-nx/brextreme-settings.toml"
         ],
         "bytes": 767294502,
-        "icono": "4c6067fe8b82.jpg",
-        "revisado": 4
+        "icono": "c70cfe8964c3.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jak2.zip": {
         "fecha": "2026-11-08T03:21:14Z",
@@ -892,8 +914,9 @@
             "/switch/jak2/data/out/jak2/obj/mech-ag.go"
         ],
         "bytes": 3932111658,
-        "icono": "ccacb27d4e6e.jpg",
-        "revisado": 4
+        "icono": "e22eec8ce9db.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tgf.zip": {
         "fecha": "2026-11-19T01:19:31Z",
@@ -904,8 +927,9 @@
             "/switch/godfather-nx/game/default.xbe"
         ],
         "bytes": 2315351354,
-        "icono": "26606145f0ba.jpg",
-        "revisado": 4
+        "icono": "dec29f90c1df.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt2.zip": {
         "fecha": "2026-11-02T05:41:49Z",
@@ -916,8 +940,9 @@
             "/switch/gran_turismo_2/game/gt22.bin"
         ],
         "bytes": 730754767,
-        "icono": "bf153a1573e8.jpg",
-        "revisado": 4
+        "icono": "01bf1eab0f6b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt3.zip": {
         "fecha": "2026-11-03T23:54:18Z",
@@ -927,8 +952,9 @@
             "/switch/gt3r/gt3.iso"
         ],
         "bytes": 3893107388,
-        "icono": "acf4f4d4c3dd.jpg",
-        "revisado": 4
+        "icono": "5c3a37e8e915.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/yugi.zip": {
         "fecha": "2026-11-20T02:05:44Z",
@@ -939,8 +965,9 @@
             "/switch/yfm-redecomp/game/Yu-Gi-Oh! Forbidden Memories (USA).bin"
         ],
         "bytes": 534773092,
-        "icono": "8807377c617e.jpg",
-        "revisado": 4
+        "icono": "9555a9c8caae.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pep.zip": {
         "fecha": "2026-11-02T05:53:56Z",
@@ -951,8 +978,9 @@
             "/switch/pepsiman/game/pep.cue"
         ],
         "bytes": 330969901,
-        "icono": "d0f4ab6bf3c1.jpg",
-        "revisado": 4
+        "icono": "4ece0029a7b0.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/med.zip": {
         "fecha": "2026-11-02T06:04:34Z",
@@ -963,8 +991,9 @@
             "/switch/medievil/game/med1.bin"
         ],
         "bytes": 585059845,
-        "icono": "97ede7de7ece.jpg",
-        "revisado": 4
+        "icono": "78aafa3a9f7c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/herc.zip": {
         "fecha": "2026-11-02T06:18:31Z",
@@ -975,8 +1004,9 @@
             "/switch/hercules/game/herc.cue"
         ],
         "bytes": 422158101,
-        "icono": "7176f4e1e422.jpg",
-        "revisado": 4
+        "icono": "0b06811f8efa.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pz.zip": {
         "fecha": "2026-11-20T01:46:19Z",
@@ -987,8 +1017,9 @@
             "/pz41/game/natives/libfmod.so"
         ],
         "bytes": 2576282923,
-        "icono": "e6a200625460.jpg",
-        "revisado": 4
+        "icono": "aa69b75254c9.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sonic.zip": {
         "fecha": "2026-11-23T08:06:09Z",
@@ -999,8 +1030,9 @@
             "/switch/sasrt-nx/deko3d_shaders.bin"
         ],
         "bytes": 2646496407,
-        "icono": "2ca0e6e13833.jpg",
-        "revisado": 4
+        "icono": "851bc032b878.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip": {
         "fecha": "2026-11-02T06:30:40Z",
@@ -1011,8 +1043,9 @@
             "/switch/twisted_metal/game/tw1.bin"
         ],
         "bytes": 363280902,
-        "icono": "22cb424123f3.jpg",
-        "revisado": 4
+        "icono": "5b835e19b778.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip": {
         "fecha": "2026-10-29T23:19:47Z",
@@ -1023,8 +1056,9 @@
             "/switch/street-nx/game/data/aptanims/aptfntz.big"
         ],
         "bytes": 1786127105,
-        "icono": "654854b73fec.jpg",
-        "revisado": 4
+        "icono": "048f3fc53d90.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip": {
         "fecha": "2026-11-16T03:14:20Z",
@@ -1035,8 +1069,9 @@
             "/switch/oot3dre/config/anisotropy"
         ],
         "bytes": 1049295785,
-        "icono": "029ed302d389.jpg",
-        "revisado": 4
+        "icono": "f7dae65259a4.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip": {
         "fecha": "2026-10-22T01:02:34Z",
@@ -1047,8 +1082,9 @@
             "/switch/switchwaker/initial_dksh_cache.bin"
         ],
         "bytes": 1135994186,
-        "icono": "5239fc788034.jpg",
-        "revisado": 4
+        "icono": "ea52d9e509f9.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip": {
         "fecha": "2026-10-22T01:08:42Z",
@@ -1059,8 +1095,9 @@
             "/switch/wwhd/game/code/app.xml"
         ],
         "bytes": 1973555764,
-        "icono": "59831d1c95ce.jpg",
-        "revisado": 4
+        "icono": "198d78b5b606.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip": {
         "fecha": "2026-11-02T00:34:42Z",
@@ -1071,8 +1108,9 @@
             "/switch/resident_evil_1_retroarch/game/re1.cue"
         ],
         "bytes": 741775699,
-        "icono": "d4dad0f0ae86.jpg",
-        "revisado": 4
+        "icono": "8d5cba01c6bc.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip": {
         "fecha": "2026-11-02T01:27:10Z",
@@ -1083,8 +1121,9 @@
             "/switch/resident_evil_2_leon/game/re21.cue"
         ],
         "bytes": 685757599,
-        "icono": "79c11b84ebc5.jpg",
-        "revisado": 4
+        "icono": "828a8cb5e2d5.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip": {
         "fecha": "2026-11-02T01:34:26Z",
@@ -1095,8 +1134,9 @@
             "/switch/resident_evil_2_claire/game/re22.cue"
         ],
         "bytes": 691553001,
-        "icono": "9a42f1227925.jpg",
-        "revisado": 4
+        "icono": "30fba1e13ed3.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re3.zip": {
         "fecha": "2026-11-02T01:57:30Z",
@@ -1107,8 +1147,9 @@
             "/switch/resident_evil_3/game/re3.cue"
         ],
         "bytes": 734926195,
-        "icono": "e1dfa2daf29d.jpg",
-        "revisado": 4
+        "icono": "c35d7dd63e72.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/resu.zip": {
         "fecha": "2026-11-02T02:10:56Z",
@@ -1119,8 +1160,9 @@
             "/switch/resident_evil_survivor/game/resu.cue"
         ],
         "bytes": 447211953,
-        "icono": "7db5611ddb80.jpg",
-        "revisado": 4
+        "icono": "9e7450a5b104.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/revc.zip": {
         "fecha": "2026-11-15T20:03:46Z",
@@ -1131,8 +1173,9 @@
             "/switch/recvx/Resident Evil - Code - Veronica X (USA).iso"
         ],
         "bytes": 2102307808,
-        "icono": "ec9cc1974932.jpg",
-        "revisado": 4
+        "icono": "1942c069d25b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip": {
         "fecha": "2026-10-30T18:30:40Z",
@@ -1143,8 +1186,9 @@
             "/switch/tekken3/disc/Tekken 3 (USA) (Track 1).bin"
         ],
         "bytes": 700126677,
-        "icono": "ad9fe2ed0935.jpg",
-        "revisado": 4
+        "icono": "ea0c083589a2.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spm.zip": {
         "fecha": "2026-11-02T00:55:40Z",
@@ -1155,8 +1199,9 @@
             "/retroarch/cores/snes9x_libretro_libnx.nro"
         ],
         "bytes": 24599541,
-        "icono": "b61c01b6eae2.jpg",
-        "revisado": 4
+        "icono": "f6ba9d27f2ec.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bl4ck.zip": {
         "fecha": "2026-10-25T19:28:25Z",
@@ -1167,8 +1212,9 @@
             "/switch/Black/chars/guns/GrdLnchr.wdo"
         ],
         "bytes": 3943097572,
-        "icono": "7f500389dc13.jpg",
-        "revisado": 4
+        "icono": "c353deffa21f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cashd.zip": {
         "fecha": "2026-11-19T01:32:09Z",
@@ -1179,8 +1225,9 @@
             "/switch/cvhd/deko3d"
         ],
         "bytes": 453503383,
-        "icono": "d350901419b2.jpg",
-        "revisado": 4
+        "icono": "4e6e2892ddec.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip": {
         "fecha": "2026-07-18T00:00:26Z",
@@ -1191,8 +1238,9 @@
             "/switch/sotn/assets/.nomedia"
         ],
         "bytes": 581429344,
-        "icono": "edefa16355f2.jpg",
-        "revisado": 4
+        "icono": "a87cbc71c97d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip": {
         "fecha": "2026-11-23T00:39:35Z",
@@ -1203,8 +1251,9 @@
             "/switch/soulcalibur2/Default.xbe"
         ],
         "bytes": 1437856736,
-        "icono": "e02bc9c7d7a7.jpg",
-        "revisado": 4
+        "icono": "c2075fec323f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip": {
         "fecha": "2026-11-20T01:54:22Z",
@@ -1215,8 +1264,9 @@
             "/switch/LM-NX/cache/lmnx-tint-8bd445c65795e6a2283bc086/paquete.lmp"
         ],
         "bytes": 3118503854,
-        "icono": "aff4750b1faa.jpg",
-        "revisado": 4
+        "icono": "855571a56a61.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip": {
         "fecha": "2026-11-13T18:46:59Z",
@@ -1227,8 +1277,9 @@
             "/switch/spm-nx/01794104284_05446530aca7e000.log"
         ],
         "bytes": 475427930,
-        "icono": "844acfcc70cf.jpg",
-        "revisado": 4
+        "icono": "f7bf1a31cd8f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip": {
         "fecha": "2026-10-09T00:41:04Z",
@@ -1239,8 +1290,9 @@
             "/switch/strikers/cache/pipeline_cache.db"
         ],
         "bytes": 1508016844,
-        "icono": "5a5caa82c602.jpg",
-        "revisado": 4
+        "icono": "1f21ecde8da1.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip": {
         "fecha": "2026-11-16T03:16:27Z",
@@ -1251,8 +1303,9 @@
             "/switch/partyboard/initial_pipeline_cache.db"
         ],
         "bytes": 1519229933,
-        "icono": "0590f0b1d28a.jpg",
-        "revisado": 4
+        "icono": "8ab22a3204b4.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip": {
         "fecha": "2026-10-22T01:27:09Z",
@@ -1263,8 +1316,9 @@
             "/switch/b3x/game/dashupdate.xbe"
         ],
         "bytes": 2526822756,
-        "icono": "e1c24a1da770.jpg",
-        "revisado": 4
+        "icono": "89a1f5d924fe.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip": {
         "fecha": "2026-10-21T20:57:28Z",
@@ -1275,8 +1329,9 @@
             "/switch/skate3rust/assets/private/audio/aems/AC_Commerce_Unit_2.abk"
         ],
         "bytes": 3986785241,
-        "icono": "c32706acde35.jpg",
-        "revisado": 4
+        "icono": "31bd1e6532fd.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip": {
         "fecha": "2026-10-10T05:39:06Z",
@@ -1287,8 +1342,9 @@
             "/switch/defjamx/game/assets/ai/ai.viv"
         ],
         "bytes": 3047386859,
-        "icono": "690f3ea8f65d.jpg",
-        "revisado": 4
+        "icono": "f0ebe39a0d18.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip": {
         "fecha": "2026-10-18T20:05:51Z",
@@ -1299,8 +1355,9 @@
             "/switch/pes21_nx/assets/responses/CmdCreateUser.bin"
         ],
         "bytes": 4209575419,
-        "icono": "20c3a134412d.jpg",
-        "revisado": 4
+        "icono": "bb7ce890344e.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conker.zip": {
         "fecha": "2026-10-28T02:38:37Z",
@@ -1311,8 +1368,9 @@
             "/switch/ConkerRecomp/Mods/CONKERS_BFD_HIRESTEXTURES.rtz"
         ],
         "bytes": 595847165,
-        "icono": "b3ec18282005.jpg",
-        "revisado": 4
+        "icono": "5a55e972a5ba.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip": {
         "fecha": "2026-07-06T06:59:54Z",
@@ -1323,8 +1381,9 @@
             "/switch/redriver2/DRIVER2/DATA/CARCONT.RAW"
         ],
         "bytes": 1536967219,
-        "icono": "7b99100cc377.jpg",
-        "revisado": 4
+        "icono": "352935fed3ff.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip": {
         "fecha": "2026-10-29T00:56:43Z",
@@ -1335,8 +1394,9 @@
             "/switch/MKDD-NX/config/shaders.bin"
         ],
         "bytes": 4095991406,
-        "icono": "268e5a539c5f.jpg",
-        "revisado": 4
+        "icono": "7ca0f511e5b4.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip": {
         "fecha": "2026-10-19T00:35:47Z",
@@ -1347,8 +1407,9 @@
             "/switch/mk64_spaghetti/spaghetti.o2r"
         ],
         "bytes": 46818705,
-        "icono": "0e8dc1209659.jpg",
-        "revisado": 4
+        "icono": "eadb106e1e1b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip": {
         "fecha": "2026-10-19T00:56:22Z",
@@ -1359,8 +1420,9 @@
             "/switch/ReChan/discimage/Jackie Chan Stuntmaster (USA).cue"
         ],
         "bytes": 1220374359,
-        "icono": "9f84615a39d9.jpg",
-        "revisado": 4
+        "icono": "0d3ca27ebd78.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip": {
         "fecha": "2026-10-19T01:00:14Z",
@@ -1371,8 +1433,9 @@
             "/switch/pvzultimate/debug.log"
         ],
         "bytes": 702086656,
-        "icono": "89dfac15e60b.jpg",
-        "revisado": 4
+        "icono": "e210a94e74b6.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip": {
         "fecha": "2026-10-19T04:49:41Z",
@@ -1383,8 +1446,9 @@
             "/switch/halo/config.toml"
         ],
         "bytes": 1843000128,
-        "icono": "fbfe00e85e41.jpg",
-        "revisado": 4
+        "icono": "ed838ff4cca4.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip": {
         "fecha": "2026-11-14T05:48:11Z",
@@ -1395,8 +1459,9 @@
             "/switch/BattleShip-Remix/assets/custom/fonts/Inconsolata-OFL.txt"
         ],
         "bytes": 312662799,
-        "icono": "96deacf5f0a0.jpg",
-        "revisado": 4
+        "icono": "a9600619a166.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip": {
         "fecha": "2026-10-19T04:54:41Z",
@@ -1407,8 +1472,9 @@
             "/switch/BattleShip/assets/custom/fonts/Inconsolata-Regular.ttf"
         ],
         "bytes": 245599335,
-        "icono": "bb26eddde92e.jpg",
-        "revisado": 4
+        "icono": "0bc4ece6d367.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/flat.zip": {
         "fecha": "2026-10-19T04:58:22Z",
@@ -1419,8 +1485,9 @@
             "/switch/fo2x/game/dashupdate.xbe"
         ],
         "bytes": 2479440322,
-        "icono": "0a26ae422744.jpg",
-        "revisado": 4
+        "icono": "48424a75d4b7.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mc3.zip": {
         "fecha": "2026-10-26T03:13:27Z",
@@ -1431,8 +1498,9 @@
             "/switch/mcdub3-nx/game/assets_x.dat_1"
         ],
         "bytes": 3655772581,
-        "icono": "3844f6678706.jpg",
-        "revisado": 4
+        "icono": "6a2889d96b7a.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank1.zip": {
         "fecha": "2026-11-23T00:40:31Z",
@@ -1443,8 +1511,9 @@
             "/switch/shank1-nx/game_root.nxidx"
         ],
         "bytes": 2168934985,
-        "icono": "18ac91c07da8.jpg",
-        "revisado": 4
+        "icono": "4bd6cfa266a3.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank.zip": {
         "fecha": "2026-11-23T00:16:57Z",
@@ -1455,8 +1524,9 @@
             "/switch/shank2-nx/game_root.nxidx"
         ],
         "bytes": 1349724664,
-        "icono": "a4210c4654dd.jpg",
-        "revisado": 4
+        "icono": "52329ca96063.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip": {
         "fecha": "2026-08-08T09:27:00Z",
@@ -1467,8 +1537,9 @@
             "/switch/gdash/assets/BackOnTrack.mp3"
         ],
         "bytes": 195929749,
-        "icono": "41fbd954590b.jpg",
-        "revisado": 4
+        "icono": "1fd341007cdf.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip": {
         "fecha": "2026-08-08T09:29:41Z",
@@ -1479,8 +1550,9 @@
             "/switch/hitmango/.fonts/fonts.xml"
         ],
         "bytes": 1361610590,
-        "icono": "e9b3134d2678.jpg",
-        "revisado": 4
+        "icono": "cba3b6fe9401.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip": {
         "fecha": "2026-08-15T01:20:04Z",
@@ -1491,8 +1563,9 @@
             "/switch/bully/assets/data_0.zip"
         ],
         "bytes": 3003069147,
-        "icono": "27fc2cea707e.jpg",
-        "revisado": 4
+        "icono": "6365bd372f40.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip": {
         "fecha": "2026-08-06T01:22:35Z",
@@ -1503,8 +1576,9 @@
             "/switch/smwr_nx/assets/.godot/exported/133200997/export-001d7d2eb3d1f9b5520c2441db16a7d4-Vanilla.res"
         ],
         "bytes": 147439431,
-        "icono": "85e51d594562.jpg",
-        "revisado": 4
+        "icono": "5575e59f707a.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip": {
         "fecha": "2026-08-06T01:22:17Z",
@@ -1515,8 +1589,9 @@
             "/switch/smbr_nx/assets/.godot/exported/660892210/export-00ba62a006e94e6ae4d89962b3593e85-QuitDialog.scn"
         ],
         "bytes": 138673707,
-        "icono": "cea52650dd6e.jpg",
-        "revisado": 4
+        "icono": "f2e13e3b5e06.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip": {
         "fecha": "2026-08-15T01:02:17Z",
@@ -1527,8 +1602,9 @@
             "/switch/gtasa/anim/cuts.img"
         ],
         "bytes": 2647517901,
-        "icono": "b2733b7e4fd6.jpg",
-        "revisado": 4
+        "icono": "b2c9229a64e1.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip": {
         "fecha": "2026-07-09T02:49:21Z",
@@ -1539,8 +1615,9 @@
             "/switch/gtactw/airport_dry.mp3"
         ],
         "bytes": 954290847,
-        "icono": "20fc62b909e6.jpg",
-        "revisado": 4
+        "icono": "f3207c12048e.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip": {
         "fecha": "2026-07-11T04:07:31Z",
@@ -1551,8 +1628,9 @@
             "/switch/gtalcs/data_music.wad"
         ],
         "bytes": 1256679675,
-        "icono": "ea9ca3295d35.jpg",
-        "revisado": 4
+        "icono": "f71ce854d61d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip": {
         "fecha": "2026-08-07T01:26:51Z",
@@ -1563,8 +1641,9 @@
             "/switch/acpc_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 335910892,
-        "icono": "c36efcc82f4e.jpg",
-        "revisado": 4
+        "icono": "7ba43f83e6c0.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip": {
         "fecha": "2026-08-07T01:26:03Z",
@@ -1575,8 +1654,9 @@
             "/switch/abc/F2FSave.bin"
         ],
         "bytes": 511195811,
-        "icono": "2191e9c49f86.jpg",
-        "revisado": 4
+        "icono": "73b3ad91b9ff.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip": {
         "fecha": "2026-08-08T07:09:45Z",
@@ -1587,8 +1667,9 @@
             "/switch/crazytaxi/assets/data/.DS_Store"
         ],
         "bytes": 282945125,
-        "icono": "ff4f1e89895b.jpg",
-        "revisado": 4
+        "icono": "4320a1d25b47.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/crazyd.zip": {
         "fecha": "2026-11-20T01:50:01Z",
@@ -1599,8 +1680,9 @@
             "/switch/crazytaxi/crazytaxi.toml"
         ],
         "bytes": 1260402370,
-        "icono": "c41088f04e17.jpg",
-        "revisado": 4
+        "icono": "1583fd41b5eb.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip": {
         "fecha": "2026-08-08T07:09:17Z",
@@ -1611,8 +1693,9 @@
             "/switch/celeste64/Content/Audio/Master.strings.bank"
         ],
         "bytes": 87466746,
-        "icono": "478fa9ec2d2e.jpg",
-        "revisado": 4
+        "icono": "42c1ea0eaad8.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/drm.zip": {
         "fecha": "2026-08-08T07:10:45Z",
@@ -1623,8 +1706,9 @@
             "/switch/drmariomania_nx/assets/.godot/exported/133200997/export-06cc1573c73c7fbe2c07630646fbf6bd-NES.res"
         ],
         "bytes": 589934881,
-        "icono": "c793b13fd405.jpg",
-        "revisado": 4
+        "icono": "6f16715f2c77.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip": {
         "fecha": "2026-08-08T07:11:26Z",
@@ -1635,8 +1719,9 @@
             "/switch/ff3_3d/libff3.so"
         ],
         "bytes": 420435959,
-        "icono": "2f06c23fec8d.jpg",
-        "revisado": 4
+        "icono": "023745fa110a.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip": {
         "fecha": "2026-06-22T06:02:57Z",
@@ -1647,8 +1732,9 @@
             "/dusk/config.json"
         ],
         "bytes": 983385343,
-        "icono": "1ba572758acc.jpg",
-        "revisado": 4
+        "icono": "813085717256.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip": {
         "fecha": "2026-05-25T04:29:06Z",
@@ -1659,8 +1745,9 @@
             "/switch/2s2h/2ship2harkinian.json"
         ],
         "bytes": 1156792308,
-        "icono": "66ecd02d9968.jpg",
-        "revisado": 4
+        "icono": "056d812f2282.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip": {
         "fecha": "2026-05-31T01:24:12Z",
@@ -1671,8 +1758,9 @@
             "/switch/soh/mods/Reloaded_v10.4.2_HD_LButton.otr"
         ],
         "bytes": 1483785792,
-        "icono": "40c496a2a2db.jpg",
-        "revisado": 4
+        "icono": "ae05aa793be7.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip": {
         "fecha": "2026-08-08T07:13:30Z",
@@ -1683,8 +1771,9 @@
             "/switch/ffd/ffl.bin"
         ],
         "bytes": 222088576,
-        "icono": "f8460f0cd67b.jpg",
-        "revisado": 4
+        "icono": "7c017cb713dd.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd2.zip": {
         "fecha": "2026-08-08T07:14:08Z",
@@ -1695,8 +1784,9 @@
             "/switch/ffd2_nx/libchange.so"
         ],
         "bytes": 362192529,
-        "icono": "9ff7d6731e05.jpg",
-        "revisado": 4
+        "icono": "8bc7cdfb4231.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4d.zip": {
         "fecha": "2026-08-08T07:12:15Z",
@@ -1707,8 +1797,9 @@
             "/switch/ff4_3d/libff4.so"
         ],
         "bytes": 501650386,
-        "icono": "459ad9497dcd.jpg",
-        "revisado": 4
+        "icono": "1f8b26931150.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4tay.zip": {
         "fecha": "2026-08-08T07:13:07Z",
@@ -1719,8 +1810,9 @@
             "/switch/ff4tay/libff4a.so"
         ],
         "bytes": 502121184,
-        "icono": "04814e09a428.jpg",
-        "revisado": 4
+        "icono": "6b4e70cac449.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip": {
         "fecha": "2026-08-07T01:27:23Z",
@@ -1731,8 +1823,9 @@
             "/switch/angrybirds/assets/assets.list"
         ],
         "bytes": 238605341,
-        "icono": "24ab05a41459.jpg",
-        "revisado": 4
+        "icono": "4eb10d23873e.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/angjo.zip": {
         "fecha": "2026-08-20T01:28:35Z",
@@ -1743,8 +1836,9 @@
             "/switch/angrybirdsjourney_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 412394684,
-        "icono": "c0de1e75f528.jpg",
-        "revisado": 4
+        "icono": "6129ad48f4b3.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/agn2.zip": {
         "fecha": "2026-08-07T01:29:27Z",
@@ -1755,8 +1849,9 @@
             "/switch/angrybird2_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 997994913,
-        "icono": "aeba72e1aadf.jpg",
-        "revisado": 4
+        "icono": "935c1b8a9e38.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/coi.zip": {
         "fecha": "2026-08-07T01:30:50Z",
@@ -1767,8 +1862,9 @@
             "/switch/coi/libfmodex.so"
         ],
         "bytes": 633070534,
-        "icono": "28c683adcfe3.jpg",
-        "revisado": 4
+        "icono": "be1f27f91a09.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip": {
         "fecha": "2026-08-07T01:24:53Z",
@@ -1779,8 +1875,9 @@
             "/switch/badpiggies_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 127422660,
-        "icono": "613ba1aa33b2.jpg",
-        "revisado": 4
+        "icono": "bd02da9af25f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip": {
         "fecha": "2026-10-19T05:25:49Z",
@@ -1791,8 +1888,9 @@
             "/switch/the_simpsons_game/game/audiostreams/80b_crow/amb_80b_crowd_qd_01.exa.snu"
         ],
         "bytes": 4081769352,
-        "icono": "4532d02ed1bf.jpg",
-        "revisado": 4
+        "icono": "711291f0141d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip": {
         "fecha": "2026-08-08T04:23:45Z",
@@ -1803,8 +1901,9 @@
             "/switch/Simpsons_Hit_And_Run/music00.rcf"
         ],
         "bytes": 1790229850,
-        "icono": "ea36eb71b155.jpg",
-        "revisado": 4
+        "icono": "06bce3cafc4b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip": {
         "fecha": "2026-11-23T07:27:11Z",
@@ -1815,8 +1914,9 @@
             "/switch/blur-nx/deko3d_shaders.bin"
         ],
         "bytes": 3241202442,
-        "icono": "b2b45a9b0c61.jpg",
-        "revisado": 4
+        "icono": "89a5ad221d76.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip": {
         "fecha": "2026-11-23T07:29:28Z",
@@ -1827,8 +1927,9 @@
             "/switch/blur-nx/game_root/layer1/levels/jpn_mharuna/Level.levelphysics.lz4b"
         ],
         "bytes": 2313767730,
-        "icono": "b2b45a9b0c61.jpg",
-        "revisado": 4
+        "icono": "89a5ad221d76.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip": {
         "fecha": "2026-11-23T04:11:06Z",
@@ -1839,8 +1940,9 @@
             "/umvc3/ce-data/Characters.ini"
         ],
         "bytes": 3929819855,
-        "icono": "0b50d1dcd91c.jpg",
-        "revisado": 4
+        "icono": "f0e98a12d32c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc32.zip": {
         "fecha": "2026-11-23T04:14:52Z",
@@ -1851,8 +1953,9 @@
             "/ce/mag_patch.asi"
         ],
         "bytes": 4214847661,
-        "icono": "0b50d1dcd91c.jpg",
-        "revisado": 4
+        "icono": "f0e98a12d32c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc33.zip": {
         "fecha": "2026-11-23T04:17:50Z",
@@ -1863,8 +1966,9 @@
             "/ce-data/nativePCx64/chr/archive/0001_10.arc"
         ],
         "bytes": 3681573073,
-        "icono": "0b50d1dcd91c.jpg",
-        "revisado": 4
+        "icono": "f0e98a12d32c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip": {
         "fecha": "2026-11-18T21:37:12Z",
@@ -1875,8 +1979,9 @@
             "/switch/fh1-nx/fh1nx.toml"
         ],
         "bytes": 3882976106,
-        "icono": "4784dd49e8fc.jpg",
-        "revisado": 4
+        "icono": "191049db09f9.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh12.zip": {
         "fecha": "2026-11-18T21:38:33Z",
@@ -1887,8 +1992,9 @@
             "/switch/fh1-nx/game_root/media/Livery.zip"
         ],
         "bytes": 3225762317,
-        "icono": "4784dd49e8fc.jpg",
-        "revisado": 4
+        "icono": "191049db09f9.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip": {
         "fecha": "2026-11-23T05:38:55Z",
@@ -1899,8 +2005,9 @@
             "/switch/deadpool-nx/deko3d_glsl.bin"
         ],
         "bytes": 3958644208,
-        "icono": "107802593f39.jpg",
-        "revisado": 4
+        "icono": "e2208a16bf53.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp2.zip": {
         "fecha": "2026-11-23T05:29:33Z",
@@ -1911,8 +2018,9 @@
             "/switch/deadpool-nx/game/$SystemUpdate/dash.ExtraAVCodecs.xex"
         ],
         "bytes": 1460450462,
-        "icono": "107802593f39.jpg",
-        "revisado": 4
+        "icono": "e2208a16bf53.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic1.zip": {
         "fecha": "2026-11-14T04:40:03Z",
@@ -1923,8 +2031,9 @@
             "/switch/alice-nx/deko3d_shaders.bin"
         ],
         "bytes": 1609172932,
-        "icono": "2cf7b84adafa.jpg",
-        "revisado": 4
+        "icono": "95dcc143c5de.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic2.zip": {
         "fecha": "2026-11-14T04:41:16Z",
@@ -1935,8 +2044,9 @@
             "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntryManual.xxx"
         ],
         "bytes": 3552519335,
-        "icono": "2cf7b84adafa.jpg",
-        "revisado": 4
+        "icono": "95dcc143c5de.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip": {
         "fecha": "2026-11-16T01:10:06Z",
@@ -1947,8 +2057,9 @@
             "/switch/ds2scholar-nx/ds2scholar-forwarder.nsp"
         ],
         "bytes": 3333719482,
-        "icono": "d41b767f5aad.jpg",
-        "revisado": 4
+        "icono": "32d8f90e926b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark22.zip": {
         "fecha": "2026-11-16T01:11:44Z",
@@ -1959,8 +2070,9 @@
             "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/sound/frpg2_ps100200.fsb"
         ],
         "bytes": 3943129349,
-        "icono": "d41b767f5aad.jpg",
-        "revisado": 4
+        "icono": "32d8f90e926b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish1.zip": {
         "fecha": "2026-11-13T19:48:35Z",
@@ -1971,8 +2083,9 @@
             "/switch/dishonored-nx/game_root/Binaries/build.properties"
         ],
         "bytes": 3565378065,
-        "icono": "66200307bac4.jpg",
-        "revisado": 4
+        "icono": "571c9d20cba7.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish2.zip": {
         "fecha": "2026-11-13T19:47:31Z",
@@ -1983,8 +2096,9 @@
             "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/L_LightH_HighChaos_LFC.tfc"
         ],
         "bytes": 1448254775,
-        "icono": "66200307bac4.jpg",
-        "revisado": 4
+        "icono": "571c9d20cba7.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear11.zip": {
         "fecha": "2026-10-24T01:00:55Z",
@@ -1995,8 +2109,9 @@
             "/switch/gears2-nx/game/default.xex"
         ],
         "bytes": 3657753425,
-        "icono": "e671565f7be5.jpg",
-        "revisado": 4
+        "icono": "8909d4f0b2c6.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear12.zip": {
         "fecha": "2026-10-24T00:35:46Z",
@@ -2007,8 +2122,9 @@
             "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10_S_LOC_ESM.xxx"
         ],
         "bytes": 3613770370,
-        "icono": "e671565f7be5.jpg",
-        "revisado": 4
+        "icono": "8909d4f0b2c6.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising1.zip": {
         "fecha": "2026-10-30T20:19:17Z",
@@ -2019,8 +2135,9 @@
             "/switch/mgr-nx-deko/game_root/default.xex"
         ],
         "bytes": 4040178382,
-        "icono": "fa8e46a76e98.jpg",
-        "revisado": 4
+        "icono": "c59bb23ec853.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising2.zip": {
         "fecha": "2026-10-30T19:41:44Z",
@@ -2031,8 +2148,9 @@
             "/switch/mgr-nx-deko/game_root/media/movie/ev3030.usm"
         ],
         "bytes": 3855576552,
-        "icono": "fa8e46a76e98.jpg",
-        "revisado": 4
+        "icono": "c59bb23ec853.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes1.zip": {
         "fecha": "2026-10-28T01:15:02Z",
@@ -2043,8 +2161,9 @@
             "/switch/dantes-inferno-nx/game/default.xex"
         ],
         "bytes": 3293942768,
-        "icono": "a08454adb32c.jpg",
-        "revisado": 4
+        "icono": "21561cca2ad5.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes2.zip": {
         "fecha": "2026-10-28T01:14:48Z",
@@ -2053,8 +2172,9 @@
             "/switch/dantes-inferno-nx/game/bigfile1.viv"
         ],
         "bytes": 2692051407,
-        "icono": "a08454adb32c.jpg",
-        "revisado": 4
+        "icono": "21561cca2ad5.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d11.zip": {
         "fecha": "2026-10-19T02:42:34Z",
@@ -2065,8 +2185,9 @@
             "/switch/left4dead/config/keys.txt"
         ],
         "bytes": 3512003452,
-        "icono": "7ba093d26d2b.jpg",
-        "revisado": 4
+        "icono": "e52e45a3f58d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d12.zip": {
         "fecha": "2026-10-19T02:41:48Z",
@@ -2077,8 +2198,9 @@
             "/switch/left4dead/drive_c/dxvk64/d3d11.dll"
         ],
         "bytes": 2838266546,
-        "icono": "7ba093d26d2b.jpg",
-        "revisado": 4
+        "icono": "e52e45a3f58d.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw41.zip": {
         "fecha": "2026-10-18T19:46:49Z",
@@ -2089,8 +2211,9 @@
             "/switch/codmw/codmw_pipelines_base.bin"
         ],
         "bytes": 3880157489,
-        "icono": "d01ad1287038.jpg",
-        "revisado": 4
+        "icono": "510a4b7e81cd.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw42.zip": {
         "fecha": "2026-10-18T19:45:51Z",
@@ -2101,8 +2224,9 @@
             "/switch/codmw/game/mp_pipeline_load.ff"
         ],
         "bytes": 2063295952,
-        "icono": "d01ad1287038.jpg",
-        "revisado": 4
+        "icono": "510a4b7e81cd.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip": {
         "fecha": "2026-10-19T01:06:10Z",
@@ -2113,8 +2237,9 @@
             "/switch/boz/atlas56.hdr"
         ],
         "bytes": 544799357,
-        "icono": "70d6f99bd922.jpg",
-        "revisado": 4
+        "icono": "5f80471e99c7.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip": {
         "fecha": "2026-11-18T00:52:18Z",
@@ -2125,8 +2250,9 @@
             "/switch/bo2zm/bo2cp_shaders.spvpack"
         ],
         "bytes": 3984683698,
-        "icono": "d8b5bade86d1.jpg",
-        "revisado": 4
+        "icono": "603f5c14b045.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod22.zip": {
         "fecha": "2026-11-18T01:12:28Z",
@@ -2137,8 +2263,9 @@
             "/switch/bo2zm/game/stream/cmn_root.english.sabs"
         ],
         "bytes": 3651289828,
-        "icono": "d8b5bade86d1.jpg",
-        "revisado": 4
+        "icono": "603f5c14b045.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod23.zip": {
         "fecha": "2026-11-18T01:02:31Z",
@@ -2149,8 +2276,9 @@
             "/switch/bo2zm/game/a1_vault_menendez_3.webm"
         ],
         "bytes": 3998909597,
-        "icono": "d8b5bade86d1.jpg",
-        "revisado": 4
+        "icono": "603f5c14b045.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip": {
         "fecha": "2026-11-20T01:42:21Z",
@@ -2161,8 +2289,9 @@
             "/switch/tf2_nx/files/dejavusans-bold.ttf"
         ],
         "bytes": 4134819014,
-        "icono": "c27cb916ef3b.jpg",
-        "revisado": 4
+        "icono": "f7d2e989d182.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip": {
         "fecha": "2026-11-20T01:42:15Z",
@@ -2173,8 +2302,9 @@
             "/switch/tf2_nx/lib/libengine.so"
         ],
         "bytes": 3263591237,
-        "icono": "c27cb916ef3b.jpg",
-        "revisado": 4
+        "icono": "f7d2e989d182.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip": {
         "fecha": "2026-11-20T01:40:52Z",
@@ -2185,8 +2315,9 @@
             "/switch/tf2_nx/tf2legacy/vpks/tf2l_assets_000.vpk"
         ],
         "bytes": 1856033196,
-        "icono": "c27cb916ef3b.jpg",
-        "revisado": 4
+        "icono": "f7d2e989d182.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip": {
         "fecha": "2026-11-23T03:37:32Z",
@@ -2197,8 +2328,9 @@
             "/switch/shh-nx/deko3d.log"
         ],
         "bytes": 4259265064,
-        "icono": "255ebaadb50f.jpg",
-        "revisado": 4
+        "icono": "f9232d87fd7b.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip": {
         "fecha": "2026-11-23T01:58:21Z",
@@ -2209,8 +2341,9 @@
             "/switch/shd-nx/game/default.xex"
         ],
         "bytes": 3338977279,
-        "icono": "f227e9d9bd34.jpg",
-        "revisado": 4
+        "icono": "596de22b43e5.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip": {
         "fecha": "2026-11-23T01:59:32Z",
@@ -2221,8 +2354,9 @@
             "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-esm_SF.xxx"
         ],
         "bytes": 1562337560,
-        "icono": "f227e9d9bd34.jpg",
-        "revisado": 4
+        "icono": "596de22b43e5.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": {
         "fecha": "2026-10-26T03:45:44Z",
@@ -2233,8 +2367,9 @@
             "/switch/sh3-nx/data/bgam.arc"
         ],
         "bytes": 3139363975,
-        "icono": "ec9c5707b1e3.jpg",
-        "revisado": 4
+        "icono": "73182ccf372f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip": {
         "fecha": "2026-10-19T04:43:38Z",
@@ -2245,8 +2380,9 @@
             "/switch/sh3-nx/data/movie/ed_u.000"
         ],
         "bytes": 2107400458,
-        "icono": "ec9c5707b1e3.jpg",
-        "revisado": 4
+        "icono": "73182ccf372f.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip": {
         "fecha": "2026-10-26T03:39:51Z",
@@ -2257,8 +2393,9 @@
             "/switch/sh2-nx/binkw32.dll"
         ],
         "bytes": 2593177867,
-        "icono": "4b5415c44cfc.jpg",
-        "revisado": 4
+        "icono": "ba36e6c27c7c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip": {
         "fecha": "2026-10-16T00:50:38Z",
@@ -2269,8 +2406,9 @@
             "/switch/sh2-nx/sh2e/bg/ap/ap01.map"
         ],
         "bytes": 2657323862,
-        "icono": "4b5415c44cfc.jpg",
-        "revisado": 4
+        "icono": "ba36e6c27c7c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip": {
         "fecha": "2026-10-16T00:51:00Z",
@@ -2281,7 +2419,8 @@
             "/switch/sh2-nx/sh2e/pic/add/mapmark.tex"
         ],
         "bytes": 3461349294,
-        "icono": "4b5415c44cfc.jpg",
-        "revisado": 4
+        "icono": "ba36e6c27c7c.jpg",
+        "revisado": 4,
+        "icono_v": 2
     }
 }
