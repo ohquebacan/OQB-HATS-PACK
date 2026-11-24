@@ -628,10 +628,11 @@
             "/atmosphere/contents/0100B00B51230000/romfs/update/update2.rpf"
         ],
         "bytes": 1699451444,
+        "descomprimido": 1699449856,
         "icono": "2af159f8c230.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7b21ad97e885.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7b21ad97e885.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": {
         "fecha": "2026-11-18T03:05:21Z",
@@ -642,10 +643,11 @@
             "/switch/gow-nx/data/mods/gow1_psp2_SCEA.psarc.vtpatch"
         ],
         "bytes": 3640982000,
+        "descomprimido": 3640909186,
         "icono": "319f06364386.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/89d4a9bfb021.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/89d4a9bfb021.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": {
         "fecha": "2026-11-16T03:07:47Z",
@@ -656,10 +658,11 @@
             "/switch/kof2002um-nx/game.nxpack"
         ],
         "bytes": 1157877276,
+        "descomprimido": 1157876260,
         "icono": "85aa30987442.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2b5642ecec93.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2b5642ecec93.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/coloso.zip": {
         "fecha": "2026-11-22T19:50:42Z",
@@ -670,10 +673,11 @@
             "/switch/celosia_nx/assets/IOPRP300.IMG"
         ],
         "bytes": 3732130160,
+        "descomprimido": 3731486108,
         "icono": "665a7168de72.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/276e4898b9f9.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/276e4898b9f9.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip": {
         "fecha": "2026-11-13T18:43:10Z",
@@ -684,10 +688,11 @@
             "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1B.RIB"
         ],
         "bytes": 2500756759,
+        "descomprimido": 2500529231,
         "icono": "5d204633c387.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4f73ef6188f3.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4f73ef6188f3.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip": {
         "fecha": "2026-11-14T05:36:51Z",
@@ -698,10 +703,11 @@
             "/switch/mp2-nx/LICENSE-Dusklight-Switch-CC0.txt"
         ],
         "bytes": 1360479547,
+        "descomprimido": 1360478149,
         "icono": "c7c7e28d3f6d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7d5ce417a6fb.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7d5ce417a6fb.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip": {
         "fecha": "2026-11-16T00:34:03Z",
@@ -712,10 +718,11 @@
             "/switch/msr/exheader.bin"
         ],
         "bytes": 749381792,
+        "descomprimido": 749379012,
         "icono": "2a5d139c1f7f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/704549eedf2e.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/704549eedf2e.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metfu.zip": {
         "fecha": "2026-11-20T19:45:29Z",
@@ -725,10 +732,11 @@
             "/switch/metroid_fusion/game/metfu.gba"
         ],
         "bytes": 29501759,
+        "descomprimido": 29500447,
         "icono": "0881b00bc9e8.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/bd6894c9f744.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/bd6894c9f744.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metze.zip": {
         "fecha": "2026-11-20T19:48:30Z",
@@ -738,10 +746,11 @@
             "/switch/metroid_zero_mission/game/metze.gba"
         ],
         "bytes": 29503766,
+        "descomprimido": 29502394,
         "icono": "b652b249fb79.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cc3c6ae61a7f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cc3c6ae61a7f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip": {
         "fecha": "2026-11-16T03:51:11Z",
@@ -752,10 +761,11 @@
             "/switch/goldeneye_xbla/cache/nfsmw_dksh.bin"
         ],
         "bytes": 767501180,
+        "descomprimido": 766631458,
         "icono": "ea2924edc867.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/aed953b145c4.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/aed953b145c4.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip": {
         "fecha": "2026-10-29T00:58:20Z",
@@ -766,10 +776,11 @@
             "/switch/shaolinmonks/cache/shaders/008026acb75a563c.spv"
         ],
         "bytes": 2988690996,
+        "descomprimido": 3979016359,
         "icono": "476065b1e12b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/29bd2d0ab6cd.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/29bd2d0ab6cd.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshot.zip": {
         "fecha": "2026-11-18T21:57:55Z",
@@ -780,10 +791,11 @@
             "/switch/NFSHP2-Switch/ZZDATA.BIN"
         ],
         "bytes": 3135449158,
+        "descomprimido": 3135448208,
         "icono": "ceab7b1c734c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d6790b0dc2e1.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d6790b0dc2e1.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip": {
         "fecha": "2026-10-26T03:18:14Z",
@@ -794,10 +806,11 @@
             "/switch/nfscx/game/NFS/ZDIR.BIN"
         ],
         "bytes": 3085513275,
+        "descomprimido": 3085506035,
         "icono": "3d9f34cc4830.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4a96488e0065.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4a96488e0065.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfs3.zip": {
         "fecha": "2026-11-02T05:14:58Z",
@@ -808,10 +821,11 @@
             "/switch/nfs_3/game/nfs3.cue"
         ],
         "bytes": 549994871,
+        "descomprimido": 549992767,
         "icono": "a2b7ebee3371.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/910305637d54.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/910305637d54.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshs.zip": {
         "fecha": "2026-11-01T19:58:20Z",
@@ -822,10 +836,11 @@
             "/switch/nfs4_retroarch/game/Need for Speed - High Stakes (USA).cue"
         ],
         "bytes": 754688920,
+        "descomprimido": 754686584,
         "icono": "e8f75caa27e4.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/08b604ff9974.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/08b604ff9974.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfspu.zip": {
         "fecha": "2026-11-02T05:26:11Z",
@@ -836,10 +851,11 @@
             "/switch/nfs_5/game/n10.bin"
         ],
         "bytes": 679098092,
+        "descomprimido": 679093738,
         "icono": "ee76a9f57039.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cb48a1b38782.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cb48a1b38782.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfu2.zip": {
         "fecha": "2026-10-26T03:22:18Z",
@@ -850,10 +866,11 @@
             "/switch/nfsu2x/game/B3/Data/After.kfs"
         ],
         "bytes": 2769428868,
+        "descomprimido": 2769385422,
         "icono": "cfe111d315bd.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/c23f7ad2c6ba.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/c23f7ad2c6ba.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp1.zip": {
         "fecha": "2026-09-30T22:35:02Z",
@@ -864,10 +881,11 @@
             "/switch/nfsmw-nx/game_root/Movies/attract_movie_spanish_pal.wmv"
         ],
         "bytes": 3335319976,
+        "descomprimido": 3335309738,
         "icono": "2b77222c212e.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cc0bdea9656f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cc0bdea9656f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip": {
         "fecha": "2026-09-30T22:35:32Z",
@@ -878,10 +896,11 @@
             "/switch/nfsmw-nx/game_root/NFS/ZZDATA2.BIN"
         ],
         "bytes": 3736840712,
+        "descomprimido": 3736838144,
         "icono": "2b77222c212e.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cc0bdea9656f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cc0bdea9656f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/db3.zip": {
         "fecha": "2026-11-16T03:51:16Z",
@@ -892,10 +911,11 @@
             "/switch/bt3-switch-data/disc/BIN/DBZP.BIN"
         ],
         "bytes": 2914348558,
+        "descomprimido": 4354001314,
         "icono": "5a74c7cd8c6d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/02c9f9d0535a.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/02c9f9d0535a.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conded.zip": {
         "fecha": "2026-11-19T01:16:30Z",
@@ -906,10 +926,11 @@
             "/switch/condemned-nx/cco_shaders.dslib"
         ],
         "bytes": 3705334924,
+        "descomprimido": 3705327582,
         "icono": "08ce83b92f1e.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6c5d984efa6e.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6c5d984efa6e.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blodext.zip": {
         "fecha": "2026-11-04T20:56:58Z",
@@ -920,10 +941,11 @@
             "/switch/brextreme-nx/brextreme-settings.toml"
         ],
         "bytes": 767294502,
+        "descomprimido": 767031264,
         "icono": "c70cfe8964c3.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/859dbc634c98.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/859dbc634c98.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jak2.zip": {
         "fecha": "2026-11-08T03:21:14Z",
@@ -934,10 +956,11 @@
             "/switch/jak2/data/out/jak2/obj/mech-ag.go"
         ],
         "bytes": 3932111658,
+        "descomprimido": 5674177721,
         "icono": "e22eec8ce9db.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/c5eb6b52ece8.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/c5eb6b52ece8.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tgf.zip": {
         "fecha": "2026-11-19T01:19:31Z",
@@ -948,10 +971,11 @@
             "/switch/godfather-nx/game/default.xbe"
         ],
         "bytes": 2315351354,
+        "descomprimido": 2315349226,
         "icono": "dec29f90c1df.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/221ac6ac29ba.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/221ac6ac29ba.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt2.zip": {
         "fecha": "2026-11-02T05:41:49Z",
@@ -962,10 +986,11 @@
             "/switch/gran_turismo_2/game/gt22.bin"
         ],
         "bytes": 730754767,
+        "descomprimido": 730752579,
         "icono": "01bf1eab0f6b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/668b966a6143.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/668b966a6143.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt3.zip": {
         "fecha": "2026-11-03T23:54:18Z",
@@ -975,10 +1000,11 @@
             "/switch/gt3r/gt3.iso"
         ],
         "bytes": 3893107388,
+        "descomprimido": 3893106686,
         "icono": "5c3a37e8e915.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/94cefb6a2c22.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/94cefb6a2c22.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/yugi.zip": {
         "fecha": "2026-11-20T02:05:44Z",
@@ -989,10 +1015,11 @@
             "/switch/yfm-redecomp/game/Yu-Gi-Oh! Forbidden Memories (USA).bin"
         ],
         "bytes": 534773092,
+        "descomprimido": 534767248,
         "icono": "9555a9c8caae.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8e5f1f742416.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8e5f1f742416.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pep.zip": {
         "fecha": "2026-11-02T05:53:56Z",
@@ -1003,10 +1030,11 @@
             "/switch/pepsiman/game/pep.cue"
         ],
         "bytes": 330969901,
+        "descomprimido": 330967765,
         "icono": "4ece0029a7b0.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ff926ccdf2e0.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ff926ccdf2e0.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/med.zip": {
         "fecha": "2026-11-02T06:04:34Z",
@@ -1017,10 +1045,11 @@
             "/switch/medievil/game/med1.bin"
         ],
         "bytes": 585059845,
+        "descomprimido": 585057537,
         "icono": "78aafa3a9f7c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/51700f63fe5f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/51700f63fe5f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/herc.zip": {
         "fecha": "2026-11-02T06:18:31Z",
@@ -1031,10 +1060,11 @@
             "/switch/hercules/game/herc.cue"
         ],
         "bytes": 422158101,
+        "descomprimido": 422155961,
         "icono": "0b06811f8efa.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/bf66e7a715a7.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/bf66e7a715a7.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pz.zip": {
         "fecha": "2026-11-20T01:46:19Z",
@@ -1045,10 +1075,11 @@
             "/pz41/game/natives/libfmod.so"
         ],
         "bytes": 2576282923,
+        "descomprimido": 7201892608,
         "icono": "aa69b75254c9.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/085262deb0fc.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/085262deb0fc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sonic.zip": {
         "fecha": "2026-11-23T08:06:09Z",
@@ -1059,10 +1090,11 @@
             "/switch/sasrt-nx/deko3d_shaders.bin"
         ],
         "bytes": 2646496407,
+        "descomprimido": 2646489187,
         "icono": "851bc032b878.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/322c23e3f6b2.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/322c23e3f6b2.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip": {
         "fecha": "2026-11-02T06:30:40Z",
@@ -1073,10 +1105,11 @@
             "/switch/twisted_metal/game/tw1.bin"
         ],
         "bytes": 363280902,
+        "descomprimido": 363277284,
         "icono": "5b835e19b778.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/a588cb9df193.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/a588cb9df193.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip": {
         "fecha": "2026-10-29T23:19:47Z",
@@ -1087,10 +1120,11 @@
             "/switch/street-nx/game/data/aptanims/aptfntz.big"
         ],
         "bytes": 1786127105,
+        "descomprimido": 1786094031,
         "icono": "048f3fc53d90.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2afc054fddd4.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2afc054fddd4.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip": {
         "fecha": "2026-11-16T03:14:20Z",
@@ -1101,10 +1135,11 @@
             "/switch/oot3dre/config/anisotropy"
         ],
         "bytes": 1049295785,
+        "descomprimido": 1048758459,
         "icono": "f7dae65259a4.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/abbfd81bbb58.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/abbfd81bbb58.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip": {
         "fecha": "2026-10-22T01:02:34Z",
@@ -1115,10 +1150,11 @@
             "/switch/switchwaker/initial_dksh_cache.bin"
         ],
         "bytes": 1135994186,
+        "descomprimido": 1135988388,
         "icono": "ea52d9e509f9.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9f44099b17e0.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9f44099b17e0.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip": {
         "fecha": "2026-10-22T01:08:42Z",
@@ -1129,10 +1165,11 @@
             "/switch/wwhd/game/code/app.xml"
         ],
         "bytes": 1973555764,
+        "descomprimido": 1973316848,
         "icono": "198d78b5b606.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4c7de024b44c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4c7de024b44c.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip": {
         "fecha": "2026-11-02T00:34:42Z",
@@ -1143,10 +1180,11 @@
             "/switch/resident_evil_1_retroarch/game/re1.cue"
         ],
         "bytes": 741775699,
+        "descomprimido": 741773379,
         "icono": "8d5cba01c6bc.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/35bedcab2a77.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/35bedcab2a77.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip": {
         "fecha": "2026-11-02T01:27:10Z",
@@ -1157,10 +1195,11 @@
             "/switch/resident_evil_2_leon/game/re21.cue"
         ],
         "bytes": 685757599,
+        "descomprimido": 685755119,
         "icono": "828a8cb5e2d5.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/3cb9c933505f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/3cb9c933505f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip": {
         "fecha": "2026-11-02T01:34:26Z",
@@ -1171,10 +1210,11 @@
             "/switch/resident_evil_2_claire/game/re22.cue"
         ],
         "bytes": 691553001,
+        "descomprimido": 691550493,
         "icono": "30fba1e13ed3.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/561890063127.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/561890063127.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re3.zip": {
         "fecha": "2026-11-02T01:57:30Z",
@@ -1185,10 +1225,11 @@
             "/switch/resident_evil_3/game/re3.cue"
         ],
         "bytes": 734926195,
+        "descomprimido": 734923975,
         "icono": "c35d7dd63e72.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/18efd45209a6.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/18efd45209a6.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/resu.zip": {
         "fecha": "2026-11-02T02:10:56Z",
@@ -1199,10 +1240,11 @@
             "/switch/resident_evil_survivor/game/resu.cue"
         ],
         "bytes": 447211953,
+        "descomprimido": 447209645,
         "icono": "9e7450a5b104.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/763b2d472052.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/763b2d472052.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/revc.zip": {
         "fecha": "2026-11-15T20:03:46Z",
@@ -1213,10 +1255,11 @@
             "/switch/recvx/Resident Evil - Code - Veronica X (USA).iso"
         ],
         "bytes": 2102307808,
+        "descomprimido": 2102306330,
         "icono": "1942c069d25b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/45602adae569.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/45602adae569.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip": {
         "fecha": "2026-10-30T18:30:40Z",
@@ -1227,10 +1270,11 @@
             "/switch/tekken3/disc/Tekken 3 (USA) (Track 1).bin"
         ],
         "bytes": 700126677,
+        "descomprimido": 700125091,
         "icono": "ea0c083589a2.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/b2e454fafb5c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/b2e454fafb5c.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spm.zip": {
         "fecha": "2026-11-02T00:55:40Z",
@@ -1240,10 +1284,11 @@
             "/switch/super_metroid_snes/game/spm.smc"
         ],
         "bytes": 24599541,
+        "descomprimido": 24598189,
         "icono": "f6ba9d27f2ec.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8a649615b9e6.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8a649615b9e6.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bl4ck.zip": {
         "fecha": "2026-10-25T19:28:25Z",
@@ -1254,10 +1299,11 @@
             "/switch/Black/chars/guns/GrdLnchr.wdo"
         ],
         "bytes": 3943097572,
+        "descomprimido": 3942810756,
         "icono": "c353deffa21f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/17497ebcb2c4.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/17497ebcb2c4.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cashd.zip": {
         "fecha": "2026-11-19T01:32:09Z",
@@ -1268,10 +1314,11 @@
             "/switch/cvhd/deko3d"
         ],
         "bytes": 453503383,
+        "descomprimido": 453014251,
         "icono": "4e6e2892ddec.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5c60ce1d8a07.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5c60ce1d8a07.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip": {
         "fecha": "2026-07-18T00:00:26Z",
@@ -1282,10 +1329,11 @@
             "/switch/sotn/assets/.nomedia"
         ],
         "bytes": 581429344,
+        "descomprimido": 581126462,
         "icono": "a87cbc71c97d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ab79b63a442a.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ab79b63a442a.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip": {
         "fecha": "2026-11-23T00:39:35Z",
@@ -1296,10 +1344,11 @@
             "/switch/soulcalibur2/Default.xbe"
         ],
         "bytes": 1437856736,
+        "descomprimido": 1437855570,
         "icono": "c2075fec323f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/944f3f9e0d90.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/944f3f9e0d90.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip": {
         "fecha": "2026-11-20T01:54:22Z",
@@ -1310,10 +1359,11 @@
             "/switch/LM-NX/cache/lmnx-tint-8bd445c65795e6a2283bc086/paquete.lmp"
         ],
         "bytes": 3118503854,
+        "descomprimido": 3118497594,
         "icono": "855571a56a61.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e42835888f41.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e42835888f41.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip": {
         "fecha": "2026-11-13T18:46:59Z",
@@ -1324,10 +1374,11 @@
             "/switch/spm-nx/01794104284_05446530aca7e000.log"
         ],
         "bytes": 475427930,
+        "descomprimido": 474843300,
         "icono": "f7bf1a31cd8f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ae3e768e486e.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ae3e768e486e.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip": {
         "fecha": "2026-10-09T00:41:04Z",
@@ -1338,10 +1389,11 @@
             "/switch/strikers/cache/pipeline_cache.db"
         ],
         "bytes": 1508016844,
+        "descomprimido": 1508013548,
         "icono": "1f21ecde8da1.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/98b2ce61781c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/98b2ce61781c.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip": {
         "fecha": "2026-11-16T03:16:27Z",
@@ -1352,10 +1404,11 @@
             "/switch/partyboard/initial_pipeline_cache.db"
         ],
         "bytes": 1519229933,
+        "descomprimido": 1519218539,
         "icono": "8ab22a3204b4.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ef7a62499bf.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ef7a62499bf.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip": {
         "fecha": "2026-10-22T01:27:09Z",
@@ -1366,10 +1419,11 @@
             "/switch/b3x/game/dashupdate.xbe"
         ],
         "bytes": 2526822756,
+        "descomprimido": 2526677498,
         "icono": "89a1f5d924fe.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1f6b9a4cf02b.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1f6b9a4cf02b.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip": {
         "fecha": "2026-10-21T20:57:28Z",
@@ -1380,10 +1434,11 @@
             "/switch/skate3rust/assets/private/audio/aems/AC_Commerce_Unit_2.abk"
         ],
         "bytes": 3986785241,
+        "descomprimido": 5013400286,
         "icono": "31bd1e6532fd.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/531bb73d72a0.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/531bb73d72a0.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip": {
         "fecha": "2026-10-10T05:39:06Z",
@@ -1394,10 +1449,11 @@
             "/switch/defjamx/game/assets/ai/ai.viv"
         ],
         "bytes": 3047386859,
+        "descomprimido": 3047357063,
         "icono": "f0ebe39a0d18.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/53d69e1dbe1d.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/53d69e1dbe1d.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip": {
         "fecha": "2026-10-18T20:05:51Z",
@@ -1408,10 +1464,11 @@
             "/switch/pes21_nx/assets/responses/CmdCreateUser.bin"
         ],
         "bytes": 4209575419,
+        "descomprimido": 4209554705,
         "icono": "bb7ce890344e.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d2f98ef912b5.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d2f98ef912b5.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conker.zip": {
         "fecha": "2026-10-28T02:38:37Z",
@@ -1422,10 +1479,11 @@
             "/switch/ConkerRecomp/Mods/CONKERS_BFD_HIRESTEXTURES.rtz"
         ],
         "bytes": 595847165,
+        "descomprimido": 595846121,
         "icono": "5a55e972a5ba.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/556d8ae28ec8.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/556d8ae28ec8.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip": {
         "fecha": "2026-07-06T06:59:54Z",
@@ -1436,10 +1494,11 @@
             "/switch/redriver2/DRIVER2/DATA/CARCONT.RAW"
         ],
         "bytes": 1536967219,
+        "descomprimido": 1536897213,
         "icono": "352935fed3ff.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/41be6e853fac.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/41be6e853fac.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip": {
         "fecha": "2026-10-29T00:56:43Z",
@@ -1450,10 +1509,11 @@
             "/switch/MKDD-NX/config/shaders.bin"
         ],
         "bytes": 4095991406,
+        "descomprimido": 5188858420,
         "icono": "7ca0f511e5b4.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/0658ea2955cb.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/0658ea2955cb.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip": {
         "fecha": "2026-10-19T00:35:47Z",
@@ -1464,10 +1524,11 @@
             "/switch/mk64_spaghetti/spaghetti.o2r"
         ],
         "bytes": 46818705,
+        "descomprimido": 46817861,
         "icono": "eadb106e1e1b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/b74d7c2a70d5.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/b74d7c2a70d5.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip": {
         "fecha": "2026-10-19T00:56:22Z",
@@ -1478,10 +1539,11 @@
             "/switch/ReChan/discimage/Jackie Chan Stuntmaster (USA).cue"
         ],
         "bytes": 1220374359,
+        "descomprimido": 1220338855,
         "icono": "0d3ca27ebd78.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5f648dd75a16.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5f648dd75a16.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip": {
         "fecha": "2026-10-19T01:00:14Z",
@@ -1492,10 +1554,11 @@
             "/switch/pvzultimate/debug.log"
         ],
         "bytes": 702086656,
+        "descomprimido": 702081710,
         "icono": "e210a94e74b6.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5357c0bdefa8.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5357c0bdefa8.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip": {
         "fecha": "2026-10-19T04:49:41Z",
@@ -1506,10 +1569,11 @@
             "/switch/halo/config.toml"
         ],
         "bytes": 1843000128,
+        "descomprimido": 1842991868,
         "icono": "ed838ff4cca4.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8c400cfe6872.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8c400cfe6872.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip": {
         "fecha": "2026-11-14T05:48:11Z",
@@ -1520,10 +1584,11 @@
             "/switch/BattleShip-Remix/assets/custom/fonts/Inconsolata-OFL.txt"
         ],
         "bytes": 312662799,
+        "descomprimido": 312653259,
         "icono": "a9600619a166.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/75b4f1d8dc45.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/75b4f1d8dc45.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip": {
         "fecha": "2026-10-19T04:54:41Z",
@@ -1534,10 +1599,11 @@
             "/switch/BattleShip/assets/custom/fonts/Inconsolata-Regular.ttf"
         ],
         "bytes": 245599335,
+        "descomprimido": 244069903,
         "icono": "0bc4ece6d367.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2a713a7393dc.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2a713a7393dc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/flat.zip": {
         "fecha": "2026-10-19T04:58:22Z",
@@ -1548,10 +1614,11 @@
             "/switch/fo2x/game/dashupdate.xbe"
         ],
         "bytes": 2479440322,
+        "descomprimido": 2479419820,
         "icono": "48424a75d4b7.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f9459383bc72.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f9459383bc72.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mc3.zip": {
         "fecha": "2026-10-26T03:13:27Z",
@@ -1562,10 +1629,11 @@
             "/switch/mcdub3-nx/game/assets_x.dat_1"
         ],
         "bytes": 3655772581,
+        "descomprimido": 3655615745,
         "icono": "6a2889d96b7a.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5eede25bd2bd.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5eede25bd2bd.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank1.zip": {
         "fecha": "2026-11-23T00:40:31Z",
@@ -1576,10 +1644,11 @@
             "/switch/shank1-nx/game_root.nxidx"
         ],
         "bytes": 2168934985,
+        "descomprimido": 2168933825,
         "icono": "4bd6cfa266a3.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/0c681adf72d2.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/0c681adf72d2.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank.zip": {
         "fecha": "2026-11-23T00:16:57Z",
@@ -1590,10 +1659,11 @@
             "/switch/shank2-nx/game_root.nxidx"
         ],
         "bytes": 1349724664,
+        "descomprimido": 1349723504,
         "icono": "52329ca96063.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/929efffb691f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/929efffb691f.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip": {
         "fecha": "2026-08-08T09:27:00Z",
@@ -1604,10 +1674,11 @@
             "/switch/gdash/assets/BackOnTrack.mp3"
         ],
         "bytes": 195929749,
+        "descomprimido": 194738047,
         "icono": "1fd341007cdf.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/256d0a09599d.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/256d0a09599d.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip": {
         "fecha": "2026-08-08T09:29:41Z",
@@ -1618,10 +1689,11 @@
             "/switch/hitmango/.fonts/fonts.xml"
         ],
         "bytes": 1361610590,
+        "descomprimido": 1361602068,
         "icono": "cba3b6fe9401.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/83f7f8e7fb44.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/83f7f8e7fb44.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip": {
         "fecha": "2026-08-15T01:20:04Z",
@@ -1632,10 +1704,11 @@
             "/switch/bully/assets/data_0.zip"
         ],
         "bytes": 3003069147,
+        "descomprimido": 3003055393,
         "icono": "6365bd372f40.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f8f9a3952ca8.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f8f9a3952ca8.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip": {
         "fecha": "2026-08-06T01:22:35Z",
@@ -1646,10 +1719,11 @@
             "/switch/smwr_nx/assets/.godot/exported/133200997/export-001d7d2eb3d1f9b5520c2441db16a7d4-Vanilla.res"
         ],
         "bytes": 147439431,
+        "descomprimido": 145744029,
         "icono": "5575e59f707a.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/06fbec8d7c7b.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/06fbec8d7c7b.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip": {
         "fecha": "2026-08-06T01:22:17Z",
@@ -1660,10 +1734,11 @@
             "/switch/smbr_nx/assets/.godot/exported/660892210/export-00ba62a006e94e6ae4d89962b3593e85-QuitDialog.scn"
         ],
         "bytes": 138673707,
+        "descomprimido": 137427847,
         "icono": "f2e13e3b5e06.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/49db09f5cc2b.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/49db09f5cc2b.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip": {
         "fecha": "2026-08-15T01:02:17Z",
@@ -1674,10 +1749,11 @@
             "/switch/gtasa/anim/cuts.img"
         ],
         "bytes": 2647517901,
+        "descomprimido": 2647417393,
         "icono": "b2c9229a64e1.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8d8537de2f6c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8d8537de2f6c.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip": {
         "fecha": "2026-07-09T02:49:21Z",
@@ -1688,10 +1764,11 @@
             "/switch/gtactw/airport_dry.mp3"
         ],
         "bytes": 954290847,
+        "descomprimido": 954051029,
         "icono": "f3207c12048e.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/37672de9642e.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/37672de9642e.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip": {
         "fecha": "2026-07-11T04:07:31Z",
@@ -1702,10 +1779,11 @@
             "/switch/gtalcs/data_music.wad"
         ],
         "bytes": 1256679675,
+        "descomprimido": 2064475800,
         "icono": "f71ce854d61d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8a587fddfd93.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8a587fddfd93.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip": {
         "fecha": "2026-08-07T01:26:51Z",
@@ -1716,10 +1794,11 @@
             "/switch/acpc_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 335910892,
+        "descomprimido": 335577042,
         "icono": "7ba43f83e6c0.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7e58a700cbb5.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7e58a700cbb5.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip": {
         "fecha": "2026-08-07T01:26:03Z",
@@ -1730,10 +1809,11 @@
             "/switch/abc/F2FSave.bin"
         ],
         "bytes": 511195811,
+        "descomprimido": 511192867,
         "icono": "73b3ad91b9ff.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/559f1f71de78.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/559f1f71de78.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip": {
         "fecha": "2026-08-08T07:09:45Z",
@@ -1744,10 +1824,11 @@
             "/switch/crazytaxi/assets/data/.DS_Store"
         ],
         "bytes": 282945125,
+        "descomprimido": 282411169,
         "icono": "4320a1d25b47.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/74541ded7215.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/74541ded7215.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/crazyd.zip": {
         "fecha": "2026-11-20T01:50:01Z",
@@ -1758,10 +1839,11 @@
             "/switch/crazytaxi/crazytaxi.toml"
         ],
         "bytes": 1260402370,
+        "descomprimido": 1260400000,
         "icono": "1583fd41b5eb.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/62db8991262a.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/62db8991262a.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip": {
         "fecha": "2026-08-08T07:09:17Z",
@@ -1772,10 +1854,11 @@
             "/switch/celeste64/Content/Audio/Master.strings.bank"
         ],
         "bytes": 87466746,
+        "descomprimido": 87383908,
         "icono": "42c1ea0eaad8.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6f169bffa8be.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6f169bffa8be.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/drm.zip": {
         "fecha": "2026-08-08T07:10:45Z",
@@ -1786,10 +1869,11 @@
             "/switch/drmariomania_nx/assets/.godot/exported/133200997/export-06cc1573c73c7fbe2c07630646fbf6bd-NES.res"
         ],
         "bytes": 589934881,
+        "descomprimido": 589445205,
         "icono": "6f16715f2c77.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/3ee3a3b894c8.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/3ee3a3b894c8.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip": {
         "fecha": "2026-08-08T07:11:26Z",
@@ -1800,10 +1884,11 @@
             "/switch/ff3_3d/libff3.so"
         ],
         "bytes": 420435959,
+        "descomprimido": 420398353,
         "icono": "023745fa110a.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/53eb3443181c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/53eb3443181c.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip": {
         "fecha": "2026-06-22T06:02:57Z",
@@ -1814,10 +1899,11 @@
             "/dusk/config.json"
         ],
         "bytes": 983385343,
+        "descomprimido": 983383619,
         "icono": "813085717256.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f99ded74b82a.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f99ded74b82a.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip": {
         "fecha": "2026-05-25T04:29:06Z",
@@ -1828,10 +1914,11 @@
             "/switch/2s2h/2ship2harkinian.json"
         ],
         "bytes": 1156792308,
+        "descomprimido": 2908482713,
         "icono": "056d812f2282.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/eda3240900c7.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/eda3240900c7.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip": {
         "fecha": "2026-05-31T01:24:12Z",
@@ -1842,10 +1929,11 @@
             "/switch/soh/mods/Reloaded_v10.4.2_HD_LButton.otr"
         ],
         "bytes": 1483785792,
+        "descomprimido": 3919379247,
         "icono": "ae05aa793be7.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f9b09f1db8ab.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f9b09f1db8ab.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip": {
         "fecha": "2026-08-08T07:13:30Z",
@@ -1856,10 +1944,11 @@
             "/switch/ffd/ffl.bin"
         ],
         "bytes": 222088576,
+        "descomprimido": 222086564,
         "icono": "7c017cb713dd.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6982d6368e2f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6982d6368e2f.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd2.zip": {
         "fecha": "2026-08-08T07:14:08Z",
@@ -1870,10 +1959,11 @@
             "/switch/ffd2_nx/libchange.so"
         ],
         "bytes": 362192529,
+        "descomprimido": 362191253,
         "icono": "8bc7cdfb4231.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ea01a926b1e1.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ea01a926b1e1.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4d.zip": {
         "fecha": "2026-08-08T07:12:15Z",
@@ -1884,10 +1974,11 @@
             "/switch/ff4_3d/libff4.so"
         ],
         "bytes": 501650386,
+        "descomprimido": 501649132,
         "icono": "1f8b26931150.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fe6a8c461d87.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fe6a8c461d87.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4tay.zip": {
         "fecha": "2026-08-08T07:13:07Z",
@@ -1898,10 +1989,11 @@
             "/switch/ff4tay/libff4a.so"
         ],
         "bytes": 502121184,
+        "descomprimido": 502119928,
         "icono": "6b4e70cac449.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9ed1ef6b4c0d.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/9ed1ef6b4c0d.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip": {
         "fecha": "2026-08-07T01:27:23Z",
@@ -1912,10 +2004,11 @@
             "/switch/angrybirds/assets/assets.list"
         ],
         "bytes": 238605341,
+        "descomprimido": 237795683,
         "icono": "4eb10d23873e.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/820be17bc919.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/820be17bc919.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/angjo.zip": {
         "fecha": "2026-08-20T01:28:35Z",
@@ -1926,10 +2019,11 @@
             "/switch/angrybirdsjourney_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 412394684,
+        "descomprimido": 412361004,
         "icono": "6129ad48f4b3.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/52e2dd904832.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/52e2dd904832.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/agn2.zip": {
         "fecha": "2026-08-07T01:29:27Z",
@@ -1940,10 +2034,11 @@
             "/switch/angrybird2_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 997994913,
+        "descomprimido": 997953519,
         "icono": "935c1b8a9e38.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d755519bc8e7.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d755519bc8e7.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/coi.zip": {
         "fecha": "2026-08-07T01:30:50Z",
@@ -1954,10 +2049,11 @@
             "/switch/coi/libfmodex.so"
         ],
         "bytes": 633070534,
+        "descomprimido": 633069400,
         "icono": "be1f27f91a09.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e15f7d761ce2.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e15f7d761ce2.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip": {
         "fecha": "2026-08-07T01:24:53Z",
@@ -1968,10 +2064,11 @@
             "/switch/badpiggies_nx/.synth_proc_cpuinfo"
         ],
         "bytes": 127422660,
+        "descomprimido": 127391144,
         "icono": "bd02da9af25f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d2476c2d05ba.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d2476c2d05ba.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip": {
         "fecha": "2026-10-19T05:25:49Z",
@@ -1982,10 +2079,11 @@
             "/switch/the_simpsons_game/game/audiostreams/80b_crow/amb_80b_crowd_qd_01.exa.snu"
         ],
         "bytes": 4081769352,
+        "descomprimido": 4307663638,
         "icono": "711291f0141d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d46f0f4fffc0.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d46f0f4fffc0.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip": {
         "fecha": "2026-08-08T04:23:45Z",
@@ -1996,10 +2094,11 @@
             "/switch/Simpsons_Hit_And_Run/music00.rcf"
         ],
         "bytes": 1790229850,
+        "descomprimido": 2179443333,
         "icono": "06bce3cafc4b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fa9022c3d10e.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fa9022c3d10e.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip": {
         "fecha": "2026-11-23T07:27:11Z",
@@ -2010,10 +2109,11 @@
             "/switch/blur-nx/deko3d_shaders.bin"
         ],
         "bytes": 3241202442,
+        "descomprimido": 3420309761,
         "icono": "89a5ad221d76.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/17f7ef23fe93.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/17f7ef23fe93.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip": {
         "fecha": "2026-11-23T07:29:28Z",
@@ -2024,10 +2124,11 @@
             "/switch/blur-nx/game_root/layer1/levels/jpn_mharuna/Level.levelphysics.lz4b"
         ],
         "bytes": 2313767730,
+        "descomprimido": 2313750668,
         "icono": "89a5ad221d76.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/17f7ef23fe93.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/17f7ef23fe93.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip": {
         "fecha": "2026-11-23T04:11:06Z",
@@ -2038,10 +2139,11 @@
             "/umvc3/ce-data/Characters.ini"
         ],
         "bytes": 3929819855,
+        "descomprimido": 4529760973,
         "icono": "f0e98a12d32c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f5a455608702.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f5a455608702.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc32.zip": {
         "fecha": "2026-11-23T04:14:52Z",
@@ -2052,10 +2154,11 @@
             "/ce/mag_patch.asi"
         ],
         "bytes": 4214847661,
+        "descomprimido": 4462728300,
         "icono": "f0e98a12d32c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f5a455608702.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f5a455608702.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc33.zip": {
         "fecha": "2026-11-23T04:17:50Z",
@@ -2066,10 +2169,11 @@
             "/ce-data/nativePCx64/chr/archive/0001_10.arc"
         ],
         "bytes": 3681573073,
+        "descomprimido": 3681370257,
         "icono": "f0e98a12d32c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f5a455608702.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f5a455608702.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip": {
         "fecha": "2026-11-18T21:37:12Z",
@@ -2080,10 +2184,11 @@
             "/switch/fh1-nx/fh1nx.toml"
         ],
         "bytes": 3882976106,
+        "descomprimido": 4148076699,
         "icono": "191049db09f9.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0234bfe4ecf.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0234bfe4ecf.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh12.zip": {
         "fecha": "2026-11-18T21:38:33Z",
@@ -2094,10 +2199,11 @@
             "/switch/fh1-nx/game_root/media/Livery.zip"
         ],
         "bytes": 3225762317,
+        "descomprimido": 3225656655,
         "icono": "191049db09f9.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0234bfe4ecf.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0234bfe4ecf.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip": {
         "fecha": "2026-11-23T05:38:55Z",
@@ -2108,10 +2214,11 @@
             "/switch/deadpool-nx/deko3d_glsl.bin"
         ],
         "bytes": 3958644208,
+        "descomprimido": 4354772358,
         "icono": "e2208a16bf53.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/65b8c578d2fc.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/65b8c578d2fc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp2.zip": {
         "fecha": "2026-11-23T05:29:33Z",
@@ -2122,10 +2229,11 @@
             "/switch/deadpool-nx/game/$SystemUpdate/dash.ExtraAVCodecs.xex"
         ],
         "bytes": 1460450462,
+        "descomprimido": 1460394240,
         "icono": "e2208a16bf53.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/65b8c578d2fc.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/65b8c578d2fc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic1.zip": {
         "fecha": "2026-11-14T04:40:03Z",
@@ -2136,10 +2244,11 @@
             "/switch/alice-nx/deko3d_shaders.bin"
         ],
         "bytes": 1609172932,
+        "descomprimido": 1609107790,
         "icono": "95dcc143c5de.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d55c034b6b30.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d55c034b6b30.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic2.zip": {
         "fecha": "2026-11-14T04:41:16Z",
@@ -2150,10 +2259,11 @@
             "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntryManual.xxx"
         ],
         "bytes": 3552519335,
+        "descomprimido": 3552073899,
         "icono": "95dcc143c5de.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d55c034b6b30.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d55c034b6b30.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip": {
         "fecha": "2026-11-16T01:10:06Z",
@@ -2164,10 +2274,11 @@
             "/switch/ds2scholar-nx/ds2scholar-forwarder.nsp"
         ],
         "bytes": 3333719482,
+        "descomprimido": 3333687750,
         "icono": "32d8f90e926b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/60a36b7bc252.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/60a36b7bc252.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark22.zip": {
         "fecha": "2026-11-16T01:11:44Z",
@@ -2178,10 +2289,11 @@
             "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/sound/frpg2_ps100200.fsb"
         ],
         "bytes": 3943129349,
+        "descomprimido": 3943108517,
         "icono": "32d8f90e926b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/60a36b7bc252.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/60a36b7bc252.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish1.zip": {
         "fecha": "2026-11-13T19:48:35Z",
@@ -2192,10 +2304,11 @@
             "/switch/dishonored-nx/game_root/Binaries/build.properties"
         ],
         "bytes": 3565378065,
+        "descomprimido": 3564383809,
         "icono": "571c9d20cba7.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6112c3bfc2ce.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6112c3bfc2ce.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish2.zip": {
         "fecha": "2026-11-13T19:47:31Z",
@@ -2206,10 +2319,11 @@
             "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/L_LightH_HighChaos_LFC.tfc"
         ],
         "bytes": 1448254775,
+        "descomprimido": 1448168997,
         "icono": "571c9d20cba7.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6112c3bfc2ce.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6112c3bfc2ce.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear11.zip": {
         "fecha": "2026-10-24T01:00:55Z",
@@ -2220,10 +2334,11 @@
             "/switch/gears2-nx/game/default.xex"
         ],
         "bytes": 3657753425,
+        "descomprimido": 3657514139,
         "icono": "8909d4f0b2c6.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d6f576294573.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d6f576294573.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear12.zip": {
         "fecha": "2026-10-24T00:35:46Z",
@@ -2234,10 +2349,11 @@
             "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10_S_LOC_ESM.xxx"
         ],
         "bytes": 3613770370,
+        "descomprimido": 3613555712,
         "icono": "8909d4f0b2c6.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d6f576294573.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d6f576294573.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising1.zip": {
         "fecha": "2026-10-30T20:19:17Z",
@@ -2248,10 +2364,11 @@
             "/switch/mgr-nx-deko/game_root/default.xex"
         ],
         "bytes": 4040178382,
+        "descomprimido": 4040171100,
         "icono": "c59bb23ec853.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ba8578e878c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ba8578e878c.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising2.zip": {
         "fecha": "2026-10-30T19:41:44Z",
@@ -2262,10 +2379,11 @@
             "/switch/mgr-nx-deko/game_root/media/movie/ev3030.usm"
         ],
         "bytes": 3855576552,
+        "descomprimido": 3855570144,
         "icono": "c59bb23ec853.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ba8578e878c.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ba8578e878c.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes1.zip": {
         "fecha": "2026-10-28T01:15:02Z",
@@ -2276,10 +2394,11 @@
             "/switch/dantes-inferno-nx/game/default.xex"
         ],
         "bytes": 3293942768,
+        "descomprimido": 3293940410,
         "icono": "21561cca2ad5.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7a83a5e84d0f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7a83a5e84d0f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes2.zip": {
         "fecha": "2026-10-28T01:14:48Z",
@@ -2288,10 +2407,11 @@
             "/switch/dantes-inferno-nx/game/bigfile1.viv"
         ],
         "bytes": 2692051407,
+        "descomprimido": 2692050613,
         "icono": "21561cca2ad5.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7a83a5e84d0f.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7a83a5e84d0f.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d11.zip": {
         "fecha": "2026-10-19T02:42:34Z",
@@ -2302,10 +2422,11 @@
             "/switch/left4dead/config/keys.txt"
         ],
         "bytes": 3512003452,
+        "descomprimido": 3509319502,
         "icono": "e52e45a3f58d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fcd8221175f4.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fcd8221175f4.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d12.zip": {
         "fecha": "2026-10-19T02:41:48Z",
@@ -2316,10 +2437,11 @@
             "/switch/left4dead/drive_c/dxvk64/d3d11.dll"
         ],
         "bytes": 2838266546,
+        "descomprimido": 2836115454,
         "icono": "e52e45a3f58d.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fcd8221175f4.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fcd8221175f4.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw41.zip": {
         "fecha": "2026-10-18T19:46:49Z",
@@ -2330,10 +2452,11 @@
             "/switch/codmw/codmw_pipelines_base.bin"
         ],
         "bytes": 3880157489,
+        "descomprimido": 3880140629,
         "icono": "510a4b7e81cd.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1b80a4275dbc.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1b80a4275dbc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw42.zip": {
         "fecha": "2026-10-18T19:45:51Z",
@@ -2344,10 +2467,11 @@
             "/switch/codmw/game/mp_pipeline_load.ff"
         ],
         "bytes": 2063295952,
+        "descomprimido": 2063290256,
         "icono": "510a4b7e81cd.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1b80a4275dbc.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1b80a4275dbc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip": {
         "fecha": "2026-10-19T01:06:10Z",
@@ -2358,10 +2482,11 @@
             "/switch/boz/atlas56.hdr"
         ],
         "bytes": 544799357,
+        "descomprimido": 544791033,
         "icono": "5f80471e99c7.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/3b56682fdcf5.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/3b56682fdcf5.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip": {
         "fecha": "2026-11-18T00:52:18Z",
@@ -2372,10 +2497,11 @@
             "/switch/bo2zm/bo2cp_shaders.spvpack"
         ],
         "bytes": 3984683698,
+        "descomprimido": 6225339979,
         "icono": "603f5c14b045.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/943021aadb20.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/943021aadb20.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod22.zip": {
         "fecha": "2026-11-18T01:12:28Z",
@@ -2386,10 +2512,11 @@
             "/switch/bo2zm/game/stream/cmn_root.english.sabs"
         ],
         "bytes": 3651289828,
+        "descomprimido": 3740395520,
         "icono": "603f5c14b045.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/943021aadb20.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/943021aadb20.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod23.zip": {
         "fecha": "2026-11-18T01:02:31Z",
@@ -2400,10 +2527,11 @@
             "/switch/bo2zm/game/a1_vault_menendez_3.webm"
         ],
         "bytes": 3998909597,
+        "descomprimido": 3998859067,
         "icono": "603f5c14b045.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/943021aadb20.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/943021aadb20.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip": {
         "fecha": "2026-11-20T01:42:21Z",
@@ -2414,10 +2542,11 @@
             "/switch/tf2_nx/files/dejavusans-bold.ttf"
         ],
         "bytes": 4134819014,
+        "descomprimido": 7362187507,
         "icono": "f7d2e989d182.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip": {
         "fecha": "2026-11-20T01:42:15Z",
@@ -2428,10 +2557,11 @@
             "/switch/tf2_nx/lib/libengine.so"
         ],
         "bytes": 3263591237,
+        "descomprimido": 6621209489,
         "icono": "f7d2e989d182.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip": {
         "fecha": "2026-11-20T01:40:52Z",
@@ -2442,10 +2572,11 @@
             "/switch/tf2_nx/tf2legacy/vpks/tf2l_assets_000.vpk"
         ],
         "bytes": 1856033196,
+        "descomprimido": 4477592071,
         "icono": "f7d2e989d182.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip": {
         "fecha": "2026-11-23T03:37:32Z",
@@ -2456,10 +2587,11 @@
             "/switch/shh-nx/deko3d.log"
         ],
         "bytes": 4259265064,
+        "descomprimido": 5159863452,
         "icono": "f9232d87fd7b.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1fb8bba3c509.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1fb8bba3c509.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip": {
         "fecha": "2026-11-23T01:58:21Z",
@@ -2470,10 +2602,11 @@
             "/switch/shd-nx/game/default.xex"
         ],
         "bytes": 3338977279,
+        "descomprimido": 3338786605,
         "icono": "596de22b43e5.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d727779dd224.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d727779dd224.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip": {
         "fecha": "2026-11-23T01:59:32Z",
@@ -2484,10 +2617,11 @@
             "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-esm_SF.xxx"
         ],
         "bytes": 1562337560,
+        "descomprimido": 1562213898,
         "icono": "596de22b43e5.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d727779dd224.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d727779dd224.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": {
         "fecha": "2026-10-26T03:45:44Z",
@@ -2498,10 +2632,11 @@
             "/switch/sh3-nx/data/bgam.arc"
         ],
         "bytes": 3139363975,
+        "descomprimido": 3139357229,
         "icono": "73182ccf372f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d21566e2c684.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d21566e2c684.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip": {
         "fecha": "2026-10-19T04:43:38Z",
@@ -2512,10 +2647,11 @@
             "/switch/sh3-nx/data/movie/ed_u.000"
         ],
         "bytes": 2107400458,
+        "descomprimido": 2107390148,
         "icono": "73182ccf372f.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d21566e2c684.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d21566e2c684.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip": {
         "fecha": "2026-10-26T03:39:51Z",
@@ -2526,10 +2662,11 @@
             "/switch/sh2-nx/binkw32.dll"
         ],
         "bytes": 2593177867,
+        "descomprimido": 2592454325,
         "icono": "ba36e6c27c7c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip": {
         "fecha": "2026-10-16T00:50:38Z",
@@ -2540,10 +2677,11 @@
             "/switch/sh2-nx/sh2e/bg/ap/ap01.map"
         ],
         "bytes": 2657323862,
+        "descomprimido": 2657177750,
         "icono": "ba36e6c27c7c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip": {
         "fecha": "2026-10-16T00:51:00Z",
@@ -2554,9 +2692,10 @@
             "/switch/sh2-nx/sh2e/pic/add/mapmark.tex"
         ],
         "bytes": 3461349294,
+        "descomprimido": 3461292980,
         "icono": "ba36e6c27c7c.jpg",
-        "revisado": 4,
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg"
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg",
+        "revisado": 4
     }
 }
