@@ -88,6 +88,7 @@
         "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
         "sLaunch (nuevo menú HOME)": "https://github.com/etonedemid/slaunch/releases/latest/download/sInstaller.nro",
         "Brewser (apps y juegos web)": "https://github.com/natureglass/Brewser/releases/latest/download/brewser.nro",
+        "Chromium NX (navegador)": "https://github.com/shodowlo/chromium-nx/releases/latest/download/chromium-nx.nro",
         "RadioNX (radio por internet)": "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro",
         "PortNX (2.2.0)": "https://github.com/CostelaCNX/PortNX/releases/download/v2.2.0/PortNX-v2.2.0.zip"
     },
@@ -157,6 +158,7 @@
         "YouTube (NSP + parches)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/YouTube-NSP-parches.zip",
         "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
         "Brewser (apps y juegos web)": "https://github.com/natureglass/Brewser/releases/latest/download/brewser.nro",
+        "Chromium NX (navegador)": "https://github.com/shodowlo/chromium-nx/releases/latest/download/chromium-nx.nro",
         "RadioNX (radio por internet)": "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro"
     },
     "apps_ports": {
@@ -370,7 +372,8 @@
         "sLaunch (nuevo menú HOME)": "Reemplaza el menú HOME por uno rápido y muy personalizable: temas, fondos de video, widgets y música. Se instala y se quita desde su app sInstaller, que también lo actualiza. No se puede usar junto a Switch U ni HomeNX.",
         "Brewser (apps y juegos web)": "Plataforma de apps y juegos hechos con tecnología web, con su propio catálogo (brewser.io). No es un navegador para cualquier página. Para que vaya mejor, ábrelo manteniendo R al abrir un juego.",
         "RadioNX (radio por internet)": "Escucha radio por internet con emisoras de todo el mundo.",
-        "PortNX (2.2.0)": "Descarga e instala ports de juegos de PC para Switch desde su catálogo, con ficha de cada port antes de instalarlo."
+        "PortNX (2.2.0)": "Descarga e instala ports de juegos de PC para Switch desde su catálogo, con ficha de cada port antes de instalarlo.",
+        "Chromium NX (navegador)": "Navegador Chromium completo: pestañas, YouTube, descargas a la SD y teclado USB. Experimental. Cuando la app pregunte, crea su acceso directo del menú HOME: se abre desde ahí, no desde el menú Homebrew. La primera vez baja su imagen de unos 411 MB."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -524,8 +527,9 @@
                 ]
             },
             {
-                "titulo": "Apps y juegos web",
+                "titulo": "Navegador, apps y juegos web",
                 "apps": [
+                    "Chromium NX (navegador)",
                     "Brewser (apps y juegos web)"
                 ]
             }
@@ -1216,6 +1220,9 @@
         "nextendo.nro": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/nextendo.jpg",
         "Switube.nro": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/switube.jpg"
     },
+    "accesos_39bit": [
+        "chromium-nx.nro"
+    ],
     "nexus_bacan": {
         "url": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/nexus-1.0/OQB-NEXUS-BACAN.zip",
         "firmwares": [
