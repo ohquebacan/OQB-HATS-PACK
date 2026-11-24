@@ -26,6 +26,10 @@ eso se revisa a mano.
 Cada lectura buena queda copiada tal cual en ports-origen.json, con su
 historia en git: si el autor lo mueve o lo borra, la lista sigue aquí.
 
+Los ports propios van en "ports_propios" (nombre -> {"partes": [url, ...],
+"icono": url}) y nadie los toca: se suman primero a "apps_ports", "iconos_ports"
+y "ports" en cada pasada.
+
 Uso:
     python3 sync_ports.py            # actualiza nx-links.json
     python3 sync_ports.py --check    # solo dice si cambiaría
@@ -95,6 +99,21 @@ def agrupar(ports):
     return salida
 
 
+def propios_de(catalogo):
+    """Los ports propios en la forma de ports.json: nombre (con «(PARTE N)» si
+    son varias partes) -> url, y url -> ícono."""
+    planos, iconos = OrderedDict(), OrderedDict()
+    for nombre, datos in (catalogo.get("ports_propios") or {}).items():
+        if not isinstance(datos, dict):
+            continue
+        partes = [u for u in datos.get("partes", []) if isinstance(u, str) and u.startswith("https://")]
+        for i, url in enumerate(partes, 1):
+            planos[f"{nombre} (PARTE {i})" if len(partes) > 1 else nombre] = url
+            if isinstance(datos.get("icono"), str):
+                iconos[url] = datos["icono"]
+    return planos, iconos
+
+
 def main():
     solo_comprobar = "--check" in sys.argv
     try:
@@ -106,7 +125,9 @@ def main():
     with open(CATALOGO, encoding="utf-8") as fichero:
         catalogo = json.load(fichero, object_pairs_hook=OrderedDict)
 
-    anteriores = catalogo.get("apps_ports", OrderedDict())
+    propios, iconos_propios = propios_de(catalogo)
+    # El freno de abajo mira solo los de alucardiio-yt.
+    anteriores = OrderedDict((n, u) for n, u in catalogo.get("apps_ports", OrderedDict()).items() if n not in propios)
     urls_anteriores = set(anteriores.values()) if isinstance(anteriores, dict) else set()
     urls_nuevas = set(ports.values())
 
@@ -115,6 +136,11 @@ def main():
         print(f"aviso: ports.json quitaría {len(quitados)} de {len(anteriores)} ports de una vez; "
               "probablemente se movió o se reemplazó. No se cambia nada (revisar a mano).")
         return 0
+
+    # Los propios primero, después los de alucardiio-yt.
+    ports = OrderedDict(list(propios.items()) + [(n, u) for n, u in ports.items() if n not in propios])
+    iconos = OrderedDict(list(iconos_propios.items()) + [(u, i) for u, i in iconos.items() if u not in iconos_propios])
+    urls_nuevas = set(ports.values())
 
     # La copia tal cual del origen, solo cuando la lectura es buena.
     if not solo_comprobar:
