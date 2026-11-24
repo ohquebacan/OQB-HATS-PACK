@@ -49,7 +49,12 @@ LADO_ICONO = 96
 # Los ports se ven como portadas grandes en su pestaña (150-200 px): a 96 se
 # veían borrosos. Sus íconos originales son de 256.
 LADO_PORT = 192
-ICONO_PORT_V = 2  # sube cuando cambia LADO_PORT: rehace solo el ícono
+ICONO_PORT_V = 3  # sube cuando cambia lo que se saca del ícono: rehace solo el ícono
+# El ícono del acceso directo de cada port en el menú HOME: JPEG normal (no
+# progresivo) de 256 y hasta 128 KB, que es lo único que el HOME dibuja. Sin
+# esto, un port con ícono raro quedaba con el ícono cargando para siempre.
+ACCESOS_PORTS = "iconos-acceso-directo/ports"
+URL_ACCESOS = "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/" + ACCESOS_PORTS + "/"
 ENLACE = re.compile(r"^https://github\.com/([^/]+/[^/]+)/releases/(?:latest/download|download/([^/]+))/([^/]+)$")
 
 
@@ -303,15 +308,40 @@ def sin_compartidos(marcas):
     return [m for m in marcas if not m.lower().startswith(COMPARTIDOS_PORTS)]
 
 
+def icono_acceso(crudo):
+    """La portada en JPEG normal de 256 para el acceso directo; devuelve su URL."""
+    from PIL import Image
+    imagen = Image.open(io.BytesIO(crudo)).convert("RGB").resize((256, 256), Image.LANCZOS)
+    for calidad in (92, 85, 75):
+        salida = io.BytesIO()
+        imagen.save(salida, "JPEG", quality=calidad, progressive=False, optimize=True)
+        datos = salida.getvalue()
+        if len(datos) <= 0x20000:
+            break
+    nombre = hashlib.sha1(datos).hexdigest()[:12] + ".jpg"
+    os.makedirs(ACCESOS_PORTS, exist_ok=True)
+    with open(os.path.join(ACCESOS_PORTS, nombre), "wb") as fichero:
+        fichero.write(datos)
+    return URL_ACCESOS + nombre
+
+
 def icono_de_port(url, url_icono):
-    """El ícono de ports.json a LADO_PORT, o {} si no se pudo."""
+    """El ícono de ports.json a LADO_PORT y el del acceso directo, o {} si no se pudo."""
     if not url_icono:
         return {}
     try:
         pedido = urllib.request.Request(url_icono, headers={"User-Agent": "OQB-catalogo"})
         with urllib.request.urlopen(pedido, timeout=60) as r:
-            icono = guardar_icono(r.read(), LADO_PORT)
-        return {"icono": icono, "icono_v": ICONO_PORT_V} if icono else {}
+            crudo = r.read()
+        icono = guardar_icono(crudo, LADO_PORT)
+        if not icono:
+            return {}
+        salida = {"icono": icono, "icono_v": ICONO_PORT_V}
+        try:
+            salida["icono_acceso"] = icono_acceso(crudo)
+        except Exception as error:
+            print(f"aviso: ícono de acceso directo de {url}: {error}")
+        return salida
     except Exception as error:
         print(f"aviso: ícono de {url}: {error}")
         return {}
@@ -395,7 +425,7 @@ def main():
             previo = actual.get(url, {})
             # Un port de antes del tamaño se vuelve a mirar una vez (dos pedidos parciales).
             if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION and (url not in ports or "bytes" in previo):
-                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v"))
+                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v", "icono_acceso"))
                 # Marcas de antes con archivos compartidos: se quitan sin volver a leer el zip.
                 if url in ports and datos.get("marcas"):
                     limpias = sin_compartidos(datos["marcas"])
@@ -431,6 +461,12 @@ def main():
         nuevo[url] = datos
 
     iconos_cambiaron = False if solo_comprobar else armar_zip_de_iconos(nuevo)
+    if not solo_comprobar and os.path.isdir(ACCESOS_PORTS):
+        # Los de accesos directos que ya no usa ningún port no se quedan.
+        en_uso = {d["icono_acceso"].rsplit("/", 1)[-1] for d in nuevo.values() if d.get("icono_acceso")}
+        for nombre in os.listdir(ACCESOS_PORTS):
+            if nombre.endswith(".jpg") and nombre not in en_uso:
+                os.remove(os.path.join(ACCESOS_PORTS, nombre))
     if nuevo == actual:
         print("sin cambios" + (" (salvo iconos.zip)" if iconos_cambiaron else ""))
         return 0
