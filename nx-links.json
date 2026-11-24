@@ -201,7 +201,7 @@
         "Fifa Street": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip",
         "TLOZ: Ocarina of Time (3DS)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip",
         "TLOZ: Wind Waker (GAMECUBE)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip",
-        "TLOZ: Wind Waker (HD WII U)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip",
+        "TLOZ: Wind Waker (HD WII U)": "https://github.com/erobles546/apps/releases/download/new/SW.zip",
         "Resident Evil 1": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip",
         "Resident Evil 2 (LEON)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip",
         "Resident Evil 2 (CLAIRE)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip",
@@ -1236,6 +1236,15 @@
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg"
         }
     },
+    "ports_cambios": {
+        "TLOZ: Wind Waker (HD WII U)": {
+            "url": "https://github.com/erobles546/apps/releases/download/new/SW.zip",
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/wind-waker-hd.jpg"
+        },
+        "TLOZ: Wind Waker (GAMECUBE)": {
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/wind-waker-gc.jpg"
+        }
+    },
     "nexus_bacan": {
         "url": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/nexus-1.0/OQB-NEXUS-BACAN.zip",
         "firmwares": [
@@ -1295,8 +1304,7 @@
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tw.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffs.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zoot.png",
-        "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wkr.jpg",
-        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/wwh.png",
+        "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/wind-waker-gc.jpg",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re1.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re21.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/re22.png",
@@ -1399,7 +1407,8 @@
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
-        "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
+        "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png",
+        "https://github.com/erobles546/apps/releases/download/new/SW.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/wind-waker-hd.jpg"
     },
     "ports": {
         "Mario Kart Wii (KartPadNX)": {
@@ -1588,7 +1597,7 @@
         },
         "TLOZ: Wind Waker (HD WII U)": {
             "partes": [
-                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip"
+                "https://github.com/erobles546/apps/releases/download/new/SW.zip"
             ]
         },
         "Resident Evil 1": {

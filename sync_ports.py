@@ -30,6 +30,10 @@ Los ports propios van en "ports_propios" (nombre -> {"partes": [url, ...],
 "icono": url}) y nadie los toca: se suman primero a "apps_ports", "iconos_ports"
 y "ports" en cada pasada.
 
+Los cambios a ports de alucardiio-yt van en "ports_cambios" (nombre tal como
+está en ports.json -> {"url": nueva, "icono": nuevo}): se aplican en su lugar
+de la lista en cada pasada. Si el nombre ya no existe, se avisa y no pasa nada.
+
 Uso:
     python3 sync_ports.py            # actualiza nx-links.json
     python3 sync_ports.py --check    # solo dice si cambiaría
@@ -99,6 +103,24 @@ def agrupar(ports):
     return salida
 
 
+def aplicar_cambios(catalogo, ports, iconos):
+    for nombre, cambio in (catalogo.get("ports_cambios") or {}).items():
+        if not isinstance(cambio, dict):
+            continue
+        if nombre not in ports:
+            print(f"aviso: ports_cambios: «{nombre}» ya no está en ports.json")
+            continue
+        url = cambio.get("url")
+        if isinstance(url, str) and url.startswith("https://"):
+            viejo = ports[nombre]
+            ports[nombre] = url
+            if viejo in iconos:
+                iconos[url] = iconos.pop(viejo)
+        icono = cambio.get("icono")
+        if isinstance(icono, str) and icono.startswith("https://"):
+            iconos[ports[nombre]] = icono
+
+
 def propios_de(catalogo):
     """Los ports propios en la forma de ports.json: nombre (con «(PARTE N)» si
     son varias partes) -> url, y url -> ícono."""
@@ -125,6 +147,7 @@ def main():
     with open(CATALOGO, encoding="utf-8") as fichero:
         catalogo = json.load(fichero, object_pairs_hook=OrderedDict)
 
+    aplicar_cambios(catalogo, ports, iconos)
     propios, iconos_propios = propios_de(catalogo)
     # El freno de abajo mira solo los de alucardiio-yt.
     anteriores = OrderedDict((n, u) for n, u in catalogo.get("apps_ports", OrderedDict()).items() if n not in propios)

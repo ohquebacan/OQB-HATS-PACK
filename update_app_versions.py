@@ -349,7 +349,7 @@ def icono_de_port(url, url_icono):
         icono = guardar_icono(crudo, LADO_PORT)
         if not icono:
             return {}
-        salida = {"icono": icono, "icono_v": ICONO_PORT_V}
+        salida = {"icono": icono, "icono_v": ICONO_PORT_V, "icono_fuente": url_icono}
         try:
             salida["icono_acceso"] = icono_acceso(crudo)
         except Exception as error:
@@ -440,14 +440,14 @@ def main():
             previo = actual.get(url, {})
             # Un port sin el tamaño descomprimido se vuelve a mirar una vez (tres pedidos parciales).
             if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION and (url not in ports or "descomprimido" in previo):
-                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v", "icono_acceso", "descomprimido"))
+                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v", "icono_acceso", "descomprimido", "icono_fuente"))
                 # Marcas de antes con archivos compartidos: se quitan sin volver a leer el zip.
                 if url in ports and datos.get("marcas"):
                     limpias = sin_compartidos(datos["marcas"])
                     if limpias:
                         datos["marcas"] = limpias
                 # Un port con el ícono chico de antes: solo se rehace el ícono (un pedido).
-                if url in ports and previo.get("icono_v") != ICONO_PORT_V:
+                if url in ports and (previo.get("icono_v") != ICONO_PORT_V or previo.get("icono_fuente") != iconos_ports.get(url)):
                     datos.update(icono_de_port(url, iconos_ports.get(url)))
             else:
                 try:
