@@ -294,6 +294,15 @@ def indice_zip(url):
     return nombres, total
 
 
+# Lo que varios ports traen igual (los núcleos de RetroArch) no sirve para saber
+# si un port está: instalar Metroid Fusion hacía ver instalado Zero Mission.
+COMPARTIDOS_PORTS = ("/retroarch/",)
+
+
+def sin_compartidos(marcas):
+    return [m for m in marcas if not m.lower().startswith(COMPARTIDOS_PORTS)]
+
+
 def icono_de_port(url, url_icono):
     """El ícono de ports.json a LADO_PORT, o {} si no se pudo."""
     if not url_icono:
@@ -317,7 +326,8 @@ def versiones_de_port(url, url_icono):
     propios = [n[len(quitar):] for n in nombres]
     # Primero el .nro del port: es lo que mejor dice que está instalado.
     nros = ["/" + n.lstrip("/") for n in propios if n.lower().startswith("switch/") and n.lower().endswith(".nro")]
-    marcas = (nros[:1] + [m for m in marcas_de(propios) if m not in nros[:1]])[:3]
+    propios_port = [n for n in propios if not ("/" + n.lstrip("/")).lower().startswith(COMPARTIDOS_PORTS)]
+    marcas = (nros[:1] + [m for m in marcas_de(propios_port) if m not in nros[:1]])[:3]
     salida = {"marcas": marcas} if marcas else {}
     salida["bytes"] = total
     salida.update(icono_de_port(url, url_icono))
@@ -386,6 +396,11 @@ def main():
             # Un port de antes del tamaño se vuelve a mirar una vez (dos pedidos parciales).
             if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION and (url not in ports or "bytes" in previo):
                 datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes", "icono_v"))
+                # Marcas de antes con archivos compartidos: se quitan sin volver a leer el zip.
+                if url in ports and datos.get("marcas"):
+                    limpias = sin_compartidos(datos["marcas"])
+                    if limpias:
+                        datos["marcas"] = limpias
                 # Un port con el ícono chico de antes: solo se rehace el ícono (un pedido).
                 if url in ports and previo.get("icono_v") != ICONO_PORT_V:
                     datos.update(icono_de_port(url, iconos_ports.get(url)))
