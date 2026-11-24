@@ -11,7 +11,11 @@ En nx-links.json:
   - no van en "apps" (Todas las aplicaciones y el buscador): serían más de cien
     entradas de ruido. Solo se ven en su sección;
   - "iconos_ports": url -> url del ícono, para que update_app_versions.py lo
-    achique y lo meta en iconos.zip.
+    achique y lo meta en iconos.zip;
+  - "ports": juego -> {"partes": [url, ...]} para la pestaña Ports (4.6.0):
+    las entradas «… (PARTE N)» de un mismo juego van juntas y en orden, y una
+    «(SOLO ACTUALIZACION) …» lleva "actualizacion": true. "apps_ports" sigue
+    igual para las versiones anteriores.
 Un port que deja de estar en ports.json sale de las dos.
 
 Si ports.json no se puede leer o no tiene el formato esperado no se cambia
@@ -23,6 +27,7 @@ Uso:
 """
 
 import json
+import re
 import sys
 import urllib.request
 from collections import OrderedDict
@@ -31,6 +36,8 @@ ORIGEN = "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports
 CATALOGO = "nx-links.json"
 AGENTE = "OQB-HATS-PACK catalogo (+https://github.com/ohquebacan/OQB-HATS-PACK)"
 MINIMO = 10  # menos que esto es un ports.json roto o a medio subir
+PARTE = re.compile(r"^(.*?)\s*\(\s*PARTE\s*(\d+)\s*\)\s*$", re.IGNORECASE)
+ACTUALIZACION = re.compile(r"^\(\s*SOLO\s+ACTUALIZACI[OÓ]N\s*\)\s*", re.IGNORECASE)
 
 
 def leer_origen():
@@ -60,6 +67,26 @@ def leer_origen():
     return ports, iconos
 
 
+def agrupar(ports):
+    """Un juego por entrada, con sus partes en orden: «X (PARTE 1)» y
+    «X (PARTE 2)» son el juego X en dos zips."""
+    juegos = OrderedDict()
+    for nombre, url in ports.items():
+        m = PARTE.match(nombre)
+        juego, numero = (m.group(1).strip(), int(m.group(2))) if m else (nombre, 0)
+        actualizacion = bool(ACTUALIZACION.match(juego))
+        juego = ACTUALIZACION.sub("", juego).strip() or juego
+        entrada = juegos.setdefault(juego, {"partes": [], "actualizacion": actualizacion})
+        entrada["partes"].append((numero, url))
+    salida = OrderedDict()
+    for juego, entrada in juegos.items():
+        datos = OrderedDict(partes=[u for _, u in sorted(entrada["partes"], key=lambda p: p[0])])
+        if entrada["actualizacion"]:
+            datos["actualizacion"] = True
+        salida[juego] = datos
+    return salida
+
+
 def main():
     solo_comprobar = "--check" in sys.argv
     try:
@@ -82,7 +109,7 @@ def main():
 
     nuevo = OrderedDict()
     for clave, valor in catalogo.items():
-        if clave in ("apps_ports", "iconos_ports"):
+        if clave in ("apps_ports", "iconos_ports", "ports"):
             continue
         nuevo[clave] = todas if clave == "apps" else valor
         # La categoría va después de las otras categorías de apps.
@@ -91,6 +118,7 @@ def main():
     if "apps_ports" not in nuevo:
         nuevo["apps_ports"] = ports
     nuevo["iconos_ports"] = iconos
+    nuevo["ports"] = agrupar(ports)
 
     if nuevo == catalogo:
         print("sin cambios")

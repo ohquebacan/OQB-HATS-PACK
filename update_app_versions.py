@@ -12,6 +12,8 @@ cuando el archivo trae un .nro, la versión que el autor puso dentro (NACP):
   - "nros": [{"ruta", "version"}], cada .nro de un zip con su ruta en la SD;
   - "marcas": rutas en la SD de archivos propios de un zip sin .nro (sysmodules,
     plugins), para saber si está instalado;
+  - "bytes": el tamaño del zip, solo en los ports (la pestaña Ports revisa el
+    espacio antes de instalar un juego en varias partes);
   - "icono": el ícono del .nro (el principal si es un zip), achicado, guardado en
     iconos/ con su hash por nombre. Todos van además en iconos.zip, que OQB
     Updater baja una sola vez y solo vuelve a pedir si falta alguno.
@@ -285,19 +287,21 @@ def indice_zip(url):
         largo, extra, comentario = struct.unpack("<HHH", indice[p + 28:p + 34])
         nombres.append(indice[p + 46:p + 46 + largo].decode("utf-8", "replace"))
         p += 46 + largo + extra + comentario
-    return nombres
+    return nombres, total
 
 
 def versiones_de_port(url, url_icono):
     """Para un port: qué archivos deja en la SD (para saber si está instalado) y
     su ícono, el de ports.json."""
-    nombres = [n for n in indice_zip(url) if not n.startswith("__MACOSX") and not n.endswith("/")]
+    todos, total = indice_zip(url)
+    nombres = [n for n in todos if not n.startswith("__MACOSX") and not n.endswith("/")]
     quitar = envoltorio(nombres)
     propios = [n[len(quitar):] for n in nombres]
     # Primero el .nro del port: es lo que mejor dice que está instalado.
     nros = ["/" + n.lstrip("/") for n in propios if n.lower().startswith("switch/") and n.lower().endswith(".nro")]
     marcas = (nros[:1] + [m for m in marcas_de(propios) if m not in nros[:1]])[:3]
     salida = {"marcas": marcas} if marcas else {}
+    salida["bytes"] = total
     if url_icono:
         try:
             pedido = urllib.request.Request(url_icono, headers={"User-Agent": "OQB-catalogo"})
@@ -369,8 +373,9 @@ def main():
                 datos = OrderedDict(fecha=fecha, version="")
         if datos is not None:
             previo = actual.get(url, {})
-            if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION:
-                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado"))
+            # Un port de antes del tamaño se vuelve a mirar una vez (dos pedidos parciales).
+            if previo.get("fecha") == datos["fecha"] and previo.get("revisado") == REVISION and (url not in ports or "bytes" in previo):
+                datos.update((k, v) for k, v in previo.items() if k in ("nro_version", "nros", "marcas", "icono", "revisado", "bytes"))
             else:
                 try:
                     if url in ports:

@@ -1377,5 +1377,620 @@
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
+    },
+    "ports": {
+        "9th SEP: Grand Theft Auto V": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip"
+            ],
+            "actualizacion": true
+        },
+        "God of War Collection (1 + 2)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip"
+            ]
+        },
+        "The King of Fighters 2002: Ultimate Match": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip"
+            ]
+        },
+        "Shadow of the Colossus": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/coloso.zip"
+            ]
+        },
+        "Manhunt 1": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip"
+            ]
+        },
+        "Metroid Prime 2: Echoes": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip"
+            ]
+        },
+        "Metroid: Samus Returns": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip"
+            ]
+        },
+        "Metroid Fusion": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metfu.zip"
+            ]
+        },
+        "Metroid: Zero Mission": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metze.zip"
+            ]
+        },
+        "GoldenEye 007": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/golden.zip"
+            ]
+        },
+        "Mortal Kombat: Shaolin Monks": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mksh.zip"
+            ]
+        },
+        "Need For Speed: Hot Pursuit 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshot.zip"
+            ]
+        },
+        "Need For Speed: Carbon": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsc.zip"
+            ]
+        },
+        "Need For Speed 3: Hot Pursuit": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfs3.zip"
+            ]
+        },
+        "Need For Speed 4: High Stakes": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfshs.zip"
+            ]
+        },
+        "Need For Speed 5: Porsche Unleashed": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfspu.zip"
+            ]
+        },
+        "Need For Speed: Underground 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfu2.zip"
+            ]
+        },
+        "Need For Speed: Most Wanted": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nfsp2.zip"
+            ]
+        },
+        "Dragon Ball: Budokai Tenkaichi 3": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/db3.zip"
+            ]
+        },
+        "Condemned Criminal Origins": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conded.zip"
+            ]
+        },
+        "Bloody Roar Extreme": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blodext.zip"
+            ]
+        },
+        "Jak 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jak2.zip"
+            ]
+        },
+        "The Godfather: The Game": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tgf.zip"
+            ]
+        },
+        "Gran Turismo 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt2.zip"
+            ]
+        },
+        "Gran Turismo 3": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gt3.zip"
+            ]
+        },
+        "Yu-Gi-Oh: Forbidden Memories": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/yugi.zip"
+            ]
+        },
+        "Pepsiman": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pep.zip"
+            ]
+        },
+        "Medievil": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/med.zip"
+            ]
+        },
+        "Disney Hercules": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/herc.zip"
+            ]
+        },
+        "Project Zomboid": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pz.zip"
+            ]
+        },
+        "Sonic All Stars Racing Transformed": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sonic.zip"
+            ]
+        },
+        "Twisted Metal": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tw.zip"
+            ]
+        },
+        "Fifa Street": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip"
+            ]
+        },
+        "TLOZ: Ocarina of Time (3DS)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip"
+            ]
+        },
+        "TLOZ: Wind Waker (GAMECUBE)": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/wkr.zip"
+            ]
+        },
+        "TLOZ: Wind Waker (HD WII U)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/wwh.zip"
+            ]
+        },
+        "Resident Evil 1": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re1.zip"
+            ]
+        },
+        "Resident Evil 2 (LEON)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re21.zip"
+            ]
+        },
+        "Resident Evil 2 (CLAIRE)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re22.zip"
+            ]
+        },
+        "Resident Evil 3 NEMESIS": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/re3.zip"
+            ]
+        },
+        "Resident Evil Survivor": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/resu.zip"
+            ]
+        },
+        "Resident Evil: Code Veronica": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/revc.zip"
+            ]
+        },
+        "Tekken 3": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip"
+            ]
+        },
+        "Super Metroid": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spm.zip"
+            ]
+        },
+        "Black": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bl4ck.zip"
+            ]
+        },
+        "Castlevania: Harmony of Despair": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cashd.zip"
+            ]
+        },
+        "Castlevania: Symphony of the Night": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip"
+            ]
+        },
+        "Soul Calibur 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip"
+            ]
+        },
+        "Luigi's Mansion": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip"
+            ]
+        },
+        "Super Paper Mario": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip"
+            ]
+        },
+        "Super Mario Strikers": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip"
+            ]
+        },
+        "Mario Party 4": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip"
+            ]
+        },
+        "Burnout 3: Takedown": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip"
+            ]
+        },
+        "Skate 3 (Tarda en arrancar)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip"
+            ]
+        },
+        "Def Jam: Fight For NY": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip"
+            ]
+        },
+        "PES 2021": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip"
+            ]
+        },
+        "Conker's Bad Fur Day": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/conker.zip"
+            ]
+        },
+        "Driver 2": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip"
+            ]
+        },
+        "Mario Kart Double Dash": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip"
+            ]
+        },
+        "Mario Kart 64": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip"
+            ]
+        },
+        "Jackie Chan Stuntmaster": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip"
+            ]
+        },
+        "Plants vs Zombies Ultimate": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip"
+            ]
+        },
+        "Halo: Combat Evolved": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip"
+            ]
+        },
+        "Super Smash Bros Remix": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip"
+            ]
+        },
+        "Super Smash Bros 64": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smash.zip"
+            ]
+        },
+        "FlatOut 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/flat.zip"
+            ]
+        },
+        "Midnight Club 3: DUB EDITION": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mc3.zip"
+            ]
+        },
+        "Shank 1": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank1.zip"
+            ]
+        },
+        "Shank 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shank.zip"
+            ]
+        },
+        "Geometry Dash": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip"
+            ]
+        },
+        "Hitman Go": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip"
+            ]
+        },
+        "Bully": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip"
+            ]
+        },
+        "Super Mario World Remastered": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip"
+            ]
+        },
+        "Super Mario Bros Remastered": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip"
+            ]
+        },
+        "Grand Theft Auto: San Andreas": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip"
+            ]
+        },
+        "Grand Theft Auto: Chinatown Wars": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip"
+            ]
+        },
+        "Grand Theft Auto: Liberty City Stories": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip"
+            ]
+        },
+        "Animal Crossing: Pocket Camp": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip"
+            ]
+        },
+        "After Burner Climax": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip"
+            ]
+        },
+        "Crazy Taxi": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip"
+            ]
+        },
+        "Crazy Taxi (Dreamcast)": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/crazyd.zip"
+            ]
+        },
+        "Celeste 64": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/cel.zip"
+            ]
+        },
+        "Dr. Mario Mania": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/drm.zip"
+            ]
+        },
+        "Final Fantasy III: 3D Remake": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff3d.zip"
+            ]
+        },
+        "TLOZ: Twilight Princess": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip"
+            ]
+        },
+        "TLOZ: Majoras Mask": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip"
+            ]
+        },
+        "TLOZ: Ocarina of Time": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip"
+            ]
+        },
+        "Final Fantasy: Dimensions": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd.zip"
+            ]
+        },
+        "Final Fantasy: Dimensions II": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ffd2.zip"
+            ]
+        },
+        "Final Fantasy IV: 3D Remake": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4d.zip"
+            ]
+        },
+        "Final Fantasy IV: The After Years": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ff4tay.zip"
+            ]
+        },
+        "Angry Birds 1": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/ang1.zip"
+            ]
+        },
+        "Angry Birds Journey": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/angjo.zip"
+            ]
+        },
+        "Angry Birds 2": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/agn2.zip"
+            ]
+        },
+        "Castle of Illusion": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/coi.zip"
+            ]
+        },
+        "Bad Piggies": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip"
+            ]
+        },
+        "The Simpsons: The Game": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip"
+            ]
+        },
+        "The Simpsons: Hit And Run": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip"
+            ]
+        },
+        "Blur": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip"
+            ]
+        },
+        "Ultimate Marvel vs Capcom 3": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc32.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc33.zip"
+            ]
+        },
+        "Forza Horizon 1": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh12.zip"
+            ]
+        },
+        "Deadpool": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp2.zip"
+            ]
+        },
+        "Alice: Madness Returns": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic2.zip"
+            ]
+        },
+        "Dark Souls II: Scholar of the First Sin": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark22.zip"
+            ]
+        },
+        "Dishonored": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dish2.zip"
+            ]
+        },
+        "Gears of War 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear11.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gear12.zip"
+            ]
+        },
+        "Metal Gear Rising": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/rising2.zip"
+            ]
+        },
+        "Dante's Inferno": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dantes2.zip"
+            ]
+        },
+        "Left 4 Dead": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d11.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/l4d12.zip"
+            ]
+        },
+        "Call of Duty 4: Modern Warfare": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw41.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cmw42.zip"
+            ]
+        },
+        "Call of Duty: Black Ops Zombies": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip"
+            ]
+        },
+        "Call of Duty: Black Ops 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod22.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod23.zip"
+            ]
+        },
+        "Team Fortress 2": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip"
+            ]
+        },
+        "Silent Hill: Homecoming": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip"
+            ]
+        },
+        "Silent Hill: Downpour": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip"
+            ]
+        },
+        "Silent Hill 3": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip"
+            ]
+        },
+        "Silent Hill 2: Enhanced Edition": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip"
+            ]
+        },
+        "Silent Hill 1 (Actualizado)": {
+            "partes": [
+                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip"
+            ]
+        }
     }
 }
