@@ -627,6 +627,7 @@
             "/atmosphere/contents/0100B00B51230000/romfs/update/update.rpf",
             "/atmosphere/contents/0100B00B51230000/romfs/update/update2.rpf"
         ],
+        "bytes": 1699451444,
         "icono": "9b4ec4185403.jpg",
         "revisado": 4
     },
@@ -638,6 +639,7 @@
             "/switch/gow-nx/data/mods/gow1_psp2_SCEA.psarc.kbm.tsv",
             "/switch/gow-nx/data/mods/gow1_psp2_SCEA.psarc.vtpatch"
         ],
+        "bytes": 3640982000,
         "icono": "ee137f4c39b0.jpg",
         "revisado": 4
     },
@@ -649,6 +651,7 @@
             "/switch/kof2002um-nx/game.nxidx",
             "/switch/kof2002um-nx/game.nxpack"
         ],
+        "bytes": 1157877276,
         "icono": "48fe30ecb758.jpg",
         "revisado": 4
     },
@@ -660,6 +663,7 @@
             "/switch/celosia_nx/assets/GAMECORE.XFF",
             "/switch/celosia_nx/assets/IOPRP300.IMG"
         ],
+        "bytes": 3732130160,
         "icono": "2f8f5b305e50.jpg",
         "revisado": 4
     },
@@ -671,6 +675,7 @@
             "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1A.RIB",
             "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1B.RIB"
         ],
+        "bytes": 2500756759,
         "icono": "2071f458e377.jpg",
         "revisado": 4
     },
@@ -682,6 +687,7 @@
             "/switch/mp2-nx/LICENSE-decomp-CC0.txt",
             "/switch/mp2-nx/LICENSE-Dusklight-Switch-CC0.txt"
         ],
+        "bytes": 1360479547,
         "icono": "56470bf5135c.jpg",
         "revisado": 4
     },
@@ -693,6 +699,7 @@
             "/switch/msr/code.bin",
             "/switch/msr/exheader.bin"
         ],
+        "bytes": 749381792,
         "icono": "8c9b135e6b77.jpg",
         "revisado": 4
     },
@@ -704,6 +711,7 @@
             "/switch/metroid_fusion/game/metfu.gba",
             "/retroarch/cores/mgba_libretro_libnx.nro"
         ],
+        "bytes": 29501759,
         "icono": "60c3adf9f231.jpg",
         "revisado": 4
     },
@@ -715,6 +723,7 @@
             "/switch/metroid_zero_mission/game/metze.gba",
             "/retroarch/cores/mgba_libretro_libnx.nro"
         ],
+        "bytes": 29503766,
         "icono": "5a2336f300e8.jpg",
         "revisado": 4
     },
@@ -726,6 +735,7 @@
             "/switch/goldeneye_xbla/arranque_29.log",
             "/switch/goldeneye_xbla/cache/nfsmw_dksh.bin"
         ],
+        "bytes": 767501180,
         "icono": "9d67dde84ab6.jpg",
         "revisado": 4
     },
@@ -737,6 +747,7 @@
             "/switch/shaolinmonks/cache/pipelines.bin",
             "/switch/shaolinmonks/cache/shaders/008026acb75a563c.spv"
         ],
+        "bytes": 2988690996,
         "icono": "e5ce71549f71.jpg",
         "revisado": 4
     },
@@ -748,6 +759,7 @@
             "/switch/NFSHP2-Switch/ZDIR.BIN",
             "/switch/NFSHP2-Switch/ZZDATA.BIN"
         ],
+        "bytes": 3135449158,
         "icono": "48a58b4cb522.jpg",
         "revisado": 4
     },
@@ -759,6 +771,7 @@
             "/switch/nfscx/game/default.xbe",
             "/switch/nfscx/game/NFS/ZDIR.BIN"
         ],
+        "bytes": 3085513275,
         "icono": "eb1993e4cd07.jpg",
         "revisado": 4
     },
@@ -770,6 +783,7 @@
             "/switch/nfs_3/game/nfs3.bin",
             "/switch/nfs_3/game/nfs3.cue"
         ],
+        "bytes": 549994871,
         "icono": "2b339a5b486f.jpg",
         "revisado": 4
     },
@@ -781,6 +795,7 @@
             "/switch/nfs4_retroarch/game/Need for Speed - High Stakes (USA).bin",
             "/switch/nfs4_retroarch/game/Need for Speed - High Stakes (USA).cue"
         ],
+        "bytes": 754688920,
         "icono": "78042bd57a2e.jpg",
         "revisado": 4
     },
@@ -792,6 +807,7 @@
             "/switch/nfs_5/game/n1.bin",
             "/switch/nfs_5/game/n10.bin"
         ],
+        "bytes": 679098092,
         "icono": "387da908efbc.jpg",
         "revisado": 4
     },
@@ -803,6 +819,7 @@
             "/switch/nfsu2x/game/B3/B3.xbe",
             "/switch/nfsu2x/game/B3/Data/After.kfs"
         ],
+        "bytes": 2769428868,
         "icono": "b2152051d4ab.jpg",
         "revisado": 4
     },
@@ -814,6 +831,7 @@
             "/switch/nfsmw-nx/game_root/default.xex",
             "/switch/nfsmw-nx/game_root/Movies/attract_movie_spanish_pal.wmv"
         ],
+        "bytes": 3335319976,
         "icono": "b90bdeb959e2.jpg",
         "revisado": 4
     },
@@ -825,6 +843,7 @@
             "/switch/nfsmw-nx/game_root/NFS/ZZDATA1.BIN",
             "/switch/nfsmw-nx/game_root/NFS/ZZDATA2.BIN"
         ],
+        "bytes": 3736840712,
         "icono": "b90bdeb959e2.jpg",
         "revisado": 4
     },
@@ -836,6 +855,7 @@
             "/switch/bt3-switch-data/DBZP.BIN",
             "/switch/bt3-switch-data/disc/BIN/DBZP.BIN"
         ],
+        "bytes": 2914348558,
         "icono": "2c843df930e2.jpg",
         "revisado": 4
     },
@@ -847,6 +867,7 @@
             "/switch/condemned-nx/cco.toml",
             "/switch/condemned-nx/cco_shaders.dslib"
         ],
+        "bytes": 3705334924,
         "icono": "9e3e523ee817.jpg",
         "revisado": 4
     },
@@ -858,6 +879,7 @@
             "/switch/brextreme-nx/LICENSES.txt",
             "/switch/brextreme-nx/brextreme-settings.toml"
         ],
+        "bytes": 767294502,
         "icono": "4c6067fe8b82.jpg",
         "revisado": 4
     },
@@ -869,6 +891,7 @@
             "/switch/jak2/data/.DS_Store",
             "/switch/jak2/data/out/jak2/obj/mech-ag.go"
         ],
+        "bytes": 3932111658,
         "icono": "ccacb27d4e6e.jpg",
         "revisado": 4
     },
@@ -880,6 +903,7 @@
             "/switch/godfather-nx/game/cmd.txt",
             "/switch/godfather-nx/game/default.xbe"
         ],
+        "bytes": 2315351354,
         "icono": "26606145f0ba.jpg",
         "revisado": 4
     },
@@ -891,6 +915,7 @@
             "/switch/gran_turismo_2/game/gt2.cue",
             "/switch/gran_turismo_2/game/gt22.bin"
         ],
+        "bytes": 730754767,
         "icono": "bf153a1573e8.jpg",
         "revisado": 4
     },
@@ -901,6 +926,7 @@
             "/switch/gt3r/gt3r.nro",
             "/switch/gt3r/gt3.iso"
         ],
+        "bytes": 3893107388,
         "icono": "acf4f4d4c3dd.jpg",
         "revisado": 4
     },
@@ -912,6 +938,7 @@
             "/switch/yfm-redecomp/game/README.txt",
             "/switch/yfm-redecomp/game/Yu-Gi-Oh! Forbidden Memories (USA).bin"
         ],
+        "bytes": 534773092,
         "icono": "8807377c617e.jpg",
         "revisado": 4
     },
@@ -923,6 +950,7 @@
             "/switch/pepsiman/game/pep.bin",
             "/switch/pepsiman/game/pep.cue"
         ],
+        "bytes": 330969901,
         "icono": "d0f4ab6bf3c1.jpg",
         "revisado": 4
     },
@@ -934,6 +962,7 @@
             "/switch/medievil/game/med.cue",
             "/switch/medievil/game/med1.bin"
         ],
+        "bytes": 585059845,
         "icono": "97ede7de7ece.jpg",
         "revisado": 4
     },
@@ -945,6 +974,7 @@
             "/switch/hercules/game/herc.bin",
             "/switch/hercules/game/herc.cue"
         ],
+        "bytes": 422158101,
         "icono": "7176f4e1e422.jpg",
         "revisado": 4
     },
@@ -956,6 +986,7 @@
             "/pz41/args.txt",
             "/pz41/game/natives/libfmod.so"
         ],
+        "bytes": 2576282923,
         "icono": "e6a200625460.jpg",
         "revisado": 4
     },
@@ -967,6 +998,7 @@
             "/switch/sasrt-nx/deko3d_glsl.bin",
             "/switch/sasrt-nx/deko3d_shaders.bin"
         ],
+        "bytes": 2646496407,
         "icono": "2ca0e6e13833.jpg",
         "revisado": 4
     },
@@ -978,6 +1010,7 @@
             "/switch/twisted_metal/game/tw.cue",
             "/switch/twisted_metal/game/tw1.bin"
         ],
+        "bytes": 363280902,
         "icono": "22cb424123f3.jpg",
         "revisado": 4
     },
@@ -989,6 +1022,7 @@
             "/switch/street-nx/game/data/anims.big",
             "/switch/street-nx/game/data/aptanims/aptfntz.big"
         ],
+        "bytes": 1786127105,
         "icono": "654854b73fec.jpg",
         "revisado": 4
     },
@@ -1000,6 +1034,7 @@
             "/switch/oot3dre/boot-status.txt",
             "/switch/oot3dre/config/anisotropy"
         ],
+        "bytes": 1049295785,
         "icono": "029ed302d389.jpg",
         "revisado": 4
     },
@@ -1011,6 +1046,7 @@
             "/switch/switchwaker/GZLE01.iso",
             "/switch/switchwaker/initial_dksh_cache.bin"
         ],
+        "bytes": 1135994186,
         "icono": "5239fc788034.jpg",
         "revisado": 4
     },
@@ -1022,6 +1058,7 @@
             "/switch/wwhd/background_shaders/done.txt",
             "/switch/wwhd/game/code/app.xml"
         ],
+        "bytes": 1973555764,
         "icono": "59831d1c95ce.jpg",
         "revisado": 4
     },
@@ -1033,6 +1070,7 @@
             "/switch/resident_evil_1_retroarch/game/re1.bin",
             "/switch/resident_evil_1_retroarch/game/re1.cue"
         ],
+        "bytes": 741775699,
         "icono": "d4dad0f0ae86.jpg",
         "revisado": 4
     },
@@ -1044,6 +1082,7 @@
             "/switch/resident_evil_2_leon/game/re21.bin",
             "/switch/resident_evil_2_leon/game/re21.cue"
         ],
+        "bytes": 685757599,
         "icono": "79c11b84ebc5.jpg",
         "revisado": 4
     },
@@ -1055,6 +1094,7 @@
             "/switch/resident_evil_2_claire/game/re22.bin",
             "/switch/resident_evil_2_claire/game/re22.cue"
         ],
+        "bytes": 691553001,
         "icono": "9a42f1227925.jpg",
         "revisado": 4
     },
@@ -1066,6 +1106,7 @@
             "/switch/resident_evil_3/game/re3.bin",
             "/switch/resident_evil_3/game/re3.cue"
         ],
+        "bytes": 734926195,
         "icono": "e1dfa2daf29d.jpg",
         "revisado": 4
     },
@@ -1077,6 +1118,7 @@
             "/switch/resident_evil_survivor/game/resu.bin",
             "/switch/resident_evil_survivor/game/resu.cue"
         ],
+        "bytes": 447211953,
         "icono": "7db5611ddb80.jpg",
         "revisado": 4
     },
@@ -1088,6 +1130,7 @@
             "/switch/recvx/recvx.log",
             "/switch/recvx/Resident Evil - Code - Veronica X (USA).iso"
         ],
+        "bytes": 2102307808,
         "icono": "ec9cc1974932.jpg",
         "revisado": 4
     },
@@ -1099,6 +1142,7 @@
             "/switch/tekken3/config.txt",
             "/switch/tekken3/disc/Tekken 3 (USA) (Track 1).bin"
         ],
+        "bytes": 700126677,
         "icono": "ad9fe2ed0935.jpg",
         "revisado": 4
     },
@@ -1110,6 +1154,7 @@
             "/switch/super_metroid_snes/game/spm.smc",
             "/retroarch/cores/snes9x_libretro_libnx.nro"
         ],
+        "bytes": 24599541,
         "icono": "b61c01b6eae2.jpg",
         "revisado": 4
     },
@@ -1121,6 +1166,7 @@
             "/switch/Black/chars/guns/GrdLnchr.wdd",
             "/switch/Black/chars/guns/GrdLnchr.wdo"
         ],
+        "bytes": 3943097572,
         "icono": "7f500389dc13.jpg",
         "revisado": 4
     },
@@ -1132,6 +1178,7 @@
             "/switch/cvhd/args.txt",
             "/switch/cvhd/deko3d"
         ],
+        "bytes": 453503383,
         "icono": "d350901419b2.jpg",
         "revisado": 4
     },
@@ -1143,6 +1190,7 @@
             "/switch/sotn/assets/.DS_Store",
             "/switch/sotn/assets/.nomedia"
         ],
+        "bytes": 581429344,
         "icono": "edefa16355f2.jpg",
         "revisado": 4
     },
@@ -1154,6 +1202,7 @@
             "/switch/soulcalibur2/bgm.afs",
             "/switch/soulcalibur2/Default.xbe"
         ],
+        "bytes": 1437856736,
         "icono": "e02bc9c7d7a7.jpg",
         "revisado": 4
     },
@@ -1165,6 +1214,7 @@
             "/switch/LM-NX/cache/lmnx-f447-gxabi2-8bd445c65795e6a2283bc086/paquete.lmp",
             "/switch/LM-NX/cache/lmnx-tint-8bd445c65795e6a2283bc086/paquete.lmp"
         ],
+        "bytes": 3118503854,
         "icono": "aff4750b1faa.jpg",
         "revisado": 4
     },
@@ -1176,6 +1226,7 @@
             "/switch/spm-nx/01793160909_01d6eccc00680000_thread_info.bin",
             "/switch/spm-nx/01794104284_05446530aca7e000.log"
         ],
+        "bytes": 475427930,
         "icono": "844acfcc70cf.jpg",
         "revisado": 4
     },
@@ -1187,6 +1238,7 @@
             "/switch/strikers/cache/dawn_cache.db",
             "/switch/strikers/cache/pipeline_cache.db"
         ],
+        "bytes": 1508016844,
         "icono": "5a5caa82c602.jpg",
         "revisado": 4
     },
@@ -1198,6 +1250,7 @@
             "/switch/partyboard/initial_dawn_cache.db",
             "/switch/partyboard/initial_pipeline_cache.db"
         ],
+        "bytes": 1519229933,
         "icono": "0590f0b1d28a.jpg",
         "revisado": 4
     },
@@ -1209,6 +1262,7 @@
             "/switch/b3x/b3x_env.txt",
             "/switch/b3x/game/dashupdate.xbe"
         ],
+        "bytes": 2526822756,
         "icono": "e1c24a1da770.jpg",
         "revisado": 4
     },
@@ -1220,6 +1274,7 @@
             "/switch/skate3rust/assets/private/audio/aems/AC_Commerce_Unit_1.abk",
             "/switch/skate3rust/assets/private/audio/aems/AC_Commerce_Unit_2.abk"
         ],
+        "bytes": 3986785241,
         "icono": "c32706acde35.jpg",
         "revisado": 4
     },
@@ -1231,6 +1286,7 @@
             "/switch/defjamx/defjamx_log.txt",
             "/switch/defjamx/game/assets/ai/ai.viv"
         ],
+        "bytes": 3047386859,
         "icono": "690f3ea8f65d.jpg",
         "revisado": 4
     },
@@ -1242,6 +1298,7 @@
             "/switch/pes21_nx/assets/responses/CmdCheckString.bin",
             "/switch/pes21_nx/assets/responses/CmdCreateUser.bin"
         ],
+        "bytes": 4209575419,
         "icono": "20c3a134412d.jpg",
         "revisado": 4
     },
@@ -1253,6 +1310,7 @@
             "/switch/ConkerRecomp/conker.z64",
             "/switch/ConkerRecomp/Mods/CONKERS_BFD_HIRESTEXTURES.rtz"
         ],
+        "bytes": 595847165,
         "icono": "b3ec18282005.jpg",
         "revisado": 4
     },
@@ -1264,6 +1322,7 @@
             "/switch/redriver2/config.ini",
             "/switch/redriver2/DRIVER2/DATA/CARCONT.RAW"
         ],
+        "bytes": 1536967219,
         "icono": "7b99100cc377.jpg",
         "revisado": 4
     },
@@ -1275,6 +1334,7 @@
             "/switch/MKDD-NX/config/settings.ini",
             "/switch/MKDD-NX/config/shaders.bin"
         ],
+        "bytes": 4095991406,
         "icono": "268e5a539c5f.jpg",
         "revisado": 4
     },
@@ -1286,6 +1346,7 @@
             "/switch/mk64_spaghetti/mk64.o2r",
             "/switch/mk64_spaghetti/spaghetti.o2r"
         ],
+        "bytes": 46818705,
         "icono": "0e8dc1209659.jpg",
         "revisado": 4
     },
@@ -1297,6 +1358,7 @@
             "/switch/ReChan/discimage/Jackie Chan Stuntmaster (USA).bin",
             "/switch/ReChan/discimage/Jackie Chan Stuntmaster (USA).cue"
         ],
+        "bytes": 1220374359,
         "icono": "9f84615a39d9.jpg",
         "revisado": 4
     },
@@ -1308,6 +1370,7 @@
             "/switch/pvzultimate/assets/main.rsb",
             "/switch/pvzultimate/debug.log"
         ],
+        "bytes": 702086656,
         "icono": "89dfac15e60b.jpg",
         "revisado": 4
     },
@@ -1319,6 +1382,7 @@
             "/switch/halo/brokers.txt",
             "/switch/halo/config.toml"
         ],
+        "bytes": 1843000128,
         "icono": "fbfe00e85e41.jpg",
         "revisado": 4
     },
@@ -1330,6 +1394,7 @@
             "/switch/BattleShip-Remix/assets/BattleShip.svg",
             "/switch/BattleShip-Remix/assets/custom/fonts/Inconsolata-OFL.txt"
         ],
+        "bytes": 312662799,
         "icono": "96deacf5f0a0.jpg",
         "revisado": 4
     },
@@ -1341,6 +1406,7 @@
             "/switch/BattleShip/assets/custom/fonts/Inconsolata-OFL.txt",
             "/switch/BattleShip/assets/custom/fonts/Inconsolata-Regular.ttf"
         ],
+        "bytes": 245599335,
         "icono": "bb26eddde92e.jpg",
         "revisado": 4
     },
@@ -1352,6 +1418,7 @@
             "/switch/fo2x/fo2x_env.txt",
             "/switch/fo2x/game/dashupdate.xbe"
         ],
+        "bytes": 2479440322,
         "icono": "0a26ae422744.jpg",
         "revisado": 4
     },
@@ -1363,6 +1430,7 @@
             "/switch/mcdub3-nx/game/assets_x.dat",
             "/switch/mcdub3-nx/game/assets_x.dat_1"
         ],
+        "bytes": 3655772581,
         "icono": "3844f6678706.jpg",
         "revisado": 4
     },
@@ -1374,6 +1442,7 @@
             "/switch/shank1-nx/deko3d_glsl.bin",
             "/switch/shank1-nx/game_root.nxidx"
         ],
+        "bytes": 2168934985,
         "icono": "18ac91c07da8.jpg",
         "revisado": 4
     },
@@ -1385,6 +1454,7 @@
             "/switch/shank2-nx/deko3d_glsl.bin",
             "/switch/shank2-nx/game_root.nxidx"
         ],
+        "bytes": 1349724664,
         "icono": "a4210c4654dd.jpg",
         "revisado": 4
     },
@@ -1396,6 +1466,7 @@
             "/switch/gdash/assets/achievement_01.ogg",
             "/switch/gdash/assets/BackOnTrack.mp3"
         ],
+        "bytes": 195929749,
         "icono": "41fbd954590b.jpg",
         "revisado": 4
     },
@@ -1407,6 +1478,7 @@
             "/switch/hitmango/.casetest",
             "/switch/hitmango/.fonts/fonts.xml"
         ],
+        "bytes": 1361610590,
         "icono": "e9b3134d2678.jpg",
         "revisado": 4
     },
@@ -1418,6 +1490,7 @@
             "/switch/bully/assets/AVConfig.json",
             "/switch/bully/assets/data_0.zip"
         ],
+        "bytes": 3003069147,
         "icono": "27fc2cea707e.jpg",
         "revisado": 4
     },
@@ -1429,6 +1502,7 @@
             "/switch/smwr_nx/assets/.godot/exported/133200997/export-00015d5996968710cf2c3c004046a31f-test_carry_box.scn",
             "/switch/smwr_nx/assets/.godot/exported/133200997/export-001d7d2eb3d1f9b5520c2441db16a7d4-Vanilla.res"
         ],
+        "bytes": 147439431,
         "icono": "85e51d594562.jpg",
         "revisado": 4
     },
@@ -1440,6 +1514,7 @@
             "/switch/smbr_nx/assets/.godot/exported/660892210/export-003c1967ff291712f92c50dfe35fdcc4-LongFirebar.scn",
             "/switch/smbr_nx/assets/.godot/exported/660892210/export-00ba62a006e94e6ae4d89962b3593e85-QuitDialog.scn"
         ],
+        "bytes": 138673707,
         "icono": "cea52650dd6e.jpg",
         "revisado": 4
     },
@@ -1451,6 +1526,7 @@
             "/switch/gtasa/anim/anim.img",
             "/switch/gtasa/anim/cuts.img"
         ],
+        "bytes": 2647517901,
         "icono": "b2733b7e4fd6.jpg",
         "revisado": 4
     },
@@ -1462,6 +1538,7 @@
             "/switch/gtactw/additional.png",
             "/switch/gtactw/airport_dry.mp3"
         ],
+        "bytes": 954290847,
         "icono": "20fc62b909e6.jpg",
         "revisado": 4
     },
@@ -1473,6 +1550,7 @@
             "/switch/gtalcs/data_main.wad",
             "/switch/gtalcs/data_music.wad"
         ],
+        "bytes": 1256679675,
         "icono": "ea9ca3295d35.jpg",
         "revisado": 4
     },
@@ -1484,6 +1562,7 @@
             "/switch/acpc_nx/.synth_dev_random",
             "/switch/acpc_nx/.synth_proc_cpuinfo"
         ],
+        "bytes": 335910892,
         "icono": "c36efcc82f4e.jpg",
         "revisado": 4
     },
@@ -1495,6 +1574,7 @@
             "/switch/abc/config.txt",
             "/switch/abc/F2FSave.bin"
         ],
+        "bytes": 511195811,
         "icono": "2191e9c49f86.jpg",
         "revisado": 4
     },
@@ -1506,6 +1586,7 @@
             "/switch/crazytaxi/assets/break_down_country.json",
             "/switch/crazytaxi/assets/data/.DS_Store"
         ],
+        "bytes": 282945125,
         "icono": "ff4f1e89895b.jpg",
         "revisado": 4
     },
@@ -1517,6 +1598,7 @@
             "/switch/crazytaxi/COPYING.txt",
             "/switch/crazytaxi/crazytaxi.toml"
         ],
+        "bytes": 1260402370,
         "icono": "c41088f04e17.jpg",
         "revisado": 4
     },
@@ -1528,6 +1610,7 @@
             "/switch/celeste64/Content/Audio/Master.bank",
             "/switch/celeste64/Content/Audio/Master.strings.bank"
         ],
+        "bytes": 87466746,
         "icono": "478fa9ec2d2e.jpg",
         "revisado": 4
     },
@@ -1539,6 +1622,7 @@
             "/switch/drmariomania_nx/assets/.godot/exported/133200997/export-001844bc70c375f7239108f329e7bfe1-OfficialCustomLevelPanel.scn",
             "/switch/drmariomania_nx/assets/.godot/exported/133200997/export-06cc1573c73c7fbe2c07630646fbf6bd-NES.res"
         ],
+        "bytes": 589934881,
         "icono": "c793b13fd405.jpg",
         "revisado": 4
     },
@@ -1550,6 +1634,7 @@
             "/switch/ff3_3d/config.txt",
             "/switch/ff3_3d/libff3.so"
         ],
+        "bytes": 420435959,
         "icono": "2f06c23fec8d.jpg",
         "revisado": 4
     },
@@ -1561,6 +1646,7 @@
             "/dusk/achievements.json",
             "/dusk/config.json"
         ],
+        "bytes": 983385343,
         "icono": "1ba572758acc.jpg",
         "revisado": 4
     },
@@ -1572,6 +1658,7 @@
             "/switch/2s2h/2ship.o2r",
             "/switch/2s2h/2ship2harkinian.json"
         ],
+        "bytes": 1156792308,
         "icono": "66ecd02d9968.jpg",
         "revisado": 4
     },
@@ -1583,6 +1670,7 @@
             "/switch/soh/mods/Reloaded_v10.4.2_HD.otr",
             "/switch/soh/mods/Reloaded_v10.4.2_HD_LButton.otr"
         ],
+        "bytes": 1483785792,
         "icono": "40c496a2a2db.jpg",
         "revisado": 4
     },
@@ -1594,6 +1682,7 @@
             "/switch/ffd/config.txt",
             "/switch/ffd/ffl.bin"
         ],
+        "bytes": 222088576,
         "icono": "f8460f0cd67b.jpg",
         "revisado": 4
     },
@@ -1605,6 +1694,7 @@
             "/switch/ffd2_nx/config.txt",
             "/switch/ffd2_nx/libchange.so"
         ],
+        "bytes": 362192529,
         "icono": "9ff7d6731e05.jpg",
         "revisado": 4
     },
@@ -1616,6 +1706,7 @@
             "/switch/ff4_3d/config.txt",
             "/switch/ff4_3d/libff4.so"
         ],
+        "bytes": 501650386,
         "icono": "459ad9497dcd.jpg",
         "revisado": 4
     },
@@ -1627,6 +1718,7 @@
             "/switch/ff4tay/config.txt",
             "/switch/ff4tay/libff4a.so"
         ],
+        "bytes": 502121184,
         "icono": "04814e09a428.jpg",
         "revisado": 4
     },
@@ -1638,6 +1730,7 @@
             "/switch/angrybirds/angrybirds_nx_stage.txt",
             "/switch/angrybirds/assets/assets.list"
         ],
+        "bytes": 238605341,
         "icono": "24ab05a41459.jpg",
         "revisado": 4
     },
@@ -1649,6 +1742,7 @@
             "/switch/angrybirdsjourney_nx/.synth_dev_random",
             "/switch/angrybirdsjourney_nx/.synth_proc_cpuinfo"
         ],
+        "bytes": 412394684,
         "icono": "c0de1e75f528.jpg",
         "revisado": 4
     },
@@ -1660,6 +1754,7 @@
             "/switch/angrybird2_nx/.synth_dev_random",
             "/switch/angrybird2_nx/.synth_proc_cpuinfo"
         ],
+        "bytes": 997994913,
         "icono": "aeba72e1aadf.jpg",
         "revisado": 4
     },
@@ -1671,6 +1766,7 @@
             "/switch/coi/config.txt",
             "/switch/coi/libfmodex.so"
         ],
+        "bytes": 633070534,
         "icono": "28c683adcfe3.jpg",
         "revisado": 4
     },
@@ -1682,6 +1778,7 @@
             "/switch/badpiggies_nx/.synth_dev_random",
             "/switch/badpiggies_nx/.synth_proc_cpuinfo"
         ],
+        "bytes": 127422660,
         "icono": "613ba1aa33b2.jpg",
         "revisado": 4
     },
@@ -1693,6 +1790,7 @@
             "/switch/the_simpsons_game/game/$systemupdate/su20076000_00000000",
             "/switch/the_simpsons_game/game/audiostreams/80b_crow/amb_80b_crowd_qd_01.exa.snu"
         ],
+        "bytes": 4081769352,
         "icono": "4532d02ed1bf.jpg",
         "revisado": 4
     },
@@ -1704,6 +1802,7 @@
             "/switch/Simpsons_Hit_And_Run/eax.dll",
             "/switch/Simpsons_Hit_And_Run/music00.rcf"
         ],
+        "bytes": 1790229850,
         "icono": "ea36eb71b155.jpg",
         "revisado": 4
     },
@@ -1715,6 +1814,7 @@
             "/switch/blur-nx/deko3d_glsl.bin",
             "/switch/blur-nx/deko3d_shaders.bin"
         ],
+        "bytes": 3241202442,
         "icono": "b2b45a9b0c61.jpg",
         "revisado": 4
     },
@@ -1726,6 +1826,7 @@
             "/switch/blur-nx/game_root/layer1/levels/jpn_mharuna/Level.level.lz4b",
             "/switch/blur-nx/game_root/layer1/levels/jpn_mharuna/Level.levelphysics.lz4b"
         ],
+        "bytes": 2313767730,
         "icono": "b2b45a9b0c61.jpg",
         "revisado": 4
     },
@@ -1737,6 +1838,7 @@
             "/switch/umvc3.nro",
             "/umvc3/ce-data/Characters.ini"
         ],
+        "bytes": 3929819855,
         "icono": "0b50d1dcd91c.jpg",
         "revisado": 4
     },
@@ -1748,6 +1850,7 @@
             "/ce/ColorExpansion.asi",
             "/ce/mag_patch.asi"
         ],
+        "bytes": 4214847661,
         "icono": "0b50d1dcd91c.jpg",
         "revisado": 4
     },
@@ -1759,6 +1862,7 @@
             "/ce-data/nativePCx64/chr/archive/0001_09.arc",
             "/ce-data/nativePCx64/chr/archive/0001_10.arc"
         ],
+        "bytes": 3681573073,
         "icono": "0b50d1dcd91c.jpg",
         "revisado": 4
     },
@@ -1770,6 +1874,7 @@
             "/switch/fh1-nx/deko3d_glsl.bin",
             "/switch/fh1-nx/fh1nx.toml"
         ],
+        "bytes": 3882976106,
         "icono": "4784dd49e8fc.jpg",
         "revisado": 4
     },
@@ -1781,6 +1886,7 @@
             "/switch/fh1-nx/game_root/media/gamemodes.zip",
             "/switch/fh1-nx/game_root/media/Livery.zip"
         ],
+        "bytes": 3225762317,
         "icono": "4784dd49e8fc.jpg",
         "revisado": 4
     },
@@ -1792,6 +1898,7 @@
             "/switch/deadpool-nx/deadpool.toml",
             "/switch/deadpool-nx/deko3d_glsl.bin"
         ],
+        "bytes": 3958644208,
         "icono": "107802593f39.jpg",
         "revisado": 4
     },
@@ -1803,6 +1910,7 @@
             "/switch/deadpool-nx/game/$SystemUpdate/BiometricSetup.xex",
             "/switch/deadpool-nx/game/$SystemUpdate/dash.ExtraAVCodecs.xex"
         ],
+        "bytes": 1460450462,
         "icono": "107802593f39.jpg",
         "revisado": 4
     },
@@ -1814,6 +1922,7 @@
             "/switch/alice-nx/alice.toml",
             "/switch/alice-nx/deko3d_shaders.bin"
         ],
+        "bytes": 1609172932,
         "icono": "2cf7b84adafa.jpg",
         "revisado": 4
     },
@@ -1825,6 +1934,7 @@
             "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntryExtra.xxx",
             "/switch/alice-nx/game_root/AliceGame/CookedXenon/AliceEntryManual.xxx"
         ],
+        "bytes": 3552519335,
         "icono": "2cf7b84adafa.jpg",
         "revisado": 4
     },
@@ -1836,6 +1946,7 @@
             "/switch/ds2scholar-nx/ds2.toml",
             "/switch/ds2scholar-nx/ds2scholar-forwarder.nsp"
         ],
+        "bytes": 3333719482,
         "icono": "d41b767f5aad.jpg",
         "revisado": 4
     },
@@ -1847,6 +1958,7 @@
             "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/DlcData010306_110.bhd",
             "/switch/ds2scholar-nx/ds2/0000000000000000/465307E4/00000002/D4B91B6B4DA1509C280F56F77B09203DE7D39AE646/Data/catalog/sound/frpg2_ps100200.fsb"
         ],
+        "bytes": 3943129349,
         "icono": "d41b767f5aad.jpg",
         "revisado": 4
     },
@@ -1858,6 +1970,7 @@
             "/switch/dishonored-nx/dishonored.toml",
             "/switch/dishonored-nx/game_root/Binaries/build.properties"
         ],
+        "bytes": 3565378065,
         "icono": "66200307bac4.jpg",
         "revisado": 4
     },
@@ -1869,6 +1982,7 @@
             "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/L_LightH_HighChaos_Geom.xxx",
             "/switch/dishonored-nx/game_root/DishonoredGame/CookedXbox360/L_LightH_HighChaos_LFC.tfc"
         ],
+        "bytes": 1448254775,
         "icono": "66200307bac4.jpg",
         "revisado": 4
     },
@@ -1880,6 +1994,7 @@
             "/switch/gears2-nx/game/Coalesced.pad",
             "/switch/gears2-nx/game/default.xex"
         ],
+        "bytes": 3657753425,
         "icono": "e671565f7be5.jpg",
         "revisado": 4
     },
@@ -1891,6 +2006,7 @@
             "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10_S.xxx",
             "/switch/gears2-nx/game/GearGame/CookedXenon/SP_Intervention_10_S_LOC_ESM.xxx"
         ],
+        "bytes": 3613770370,
         "icono": "e671565f7be5.jpg",
         "revisado": 4
     },
@@ -1902,6 +2018,7 @@
             "/switch/mgr-nx-deko/deko3d_glsl.bin",
             "/switch/mgr-nx-deko/game_root/default.xex"
         ],
+        "bytes": 4040178382,
         "icono": "fa8e46a76e98.jpg",
         "revisado": 4
     },
@@ -1913,6 +2030,7 @@
             "/switch/mgr-nx-deko/game_root/media/movie/ev3020.usm",
             "/switch/mgr-nx-deko/game_root/media/movie/ev3030.usm"
         ],
+        "bytes": 3855576552,
         "icono": "fa8e46a76e98.jpg",
         "revisado": 4
     },
@@ -1924,6 +2042,7 @@
             "/switch/dantes-inferno-nx/game/bigfile0.viv",
             "/switch/dantes-inferno-nx/game/default.xex"
         ],
+        "bytes": 3293942768,
         "icono": "a08454adb32c.jpg",
         "revisado": 4
     },
@@ -1933,6 +2052,7 @@
         "marcas": [
             "/switch/dantes-inferno-nx/game/bigfile1.viv"
         ],
+        "bytes": 2692051407,
         "icono": "a08454adb32c.jpg",
         "revisado": 4
     },
@@ -1944,6 +2064,7 @@
             "/switch/left4dead/build-manifest.json",
             "/switch/left4dead/config/keys.txt"
         ],
+        "bytes": 3512003452,
         "icono": "7ba093d26d2b.jpg",
         "revisado": 4
     },
@@ -1955,6 +2076,7 @@
             "/switch/left4dead/drive_c/dxvk64/d3d10core.dll",
             "/switch/left4dead/drive_c/dxvk64/d3d11.dll"
         ],
+        "bytes": 2838266546,
         "icono": "7ba093d26d2b.jpg",
         "revisado": 4
     },
@@ -1966,6 +2088,7 @@
             "/switch/codmw/codmw.toml",
             "/switch/codmw/codmw_pipelines_base.bin"
         ],
+        "bytes": 3880157489,
         "icono": "d01ad1287038.jpg",
         "revisado": 4
     },
@@ -1977,6 +2100,7 @@
             "/switch/codmw/game/mp_pipeline.ff",
             "/switch/codmw/game/mp_pipeline_load.ff"
         ],
+        "bytes": 2063295952,
         "icono": "d01ad1287038.jpg",
         "revisado": 4
     },
@@ -1988,6 +2112,7 @@
             "/switch/boz/atlas56.bin",
             "/switch/boz/atlas56.hdr"
         ],
+        "bytes": 544799357,
         "icono": "70d6f99bd922.jpg",
         "revisado": 4
     },
@@ -1999,6 +2124,7 @@
             "/switch/bo2zm/bo2cp.toml",
             "/switch/bo2zm/bo2cp_shaders.spvpack"
         ],
+        "bytes": 3984683698,
         "icono": "d8b5bade86d1.jpg",
         "revisado": 4
     },
@@ -2010,6 +2136,7 @@
             "/switch/bo2zm/game/stream/cmn_root.all.sabs",
             "/switch/bo2zm/game/stream/cmn_root.english.sabs"
         ],
+        "bytes": 3651289828,
         "icono": "d8b5bade86d1.jpg",
         "revisado": 4
     },
@@ -2021,6 +2148,7 @@
             "/switch/bo2zm/game/a1_vault_menendez_2.webm",
             "/switch/bo2zm/game/a1_vault_menendez_3.webm"
         ],
+        "bytes": 3998909597,
         "icono": "d8b5bade86d1.jpg",
         "revisado": 4
     },
@@ -2032,6 +2160,7 @@
             "/switch/tf2_nx/assets/extras_dir.vpk",
             "/switch/tf2_nx/files/dejavusans-bold.ttf"
         ],
+        "bytes": 4134819014,
         "icono": "c27cb916ef3b.jpg",
         "revisado": 4
     },
@@ -2043,6 +2172,7 @@
             "/switch/tf2_nx/lib/libdatacache.so",
             "/switch/tf2_nx/lib/libengine.so"
         ],
+        "bytes": 3263591237,
         "icono": "c27cb916ef3b.jpg",
         "revisado": 4
     },
@@ -2054,6 +2184,7 @@
             "/switch/tf2_nx/tf2legacy/vpks/tf2c_assets_005.vpk",
             "/switch/tf2_nx/tf2legacy/vpks/tf2l_assets_000.vpk"
         ],
+        "bytes": 1856033196,
         "icono": "c27cb916ef3b.jpg",
         "revisado": 4
     },
@@ -2065,6 +2196,7 @@
             "/switch/shh-nx/cache/vfs_index_game_root.bin",
             "/switch/shh-nx/deko3d.log"
         ],
+        "bytes": 4259265064,
         "icono": "255ebaadb50f.jpg",
         "revisado": 4
     },
@@ -2076,6 +2208,7 @@
             "/switch/shd-nx/game/AvatarAssetPack",
             "/switch/shd-nx/game/default.xex"
         ],
+        "bytes": 3338977279,
         "icono": "f227e9d9bd34.jpg",
         "revisado": 4
     },
@@ -2087,6 +2220,7 @@
             "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-eng_SF.xxx",
             "/switch/shd-nx/game/SHGame/CookedXenon/Loc_DiagPrison-esm_SF.xxx"
         ],
+        "bytes": 1562337560,
         "icono": "f227e9d9bd34.jpg",
         "revisado": 4
     },
@@ -2098,6 +2232,7 @@
             "/switch/sh3-nx/data/arc.arc",
             "/switch/sh3-nx/data/bgam.arc"
         ],
+        "bytes": 3139363975,
         "icono": "ec9c5707b1e3.jpg",
         "revisado": 4
     },
@@ -2109,6 +2244,7 @@
             "/switch/sh3-nx/data/movie/ed_n.000",
             "/switch/sh3-nx/data/movie/ed_u.000"
         ],
+        "bytes": 2107400458,
         "icono": "ec9c5707b1e3.jpg",
         "revisado": 4
     },
@@ -2120,6 +2256,7 @@
             "/switch/sh2-nx/alsoft.ini",
             "/switch/sh2-nx/binkw32.dll"
         ],
+        "bytes": 2593177867,
         "icono": "4b5415c44cfc.jpg",
         "revisado": 4
     },
@@ -2131,6 +2268,7 @@
             "/switch/sh2-nx/sh2e/bg/ap/ap01.cam",
             "/switch/sh2-nx/sh2e/bg/ap/ap01.map"
         ],
+        "bytes": 2657323862,
         "icono": "4b5415c44cfc.jpg",
         "revisado": 4
     },
@@ -2142,6 +2280,7 @@
             "/switch/sh2-nx/sh2e/pic/add/mapboldwin.tex",
             "/switch/sh2-nx/sh2e/pic/add/mapmark.tex"
         ],
+        "bytes": 3461349294,
         "icono": "4b5415c44cfc.jpg",
         "revisado": 4
     }
