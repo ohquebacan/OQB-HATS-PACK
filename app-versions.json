@@ -159,9 +159,9 @@
         "revisado": 4
     },
     "https://github.com/NaGaa95/Vita3K-nx/releases/latest/download/Vita3K.nro": {
-        "fecha": "2026-11-19T20:32:13Z",
-        "version": "1.4.2",
-        "nro_version": "1.4.2",
+        "fecha": "2026-11-24T17:16:32Z",
+        "version": "1.4.3",
+        "nro_version": "1.4.3",
         "icono": "0aa8456d1d88.jpg",
         "revisado": 4
     },
@@ -303,16 +303,16 @@
         "revisado": 4
     },
     "https://github.com/NaGaa95/dolphin-nx/releases/latest/download/dolphin.nro": {
-        "fecha": "2026-11-12T21:30:47Z",
-        "version": "1.2.2",
-        "nro_version": "1.2.2",
+        "fecha": "2026-11-24T14:01:34Z",
+        "version": "1.2.3",
+        "nro_version": "1.2.3",
         "icono": "fbdccd736b32.jpg",
         "revisado": 4
     },
     "https://github.com/NaGaa95/Cemu-nx/releases/latest/download/cemu.nro": {
-        "fecha": "2026-11-20T22:00:25Z",
-        "version": "1.3.3",
-        "nro_version": "1.3.3",
+        "fecha": "2026-11-24T15:26:21Z",
+        "version": "1.3.4",
+        "nro_version": "1.3.4",
         "icono": "7a0ff244e083.jpg",
         "revisado": 4
     },
@@ -436,12 +436,12 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip": {
-        "fecha": "2026-11-03T06:20:55Z",
+        "fecha": "2026-11-24T18:54:19Z",
         "version": "1.0",
         "nros": [
             {
                 "ruta": "/switch/scene_eshop/scene_eshop.nro",
-                "version": "5.5.0"
+                "version": "5.8.1"
             }
         ],
         "icono": "c6b646e9caa7.jpg",
@@ -608,9 +608,9 @@
         "revisado": 4
     },
     "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro": {
-        "fecha": "2026-11-19T11:21:51Z",
-        "version": "v2.1.0",
-        "nro_version": "2.1.0",
+        "fecha": "2026-11-24T11:17:33Z",
+        "version": "v2.2.0",
+        "nro_version": "2.2.0",
         "icono": "9aa5bf14f4f0.jpg",
         "revisado": 4
     },
