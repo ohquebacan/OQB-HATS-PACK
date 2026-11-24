@@ -1,0 +1,1547 @@
+{
+ "version": 1,
+ "base": "https://github.com/ohquebacan/OQB-HATS-PACK/releases/download/apps-pack/",
+ "packs": {
+  "OQB-HATS-PACK-23.0.zip": [
+   "sphaira-f94e37f1",
+   "sys-clk-52e8d452",
+   "emuiibo-c7afd7a9",
+   "missioncontrol-6186ad2f",
+   "sys-patch-1d2b01f9",
+   "ultrahand-814bc8dd",
+   "noexes-f197e006",
+   "breeze-441139a7",
+   "breezehand-4fc170ed",
+   "edizon-70381fc2",
+   "nxthemes-e8ba5731",
+   "dbi-6c1421f3",
+   "goldleaf-4a17a450",
+   "appstore-539ab19e",
+   "quickntp-20537488",
+   "status-monitor-7aaafc2e",
+   "fpslocker-b3fb593f",
+   "ovl-sysmodules-6ec94c3d",
+   "akira-e765c2f4",
+   "jksv-2a89e05b",
+   "checkpoint-7675064d",
+   "linkalho-4a4bba46",
+   "themezer-45d541ab",
+   "daybreak-ad966abd",
+   "haze-53bf58e8",
+   "battery-desync-d7d6f209",
+   "90dns-b7574a8f",
+   "90dns-tester-a3c2c563",
+   "reboot-hekate-7161796e",
+   "reboot-payload-4a2b8302",
+   "reset-parental-bd0feea0"
+  ],
+  "OQB-HATS-PACK-OC-23.0.zip": [
+   "sphaira-f94e37f1",
+   "horizon-oc-6d020620",
+   "saltynx-4aca4277",
+   "emuiibo-c7afd7a9",
+   "missioncontrol-6186ad2f",
+   "sys-patch-1d2b01f9",
+   "ultrahand-814bc8dd",
+   "noexes-f197e006",
+   "breeze-441139a7",
+   "breezehand-4fc170ed",
+   "edizon-70381fc2",
+   "nxthemes-e8ba5731",
+   "dbi-6c1421f3",
+   "goldleaf-4a17a450",
+   "appstore-539ab19e",
+   "quickntp-20537488",
+   "status-monitor-7aaafc2e",
+   "fpslocker-b3fb593f",
+   "ovl-sysmodules-6ec94c3d",
+   "akira-e765c2f4",
+   "jksv-2a89e05b",
+   "checkpoint-7675064d",
+   "linkalho-4a4bba46",
+   "themezer-45d541ab",
+   "daybreak-ad966abd",
+   "haze-53bf58e8",
+   "benchmark-toolbox-86e28e53",
+   "battery-desync-d7d6f209",
+   "90dns-b7574a8f",
+   "90dns-tester-a3c2c563",
+   "reboot-hekate-7161796e",
+   "reboot-payload-4a2b8302",
+   "reset-parental-bd0feea0"
+  ]
+ },
+ "apps": {
+  "sphaira-f94e37f1": {
+   "nombre": "sphaira",
+   "tipo": "Menú Homebrew",
+   "version": "1.1.1",
+   "principal": "switch/sphaira/sphaira.nro",
+   "zip": "sphaira-f94e37f1.zip",
+   "bytes": 4918566,
+   "reinicio": false,
+   "archivos": [
+    [
+     "hbmenu.nro",
+     "a5a11b20",
+     5651693,
+     0,
+     "1.1.1"
+    ],
+    [
+     "switch/sphaira/sphaira.nro",
+     "a5a11b20",
+     5651693,
+     0,
+     "1.1.1"
+    ]
+   ]
+  },
+  "sys-clk-52e8d452": {
+   "nombre": "sys-clk",
+   "tipo": "Sysmodule y overlay",
+   "version": "2.0.1",
+   "principal": "switch/.overlays/sys-clk-overlay.ovl",
+   "zip": "sys-clk-52e8d452.zip",
+   "bytes": 3425896,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/00FF0000636C6BFF/exefs.nsp",
+     "149077b0",
+     173787,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/00FF0000636C6BFF/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ],
+    [
+     "config/sys-clk/config.ini.template",
+     "14a72f67",
+     495,
+     1,
+     ""
+    ],
+    [
+     "switch/sys-clk-manager.nro",
+     "501ccd8f",
+     7581337,
+     0,
+     "2.0.1"
+    ],
+    [
+     "switch/.overlays/sys-clk-overlay.ovl",
+     "7e74b03b",
+     352312,
+     0,
+     "2.0.1"
+    ]
+   ]
+  },
+  "emuiibo-c7afd7a9": {
+   "nombre": "emuiibo",
+   "tipo": "Sysmodule y overlay",
+   "version": "1.1.3",
+   "principal": "switch/.overlays/emuiibo.ovl",
+   "zip": "emuiibo-c7afd7a9.zip",
+   "bytes": 626225,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/0100000000000352/exefs.nsp",
+     "a2aaef1f",
+     261689,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/0100000000000352/toolbox.json",
+     "ad32f5fe",
+     86,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/0100000000000352/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/de.json",
+     "e38706ae",
+     4193,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/en.json",
+     "aebd09b6",
+     4083,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/es.json",
+     "b579c93f",
+     4273,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/fr.json",
+     "cda63de4",
+     4244,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/it.json",
+     "3cb9e57b",
+     4385,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/ko.json",
+     "9b392b9f",
+     4362,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/pt-BR.json",
+     "89b55a04",
+     4264,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/ru.json",
+     "3b9f154c",
+     4531,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/zh-Hans.json",
+     "553da6d4",
+     4011,
+     0,
+     ""
+    ],
+    [
+     "emuiibo/overlay/lang/zh-Hant.json",
+     "b09dca9c",
+     4006,
+     0,
+     ""
+    ],
+    [
+     "switch/.overlays/emuiibo.ovl",
+     "5f1b0f10",
+     964805,
+     0,
+     "1.1.3"
+    ]
+   ]
+  },
+  "missioncontrol-6186ad2f": {
+   "nombre": "MissionControl",
+   "tipo": "Sysmodule",
+   "version": "",
+   "principal": "",
+   "zip": "missioncontrol-6186ad2f.zip",
+   "bytes": 152754,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/010000000000bd00/exefs.nsp",
+     "51cbb662",
+     195248,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/010000000000bd00/mitm.lst",
+     "d11bb42c",
+     10,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/010000000000bd00/toolbox.json",
+     "b2d4bf15",
+     92,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/010000000000bd00/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ],
+    [
+     "config/MissionControl/missioncontrol.ini.template",
+     "53526254",
+     2177,
+     1,
+     ""
+    ]
+   ]
+  },
+  "sys-patch-1d2b01f9": {
+   "nombre": "sys-patch",
+   "tipo": "Sysmodule y overlay",
+   "version": "1.6.3.0",
+   "principal": "switch/.overlays/sys-patch-overlay.ovl",
+   "zip": "sys-patch-1d2b01f9.zip",
+   "bytes": 176058,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/420000000000000B/exefs.nsp",
+     "cefe40ca",
+     50692,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/420000000000000B/toolbox.json",
+     "f04c108a",
+     94,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/420000000000000B/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ],
+    [
+     "switch/.overlays/sys-patch-overlay.ovl",
+     "124de521",
+     299064,
+     0,
+     "1.6.3.0"
+    ]
+   ]
+  },
+  "ultrahand-814bc8dd": {
+   "nombre": "Ultrahand",
+   "tipo": "Menú de overlays",
+   "version": "2.5.4",
+   "principal": "switch/.overlays/ovlmenu.ovl",
+   "zip": "ultrahand-814bc8dd.zip",
+   "bytes": 654949,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/420000000007E51A/exefs.nsp",
+     "f07c2c92",
+     21170,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/420000000007E51A/toolbox.json",
+     "943311fe",
+     113,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/420000000007E51A/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ],
+    [
+     "atmosphere/contents/420000000007E51B/exefs.nsp",
+     "3203ad40",
+     9803,
+     0,
+     ""
+    ],
+    [
+     "config/ultrahand/config.ini",
+     "ccf39c89",
+     62,
+     1,
+     ""
+    ],
+    [
+     "switch/.overlays/ovlmenu.ovl",
+     "c119fc58",
+     1077308,
+     0,
+     "2.5.4"
+    ],
+    [
+     "switch/Ultrahand-Reload/Ultrahand-Reload.nro",
+     "a219ea38",
+     90906,
+     0,
+     "1.0.1"
+    ]
+   ]
+  },
+  "noexes-f197e006": {
+   "nombre": "Noexes",
+   "tipo": "Sysmodule",
+   "version": "",
+   "principal": "",
+   "zip": "noexes-f197e006.zip",
+   "bytes": 94727,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/054e4f4558454000/exefs.nsp",
+     "aa1402bb",
+     124309,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/054e4f4558454000/toolbox.json",
+     "3ef9d82c",
+     85,
+     0,
+     ""
+    ]
+   ]
+  },
+  "breeze-441139a7": {
+   "nombre": "Breeze",
+   "tipo": "Trucos",
+   "version": "beta128.12",
+   "principal": "switch/breeze/Breeze.nro",
+   "zip": "breeze-441139a7.zip",
+   "bytes": 7349123,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/breeze/.Breeze.nro.star",
+     "00000000",
+     0,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/054e4f4558454000_18.zip",
+     "cc806fae",
+     98669,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/Breeze.nro",
+     "9ec8336e",
+     8789466,
+     0,
+     "beta128.12"
+    ],
+    [
+     "switch/breeze/BreezeOptions.default",
+     "bc1790ca",
+     28434,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/alt_color.ini.template",
+     "0f746c12",
+     42,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/asm.txt",
+     "69ac7d15",
+     343,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/asm0.txt",
+     "ae011924",
+     52,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/asm1.txt",
+     "8df27d0e",
+     820,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/cheat_url_txt.template",
+     "785894c0",
+     94,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/config.ini.template",
+     "26ee8bc7",
+     1973,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/configs.zip",
+     "83fe926c",
+     1786,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/eazy_mode_buttons.default",
+     "5413f67e",
+     27030,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/gen2_19.zip",
+     "08268be4",
+     173677,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/gold 1M others 1000.txt",
+     "30b4ce67",
+     340,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/hbl.nsp",
+     "d765a7ed",
+     41655,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/hbmenu.nro",
+     "db537af0",
+     1665011,
+     0,
+     "3.5.1-2c53af5"
+    ],
+    [
+     "switch/breeze/home_daemon.zip",
+     "8d8bae4a",
+     523173,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/nitro.txt",
+     "972905d6",
+     807,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/override_config.zip",
+     "70416adf",
+     728,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profile.zip",
+     "60531bb2",
+     32524,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profile_18.zip",
+     "090ff743",
+     32525,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profile_arm32.zip",
+     "6a82cd57",
+     32720,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profile_arm32_18.zip",
+     "4772c2a7",
+     32545,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profile_hbl.zip",
+     "b4a43667",
+     32525,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profile_hbl_18.zip",
+     "6e5b06a3",
+     32525,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/profilehbm.zip",
+     "14288ac1",
+     32814,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/qlaunch.zip",
+     "0cf0cf34",
+     159814,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/setptr.txt",
+     "86f9f123",
+     203,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/x30.txt",
+     "410d7b8f",
+     145,
+     0,
+     ""
+    ],
+    [
+     "switch/breeze/reeze/ftpexe.nro",
+     "92b376bb",
+     915653,
+     0,
+     "1.2.2"
+    ],
+    [
+     "switch/breeze/reeze/hbmenu.nro",
+     "7e5c4e99",
+     1501171,
+     0,
+     "3.4.0"
+    ]
+   ]
+  },
+  "breezehand-4fc170ed": {
+   "nombre": "Breezehand",
+   "tipo": "Overlay",
+   "version": "0.10.5",
+   "principal": "switch/.overlays/breezehand.ovl",
+   "zip": "breezehand-4fc170ed.zip",
+   "bytes": 921062,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/.overlays/breezehand.ovl",
+     "03e24d45",
+     1916988,
+     0,
+     "0.10.5"
+    ]
+   ]
+  },
+  "edizon-70381fc2": {
+   "nombre": "EdiZon SE",
+   "tipo": "Trucos",
+   "version": "3.8.37",
+   "principal": "switch/EdiZon/EdiZon.nro",
+   "zip": "edizon-70381fc2.zip",
+   "bytes": 3833276,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/.overlays/ovlEdiZon.ovl",
+     "618a21fb",
+     694473,
+     0,
+     "v1.0.15-a12ce33"
+    ],
+    [
+     "switch/EdiZon/EdiZon.nro",
+     "54c7fa19",
+     14789202,
+     0,
+     "3.8.37"
+    ],
+    [
+     "switch/EdiZon/profile.zip",
+     "648c5692",
+     33171,
+     0,
+     ""
+    ]
+   ]
+  },
+  "nxthemes-e8ba5731": {
+   "nombre": "NXThemes Installer",
+   "tipo": "Temas",
+   "version": "3.0.2",
+   "principal": "switch/NXThemesInstaller.nro",
+   "zip": "nxthemes-e8ba5731.zip",
+   "bytes": 5446324,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/NXThemesInstaller.nro",
+     "ba990211",
+     10467778,
+     0,
+     "3.0.2"
+    ],
+    [
+     "themes/systemPatches/121FDD88B9A3EB71D99F936E45A0C76538C6B5AF000000000000000000000000.ips",
+     "cc3969fd",
+     24,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/154BECB1F64B08E685892C17742703E7C536C428000000000000000000000000.ips",
+     "1fecf869",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/26CC3BC5AC534AE990B410769736EE81B919C999000000000000000000000000.ips",
+     "f36aff87",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/33BDF80F27908568BBC09DFC0988D473BE113FA2000000000000000000000000.ips",
+     "7234905d",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/39B48AD043097551A4F87520699D9C2E6830CBEB000000000000000000000000.ips",
+     "d4bf4f57",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/4F8977C669EA4235AF73C8747BA58E63FDC53401000000000000000000000000.ips",
+     "7f5d27e2",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/4FB7D6F3B4BD12BD3B1AD37C75C3C2F89173171F000000000000000000000000.ips",
+     "36fbb5f9",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/54868A4E20B10356F63304D68F6A2FEA0CF882DC000000000000000000000000.ips",
+     "23c1c98e",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/6A9C94CDD7D065A95C081AAB947236D16045088D000000000000000000000000.ips",
+     "cc3a1e8d",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/7FADED28CE8756F6D94EBA4671EA97F81F6C0C23000000000000000000000000.ips",
+     "cfebfc81",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/85058786CDC7597646D11A02B09D3EB50892AEBA000000000000000000000000.ips",
+     "57376cfe",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/929BC502258750F672CDCAC2CE6257F2E208D3B9000000000000000000000000.ips",
+     "3cdffea2",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/A53014944694070011B321ED00CC14009FC65F35000000000000000000000000.ips",
+     "96457878",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/A694C828C2D6D053249E84587535B9AE02B724A8000000000000000000000000.ips",
+     "53539df5",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/B2A05B062DA03FC5E3A310E80EE16A64935A8335000000000000000000000000.ips",
+     "e8d5197f",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/BD3C95E4BDEA827F40F07AAC39893223E91FE5D0000000000000000000000000.ips",
+     "41623903",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/C7CD52452D0E57134683F8F9B25F331E0E5EDDA4000000000000000000000000.ips",
+     "786f45cb",
+     24,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/C941F2827EE07074BA5B9FB6485A31698A6609FC000000000000000000000000.ips",
+     "cc3a1e8d",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/D2974F38DF43169A1CD61B774CCEC5C702D48072000000000000000000000000.ips",
+     "cc3a1e8d",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/F2E4BBA05395FEB460228D254D9175E5C0EFC5E2000000000000000000000000.ips",
+     "01636559",
+     19,
+     0,
+     ""
+    ],
+    [
+     "themes/systemPatches/F35B0F5BA43F534A6B8839F527B7D38854B71C4B000000000000000000000000.ips",
+     "29092e45",
+     19,
+     0,
+     ""
+    ]
+   ]
+  },
+  "dbi-6c1421f3": {
+   "nombre": "DBI",
+   "tipo": "Instalador",
+   "version": "921",
+   "principal": "switch/DBI/DBI.nro",
+   "zip": "dbi-6c1421f3.zip",
+   "bytes": 7798221,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/DBI/DBI.nro",
+     "8e56eda8",
+     16637485,
+     0,
+     "921"
+    ],
+    [
+     "switch/DBI/dbi.config",
+     "794bd3ca",
+     5261,
+     1,
+     ""
+    ],
+    [
+     "switch/DBI/dbibackend",
+     "0d136228",
+     7926,
+     0,
+     ""
+    ],
+    [
+     "switch/DBI/translation.bin",
+     "dbf8a727",
+     811612,
+     0,
+     ""
+    ]
+   ]
+  },
+  "goldleaf-4a17a450": {
+   "nombre": "Goldleaf",
+   "tipo": "Instalador",
+   "version": "1.2.1",
+   "principal": "switch/Goldleaf/Goldleaf.nro",
+   "zip": "goldleaf-4a17a450.zip",
+   "bytes": 5229379,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/Goldleaf/Goldleaf.nro",
+     "a4b563b3",
+     11875762,
+     0,
+     "1.2.1"
+    ]
+   ]
+  },
+  "appstore-539ab19e": {
+   "nombre": "Homebrew App Store",
+   "tipo": "Tienda",
+   "version": "2.3.2",
+   "principal": "switch/appstore/appstore.nro",
+   "zip": "appstore-539ab19e.zip",
+   "bytes": 12555341,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/appstore/appstore.nro",
+     "6010d0e0",
+     24134184,
+     0,
+     "2.3.2"
+    ]
+   ]
+  },
+  "quickntp-20537488": {
+   "nombre": "QuickNTP",
+   "tipo": "Overlay",
+   "version": "1.6.0",
+   "principal": "switch/.overlays/QuickNTP.ovl",
+   "zip": "quickntp-20537488.zip",
+   "bytes": 148880,
+   "reinicio": false,
+   "archivos": [
+    [
+     "config/quickntp.ini",
+     "8693ddac",
+     762,
+     1,
+     ""
+    ],
+    [
+     "switch/.overlays/QuickNTP.ovl",
+     "c4c0fbdc",
+     327736,
+     0,
+     "1.6.0"
+    ]
+   ]
+  },
+  "status-monitor-7aaafc2e": {
+   "nombre": "Status Monitor",
+   "tipo": "Overlay",
+   "version": "1.4.1+r5",
+   "principal": "switch/.overlays/Status-Monitor-Overlay.ovl",
+   "zip": "status-monitor-7aaafc2e.zip",
+   "bytes": 678779,
+   "reinicio": false,
+   "archivos": [
+    [
+     "config/status-monitor/config.ini.template",
+     "8a75af18",
+     1533,
+     1,
+     ""
+    ],
+    [
+     "switch/.overlays/Status-Monitor-Overlay.ovl",
+     "9489d840",
+     1253436,
+     0,
+     "1.4.1+r5"
+    ]
+   ]
+  },
+  "fpslocker-b3fb593f": {
+   "nombre": "FPSLocker",
+   "tipo": "Overlay",
+   "version": "3.5.1",
+   "principal": "switch/.overlays/FPSLocker.ovl",
+   "zip": "fpslocker-b3fb593f.zip",
+   "bytes": 702633,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/.overlays/FPSLocker.ovl",
+     "55b7375e",
+     1486904,
+     0,
+     "3.5.1"
+    ]
+   ]
+  },
+  "ovl-sysmodules-6ec94c3d": {
+   "nombre": "Sysmodules (overlay)",
+   "tipo": "Overlay",
+   "version": "1.5.3",
+   "principal": "switch/.overlays/ovlSysmodules.ovl",
+   "zip": "ovl-sysmodules-6ec94c3d.zip",
+   "bytes": 360034,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/.overlays/ovlSysmodules.ovl",
+     "db09d537",
+     639036,
+     0,
+     "1.5.3"
+    ]
+   ]
+  },
+  "akira-e765c2f4": {
+   "nombre": "Akira",
+   "tipo": "App",
+   "version": "0.7.0",
+   "principal": "switch/akira.nro",
+   "zip": "akira-e765c2f4.zip",
+   "bytes": 9490016,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/akira.nro",
+     "e0fffcec",
+     21310104,
+     0,
+     "0.7.0"
+    ]
+   ],
+   "catalogo": "https://github.com/xlanor/akira/releases/latest/download/akira.nro"
+  },
+  "jksv-2a89e05b": {
+   "nombre": "JKSV BACÁN",
+   "tipo": "Partidas",
+   "version": "3.2 OQB",
+   "principal": "switch/JKSV.nro",
+   "zip": "jksv-2a89e05b.zip",
+   "bytes": 4987264,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/JKSV.nro",
+     "7d5b4a79",
+     11229540,
+     0,
+     "3.2 OQB"
+    ]
+   ],
+   "catalogo": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro"
+  },
+  "checkpoint-7675064d": {
+   "nombre": "Checkpoint",
+   "tipo": "Partidas",
+   "version": "5.3.0",
+   "principal": "switch/Checkpoint.nro",
+   "zip": "checkpoint-7675064d.zip",
+   "bytes": 2421780,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/Checkpoint.nro",
+     "2eccc3d6",
+     5047633,
+     0,
+     "5.3.0"
+    ]
+   ],
+   "catalogo": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro"
+  },
+  "linkalho-4a4bba46": {
+   "nombre": "Linkalho",
+   "tipo": "App",
+   "version": "2.0.2",
+   "principal": "switch/linkalho.nro",
+   "zip": "linkalho-4a4bba46.zip",
+   "bytes": 3196530,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/linkalho.nro",
+     "de12b59c",
+     7737014,
+     0,
+     "2.0.2"
+    ]
+   ]
+  },
+  "themezer-45d541ab": {
+   "nombre": "Themezer-NX",
+   "tipo": "Temas",
+   "version": "3.3.1",
+   "principal": "switch/themezer-nx.nro",
+   "zip": "themezer-45d541ab.zip",
+   "bytes": 4340688,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/themezer-nx.nro",
+     "d8cd1dc6",
+     9730240,
+     0,
+     "3.3.1"
+    ]
+   ]
+  },
+  "daybreak-ad966abd": {
+   "nombre": "Daybreak",
+   "tipo": "Firmware",
+   "version": "1.0.0",
+   "principal": "switch/daybreak.nro",
+   "zip": "daybreak-ad966abd.zip",
+   "bytes": 218859,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/daybreak.nro",
+     "527ba283",
+     454275,
+     0,
+     "1.0.0"
+    ]
+   ]
+  },
+  "haze-53bf58e8": {
+   "nombre": "Haze (USB a la PC)",
+   "tipo": "App",
+   "version": "1.0.0",
+   "principal": "switch/haze.nro",
+   "zip": "haze-53bf58e8.zip",
+   "bytes": 150880,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/haze.nro",
+     "9a747a93",
+     344799,
+     0,
+     "1.0.0"
+    ]
+   ]
+  },
+  "battery-desync-d7d6f209": {
+   "nombre": "Battery Desync Fix",
+   "tipo": "Sistema",
+   "version": "1.5.1",
+   "principal": "switch/battery_desync_fix_v1.5.1.nro",
+   "zip": "battery-desync-d7d6f209.zip",
+   "bytes": 137332,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/battery_desync_fix_v1.5.1.nro",
+     "45af7d56",
+     279422,
+     0,
+     "1.5.1"
+    ]
+   ]
+  },
+  "90dns-b7574a8f": {
+   "nombre": "90DNS Setter OQB",
+   "tipo": "Sistema",
+   "version": "1.0.0",
+   "principal": "switch/OQB-90DNS.nro",
+   "zip": "90dns-b7574a8f.zip",
+   "bytes": 94091,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/OQB-90DNS.nro",
+     "4f836e7a",
+     220463,
+     0,
+     "1.0.0"
+    ]
+   ]
+  },
+  "90dns-tester-a3c2c563": {
+   "nombre": "90DNS Tester",
+   "tipo": "Sistema",
+   "version": "1.1.0",
+   "principal": "switch/Switch_90DNS_tester.nro",
+   "zip": "90dns-tester-a3c2c563.zip",
+   "bytes": 121236,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/Switch_90DNS_tester.nro",
+     "44a6c838",
+     255950,
+     0,
+     "1.1.0"
+    ]
+   ]
+  },
+  "reboot-hekate-7161796e": {
+   "nombre": "Reboot to Hekate",
+   "tipo": "Sistema",
+   "version": "1.0.0",
+   "principal": "switch/reboot_to_hekate.nro",
+   "zip": "reboot-hekate-7161796e.zip",
+   "bytes": 94792,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/reboot_to_hekate.nro",
+     "c24c684f",
+     223657,
+     0,
+     "1.0.0"
+    ]
+   ]
+  },
+  "reboot-payload-4a2b8302": {
+   "nombre": "Reboot to Payload",
+   "tipo": "Sistema",
+   "version": "1.0.0",
+   "principal": "switch/reboot_to_payload.nro",
+   "zip": "reboot-payload-4a2b8302.zip",
+   "bytes": 95438,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/reboot_to_payload.nro",
+     "ce4e3cc4",
+     225189,
+     0,
+     "1.0.0"
+    ]
+   ]
+  },
+  "reset-parental-bd0feea0": {
+   "nombre": "Reset Parental Controls",
+   "tipo": "Sistema",
+   "version": "1.2.1",
+   "principal": "switch/reset_parental_controls.nro",
+   "zip": "reset-parental-bd0feea0.zip",
+   "bytes": 3903509,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/reset_parental_controls.nro",
+     "ac9c5608",
+     10185654,
+     0,
+     "1.2.1"
+    ]
+   ]
+  },
+  "horizon-oc-6d020620": {
+   "nombre": "Horizon-OC",
+   "tipo": "Sysmodule y overlay",
+   "version": "2.6.1",
+   "principal": "switch/.overlays/horizon-oc-overlay.ovl",
+   "zip": "horizon-oc-6d020620.zip",
+   "bytes": 978386,
+   "reinicio": true,
+   "archivos": [
+    [
+     "atmosphere/contents/00FF0000636C6BFF/exefs.nsp",
+     "c1a4243e",
+     179871,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/00FF0000636C6BFF/toolbox.json",
+     "3fbb57eb",
+     82,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/00FF0000636C6BFF/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ],
+    [
+     "config/horizon-oc/config.ini.template",
+     "14a72f67",
+     495,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/settings.ini.template",
+     "a988e7a2",
+     29,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/kip/current.ini.template",
+     "09c7ea22",
+     38,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/de.json",
+     "0be1eece",
+     10962,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/en.json",
+     "c75b2fda",
+     7687,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/es.json",
+     "087103d0",
+     11106,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/fr.json",
+     "afba79df",
+     11140,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/it.json",
+     "9acc2d38",
+     11242,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/ja.json",
+     "1a04b5cc",
+     12213,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/jp.json",
+     "c2881d9a",
+     7789,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/ko.json",
+     "0582f4bd",
+     11503,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/nl.json",
+     "3a4fa37f",
+     10777,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/pl.json",
+     "c1fea909",
+     11292,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/pt.json",
+     "8fb0d966",
+     11134,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/ru.json",
+     "c3cb46cc",
+     14882,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/template.json",
+     "af6d885a",
+     6375,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/uk.json",
+     "985784b9",
+     14312,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/zh-cn.json",
+     "39ece3e5",
+     12338,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/lang/zh-tw.json",
+     "7bb76fde",
+     12419,
+     1,
+     ""
+    ],
+    [
+     "config/horizon-oc/profiles/README.ini",
+     "9952e026",
+     267,
+     1,
+     ""
+    ],
+    [
+     "config/ultrahand/assets/notifications/hoc.rgba",
+     "b913ff2a",
+     10000,
+     1,
+     ""
+    ],
+    [
+     "switch/.overlays/horizon-oc-overlay.ovl",
+     "61525854",
+     1671228,
+     0,
+     "2.6.1"
+    ]
+   ],
+   "catalogo": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip"
+  },
+  "saltynx-4aca4277": {
+   "nombre": "SaltyNX",
+   "tipo": "Sysmodule",
+   "version": "",
+   "principal": "",
+   "zip": "saltynx-4aca4277.zip",
+   "bytes": 253240,
+   "reinicio": true,
+   "archivos": [
+    [
+     "SaltySD/exceptions.txt",
+     "f921f21e",
+     51,
+     0,
+     ""
+    ],
+    [
+     "SaltySD/saltynx_bootstrap.elf",
+     "319982e5",
+     28680,
+     0,
+     ""
+    ],
+    [
+     "SaltySD/saltynx_bootstrap32.elf",
+     "c15cad06",
+     5704,
+     0,
+     ""
+    ],
+    [
+     "SaltySD/saltynx_core.elf",
+     "1af824b5",
+     199528,
+     0,
+     ""
+    ],
+    [
+     "SaltySD/saltynx_core32.elf",
+     "dce1bcfc",
+     170752,
+     0,
+     ""
+    ],
+    [
+     "SaltySD/flags/log.flag",
+     "00000000",
+     0,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/0000000000534C56/exefs.nsp",
+     "eefb3f14",
+     92152,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/0000000000534C56/toolbox.json",
+     "b3a6e5d1",
+     110,
+     0,
+     ""
+    ],
+    [
+     "atmosphere/contents/0000000000534C56/flags/boot2.flag",
+     "00000000",
+     0,
+     2,
+     ""
+    ]
+   ],
+   "catalogo": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip"
+  },
+  "benchmark-toolbox-86e28e53": {
+   "nombre": "Benchmark Toolbox",
+   "tipo": "Rendimiento",
+   "version": "2.0.0",
+   "principal": "switch/Benchmark-Toolbox.nro",
+   "zip": "benchmark-toolbox-86e28e53.zip",
+   "bytes": 6815479,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/Benchmark-Toolbox.nro",
+     "9849e30a",
+     11505145,
+     0,
+     "2.0.0"
+    ]
+   ]
+  }
+ }
+}
