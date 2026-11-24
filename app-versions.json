@@ -249,6 +249,18 @@
         "icono": "6f7d6fcfb236.jpg",
         "revisado": 4
     },
+    "https://github.com/o0Zz/sys-con/releases/download/2.1.0/sys-con-2.1.0.zip": {
+        "fecha": "2026-11-06T07:07:22Z",
+        "version": "2.1.0",
+        "nros": [
+            {
+                "ruta": "/switch/sys-con.nro",
+                "version": "1.0.0"
+            }
+        ],
+        "icono": "596505b6ec8d.jpg",
+        "revisado": 4
+    },
     "https://github.com/masagrator/sys-ticon/releases/latest/download/sys-ticon.zip": {
         "fecha": "2026-10-18T09:56:47Z",
         "version": "1.0.10",
