@@ -600,6 +600,13 @@
         "icono": "ee028a646545.jpg",
         "revisado": 4
     },
+    "https://github.com/shodowlo/chromium-nx/releases/latest/download/chromium-nx.nro": {
+        "fecha": "2026-11-19T20:35:34Z",
+        "version": "v0.2.0",
+        "nro_version": "0.2.0",
+        "icono": "3e3f91648a42.jpg",
+        "revisado": 4
+    },
     "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro": {
         "fecha": "2026-11-19T11:21:51Z",
         "version": "v2.1.0",
