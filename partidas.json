@@ -1400,6 +1400,16 @@
   {
    "id": "0100563010E0C000",
    "juego": "WarioWare: Get It Together!",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/warioware-git-100.zip",
+   "fuente": "https://gbatemp.net/posts/10634242/",
+   "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
+  },
+  {
+   "id": "0100563010E0C000",
+   "juego": "WarioWare: Get It Together!",
    "titulo": "Modo historia terminado",
    "descripcion": "El modo historia terminado.",
    "raiz": "WarioWare  Get It Together!/Story Mode Finished - 2021.10.05 @ 20.39.02",
