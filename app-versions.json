@@ -145,9 +145,9 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro": {
-        "fecha": "2026-11-14T18:14:29Z",
-        "version": "v3.2-bacan",
-        "nro_version": "3.2 OQB",
+        "fecha": "2026-11-25T05:19:18Z",
+        "version": "v3.3-bacan",
+        "nro_version": "3.3 OQB",
         "icono": "2a79c5b6eb7e.jpg",
         "revisado": 4
     },
@@ -2663,6 +2663,38 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1b80a4275dbc.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cwm.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/codwaw1.zip": {
+        "fecha": "2026-11-25T01:17:20Z",
+        "version": "",
+        "marcas": [
+            "/switch/codwaw/codwaw.nro",
+            "/switch/codwaw/cache/nfsmw_nativo_pipelines.bin",
+            "/switch/codwaw/codwaw.toml"
+        ],
+        "bytes": 3220130871,
+        "descomprimido": 3991198809,
+        "icono": "d6341663a367.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/codwaw.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cb5d5f74615e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/codwaw2.zip": {
+        "fecha": "2026-11-25T01:25:38Z",
+        "version": "",
+        "marcas": [
+            "/switch/codwaw/game/mak_load.bik",
+            "/switch/codwaw/game/mak_load.ff",
+            "/switch/codwaw/game/mp_airfield.ff"
+        ],
+        "bytes": 3264796014,
+        "descomprimido": 3264783716,
+        "icono": "d6341663a367.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/codwaw.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cb5d5f74615e.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip": {
         "fecha": "2026-10-19T01:06:10Z",
