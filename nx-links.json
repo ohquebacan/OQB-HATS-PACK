@@ -50,7 +50,7 @@
         "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
         "ARCropolis y Skyline": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ARCropolis.and.Skyline.zip",
         "SaltyNX": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip",
-        "ReverseNX-RT (2.2.1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ReverseNX-RT.zip",
+        "ReverseNX-RT (2.2.1+r1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ReverseNX-RT.zip",
         "SaltyNX-Tool": "https://github.com/masagrator/SaltyNX-Tool/releases/latest/download/SaltyNX-Tool.nro",
         "SysDVR": "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip",
         "sys-con (mandos con cable) (2.1.0)": "https://github.com/o0Zz/sys-con/releases/download/2.1.0/sys-con-2.1.0.zip",
@@ -129,7 +129,7 @@
     },
     "apps_sysmodules": {
         "SaltyNX": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip",
-        "ReverseNX-RT (2.2.1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ReverseNX-RT.zip",
+        "ReverseNX-RT (2.2.1+r1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ReverseNX-RT.zip",
         "SaltyNX-Tool": "https://github.com/masagrator/SaltyNX-Tool/releases/latest/download/SaltyNX-Tool.nro",
         "Horizon-OC": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip",
         "Fizeau (2.8.3)": "https://github.com/averne/Fizeau/releases/download/v2.8.3/Fizeau-2.8.3-5bf3f0d.zip",
@@ -398,7 +398,7 @@
         "Chromium NX (navegador)": "Navegador Chromium completo: pestañas, YouTube, descargas a la SD y teclado USB. Experimental. Cuando la app pregunte, crea su acceso directo del menú HOME: se abre desde ahí, no desde el menú Homebrew. La primera vez baja su imagen de unos 411 MB.",
         "sys-con (mandos con cable) (2.1.0)": "Para usar mandos de Xbox, PlayStation y otros conectados por cable USB a la consola. Trae su app para configurarlos. Versión mantenida por o0Zz.",
         "NXDock (0.9.0-beta.15)": "Instalador de NSP, NSZ, XCI y XCZ en beta: instala tus copias desde la red (Switch Library Manager Web), la SD, un disco USB, MTP o NS-USBloader, y revisa cada parte antes de registrarla.",
-        "ReverseNX-RT (2.2.1)": "Overlay para cambiar en cada juego entre el modo portátil y el de TV mientras juegas: más resolución o más FPS según el modo. Necesita SaltyNX.",
+        "ReverseNX-RT (2.2.1+r1)": "Overlay para cambiar en cada juego entre el modo portátil y el de TV mientras juegas: más resolución o más FPS según el modo. Versión de ppkantorski para Ultrahand. Necesita SaltyNX.",
         "SaltyNX-Tool": "Ajustes de SaltyNX desde una app: por ejemplo, quitar el logo de SaltyNX que sale al abrir cada juego. Se abre en modo applet (desde el Álbum)."
     },
     "apps_grupos": {
@@ -479,7 +479,7 @@
                 "titulo": "Rendimiento y pantalla",
                 "apps": [
                     "SaltyNX",
-                    "ReverseNX-RT (2.2.1)",
+                    "ReverseNX-RT (2.2.1+r1)",
                     "SaltyNX-Tool",
                     "Horizon-OC",
                     "Fizeau (2.8.3)"
