@@ -36,8 +36,8 @@
    "juego": "Demon Slayer: The Hinokami Chronicles",
    "titulo": "Todos los personajes",
    "descripcion": "Todos los personajes que se desbloquean jugando (los de DLC hay que tenerlos).",
-   "raiz": "20220926-225038 Mae77",
-   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/demon-slayer-hinokami-personajes.rar",
+   "raiz": "ohquebacan",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/demon-slayer-hinokami-personajes.zip",
    "fuente": "https://gbatemp.net/download/demon-slayer-kimesu-no-yaiba.37553/",
    "autor": "mae77 (GBAtemp)"
   },
@@ -86,7 +86,7 @@
    "juego": "Grand Theft Auto III – The Definitive Edition",
    "titulo": "100%: todo desbloqueado",
    "descripcion": "Historia completa y todo desbloqueado. Hecha con la versión 1.0.8.",
-   "raiz": "0100C3C012718000/Zelda - 2025.05.23 @ 01.05.30",
+   "raiz": "0100C3C012718000/ohquebacan",
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/gta-trilogy-de-100.zip",
    "fuente": "https://gbatemp.net/download/nsw-save-1-0-8-gta-trilogy-de-iii-vice-city-san-andreas.38211/",
    "autor": "ZeldaNohansen (GBAtemp)"
@@ -96,7 +96,7 @@
    "juego": "Grand Theft Auto: San Andreas – The Definitive Edition",
    "titulo": "100%: historia completa",
    "descripcion": "Progreso al 100% y todo desbloqueado; faltan algunos saltos y estadísticas. Hecha con la versión 1.0.8.",
-   "raiz": "010065A014024000/Zelda - 2025.06.06 @ 10.43.20",
+   "raiz": "010065A014024000/ohquebacan",
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/gta-trilogy-de-100.zip",
    "fuente": "https://gbatemp.net/download/nsw-save-1-0-8-gta-trilogy-de-iii-vice-city-san-andreas.38211/",
    "autor": "ZeldaNohansen (GBAtemp)"
@@ -106,7 +106,7 @@
    "juego": "Grand Theft Auto: Vice City – The Definitive Edition",
    "titulo": "100%: todo desbloqueado",
    "descripcion": "Todas las propiedades con sus vehículos, todos los paquetes ocultos y el traje de Frankie. Hecha con la versión 1.0.8.",
-   "raiz": "0100182014022000/Zelda - 2025.06.03 @ 08.39.32",
+   "raiz": "0100182014022000/ohquebacan",
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/gta-trilogy-de-100.zip",
    "fuente": "https://gbatemp.net/download/nsw-save-1-0-8-gta-trilogy-de-iii-vice-city-san-andreas.38211/",
    "autor": "ZeldaNohansen (GBAtemp)"
@@ -231,8 +231,8 @@
    "juego": "Mortal Kombat 11",
    "titulo": "Todo desbloqueado",
    "descripcion": "Todas las skins y todo el equipo. Hecha con la versión 1.0.26 y todos los DLC: sin ellos puede que falten personajes.",
-   "raiz": "Saves/put your user name here",
-   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mk11-todo-desbloqueado.rar",
+   "raiz": "Saves/ohquebacan",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mk11-todo-desbloqueado.zip",
    "fuente": "https://gbatemp.net/download/mortal-kombat-11-unlock-all-gear-skin.39932/",
    "autor": "daicahuyoi (GBAtemp)"
   },
