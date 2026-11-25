@@ -191,18 +191,6 @@
         "icono": "64a1fecaffae.jpg",
         "revisado": 4
     },
-    "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip": {
-        "fecha": "2026-06-22T06:02:57Z",
-        "version": "21.2.0",
-        "nros": [
-            {
-                "ruta": "/switch/Dusk/dusk.nro",
-                "version": "1.4.1.0"
-            }
-        ],
-        "icono": "9125c4823fb0.jpg",
-        "revisado": 4
-    },
     "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro": {
         "fecha": "2026-11-23T04:21:43Z",
         "version": "3.11.0",
