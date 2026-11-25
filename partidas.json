@@ -1,6 +1,26 @@
 {
  "partidas": [
   {
+   "id": "01006F8002326000",
+   "juego": "Animal Crossing: New Horizons",
+   "titulo": "Isla vacía con todo desbloqueado",
+   "descripcion": "Isla plana y vacía para armarla a tu gusto: todo mejorado, todas las recetas, catálogo completo, bayas y millas al máximo y el DLC terminado. Hecha con la versión 3.0.1 y el DLC.",
+   "raiz": "01006F8002326000",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/acnh-isla-vacia-todo.7z",
+   "fuente": "https://gbatemp.net/download/animal-crossing-new-horizons-post-game-dlc-empty-flat-island-empty-critterpedia-all-unlocked.39784/",
+   "autor": "Anrei (GBAtemp)"
+  },
+  {
+   "id": "0100DBF01000A000",
+   "juego": "Burnout Paradise Remastered",
+   "titulo": "Casi todos los autos",
+   "descripcion": "Big Surf con todos los autos menos los que piden conexión, y la mayoría de los de la ciudad.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/burnout-paradise-autos.7z",
+   "fuente": "https://gbatemp.net/download/burnout-paradise-save-nearly-every-car-unlocked-minus-online-cars.36588/",
+   "autor": "LexiconFumbler (GBAtemp)"
+  },
+  {
    "id": "01009BF0072D4000",
    "juego": "Captain Toad: Treasure Tracker",
    "titulo": "100%: todos los episodios",
@@ -10,6 +30,36 @@
    "fuente": "https://gamebanana.com/mods/596687",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "0100309016E7A000",
+   "juego": "Demon Slayer: The Hinokami Chronicles",
+   "titulo": "Todos los personajes",
+   "descripcion": "Todos los personajes que se desbloquean jugando (los de DLC hay que tenerlos).",
+   "raiz": "20220926-225038 Mae77",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/demon-slayer-hinokami-personajes.rar",
+   "fuente": "https://gbatemp.net/download/demon-slayer-kimesu-no-yaiba.37553/",
+   "autor": "mae77 (GBAtemp)"
+  },
+  {
+   "id": "0100AD80208A8000",
+   "juego": "Demon Slayer: The Hinokami Chronicles 2",
+   "titulo": "Historia completa",
+   "descripcion": "Historia terminada, todos los personajes, todos los escenarios y todas las voces del sistema. Hecha con la versión 1.6.0.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/demon-slayer-hinokami2-historia.zip",
+   "fuente": "https://gbatemp.net/download/demon-slayer-hinokami-chronicles-2.39441/",
+   "autor": "bibliomon (GBAtemp)"
+  },
+  {
+   "id": "0100C1F0051B6000",
+   "juego": "Donkey Kong Country: Tropical Freeze",
+   "titulo": "200%: normal y difícil",
+   "descripcion": "Todas las letras KONG en normal y en difícil, todas las piezas de puzle, globos y monedas al máximo.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dkc-tropical-freeze-200.zip",
+   "fuente": "https://gbatemp.net/download/donkey-kong-country-tropical-freeze-200-save-file.39068/",
+   "autor": "Lt. Lynx (GBAtemp)"
   },
   {
    "id": "010035F022078000",
@@ -22,6 +72,46 @@
    "autor": "DrGiraffe, adaptada a Switch por dankonion (GBAtemp)"
   },
   {
+   "id": "010055D009F78000",
+   "juego": "Fire Emblem: Three Houses",
+   "titulo": "Partida para Nueva partida+",
+   "descripcion": "Juego terminado y partidas de inicio con todo listo. Hace falta la versión 2.0 y el DLC instalados.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/fe3h-inicial.zip",
+   "fuente": "https://gbatemp.net/download/fire-emblem-3-houses-starter-save-main-game-dlc.38883/",
+   "autor": "Zanemato (GBAtemp)"
+  },
+  {
+   "id": "0100C3C012718000",
+   "juego": "Grand Theft Auto III – The Definitive Edition",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Historia completa y todo desbloqueado. Hecha con la versión 1.0.8.",
+   "raiz": "0100C3C012718000/Zelda - 2025.05.23 @ 01.05.30",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/gta-trilogy-de-100.zip",
+   "fuente": "https://gbatemp.net/download/nsw-save-1-0-8-gta-trilogy-de-iii-vice-city-san-andreas.38211/",
+   "autor": "ZeldaNohansen (GBAtemp)"
+  },
+  {
+   "id": "010065A014024000",
+   "juego": "Grand Theft Auto: San Andreas – The Definitive Edition",
+   "titulo": "100%: historia completa",
+   "descripcion": "Progreso al 100% y todo desbloqueado; faltan algunos saltos y estadísticas. Hecha con la versión 1.0.8.",
+   "raiz": "010065A014024000/Zelda - 2025.06.06 @ 10.43.20",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/gta-trilogy-de-100.zip",
+   "fuente": "https://gbatemp.net/download/nsw-save-1-0-8-gta-trilogy-de-iii-vice-city-san-andreas.38211/",
+   "autor": "ZeldaNohansen (GBAtemp)"
+  },
+  {
+   "id": "0100182014022000",
+   "juego": "Grand Theft Auto: Vice City – The Definitive Edition",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Todas las propiedades con sus vehículos, todos los paquetes ocultos y el traje de Frankie. Hecha con la versión 1.0.8.",
+   "raiz": "0100182014022000/Zelda - 2025.06.03 @ 08.39.32",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/gta-trilogy-de-100.zip",
+   "fuente": "https://gbatemp.net/download/nsw-save-1-0-8-gta-trilogy-de-iii-vice-city-san-andreas.38211/",
+   "autor": "ZeldaNohansen (GBAtemp)"
+  },
+  {
    "id": "0100AE00096EA000",
    "juego": "Hyrule Warriors: Definitive Edition",
    "titulo": "Historia completa",
@@ -31,6 +121,16 @@
    "fuente": "https://gamebanana.com/mods/596221",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "01004D300C5AE000",
+   "juego": "Kirby and the Forgotten Land",
+   "titulo": "100%: juego completo",
+   "descripcion": "Los 300 Waddle Dees, todos los caminos del tesoro y todas las almas de Leon.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/kirby-forgotten-land-100.zip",
+   "fuente": "https://gbatemp.net/download/kirby-and-the-forgotten-land-100-save-file.39089/",
+   "autor": "davejsp (GBAtemp)"
   },
   {
    "id": "01004D300C5AE000",
@@ -85,6 +185,16 @@
    "autor": "sysuah (GBAtemp)"
   },
   {
+   "id": "010093801237C000",
+   "juego": "Metroid Dread",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Todas las imágenes de galería, modo difícil y modo Dread. Hecha con la versión 2.1.0.",
+   "raiz": "Metroid Dread/Dread",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/metroid-dread-100.zip",
+   "fuente": "https://gbatemp.net/download/metroid-dread-100-save-switch.37303/",
+   "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
    "id": "010019A01E2F2000",
    "juego": "Metroid Prime 4: Beyond",
    "titulo": "100%: juego completo",
@@ -117,6 +227,16 @@
    "autor": "Spezer006 (GBAtemp)"
   },
   {
+   "id": "0100F2200C984000",
+   "juego": "Mortal Kombat 11",
+   "titulo": "Todo desbloqueado",
+   "descripcion": "Todas las skins y todo el equipo. Hecha con la versión 1.0.26 y todos los DLC: sin ellos puede que falten personajes.",
+   "raiz": "Saves/put your user name here",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mk11-todo-desbloqueado.rar",
+   "fuente": "https://gbatemp.net/download/mortal-kombat-11-unlock-all-gear-skin.39932/",
+   "autor": "daicahuyoi (GBAtemp)"
+  },
+  {
    "id": "0100EA80032EA000",
    "juego": "New Super Mario Bros. U Deluxe",
    "titulo": "Todos los niveles y monedas estrella",
@@ -126,6 +246,16 @@
    "fuente": "https://gamebanana.com/mods/597066",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "010056B015FE8000",
+   "juego": "NieR:Automata The End of YoRHa Edition",
+   "titulo": "Final B",
+   "descripcion": "Partida hasta el final B y unos minutos de la ruta C.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/nier-automata-final-b.zip",
+   "fuente": "https://gbatemp.net/download/nier-automata-ending-b-and-30-minutes-into-ending-c.39443/",
+   "autor": "bibliomon (GBAtemp)"
   },
   {
    "id": "01008FE00E2F6000",
@@ -149,6 +279,26 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "010062B01525C000",
+   "juego": "Persona 4 Golden",
+   "titulo": "Partida para Nueva partida+",
+   "descripcion": "Partida terminada, lista para empezar la Nueva partida+, con el 95% del compendio.",
+   "raiz": "010062B01525C000",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/p4g-ng.zip",
+   "fuente": "https://gbatemp.net/download/persona-4-golden-ng-switch-save-file.39821/",
+   "autor": "Sokkes (GBAtemp)"
+  },
+  {
+   "id": "01005CA01580E000",
+   "juego": "Persona 5 Royal",
+   "titulo": "Partida para Nueva partida+",
+   "descripcion": "Partida terminada, lista para empezar la Nueva partida+. No trae el compendio completo.",
+   "raiz": "01005CA01580E000",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/p5r-ng.zip",
+   "fuente": "https://gbatemp.net/download/persona-5-royal-ng-switch-save-file.39822/",
+   "autor": "Sokkes (GBAtemp)"
+  },
+  {
    "id": "0100F4C009322000",
    "juego": "Pikmin 3 Deluxe",
    "titulo": "100%: todas las medallas",
@@ -158,6 +308,16 @@
    "fuente": "https://gamebanana.com/mods/632136",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "0100B7C00933A000",
+   "juego": "Pikmin 4",
+   "titulo": "100%: todo recolectado",
+   "descripcion": "Todo recolectado sin que muriera ningún Pikmin.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/pikmin4-100.zip",
+   "fuente": "https://gbatemp.net/download/pikmin-4-100-save-with-no-deaths.39770/",
+   "autor": "championgamer (GBAtemp)"
   },
   {
    "id": "01008C50239BE000",
@@ -246,6 +406,26 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "010099A00BC1E000",
+   "juego": "Resident Evil 4",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Todas las armas especiales, trajes y modos, y 5 estrellas en todos los Mercenarios.",
+   "raiz": "010099A00BC1E000/RE4",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re4-100.zip",
+   "fuente": "https://gbatemp.net/download/resident-evil-4-switch-100-save-file.36424/",
+   "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
+   "id": "010018100CD46000",
+   "juego": "Resident Evil 5",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Todas las armas especiales al máximo, trajes y modos. Sin los rangos S de Mercenarios.",
+   "raiz": "010018100CD46000/RE5",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re5-100.zip",
+   "fuente": "https://gbatemp.net/download/resident-evil-5-switch-100-save-file.36425/",
+   "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
    "id": "01006E001823C000",
    "juego": "Sonic Racing: CrossWorlds",
    "titulo": "100%: todo desbloqueado",
@@ -254,6 +434,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sonic-racing-crossworlds-100.zip",
    "fuente": "GBAtemp",
    "autor": "GBAtemp, adaptada a Switch por OH! QUÉ BACÁN"
+  },
+  {
+   "id": "01008F701C074000",
+   "juego": "Sonic Superstars",
+   "titulo": "Las 7 Esmeraldas del Caos",
+   "descripcion": "Historia principal y la de Trip terminadas, con el jefe final verdadero y las 7 Esmeraldas.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sonic-superstars-esmeraldas.zip",
+   "fuente": "https://gbatemp.net/download/sonic-superstars.38277/",
+   "autor": "KevinW23 (GBAtemp)"
   },
   {
    "id": "010049900F546000",
@@ -317,6 +507,16 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "010021C000B6A000",
+   "juego": "The Binding of Isaac: Afterbirth+",
+   "titulo": "Todo desbloqueado",
+   "descripcion": "Todo abierto, The Forgotten incluido. Es de Afterbirth+, sin lo de Repentance.",
+   "raiz": "The Binding of Isaac Afterbirth plus Save Game",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/isaac-afterbirth-todo.zip",
+   "fuente": "https://gbatemp.net/download/the-binding-of-isaac-afterbirth-plus-save-game-3000000-everything-is-open-the-forgotten.35473/",
+   "autor": "bedbug1226, de una partida de PC (GBAtemp)"
+  },
+  {
    "id": "01007EF00011E000",
    "juego": "The Legend of Zelda: Breath of the Wild",
    "titulo": "100% con DLC",
@@ -366,6 +566,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/warioware-git-historia.rar",
    "fuente": "https://gbatemp.net/download/warioware-get-it-together.39449/",
    "autor": "bibliomon (GBAtemp)"
+  },
+  {
+   "id": "0100E95004038000",
+   "juego": "Xenoblade Chronicles 2",
+   "titulo": "Partida avanzada",
+   "descripcion": "Partida avanzada de Xenoblade Chronicles 2.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/xenoblade2-avanzada.zip",
+   "fuente": "https://gbatemp.net/download/xenoblade2savefile.35079/",
+   "autor": "Drban789 (GBAtemp)"
   },
   {
    "id": "01006000040C2000",
