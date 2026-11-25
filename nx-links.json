@@ -163,16 +163,6 @@
         "Chromium NX (navegador)": "https://github.com/shodowlo/chromium-nx/releases/latest/download/chromium-nx.nro",
         "RadioNX (radio por internet)": "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro"
     },
-    "apps_oqb": {
-        "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
-        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
-        "IconGrabber OQB": "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro",
-        "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
-        "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
-        "SpotiBacán (Spotify, con descargas)": "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip",
-        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
-        "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro"
-    },
     "apps_ports": {
         "Mario Kart Wii (KartPadNX) (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip",
         "Mario Kart Wii (KartPadNX) (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip",
@@ -317,6 +307,16 @@
         "Silent Hill 2: Enhanced Edition (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip",
         "Silent Hill 2: Enhanced Edition (PARTE 3)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip",
         "Silent Hill 1 (Actualizado)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip"
+    },
+    "apps_oqb": {
+        "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
+        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
+        "IconGrabber OQB": "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro",
+        "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
+        "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
+        "SpotiBacán (Spotify, con descargas)": "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip",
+        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
+        "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro"
     },
     "cfws_detalle": {
         "OQB HATS PACK 23.5 · AMS 1.12.2": {
