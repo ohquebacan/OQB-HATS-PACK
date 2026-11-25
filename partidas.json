@@ -1,6 +1,16 @@
 {
  "partidas": [
   {
+   "id": "010056E00853A000",
+   "juego": "A Hat in Time",
+   "titulo": "103%",
+   "descripcion": "Partida al 103%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/hat-in-time-103.zip",
+   "fuente": "https://gbatemp.net/posts/9399401/",
+   "autor": "ali_the-pro345 (GBAtemp)"
+  },
+  {
    "id": "01006F8002326000",
    "juego": "Animal Crossing: New Horizons",
    "titulo": "Isla vacía con todo desbloqueado",
@@ -9,6 +19,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/acnh-isla-vacia-todo.7z",
    "fuente": "https://gbatemp.net/download/animal-crossing-new-horizons-post-game-dlc-empty-flat-island-empty-critterpedia-all-unlocked.39784/",
    "autor": "Anrei (GBAtemp)"
+  },
+  {
+   "id": "0100ACD0163D0000",
+   "juego": "Batman: Arkham Knight",
+   "titulo": "120%",
+   "descripcion": "Todo completado, sin trucos.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/batman-arkham-knight-120.zip",
+   "fuente": "https://gbatemp.net/posts/10572691/",
+   "autor": "snake633 (GBAtemp)"
   },
   {
    "id": "010076F0049A2000",
@@ -51,6 +71,16 @@
    "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
   },
   {
+   "id": "0100BF500207C000",
+   "juego": "Bloodstained: Ritual of the Night",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/bloodstained-100.zip",
+   "fuente": "https://gbatemp.net/posts/9283740/",
+   "autor": "LDK77 (GBAtemp)"
+  },
+  {
    "id": "0100DBF01000A000",
    "juego": "Burnout Paradise Remastered",
    "titulo": "Casi todos los autos",
@@ -70,6 +100,26 @@
    "fuente": "https://gamebanana.com/mods/596687",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "010066F01A0E0000",
+   "juego": "Cassette Beasts",
+   "titulo": "100% con el DLC",
+   "descripcion": "Historia y DLC terminados, todos los capitanes, bestiario completo y muchos variocolor.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/cassette-beasts-100.zip",
+   "fuente": "https://gbatemp.net/posts/10288300/",
+   "autor": "MistWisp (GBAtemp)"
+  },
+  {
+   "id": "0100FA501AF90000",
+   "juego": "Castlevania Dominus Collection",
+   "titulo": "Portrait y Ecclesia casi completos",
+   "descripcion": "Portrait of Ruin al 995% con los modos de las hermanas y de Richter, Order of Ecclesia al 99% con el modo de Albus, Dawn of Sorrow al 62%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/castlevania-dominus.zip",
+   "fuente": "https://gbatemp.net/posts/10502081/",
+   "autor": "Moe87 (GBAtemp)"
   },
   {
    "id": "0100646009FBE000",
@@ -102,6 +152,26 @@
    "autor": "bibliomon (GBAtemp)"
   },
   {
+   "id": "0100D39012C1A000",
+   "juego": "Disney Dreamlight Valley",
+   "titulo": "Buen comienzo",
+   "descripcion": "Partida avanzada para empezar con ventaja.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dreamlight-valley-inicio.zip",
+   "fuente": "https://gbatemp.net/posts/10670692/",
+   "autor": "kikisland (GBAtemp)"
+  },
+  {
+   "id": "01009D901BC56000",
+   "juego": "Donkey Kong Country Returns HD",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%, con los modos de contrarreloj.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dkc-returns-hd-100.zip",
+   "fuente": "https://gbatemp.net/posts/10823785/",
+   "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
+  },
+  {
    "id": "0100C1F0051B6000",
    "juego": "Donkey Kong Country: Tropical Freeze",
    "titulo": "200%: normal y difícil",
@@ -120,6 +190,96 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dbs-sparking-zero-100.zip",
    "fuente": "https://gbatemp.net/download/dragon-ball-sparking-zero-100-completed-save-game.39467/",
    "autor": "DrGiraffe, adaptada a Switch por dankonion (GBAtemp)"
+  },
+  {
+   "id": "0100D7C01F254000",
+   "juego": "Dragon Quest I & II HD-2D Remake",
+   "titulo": "Historias completas",
+   "descripcion": "Historia de I y de II terminadas y el postgame de II.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dq1y2-hd2d-completa.zip",
+   "fuente": "https://gbatemp.net/posts/10768619/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "01003E601E324000",
+   "juego": "Dragon Quest III HD-2D Remake",
+   "titulo": "Postgame completo",
+   "descripcion": "Todo el postgame, los 121 monstruos, todos los deseos de Xenlon, todas las arenas y el Templo de las Pruebas. Todas las clases al nivel 99.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dq3-hd2d-postgame.zip",
+   "fuente": "https://gbatemp.net/posts/10549337/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "01006C300E9F0000",
+   "juego": "Dragon Quest XI S",
+   "titulo": "Partida lista para jugar a tope",
+   "descripcion": "Partidas en 3D y en 2D con todos al nivel 99, semillas al máximo, la mayoría de objetos x99, dinero al máximo y un millón de fichas de casino.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dq11s-nivel99.zip",
+   "fuente": "https://gbatemp.net/posts/9062609/",
+   "autor": "iSharingan (GBAtemp)"
+  },
+  {
+   "id": "01002E2014158000",
+   "juego": "Final Fantasy III",
+   "titulo": "Antes de la mazmorra final",
+   "descripcion": "Personajes fuertes y todos los cofres, justo antes del punto sin retorno. El hueco 11 permite seguir explorando.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ff3-mazmorra-final.zip",
+   "fuente": "https://gbatemp.net/posts/10633115/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "01004B301415A000",
+   "juego": "Final Fantasy IV",
+   "titulo": "Juego terminado",
+   "descripcion": "Juego terminado con los 5 personajes al nivel 99.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ff4-terminado.zip",
+   "fuente": "https://gbatemp.net/posts/10633993/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "0100AA201415C000",
+   "juego": "Final Fantasy V",
+   "titulo": "100%",
+   "descripcion": "Juego al 100% con todas las canciones, magias azules e invocaciones, menos unos cofres.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ff5-100.zip",
+   "fuente": "https://gbatemp.net/posts/10637254/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "0100AA001415E000",
+   "juego": "Final Fantasy VI",
+   "titulo": "Historia completa",
+   "descripcion": "Historia terminada; faltan un monstruo del bestiario y algunas furias.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ff6-historia.zip",
+   "fuente": "https://gbatemp.net/posts/10650598/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "0100A6301214E000",
+   "juego": "Fire Emblem Engage",
+   "titulo": "Historia completa",
+   "descripcion": "Historia terminada, sin todos los apoyos ni vínculos.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/fe-engage-historia.zip",
+   "fuente": "https://gbatemp.net/posts/10052880/",
+   "autor": "BlueVapor (GBAtemp)"
+  },
+  {
+   "id": "010071F0143EA000",
+   "juego": "Fire Emblem Warriors: Three Hopes",
+   "titulo": "100%: todas las rutas",
+   "descripcion": "Todas las rutas, todos los personajes y clases al máximo y las armas únicas mejoradas.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/fe-three-hopes-100.zip",
+   "fuente": "https://gbatemp.net/posts/10380968/",
+   "autor": "Nynrah (GBAtemp)"
   },
   {
    "id": "010055D009F78000",
@@ -243,6 +403,16 @@
    "autor": "bibliomon (GBAtemp)"
   },
   {
+   "id": "0100227010460000",
+   "juego": "Kirby Fighters 2",
+   "titulo": "Todo desbloqueado",
+   "descripcion": "Juego terminado con todo desbloqueado.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/kirby-fighters2-todo.zip",
+   "fuente": "https://gbatemp.net/posts/10949910/",
+   "autor": "S-G-D (GBAtemp)"
+  },
+  {
    "id": "01007E3006DDA000",
    "juego": "Kirby Star Allies",
    "titulo": "Historia y modos completos",
@@ -254,6 +424,16 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "0100A8E016236000",
+   "juego": "Kirby's Dream Buffet",
+   "titulo": "100%: nivel 135",
+   "descripcion": "Juego al 100% con nivel 135.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/kirby-dream-buffet-100.zip",
+   "fuente": "https://gbatemp.net/posts/9915663/",
+   "autor": "Snake_Swiss (GBAtemp)"
+  },
+  {
    "id": "01006B601380E000",
    "juego": "Kirby's Return to Dream Land Deluxe",
    "titulo": "100%",
@@ -262,6 +442,36 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/kirby-rtdl-deluxe-100.zip",
    "fuente": "https://gbatemp.net/posts/10634242/",
    "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
+  },
+  {
+   "id": "01003A30012C0000",
+   "juego": "LEGO City Undercover",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/lego-city-undercover-100.zip",
+   "fuente": "https://gbatemp.net/posts/8988523/",
+   "autor": "Amenhotep (GBAtemp)"
+  },
+  {
+   "id": "0100A01006E00000",
+   "juego": "LEGO Los Increíbles",
+   "titulo": "Juego completo",
+   "descripcion": "Juego completo.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/lego-incredibles-completa.zip",
+   "fuente": "https://gbatemp.net/posts/10692062/",
+   "autor": "S-G-D (GBAtemp)"
+  },
+  {
+   "id": "0100D3A00409E000",
+   "juego": "LEGO Marvel Super Heroes 2",
+   "titulo": "97%: personajes y vehículos",
+   "descripcion": "Todos los personajes y vehículos desbloqueados.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/lego-marvel2-97.zip",
+   "fuente": "https://gbatemp.net/posts/9274166/",
+   "autor": "LDK77 (GBAtemp)"
   },
   {
    "id": "010042D00D900000",
@@ -285,6 +495,16 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "01006D0017F7A000",
+   "juego": "Mario & Luigi: Brothership",
+   "titulo": "100%: nivel 100",
+   "descripcion": "Historia y misiones secundarias al 100%, Mario y Luigi al nivel 100, dinero al máximo, todos los desafíos y conectores.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mario-luigi-brothership-100.zip",
+   "fuente": "https://gbatemp.net/posts/10557696/",
+   "autor": "8455MB (GBAtemp)"
+  },
+  {
    "id": "010067300059A000",
    "juego": "Mario + Rabbids Kingdom Battle",
    "titulo": "100% con el DLC",
@@ -303,6 +523,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mario-rabbids-soh-100.zip",
    "fuente": "https://gbatemp.net/posts/10250180/",
    "autor": "8455MB (GBAtemp)"
+  },
+  {
+   "id": "0100152000022000",
+   "juego": "Mario Kart 8 Deluxe",
+   "titulo": "100% con el Pase de pistas extra",
+   "descripcion": "Juego al 100% y el Pase de pistas extra al 100%, con el traje Mii de Daisy y los fantasmas.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mk8dx-100-bcp.zip",
+   "fuente": "https://gbatemp.net/posts/10286279/",
+   "autor": "JonJaded (GBAtemp)"
   },
   {
    "id": "0100152000022000",
@@ -333,6 +563,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mario-vs-dk-100.zip",
    "fuente": "https://gbatemp.net/posts/10634242/",
    "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
+  },
+  {
+   "id": "010060700AC50000",
+   "juego": "Marvel Ultimate Alliance 3: The Black Order",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mua3-100.zip",
+   "fuente": "https://gbatemp.net/posts/8742246/",
+   "autor": "doctordoom (GBAtemp)"
   },
   {
    "id": "0100C6F01C4F8000",
@@ -387,6 +627,26 @@
    "autor": "MPRTwice (GBAtemp)"
   },
   {
+   "id": "0100770008DD8000",
+   "juego": "Monster Hunter Generations Ultimate",
+   "titulo": "Partida completa",
+   "descripcion": "Partida completa de MHGU.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mhgu-completa.zip",
+   "fuente": "https://gbatemp.net/posts/10500252/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "0100E21011446000",
+   "juego": "Monster Hunter Stories 2: Wings of Ruin",
+   "titulo": "Partida completa",
+   "descripcion": "Partida completa; quien la subió avisa que puede ser de una versión vieja.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mhs2-completa.zip",
+   "fuente": "https://gbatemp.net/posts/10677843/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
    "id": "01006560184E6000",
    "juego": "Mortal Kombat 1",
    "titulo": "100%: todo desbloqueado",
@@ -438,6 +698,16 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "0100EBC00FE14000",
+   "juego": "Nickelodeon Kart Racers 2: Grand Prix",
+   "titulo": "Todos los pilotos",
+   "descripcion": "Todos los pilotos desbloqueados.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/nick-kart-racers2-pilotos.zip",
+   "fuente": "https://gbatemp.net/posts/10358617/",
+   "autor": "Moe87 (GBAtemp)"
+  },
+  {
    "id": "010056B015FE8000",
    "juego": "NieR:Automata The End of YoRHa Edition",
    "titulo": "Final B",
@@ -446,6 +716,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/nier-automata-final-b.zip",
    "fuente": "https://gbatemp.net/download/nier-automata-ending-b-and-30-minutes-into-ending-c.39443/",
    "autor": "bibliomon (GBAtemp)"
+  },
+  {
+   "id": "010057D006492000",
+   "juego": "Octopath Traveler",
+   "titulo": "Partida avanzada",
+   "descripcion": "Partida avanzada; quien la subió no dice hasta dónde llega.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/octopath-avanzada.zip",
+   "fuente": "https://gbatemp.net/posts/10084372/",
+   "autor": "Moe87 (GBAtemp)"
   },
   {
    "id": "01008FE00E2F6000",
@@ -706,6 +986,26 @@
    "autor": "kevstar91 (GBAtemp)"
   },
   {
+   "id": "010050F00BC1A000",
+   "juego": "Resident Evil",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Todos los trajes, armas y modos desbloqueados.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re1-100.zip",
+   "fuente": "https://gbatemp.net/posts/8674232/",
+   "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
+   "id": "010097000BC10000",
+   "juego": "Resident Evil 0",
+   "titulo": "100%: todo desbloqueado",
+   "descripcion": "Todas las armas especiales y extras desbloqueados.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re0-100.zip",
+   "fuente": "https://gbatemp.net/posts/8663907/",
+   "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
    "id": "010099A00BC1E000",
    "juego": "Resident Evil 4",
    "titulo": "100%: todo desbloqueado",
@@ -724,6 +1024,66 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re5-100.zip",
    "fuente": "https://gbatemp.net/download/resident-evil-5-switch-100-save-file.36425/",
    "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
+   "id": "01002A000CD48000",
+   "juego": "Resident Evil 6",
+   "titulo": "100% con rango S",
+   "descripcion": "Todo con rango S, lista para empezar.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re6-100.zip",
+   "fuente": "https://gbatemp.net/posts/10765013/",
+   "autor": "S-G-D (GBAtemp)"
+  },
+  {
+   "id": "0100643002136000",
+   "juego": "Resident Evil Revelations",
+   "titulo": "Historia al 100%",
+   "descripcion": "Historia al 100%, todas las huellas y todos los personajes del modo Asalto.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re-revelations-100.zip",
+   "fuente": "https://gbatemp.net/posts/8478383/",
+   "autor": "cucholix (GBAtemp)"
+  },
+  {
+   "id": "010095300212A000",
+   "juego": "Resident Evil Revelations 2",
+   "titulo": "Personajes al nivel 100",
+   "descripcion": "Todos los personajes al nivel 100 y habilidades al máximo. Hace falta la última actualización del juego.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/re-revelations2-nivel100.zip",
+   "fuente": "https://gbatemp.net/posts/10440080/",
+   "autor": "VKnincfw (GBAtemp)"
+  },
+  {
+   "id": "0100D9F01D474000",
+   "juego": "Rhythm Heaven Groove",
+   "titulo": "Arcoíris perfecto en todo",
+   "descripcion": "Todos los juegos con Arcoíris perfecto en normal y en las caras B, y 5 estrellas en Beatspell.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/rhythm-heaven-groove.zip",
+   "fuente": "https://gbatemp.net/posts/10882895/",
+   "autor": "ultrabub563 (GBAtemp)"
+  },
+  {
+   "id": "01008C0016544000",
+   "juego": "Sea of Stars",
+   "titulo": "Partida completa",
+   "descripcion": "Partida completa de Sea of Stars.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sea-of-stars-completa.zip",
+   "fuente": "https://gbatemp.net/posts/10695595/",
+   "autor": "wnrsanto85 (GBAtemp)"
+  },
+  {
+   "id": "01001270012B6000",
+   "juego": "Sonic Forces",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sonic-forces-100.zip",
+   "fuente": "https://gbatemp.net/posts/10765757/",
+   "autor": "Abdulsalam, compartida por Moe87 (GBAtemp)"
   },
   {
    "id": "01004AD014BF0000",
@@ -766,6 +1126,16 @@
    "autor": "KevinW23 (GBAtemp)"
   },
   {
+   "id": "01005EA01C0FC000",
+   "juego": "Sonic X Shadow Generations",
+   "titulo": "100%",
+   "descripcion": "Sonic Generations y Shadow Generations al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sonic-x-shadow-100.zip",
+   "fuente": "https://gbatemp.net/posts/10522606/",
+   "autor": "legendness12 (GBAtemp)"
+  },
+  {
    "id": "01003BC0000A0000",
    "juego": "Splatoon 2",
    "titulo": "100% sin conexión",
@@ -784,6 +1154,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/splatoon3-100.zip",
    "fuente": "https://gbatemp.net/posts/10507133/",
    "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
+  },
+  {
+   "id": "0100EC9010258000",
+   "juego": "Streets of Rage 4",
+   "titulo": "Todos los movimientos",
+   "descripcion": "Todos los movimientos desbloqueados, con el DLC de Mr. X Nightmare. Hecha con la versión 1.06.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sor4-movimientos.zip",
+   "fuente": "https://gbatemp.net/posts/9530671/",
+   "autor": "mugenjikuu (GBAtemp)"
   },
   {
    "id": "01007AD00013E000",
@@ -836,6 +1216,16 @@
    "autor": "Hasashi (GBAtemp)"
   },
   {
+   "id": "0100FD8022DAA000",
+   "juego": "Super Mario Galaxy 2",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/smg2-100.zip",
+   "fuente": "https://gbatemp.net/posts/10741451/",
+   "autor": "Rodrigonts (GBAtemp)"
+  },
+  {
    "id": "01009B90006DC000",
    "juego": "Super Mario Maker 2",
    "titulo": "100%: modo historia",
@@ -886,6 +1276,16 @@
    "autor": "8455MB (GBAtemp)"
   },
   {
+   "id": "010031F019294000",
+   "juego": "Super Monkey Ball Banana Rumble",
+   "titulo": "Juego completo",
+   "descripcion": "Juego terminado.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/monkey-ball-rumble-completa.zip",
+   "fuente": "https://gbatemp.net/posts/10446475/",
+   "autor": "Augusto101 (GBAtemp)"
+  },
+  {
    "id": "01006A800016E000",
    "juego": "Super Smash Bros. Ultimate",
    "titulo": "100%: luchadores, escenarios y espíritus",
@@ -895,6 +1295,16 @@
    "fuente": "https://gamebanana.com/mods/596171",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "01002C0008E52000",
+   "juego": "Tales of Vesperia: Definitive Edition",
+   "titulo": "Partida avanzada",
+   "descripcion": "Partida avanzada de Tales of Vesperia.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/tales-vesperia.zip",
+   "fuente": "https://gbatemp.net/posts/10691747/",
+   "autor": "mohana (GBAtemp)"
   },
   {
    "id": "010092B0091D0000",
@@ -935,6 +1345,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/zelda-botw-100-dlc.zip",
    "fuente": "https://gbatemp.net/download/the-legend-of-zelda-breath-of-the-wild-100-with-dlc-save.39803/",
    "autor": "championgamer (GBAtemp)"
+  },
+  {
+   "id": "01008CF01BAAC000",
+   "juego": "The Legend of Zelda: Echoes of Wisdom",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%. Viene de un emulador, Ryujinx.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/zelda-echoes-100.zip",
+   "fuente": "https://gbatemp.net/posts/10503303/",
+   "autor": "Paralel (GBAtemp)"
   },
   {
    "id": "01006BB00C6F0000",
