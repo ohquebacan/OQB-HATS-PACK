@@ -122,6 +122,16 @@
    "autor": "Moe87 (GBAtemp)"
   },
   {
+   "id": "0100A5C00D162000",
+   "juego": "Cuphead",
+   "titulo": "300%: juego y DLC",
+   "descripcion": "Juego y The Delicious Last Course al 300%, con todos los logros, armas, amuletos y la Cáliz. Es una partida de PC: en Switch funciona igual. Hace falta el DLC para lo de la Cáliz.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/cuphead-300.zip",
+   "fuente": "Reddit",
+   "autor": "Comunidad de Cuphead, partida de PC"
+  },
+  {
    "id": "0100646009FBE000",
    "juego": "Dead Cells",
    "titulo": "Partida avanzada con Castlevania",
