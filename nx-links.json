@@ -53,7 +53,7 @@
         "SaltyNX": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip",
         "SysDVR": "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip",
         "sys-con (mandos con cable) (2.1.0)": "https://github.com/o0Zz/sys-con/releases/download/2.1.0/sys-con-2.1.0.zip",
-        "sys-ticon": "https://github.com/masagrator/sys-ticon/releases/latest/download/sys-ticon.zip",
+        "sys-icon": "https://github.com/eradicatinglove/sys-icon/releases/latest/download/sys-icon-no-logging.zip",
         "IconGrabber OQB": "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro",
         "CyberFoil": "https://github.com/luketanti/CyberFoil/releases/latest/download/cyberfoil.zip",
         "Horizon-OC": "https://github.com/Horizon-OC/Horizon-OC/releases/latest/download/dist_ext.zip",
@@ -114,7 +114,7 @@
         "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
         "ARCropolis y Skyline": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ARCropolis.and.Skyline.zip",
         "IconGrabber OQB": "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro",
-        "sys-ticon": "https://github.com/masagrator/sys-ticon/releases/latest/download/sys-ticon.zip",
+        "sys-icon": "https://github.com/eradicatinglove/sys-icon/releases/latest/download/sys-icon-no-logging.zip",
         "Switch U": "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip",
         "HomeNX (nuevo menú HOME)": "https://github.com/ad3333m/homenx/releases/download/latest/HomeNX-full.zip",
         "NXToggle (HomeNX)": "https://github.com/ad3333m/homenx/releases/download/latest/NXToggle.nro",
@@ -348,8 +348,8 @@
         "ARCropolis y Skyline": "Cargador de mods para Super Smash Bros. Ultimate.",
         "SaltyNX": "Sysmodule para aplicar parches a los juegos, por ejemplo para desbloquear los FPS o cambiar la resolución.",
         "SysDVR": "Transmite la imagen y el sonido de los juegos a la PC por USB o por red.",
-        "sys-ticon": "Cambia iconos, nombres y versiones de los juegos en el menú HOME de Nintendo. Se usa con IconGrabber.",
-        "IconGrabber OQB": "Cambia los íconos de tus juegos por los de SteamGridDB, cuadrados o verticales según tu tema, con perfiles y nombres propios (con sys-ticon). Es nuestra versión.",
+        "sys-icon": "Cambia íconos y nombres de los juegos en el menú HOME (hasta firmware 23.5). Se usa con IconGrabber OQB.",
+        "IconGrabber OQB": "Cambia los íconos de tus juegos por los de SteamGridDB, cuadrados o verticales según tu tema, con perfiles y nombres propios (con sys-icon). Es nuestra versión.",
         "CyberFoil": "Instalador de juegos en formato NSP, NSZ, XCI y XCZ.",
         "Horizon-OC": "Overclock de CPU, GPU y RAM para Atmosphère. Para usuarios avanzados.",
         "Fizeau (2.8.3)": "Ajusta los colores de la pantalla: temperatura de color, filtro de luz azul, contraste y gamma.",
@@ -441,7 +441,7 @@
                 "titulo": "Iconos",
                 "apps": [
                     "IconGrabber OQB",
-                    "sys-ticon"
+                    "sys-icon"
                 ]
             },
             {
