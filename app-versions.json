@@ -272,9 +272,9 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro": {
-        "fecha": "2026-11-25T06:01:22Z",
-        "version": "3.0.1",
-        "nro_version": "3.0.1",
+        "fecha": "2026-11-25T11:08:08Z",
+        "version": "3.1.1",
+        "nro_version": "3.1.1",
         "icono": "7fb456a13042.jpg",
         "revisado": 4
     },
@@ -636,6 +636,18 @@
             }
         ],
         "icono": "60aaf99b5cf5.jpg",
+        "revisado": 4
+    },
+    "https://github.com/DeLFuS77/NXDock/releases/download/0.9.0-beta.15/NXDock-0.9.0-beta.15-sd.zip": {
+        "fecha": "2026-11-25T14:40:57Z",
+        "version": "0.9.0-beta.15",
+        "nros": [
+            {
+                "ruta": "/switch/NXDock/NXDock.nro",
+                "version": "0.9.0-beta.15"
+            }
+        ],
+        "icono": "46598751f988.jpg",
         "revisado": 4
     },
     "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip": {
