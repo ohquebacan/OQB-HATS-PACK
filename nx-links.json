@@ -350,7 +350,7 @@
         "ARCropolis y Skyline": "Cargador de mods para Super Smash Bros. Ultimate.",
         "SaltyNX": "Sysmodule para aplicar parches a los juegos, por ejemplo para desbloquear los FPS o cambiar la resolución.",
         "SysDVR": "Transmite la imagen y el sonido de los juegos a la PC por USB o por red.",
-        "sys-icon": "Cambia íconos y nombres de los juegos en el menú HOME (hasta firmware 23.5). Se usa con IconGrabber OQB.",
+        "sys-icon": "Cambia íconos y nombres de los juegos en el menú HOME. Se usa con IconGrabber OQB. No funciona junto con Nexus Bacán: con los dos instalados, la consola se queda en el logo al encender.",
         "IconGrabber OQB": "Cambia los íconos de tus juegos por los de SteamGridDB, cuadrados o verticales según tu tema, con perfiles y nombres propios (con sys-icon). Es nuestra versión.",
         "CyberFoil": "Instalador de juegos en formato NSP, NSZ, XCI y XCZ.",
         "Horizon-OC": "Overclock de CPU, GPU y RAM para Atmosphère. Para usuarios avanzados.",
