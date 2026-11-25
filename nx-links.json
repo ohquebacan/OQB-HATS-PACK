@@ -46,7 +46,6 @@
         "Switch U": "https://github.com/PoloNX/SwitchU/releases/latest/download/SwitchU.zip",
         "Akira": "https://github.com/xlanor/akira/releases/latest/download/akira.nro",
         "Chiaki": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro",
-        "Dusk": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip",
         "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
         "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
         "ARCropolis y Skyline": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ARCropolis.and.Skyline.zip",
@@ -105,7 +104,6 @@
         "NetherSX2 (PS2)": "https://github.com/NaGaa95/NetherSX2_nx/releases/latest/download/NetherSX2.nro",
         "PPSSPP (PSP) (0.6.5)": "https://github.com/SirSamael/ppsspp-switch-community-build/releases/download/v0.6.5/PPSSPP-Switch-0.6.5.zip",
         "VITA 3K": "https://github.com/NaGaa95/Vita3K-nx/releases/latest/download/Vita3K.nro",
-        "Dusk": "https://github.com/alucardiio-yt/retrosw/releases/latest/download/Dusk.zip",
         "osu!stream": "https://github.com/exelix11/nx-stream/releases/latest/download/build.zip",
         "Switch Hero": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/switch-hero.zip",
         "Autorun (juegos de PC) (test-build-4)": "https://github.com/autorunhq/autorun/releases/download/test-build-4/autorun-test-build-4.zip"
@@ -427,7 +425,6 @@
             {
                 "titulo": "Ports y juegos",
                 "apps": [
-                    "Dusk",
                     "osu!stream",
                     "Switch Hero",
                     "Autorun (juegos de PC) (test-build-4)"
