@@ -123,7 +123,11 @@ def guardar_icono(crudo, lado=LADO_ICONO):
         imagen = Image.open(io.BytesIO(crudo)).convert("RGB")
         imagen = imagen.resize((lado, lado), Image.LANCZOS)
         salida = io.BytesIO()
-        imagen.save(salida, "JPEG", quality=88, optimize=True)
+        # Las portadas de los ports se ven grandes: color completo (4:4:4), como el ícono de Nextendo.
+        if lado == LADO_PORT:
+            imagen.save(salida, "JPEG", quality=92, subsampling=0, optimize=True)
+        else:
+            imagen.save(salida, "JPEG", quality=88, optimize=True)
         datos = salida.getvalue()
     except Exception as error:  # sin Pillow o un JPEG raro: tal cual
         print(f"aviso: ícono sin achicar: {error}")
@@ -325,9 +329,11 @@ def icono_acceso(crudo):
     """La portada en JPEG normal de 256 para el acceso directo; devuelve su URL."""
     from PIL import Image
     imagen = Image.open(io.BytesIO(crudo)).convert("RGB").resize((256, 256), Image.LANCZOS)
-    for calidad in (92, 85, 75):
+    # Color completo (4:4:4) y calidad alta: con el submuestreo normal el ícono
+    # del HOME se veía borroso (lo mismo que pasó con el de Nextendo).
+    for calidad, sub in ((95, 0), (90, 0), (85, 0), (85, 2), (75, 2)):
         salida = io.BytesIO()
-        imagen.save(salida, "JPEG", quality=calidad, progressive=False, optimize=True)
+        imagen.save(salida, "JPEG", quality=calidad, subsampling=sub, progressive=False, optimize=True)
         datos = salida.getvalue()
         if len(datos) <= 0x20000:
             break
