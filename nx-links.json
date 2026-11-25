@@ -163,6 +163,16 @@
         "Chromium NX (navegador)": "https://github.com/shodowlo/chromium-nx/releases/latest/download/chromium-nx.nro",
         "RadioNX (radio por internet)": "https://github.com/Muveeer/RadioNX/releases/latest/download/RadioNX.nro"
     },
+    "apps_oqb": {
+        "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
+        "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
+        "IconGrabber OQB": "https://github.com/ohquebacan/IconGrabber-OQB/releases/latest/download/IconGrabber-OQB.nro",
+        "SimpleModManager": "https://github.com/ohquebacan/SimpleModManager-OQB/releases/latest/download/SimpleModManager.nro",
+        "SimpleModDownloader": "https://github.com/ohquebacan/SimpleModDownloader/releases/latest/download/SimpleModDownloader.nro",
+        "SpotiBacán (Spotify, con descargas)": "https://github.com/ohquebacan/SpotiBacan-NX/releases/latest/download/SpotiBacan.zip",
+        "Switube (YouTube Music)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Switube.zip",
+        "90DNS Setter (OQB)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/OQB-90DNS.nro"
+    },
     "apps_ports": {
         "Mario Kart Wii (KartPadNX) (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip",
         "Mario Kart Wii (KartPadNX) (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip",
@@ -339,7 +349,7 @@
         "SaltyNX": "Sysmodule para aplicar parches a los juegos, por ejemplo para desbloquear los FPS o cambiar la resolución.",
         "SysDVR": "Transmite la imagen y el sonido de los juegos a la PC por USB o por red.",
         "sys-ticon": "Cambia iconos, nombres y versiones de los juegos en el menú HOME de Nintendo. Se usa con IconGrabber.",
-        "IconGrabber OQB": "Cambia los iconos de tus juegos por los de SteamGridDB. Es nuestra versión, con arreglos.",
+        "IconGrabber OQB": "Cambia los íconos de tus juegos por los de SteamGridDB, cuadrados o verticales según tu tema, con perfiles y nombres propios (con sys-ticon). Es nuestra versión.",
         "CyberFoil": "Instalador de juegos en formato NSP, NSZ, XCI y XCZ.",
         "Horizon-OC": "Overclock de CPU, GPU y RAM para Atmosphère. Para usuarios avanzados.",
         "Fizeau (2.8.3)": "Ajusta los colores de la pantalla: temperatura de color, filtro de luz azul, contraste y gamma.",
