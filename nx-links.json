@@ -142,6 +142,7 @@
         "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
         "FreeShop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/freeshop-client.nro",
         "Scene eShop (5.8.1)": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/scene-eshop.zip",
+        "NXDock (0.9.0-beta.15)": "https://github.com/DeLFuS77/NXDock/releases/download/0.9.0-beta.15/NXDock-0.9.0-beta.15-sd.zip",
         "JKSV BACAN": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro",
         "Checkpoint": "https://github.com/BernardoGiordano/Checkpoint/releases/latest/download/Checkpoint.nro",
         "PortNX (2.2.0)": "https://github.com/CostelaCNX/PortNX/releases/download/v2.2.0/PortNX-v2.2.0.zip"
@@ -391,7 +392,8 @@
         "RadioNX (radio por internet)": "Escucha radio por internet con emisoras de todo el mundo.",
         "PortNX (2.2.0)": "Descarga e instala ports de juegos de PC para Switch desde su catálogo, con ficha de cada port antes de instalarlo.",
         "Chromium NX (navegador)": "Navegador Chromium completo: pestañas, YouTube, descargas a la SD y teclado USB. Experimental. Cuando la app pregunte, crea su acceso directo del menú HOME: se abre desde ahí, no desde el menú Homebrew. La primera vez baja su imagen de unos 411 MB.",
-        "sys-con (mandos con cable) (2.1.0)": "Para usar mandos de Xbox, PlayStation y otros conectados por cable USB a la consola. Trae su app para configurarlos. Versión mantenida por o0Zz."
+        "sys-con (mandos con cable) (2.1.0)": "Para usar mandos de Xbox, PlayStation y otros conectados por cable USB a la consola. Trae su app para configurarlos. Versión mantenida por o0Zz.",
+        "NXDock (0.9.0-beta.15)": "Instalador de NSP, NSZ, XCI y XCZ en beta: instala tus copias desde la red (Switch Library Manager Web), la SD, un disco USB, MTP o NS-USBloader, y revisa cada parte antes de registrarla."
     },
     "apps_grupos": {
         "apps_emuladores": [
@@ -499,7 +501,8 @@
                     "TorrentShopNX",
                     "Bacán Shop",
                     "FreeShop",
-                    "Scene eShop (5.8.1)"
+                    "Scene eShop (5.8.1)",
+                    "NXDock (0.9.0-beta.15)"
                 ]
             },
             {
