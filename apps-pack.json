@@ -22,7 +22,7 @@
    "fpslocker-b3fb593f",
    "ovl-sysmodules-6ec94c3d",
    "akira-e765c2f4",
-   "jksv-2a89e05b",
+   "jksv-604202ea",
    "checkpoint-7675064d",
    "linkalho-4a4bba46",
    "themezer-45d541ab",
@@ -54,9 +54,11 @@
    "quickntp-20537488",
    "status-monitor-7aaafc2e",
    "fpslocker-b3fb593f",
+   "reversenx-rt-d484a062",
+   "saltynx-tool-bca7f6b0",
    "ovl-sysmodules-6ec94c3d",
    "akira-e765c2f4",
-   "jksv-2a89e05b",
+   "jksv-604202ea",
    "checkpoint-7675064d",
    "linkalho-4a4bba46",
    "themezer-45d541ab",
@@ -1045,21 +1047,21 @@
    ],
    "catalogo": "https://github.com/xlanor/akira/releases/latest/download/akira.nro"
   },
-  "jksv-2a89e05b": {
+  "jksv-604202ea": {
    "nombre": "JKSV BACÁN",
    "tipo": "Partidas",
-   "version": "3.2 OQB",
+   "version": "3.4 OQB",
    "principal": "switch/JKSV.nro",
-   "zip": "jksv-2a89e05b.zip",
-   "bytes": 4987264,
+   "zip": "jksv-604202ea.zip",
+   "bytes": 4990515,
    "reinicio": false,
    "archivos": [
     [
      "switch/JKSV.nro",
-     "7d5b4a79",
-     11229540,
+     "a2d1036b",
+     11233636,
      0,
-     "3.2 OQB"
+     "3.4 OQB"
     ]
    ],
    "catalogo": "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro"
@@ -1524,6 +1526,44 @@
     ]
    ],
    "catalogo": "https://github.com/masagrator/SaltyNX/releases/latest/download/SaltyNX.zip"
+  },
+  "reversenx-rt-d484a062": {
+   "nombre": "ReverseNX-RT",
+   "tipo": "Overlay",
+   "version": "2.2.1+r1",
+   "principal": "switch/.overlays/ReverseNX-RT-ovl.ovl",
+   "zip": "reversenx-rt-d484a062.zip",
+   "bytes": 370252,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/.overlays/ReverseNX-RT-ovl.ovl",
+     "09e174c4",
+     663612,
+     0,
+     "2.2.1+r1"
+    ]
+   ],
+   "catalogo": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ReverseNX-RT.zip"
+  },
+  "saltynx-tool-bca7f6b0": {
+   "nombre": "SaltyNX-Tool",
+   "tipo": "App",
+   "version": "1.2.0",
+   "principal": "switch/SaltyNX-Tool.nro",
+   "zip": "saltynx-tool-bca7f6b0.zip",
+   "bytes": 1060735,
+   "reinicio": false,
+   "archivos": [
+    [
+     "switch/SaltyNX-Tool.nro",
+     "64639325",
+     2559867,
+     0,
+     "1.2.0"
+    ]
+   ],
+   "catalogo": "https://github.com/masagrator/SaltyNX-Tool/releases/latest/download/SaltyNX-Tool.nro"
   },
   "benchmark-toolbox-86e28e53": {
    "nombre": "Benchmark Toolbox",

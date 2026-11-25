@@ -66,6 +66,8 @@ GRUPOS = [
     ("status-monitor", "Status Monitor", "Overlay", False,
      ["switch/.overlays/Status-Monitor-Overlay.ovl", "config/status-monitor/"], "switch/.overlays/Status-Monitor-Overlay.ovl"),
     ("fpslocker", "FPSLocker", "Overlay", False, ["switch/.overlays/FPSLocker.ovl"]),
+    ("reversenx-rt", "ReverseNX-RT", "Overlay", False, ["switch/.overlays/ReverseNX-RT-ovl.ovl"]),
+    ("saltynx-tool", "SaltyNX-Tool", "App", False, ["switch/SaltyNX-Tool.nro"]),
     ("ovl-sysmodules", "Sysmodules (overlay)", "Overlay", False, ["switch/.overlays/ovlSysmodules.ovl"]),
     ("akira", "Akira", "App", False, ["switch/akira.nro"]),
     ("jksv", "JKSV BACÁN", "Partidas", False, ["switch/JKSV.nro"]),
@@ -103,6 +105,7 @@ CATALOGO = {
     "fpslocker": "FPSLocker", "quickntp": "QuickNTP", "nxthemes": "NXThemes Installer", "themezer": "Themezer-NX",
     "linkalho": "Linkalho", "appstore": "Homebrew App Store", "horizon-oc": "Horizon-OC", "sys-clk": "sys-clk",
     "saltynx": "SaltyNX", "breeze": "Breeze", "ovl-sysmodules": "ovl-sysmodules",
+    "reversenx-rt": "ReverseNX-RT (2.2.1+r1)", "saltynx-tool": "SaltyNX-Tool",
 }
 
 
