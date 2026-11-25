@@ -223,6 +223,23 @@
             "/atmosphere/contents/0000000000534C56/flags/boot2.flag",
             "/atmosphere/contents/0000000000534C56/toolbox.json"
         ],
+        "revisado": 4,
+        "icono": "4db6c3b77845.jpg"
+    },
+    "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/ReverseNX-RT.zip": {
+        "fecha": "2026-11-25T19:30:27Z",
+        "version": "1.0",
+        "marcas": [
+            "/switch/.overlays/ReverseNX-RT-ovl.ovl"
+        ],
+        "revisado": 4,
+        "icono": "497a87d3940f.jpg"
+    },
+    "https://github.com/masagrator/SaltyNX-Tool/releases/latest/download/SaltyNX-Tool.nro": {
+        "fecha": "2026-10-03T13:01:27Z",
+        "version": "1.2.0",
+        "nro_version": "1.2.0",
+        "icono": "4db6c3b77845.jpg",
         "revisado": 4
     },
     "https://github.com/exelix11/SysDVR/releases/latest/download/SysDVR.zip": {
