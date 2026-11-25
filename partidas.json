@@ -91,6 +91,16 @@
    "autor": "LexiconFumbler (GBAtemp)"
   },
   {
+   "id": "01000B900D8B0000",
+   "juego": "Cadence of Hyrule",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/cadence-of-hyrule-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "01009BF0072D4000",
    "juego": "Captain Toad: Treasure Tracker",
    "titulo": "100%: todos los episodios",
@@ -120,6 +130,36 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/castlevania-dominus.zip",
    "fuente": "https://gbatemp.net/posts/10502081/",
    "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "01002B30028F6000",
+   "juego": "Celeste",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/celeste-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
+   "id": "0100F9F00C696000",
+   "juego": "Crash Team Racing Nitro-Fueled",
+   "titulo": "100%: todo el juego",
+   "descripcion": "Partida con todo el juego completo.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ctr-nitro-fueled-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
+   "id": "01002E7016C46000",
+   "juego": "Cult of the Lamb",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/cult-of-the-lamb-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "0100A5C00D162000",
@@ -162,6 +202,16 @@
    "autor": "bibliomon (GBAtemp)"
   },
   {
+   "id": "01007B600D5BC000",
+   "juego": "Devil May Cry 3 Special Edition",
+   "titulo": "Todo desbloqueado",
+   "descripcion": "Todo desbloqueado.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dmc3-todo.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "0100D39012C1A000",
    "juego": "Disney Dreamlight Valley",
    "titulo": "Buen comienzo",
@@ -190,6 +240,36 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/dkc-tropical-freeze-200.zip",
    "fuente": "https://gbatemp.net/download/donkey-kong-country-tropical-freeze-200-save-file.39068/",
    "autor": "Lt. Lynx (GBAtemp)"
+  },
+  {
+   "id": "01005D700E742000",
+   "juego": "Doom 64",
+   "titulo": "100%",
+   "descripcion": "Juego al 100% con los logros.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/doom64-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
+   "id": "01005B10132B2000",
+   "juego": "Double Dragon Neon",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/double-dragon-neon-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
+   "id": "010078D000F88000",
+   "juego": "Dragon Ball Xenoverse 2",
+   "titulo": "Historia al 100% con SSB",
+   "descripcion": "Modo historia al 100% y la transformación Super Saiyan Blue.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/xenoverse2-100-ssb.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "010035F022078000",
@@ -270,6 +350,26 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ff6-historia.zip",
    "fuente": "https://gbatemp.net/posts/10650598/",
    "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "0100BC300CB48000",
+   "juego": "Final Fantasy X/X-2 HD Remaster",
+   "titulo": "100%",
+   "descripcion": "FF X y X-2 al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ffx-x2-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
+   "id": "0100EB100AB42000",
+   "juego": "Final Fantasy XII The Zodiac Age",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/ff12-tza-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "0100A6301214E000",
@@ -381,6 +481,16 @@
    "fuente": "https://gamebanana.com/mods/596221",
    "autor": "MegaMarble (GameBanana)",
    "licencia": "CC BY-NC-ND 4.0"
+  },
+  {
+   "id": "010075600AE96000",
+   "juego": "Just Dance 2019",
+   "titulo": "100%",
+   "descripcion": "Todas las canciones desbloqueadas.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/just-dance-2019-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "0100DDB00DB38000",
@@ -535,6 +645,16 @@
    "autor": "8455MB (GBAtemp)"
   },
   {
+   "id": "0100C9C00E25C000",
+   "juego": "Mario Golf: Super Rush",
+   "titulo": "Todos los campos y palos",
+   "descripcion": "Todos los campos y todos los juegos de palos Super Star. Hecha con la versión 4.0.0.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mario-golf-super-rush.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "0100152000022000",
    "juego": "Mario Kart 8 Deluxe",
    "titulo": "100% con el Pase de pistas extra",
@@ -627,6 +747,16 @@
    "autor": "MPRTwice (GBAtemp)"
   },
   {
+   "id": "0100CAC01C2E4000",
+   "juego": "Mighty Morphin Power Rangers: Rita's Rewind",
+   "titulo": "Historia al 100%",
+   "descripcion": "Modo historia al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/power-rangers-ritas-rewind-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "0100770008DD8000",
    "juego": "Monster Hunter Generations Ultimate",
    "titulo": "Partida completa",
@@ -635,6 +765,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mhgu-completa.zip",
    "fuente": "https://gbatemp.net/posts/10500252/",
    "autor": "Moe87 (GBAtemp)"
+  },
+  {
+   "id": "0100B04011742000",
+   "juego": "Monster Hunter Rise",
+   "titulo": "Todo desbloqueado",
+   "descripcion": "Títulos, objetos, armas y armaduras desbloqueados. Es de 2021, sin Sunbreak.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/mh-rise-todo.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "0100E21011446000",
@@ -935,6 +1075,16 @@
    "licencia": "CC BY-NC-ND 4.0"
   },
   {
+   "id": "01005D100807A000",
+   "juego": "Pokémon Quest",
+   "titulo": "Inicio con boletos al máximo",
+   "descripcion": "Partida nueva con los boletos PM al máximo.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/pokemon-quest-boletos.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "01008F6008C5E000",
    "juego": "Pokémon Violeta",
    "titulo": "100% con los DLC",
@@ -1106,6 +1256,16 @@
    "autor": "andiandi (GBAtemp)"
   },
   {
+   "id": "01009FB016286000",
+   "juego": "Sonic Origins",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sonic-origins-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "01006E001823C000",
    "juego": "Sonic Racing: CrossWorlds",
    "titulo": "100%: todo desbloqueado",
@@ -1156,6 +1316,16 @@
    "autor": "FRKN4O, jugada sin trucos (GBAtemp)"
   },
   {
+   "id": "0100E65002BB8000",
+   "juego": "Stardew Valley",
+   "titulo": "Granja con 8 millones de oro",
+   "descripcion": "Partida avanzada con 8 millones de oro.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/stardew-8-millones.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "0100EC9010258000",
    "juego": "Streets of Rage 4",
    "titulo": "Todos los movimientos",
@@ -1174,6 +1344,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/bomberman-r-tienda.zip",
    "fuente": "https://gbatemp.net/posts/8293047/",
    "autor": "toto621 (GBAtemp)"
+  },
+  {
+   "id": "0100E5E00C464000",
+   "juego": "Super Dragon Ball Heroes World Mission",
+   "titulo": "100%",
+   "descripcion": "Juego al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/sdbh-world-mission-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "010049900F546000",
@@ -1337,6 +1517,16 @@
    "autor": "bedbug1226, de una partida de PC (GBAtemp)"
   },
   {
+   "id": "01000A10041EA000",
+   "juego": "The Elder Scrolls V: Skyrim",
+   "titulo": "100%",
+   "descripcion": "Partidas al 100%.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/skyrim-100.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
+  },
+  {
    "id": "01007EF00011E000",
    "juego": "The Legend of Zelda: Breath of the Wild",
    "titulo": "100% con DLC",
@@ -1396,6 +1586,16 @@
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/zelda-totk-100.zip",
    "fuente": "https://gbatemp.net/download/the-legend-of-zelda-tears-of-the-kingdom-100-save-file.38083/",
    "autor": "ShadowOne333 (GBAtemp)"
+  },
+  {
+   "id": "0100BFE00E9CA000",
+   "juego": "The Witcher 3: Wild Hunt — Complete Edition",
+   "titulo": "100% para Nueva partida+",
+   "descripcion": "Partida al 100%, lista para empezar la Nueva partida+.",
+   "raiz": "",
+   "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/witcher3-100-ngplus.zip",
+   "fuente": "Colección de partidas de la comunidad",
+   "autor": "Comunidad"
   },
   {
    "id": "0100563010E0C000",
