@@ -168,6 +168,7 @@
         "Mario Kart Wii (KartPadNX) (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip",
         "Mario Kart Wii (KartPadNX) (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip",
         "Mario Kart Wii (KartPadNX) (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip",
+        "Crash Twinsanity (reNsanity)": "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -1252,6 +1253,12 @@
                 "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip"
             ],
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg"
+        },
+        "Crash Twinsanity (reNsanity)": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip"
+            ],
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/crash-twinsanity.jpg"
         }
     },
     "ports_cambios": {
@@ -1287,6 +1294,7 @@
         "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg",
         "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg",
         "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/crash-twinsanity.jpg",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
@@ -1436,6 +1444,11 @@
                 "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip",
                 "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip",
                 "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip"
+            ]
+        },
+        "Crash Twinsanity (reNsanity)": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip"
             ]
         },
         "9th SEP: Grand Theft Auto V": {
