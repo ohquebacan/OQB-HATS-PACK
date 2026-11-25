@@ -459,6 +459,18 @@
         "icono": "c6b646e9caa7.jpg",
         "revisado": 4
     },
+    "https://github.com/DeLFuS77/NXDock/releases/download/0.9.0-beta.15/NXDock-0.9.0-beta.15-sd.zip": {
+        "fecha": "2026-11-25T14:40:57Z",
+        "version": "0.9.0-beta.15",
+        "nros": [
+            {
+                "ruta": "/switch/NXDock/NXDock.nro",
+                "version": "0.9.0-beta.15"
+            }
+        ],
+        "icono": "46598751f988.jpg",
+        "revisado": 4
+    },
     "https://github.com/senkuObito/switchStream/releases/latest/download/switchstream.nro": {
         "fecha": "2026-10-12T18:32:08Z",
         "version": "2.0.0",
@@ -636,18 +648,6 @@
             }
         ],
         "icono": "60aaf99b5cf5.jpg",
-        "revisado": 4
-    },
-    "https://github.com/DeLFuS77/NXDock/releases/download/0.9.0-beta.15/NXDock-0.9.0-beta.15-sd.zip": {
-        "fecha": "2026-11-25T14:40:57Z",
-        "version": "0.9.0-beta.15",
-        "nros": [
-            {
-                "ruta": "/switch/NXDock/NXDock.nro",
-                "version": "0.9.0-beta.15"
-            }
-        ],
-        "icono": "46598751f988.jpg",
         "revisado": 4
     },
     "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-1.zip": {
