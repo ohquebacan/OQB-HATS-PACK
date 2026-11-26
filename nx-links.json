@@ -186,6 +186,14 @@
         "Burnout 3: Takedown [Español] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip",
         "Ultimate Spider-Man": "https://github.com/erobles546/apps/releases/download/new/U-ES.zip",
         "Ultimate Spider-Man [Inglés] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/U-EN.zip",
+        "Call of Duty: Black Ops II (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip",
+        "Call of Duty: Black Ops II (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip",
+        "Call of Duty: Black Ops II (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip",
+        "Call of Duty: Black Ops II (PARTE 4)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip",
+        "Call of Duty: Black Ops II (PARTE 5)": "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip",
+        "Call of Duty: Black Ops II (PARTE 6)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
+        "Call of Duty: Black Ops II (PARTE 7)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip",
+        "Call of Duty: Black Ops II [Actualización 0.2.2] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -1370,6 +1378,38 @@
                 }
             ],
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg"
+        },
+        "Call of Duty: Black Ops II": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip",
+                "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Juego base",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip",
+                        "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip"
+                    ]
+                },
+                {
+                    "nombre": "Actualización 0.2.2",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip"
+                    ]
+                }
+            ],
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg"
         }
     },
     "ports_cambios": {
@@ -1420,6 +1460,14 @@
         "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
         "https://github.com/erobles546/apps/releases/download/new/U-ES.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
         "https://github.com/erobles546/apps/releases/download/new/U-EN.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
@@ -1663,6 +1711,38 @@
                         "https://github.com/erobles546/apps/releases/download/new/U-EN.zip"
                     ],
                     "grupo": "Idioma"
+                }
+            ]
+        },
+        "Call of Duty: Black Ops II": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip",
+                "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip",
+                "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Juego base",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip",
+                        "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip"
+                    ]
+                },
+                {
+                    "nombre": "Actualización 0.2.2",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip"
+                    ]
                 }
             ]
         },
