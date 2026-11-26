@@ -194,7 +194,7 @@
         "Call of Duty: Black Ops II (PARTE 6)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-5.zip",
         "Call of Duty: Black Ops II (PARTE 7)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
         "Call of Duty: Black Ops II (PARTE 8)": "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip",
-        "Call of Duty: Black Ops II [Actualización 0.2.2] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip",
+        "Call of Duty: Black Ops II [Actualización 0.4.2] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -1406,9 +1406,9 @@
                     ]
                 },
                 {
-                    "nombre": "Actualización 0.2.2",
+                    "nombre": "Actualización 0.4.2",
                     "partes": [
-                        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip"
+                        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip"
                     ]
                 }
             ],
@@ -1471,7 +1471,7 @@
         "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-5.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
         "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
         "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
-        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
@@ -1728,7 +1728,7 @@
                 "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-5.zip",
                 "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip",
                 "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip",
-                "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip"
+                "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip"
             ],
             "secciones": [
                 {
@@ -1745,9 +1745,9 @@
                     ]
                 },
                 {
-                    "nombre": "Actualización 0.2.2",
+                    "nombre": "Actualización 0.4.2",
                     "partes": [
-                        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip"
+                        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip"
                     ]
                 }
             ]
