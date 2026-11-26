@@ -1424,7 +1424,10 @@
    "raiz": "",
    "url": "https://github.com/ohquebacan/Partidas/releases/download/gbatemp/smo-100.zip",
    "fuente": "https://gbatemp.net/download/super-mario-odyssey-100-save-file-switch-eden.39926/",
-   "autor": "Hasashi (GBAtemp)"
+   "autor": "Hasashi (GBAtemp)",
+   "conservar": [
+    "Common.bin"
+   ]
   },
   {
    "id": "010036B0034E4000",
