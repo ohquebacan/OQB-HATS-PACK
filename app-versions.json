@@ -718,6 +718,130 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/73a50d002c76.jpg",
         "revisado": 4
     },
+    "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip": {
+        "fecha": "2026-11-26T03:41:57Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/asurawrath_nx.nro",
+            "/switch/asura-nx/Update/TU_11K620N_000000K000000.0000000000085",
+            "/switch/asura-nx/asurawrath_nx.toml"
+        ],
+        "bytes": 1760217878,
+        "descomprimido": 2472395552,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip": {
+        "fecha": "2026-11-26T03:43:17Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/game/BCGame/CookedXbox360/BC-S080_L03_PLY_01.xxx",
+            "/switch/asura-nx/game/BCGame/CookedXbox360/BC-S080_L03_PLY_01_LOC_INT.xxx",
+            "/switch/asura-nx/game/BCGame/CookedXbox360/BC-S080_L03_PLY_01_LOC_JPN.xxx"
+        ],
+        "bytes": 1679527934,
+        "descomprimido": 1700560950,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip": {
+        "fecha": "2026-11-26T03:44:33Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/game/BCGame/CookedXbox360/CharTextures.tfc",
+            "/switch/asura-nx/game/BCGame/CookedXbox360/Coalesced_DEU.bin",
+            "/switch/asura-nx/game/BCGame/CookedXbox360/Coalesced_ESN.bin"
+        ],
+        "bytes": 1773363654,
+        "descomprimido": 1813199260,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip": {
+        "fecha": "2026-11-26T03:46:07Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/game/BCGame/Movies/AW_NEXT140.bik",
+            "/switch/asura-nx/game/BCGame/Movies/AW_NEXT150.bik",
+            "/switch/asura-nx/game/BCGame/Movies/AW_NEXT160.bik"
+        ],
+        "bytes": 1676181103,
+        "descomprimido": 1706550746,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip": {
+        "fecha": "2026-11-26T03:53:46Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/dlc/43430817/00000002/78E95E38A274CA2033EB0517828152A3038C11C943"
+        ],
+        "bytes": 1739984934,
+        "descomprimido": 1769050112,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip": {
+        "fecha": "2026-11-26T03:54:53Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/dlc/43430817/00000002/8A6811EC2255FE171FAF9E4372B23B1B0581E4CA43",
+            "/switch/asura-nx/dlc/43430817/00000002/981ED33639F0A6275BA34BDD2E3D276C16F94A6D43"
+        ],
+        "bytes": 1290248486,
+        "descomprimido": 1328816128,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip": {
+        "fecha": "2026-11-26T03:55:59Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/dlc/43430817/00000002/E2AFB00ED67E4B55C63F8DA33C0F8783F88E29B843",
+            "/switch/asura-nx/dlc/43430817/00000002/F56F8734F04D89EAB07E9003A7F48DE046DA57B743"
+        ],
+        "bytes": 1517345991,
+        "descomprimido": 1573851136,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip": {
+        "fecha": "2026-11-26T03:56:14Z",
+        "version": "new",
+        "marcas": [
+            "/switch/asura-nx/asurawrath_nx.nro",
+            "/switch/asura-nx/asurawrath_nx.toml",
+            "/switch/asura-nx/deko3d_glsl.bin"
+        ],
+        "bytes": 374483239,
+        "descomprimido": 1065806774,
+        "icono": "23e1df61d141.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
+        "revisado": 4
+    },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
         "fecha": "2026-09-15T20:15:52Z",
         "version": "21.2.0",
@@ -799,20 +923,20 @@
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/manh.png"
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip": {
-        "fecha": "2026-11-14T05:36:51Z",
+        "fecha": "2026-11-26T01:39:15Z",
         "version": "",
         "marcas": [
             "/switch/mp2-nx/mp2-nx.nro",
             "/switch/mp2-nx/LICENSE-decomp-CC0.txt",
             "/switch/mp2-nx/LICENSE-Dusklight-Switch-CC0.txt"
         ],
-        "bytes": 1360479547,
-        "descomprimido": 1360478149,
-        "icono": "c7c7e28d3f6d.jpg",
+        "bytes": 1360615598,
+        "descomprimido": 1360614200,
+        "icono": "9d2d83a39bde.jpg",
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7d5ce417a6fb.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metp2.png"
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/metp2.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/95176a7b73b1.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mts.zip": {
         "fecha": "2026-11-16T00:34:03Z",
@@ -1388,7 +1512,7 @@
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/resu.png"
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/revc.zip": {
-        "fecha": "2026-11-15T20:03:46Z",
+        "fecha": "2026-11-26T01:35:59Z",
         "version": "",
         "marcas": [
             "/switch/recvx/recvx.nro",
@@ -1397,11 +1521,11 @@
         ],
         "bytes": 2102307808,
         "descomprimido": 2102306330,
-        "icono": "1942c069d25b.jpg",
+        "icono": "d3e698c12f55.jpg",
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/45602adae569.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/revc.png"
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/revc.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1396352a3d6c.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tek3.zip": {
         "fecha": "2026-10-30T18:30:40Z",
@@ -1513,6 +1637,22 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e42835888f41.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/luigi.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sfa.zip": {
+        "fecha": "2026-11-25T22:13:28Z",
+        "version": "",
+        "marcas": [
+            "/switch/SFA-NX/SFA-NX.nro",
+            "/switch/SFA-NX/config/switch_menu.ini",
+            "/switch/SFA-NX/mods/hd/Bosses/tex1_128x128_m_778f93e165fad56e_14.dds"
+        ],
+        "bytes": 1557890211,
+        "descomprimido": 1556876937,
+        "icono": "aee9427a5cdd.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sfa.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/0292e52bdcb6.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip": {
         "fecha": "2026-11-13T18:46:59Z",
@@ -1706,6 +1846,22 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/jack.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/scpt.zip": {
+        "fecha": "2026-11-25T22:09:09Z",
+        "version": "",
+        "marcas": [
+            "/switch/scpt/scpt.nro",
+            "/switch/scpt/game/dashupdate.xbe",
+            "/switch/scpt/game/Default/dsstdfx.bin"
+        ],
+        "bytes": 3154948624,
+        "descomprimido": 3154787924,
+        "icono": "149770419324.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/scpt.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/8b424dbf8d61.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip": {
         "fecha": "2026-10-19T01:00:14Z",
         "version": "",
@@ -1883,20 +2039,20 @@
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bull.png"
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip": {
-        "fecha": "2026-08-06T01:22:35Z",
+        "fecha": "2026-11-26T00:51:55Z",
         "version": "21.2.0",
         "marcas": [
             "/switch/smwr_nx/smwr.nro",
             "/switch/smwr_nx/assets/.godot/exported/133200997/export-00015d5996968710cf2c3c004046a31f-test_carry_box.scn",
             "/switch/smwr_nx/assets/.godot/exported/133200997/export-001d7d2eb3d1f9b5520c2441db16a7d4-Vanilla.res"
         ],
-        "bytes": 147439431,
-        "descomprimido": 145744029,
-        "icono": "5575e59f707a.jpg",
+        "bytes": 147451719,
+        "descomprimido": 145756317,
+        "icono": "5d56baf5e1d5.jpg",
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/06fbec8d7c7b.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smw.png"
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smw.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/596ae30341d3.jpg",
+        "revisado": 4
     },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip": {
         "fecha": "2026-08-06T01:22:17Z",
@@ -2297,6 +2453,38 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/fa9022c3d10e.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass1.zip": {
+        "fecha": "2026-11-26T00:42:55Z",
+        "version": "",
+        "marcas": [
+            "/switch/masseffect-nx/masseffect-nx.nro",
+            "/switch/masseffect-nx/cache/masseffect_native_pipelines.bin",
+            "/switch/masseffect-nx/cache/vfs_index_game_root.bin"
+        ],
+        "bytes": 3640143692,
+        "descomprimido": 4583526482,
+        "icono": "92c5b98822f2.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mass.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f4f21cdf1b90.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass2.zip": {
+        "fecha": "2026-11-26T00:48:46Z",
+        "version": "",
+        "marcas": [
+            "/switch/masseffect-nx/game_root/Layer0/ISACT/music_bunker.isb",
+            "/switch/masseffect-nx/game_root/Layer0/ISACT/music_bunker.xxx",
+            "/switch/masseffect-nx/game_root/Layer0/ISACT/music_knossos.isb"
+        ],
+        "bytes": 3306462078,
+        "descomprimido": 3306106940,
+        "icono": "92c5b98822f2.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mass.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/f4f21cdf1b90.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip": {
         "fecha": "2026-11-23T07:27:11Z",
@@ -2888,6 +3076,22 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh4.zip": {
+        "fecha": "2026-11-25T21:54:35Z",
+        "version": "",
+        "marcas": [
+            "/switch/sh4-nx/sh4-nx.nro",
+            "/switch/sh4-nx/data/and.bin",
+            "/switch/sh4-nx/data/and_z.bin"
+        ],
+        "bytes": 3680414627,
+        "descomprimido": 3680283833,
+        "icono": "69ab698ff687.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh4.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d7daa3128d33.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": {
         "fecha": "2026-10-26T03:45:44Z",
         "version": "",
@@ -2967,5 +3171,21 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/be810d5f2a04.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh1.zip": {
+        "fecha": "2026-11-23T01:30:30Z",
+        "version": "",
+        "marcas": [
+            "/switch/Silent_Hill/SilentHillPC.nro",
+            "/switch/Silent_Hill/gamedata/config.cfg",
+            "/switch/Silent_Hill/gamedata/PS1_INTRO.AVI"
+        ],
+        "bytes": 645618479,
+        "descomprimido": 645615553,
+        "icono": "67fb4ccb1743.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/36bb26316524.jpg",
+        "revisado": 4
     }
 }
