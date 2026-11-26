@@ -842,6 +842,70 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1d8edefbbdb4.jpg",
         "revisado": 4
     },
+    "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip": {
+        "fecha": "2026-11-26T04:13:25Z",
+        "version": "new",
+        "marcas": [
+            "/switch/b3x/b3x.nro",
+            "/switch/b3x/b3x_env.txt",
+            "/switch/b3x/game/Data/After.kfs"
+        ],
+        "bytes": 1774211978,
+        "descomprimido": 2253235851,
+        "icono": "bc4975c5b56b.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/27fee486790c.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip": {
+        "fecha": "2026-11-26T04:13:37Z",
+        "version": "new",
+        "marcas": [
+            "/switch/b3x/game/ovid/TkdTrp02.xmv",
+            "/switch/b3x/game/ovid/TkdTrp03.xmv",
+            "/switch/b3x/game/ovid/TkdTrp04.xmv"
+        ],
+        "bytes": 236187536,
+        "descomprimido": 273396156,
+        "icono": "bc4975c5b56b.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/27fee486790c.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip": {
+        "fecha": "2026-11-26T04:14:44Z",
+        "version": "new",
+        "marcas": [
+            "/switch/b3x/b3x.nro",
+            "/switch/b3x/b3x_env.txt",
+            "/switch/b3x/save/Partition0.img"
+        ],
+        "bytes": 18890598,
+        "descomprimido": 50532956,
+        "icono": "bc4975c5b56b.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/27fee486790c.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip": {
+        "fecha": "2026-11-26T04:14:43Z",
+        "version": "new",
+        "marcas": [
+            "/switch/b3x/game/Tracks/AS/C1_V1/CRASH1.RWS",
+            "/switch/b3x/game/Tracks/AS/C1_V1/CRASH2.RWS",
+            "/switch/b3x/game/Tracks/AS/C1_V1/CRASH3.RWS"
+        ],
+        "bytes": 1525427229,
+        "descomprimido": 1955601407,
+        "icono": "bc4975c5b56b.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/27fee486790c.jpg",
+        "revisado": 4
+    },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
         "fecha": "2026-09-15T20:15:52Z",
         "version": "21.2.0",
@@ -1701,22 +1765,6 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/6ef7a62499bf.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mp4.png"
-    },
-    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip": {
-        "fecha": "2026-10-22T01:27:09Z",
-        "version": "",
-        "marcas": [
-            "/switch/b3x/b3x.nro",
-            "/switch/b3x/b3x_env.txt",
-            "/switch/b3x/game/dashupdate.xbe"
-        ],
-        "bytes": 2526822756,
-        "descomprimido": 2526677498,
-        "icono": "89a1f5d924fe.jpg",
-        "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/1f6b9a4cf02b.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/b3x.png"
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip": {
         "fecha": "2026-10-21T20:57:28Z",
