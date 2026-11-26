@@ -145,9 +145,9 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro": {
-        "fecha": "2026-11-25T20:10:05Z",
-        "version": "v3.4-bacan",
-        "nro_version": "3.4 OQB",
+        "fecha": "2026-11-26T06:15:43Z",
+        "version": "v3.5-bacan",
+        "nro_version": "3.5 OQB",
         "icono": "2a79c5b6eb7e.jpg",
         "revisado": 4
     },
@@ -1010,6 +1010,22 @@
         ],
         "bytes": 2402690048,
         "descomprimido": 2614362112,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-5.zip": {
+        "fecha": "2026-11-26T05:46:14Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/zone/all/mp_hydro.ff",
+            "/switch/t6game/zone/all/dlc4.ipak",
+            "/switch/t6game/zone/all/dlc0.ipak"
+        ],
+        "bytes": 1684309010,
+        "descomprimido": 1839955840,
         "icono": "64336fefd255.jpg",
         "icono_v": 3,
         "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
