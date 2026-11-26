@@ -184,6 +184,8 @@
         "Burnout 3: Takedown (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip",
         "Burnout 3: Takedown [Actualización 0.2.4] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip",
         "Burnout 3: Takedown [Español] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip",
+        "Ultimate Spider-Man": "https://github.com/erobles546/apps/releases/download/new/U-ES.zip",
+        "Ultimate Spider-Man [Inglés] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/U-EN.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -1346,6 +1348,28 @@
                 }
             ],
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png"
+        },
+        "Ultimate Spider-Man": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/U-ES.zip"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Español",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/U-ES.zip"
+                    ],
+                    "grupo": "Idioma"
+                },
+                {
+                    "nombre": "Inglés",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/U-EN.zip"
+                    ],
+                    "grupo": "Idioma"
+                }
+            ],
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg"
         }
     },
     "ports_cambios": {
@@ -1394,6 +1418,8 @@
         "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
         "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
         "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "https://github.com/erobles546/apps/releases/download/new/U-ES.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
+        "https://github.com/erobles546/apps/releases/download/new/U-EN.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
@@ -1616,6 +1642,27 @@
                         "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip"
                     ],
                     "opcional": true
+                }
+            ]
+        },
+        "Ultimate Spider-Man": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/U-ES.zip"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Español",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/U-ES.zip"
+                    ],
+                    "grupo": "Idioma"
+                },
+                {
+                    "nombre": "Inglés",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/U-EN.zip"
+                    ],
+                    "grupo": "Idioma"
                 }
             ]
         },
