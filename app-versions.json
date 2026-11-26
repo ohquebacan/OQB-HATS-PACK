@@ -906,6 +906,38 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/27fee486790c.jpg",
         "revisado": 4
     },
+    "https://github.com/erobles546/apps/releases/download/new/U-ES.zip": {
+        "fecha": "2026-11-26T04:32:18Z",
+        "version": "new",
+        "marcas": [
+            "/switch/usm/usm_switch.nro",
+            "/switch/usm/Data/game.ini",
+            "/switch/usm/Data/movies/pc/ATVI spin logo 640 none.dat"
+        ],
+        "bytes": 1361428434,
+        "descomprimido": 2042033353,
+        "icono": "98edcfca0b96.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4e79feb3ba07.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/U-EN.zip": {
+        "fecha": "2026-11-26T04:31:23Z",
+        "version": "new",
+        "marcas": [
+            "/switch/usm/usm_switch.nro",
+            "/switch/usm/Data/Sound/pc/CITY_ARENA/ARACHNO_MAN_COSTUME.WBK",
+            "/switch/usm/Data/Sound/pc/CITY_ARENA/ARACHNO_MAN_COSTUME_EN.WBK"
+        ],
+        "bytes": 1077270750,
+        "descomprimido": 1676733722,
+        "icono": "98edcfca0b96.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4e79feb3ba07.jpg",
+        "revisado": 4
+    },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
         "fecha": "2026-09-15T20:15:52Z",
         "version": "21.2.0",
