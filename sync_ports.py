@@ -133,7 +133,21 @@ def propios_de(catalogo):
             planos[f"{nombre} (PARTE {i})" if len(partes) > 1 else nombre] = url
             if isinstance(datos.get("icono"), str):
                 iconos[url] = datos["icono"]
+        # DLC y actualizaciones de un port propio: van en la misma ficha, en su
+        # sección (OQB Updater 4.8.0). En apps_ports e iconos_ports igual que las
+        # partes, para que se midan y tengan ícono; agrupar() no los separa.
+        for clave in ("dlc", "actualizaciones"):
+            extras = [u for u in datos.get(clave, []) if isinstance(u, str) and u.startswith("https://")]
+            for i, url in enumerate(extras, 1):
+                planos[f"{nombre} [{clave}] (PARTE {i})"] = url
+                if isinstance(datos.get("icono"), str):
+                    iconos[url] = datos["icono"]
+            if extras:
+                propios_de.extras.setdefault(nombre, OrderedDict())[clave] = extras
     return planos, iconos
+
+
+propios_de.extras = OrderedDict()
 
 
 def main():
@@ -188,6 +202,11 @@ def main():
         nuevo["apps_ports"] = ports
     nuevo["iconos_ports"] = iconos
     nuevo["ports"] = agrupar(ports)
+    for nombre, extras in propios_de.extras.items():
+        for clave, urls in extras.items():
+            nuevo["ports"].pop(f"{nombre} [{clave}]", None)
+            if nombre in nuevo["ports"]:
+                nuevo["ports"][nombre][clave] = urls
 
     if nuevo == catalogo:
         print("sin cambios")

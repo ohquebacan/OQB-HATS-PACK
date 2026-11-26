@@ -172,6 +172,14 @@
         "Mario Kart Wii (KartPadNX) (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip",
         "Mario Kart Wii (KartPadNX) (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip",
         "Crash Twinsanity (reNsanity)": "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip",
+        "Asura's Wrath (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip",
+        "Asura's Wrath (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip",
+        "Asura's Wrath (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
+        "Asura's Wrath (PARTE 4)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip",
+        "Asura's Wrath [dlc] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
+        "Asura's Wrath [dlc] (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
+        "Asura's Wrath [dlc] (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip",
+        "Asura's Wrath [actualizaciones] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -222,6 +230,7 @@
         "Castlevania: Symphony of the Night": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
         "Soul Calibur 2": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip",
         "Luigi's Mansion": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip",
+        "Starfox Adventures": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sfa.zip",
         "Super Paper Mario": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip",
         "Super Mario Strikers": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip",
         "Mario Party 4": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip",
@@ -234,6 +243,7 @@
         "Mario Kart Double Dash": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip",
         "Mario Kart 64": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip",
         "Jackie Chan Stuntmaster": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip",
+        "Splinter Cell Pandora Tomorrow": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/scpt.zip",
         "Plants vs Zombies Ultimate": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip",
         "Halo: Combat Evolved": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip",
         "Super Smash Bros Remix": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip",
@@ -271,6 +281,8 @@
         "Bad Piggies": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip",
         "The Simpsons: The Game": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip",
         "The Simpsons: Hit And Run": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
+        "Mass Effect (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass1.zip",
+        "Mass Effect (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass2.zip",
         "Blur (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip",
         "Blur (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip",
         "Ultimate Marvel vs Capcom 3 (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip",
@@ -308,12 +320,13 @@
         "Silent Hill: Homecoming": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip",
         "Silent Hill: Downpour (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip",
         "Silent Hill: Downpour (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip",
+        "Silent Hill 4: The Room": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh4.zip",
         "Silent Hill 3 (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip",
         "Silent Hill 3 (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip",
         "Silent Hill 2: Enhanced Edition (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip",
         "Silent Hill 2: Enhanced Edition (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip",
         "Silent Hill 2: Enhanced Edition (PARTE 3)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip",
-        "Silent Hill 1 (Actualizado)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip"
+        "Silent Hill 1 (Actualizado)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh1.zip"
     },
     "apps_oqb": {
         "Bacán Shop": "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/Bacan-Shop.nro",
@@ -1265,6 +1278,23 @@
                 "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip"
             ],
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/crash-twinsanity.png"
+        },
+        "Asura's Wrath": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip"
+            ],
+            "dlc": [
+                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip"
+            ],
+            "actualizaciones": [
+                "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
+            ],
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png"
         }
     },
     "ports_cambios": {
@@ -1301,6 +1331,14 @@
         "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg",
         "https://github.com/erobles546/apps/releases/download/new/KP-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/mario-kart-wii.jpg",
         "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/crash-twinsanity.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
@@ -1350,6 +1388,7 @@
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/soulc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/soulc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/luigi.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sfa.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sfa.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/spmw.png",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/skrs.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mp4.png",
@@ -1362,6 +1401,7 @@
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mkdd.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mkdd.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mk64.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mk64.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/jack.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/scpt.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/scpt.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pvzu.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pvzu.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/hce.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hce.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/smashr.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smashr.png",
@@ -1399,6 +1439,8 @@
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/bp.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bp.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/simpg.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simpg.png",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mass.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mass.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/blur.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/blur.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mvc31.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mvc3.png",
@@ -1436,12 +1478,13 @@
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shome.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh4.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh4.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh3.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh32.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh3.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh21.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh22.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh23.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh2.png",
-        "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png",
         "https://github.com/erobles546/apps/releases/download/new/SW.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/wind-waker-hd.jpg"
     },
     "ports": {
@@ -1455,6 +1498,22 @@
         "Crash Twinsanity (reNsanity)": {
             "partes": [
                 "https://github.com/erobles546/apps/releases/download/new/Nsanity.zip"
+            ]
+        },
+        "Asura's Wrath": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip"
+            ],
+            "dlc": [
+                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip"
+            ],
+            "actualizaciones": [
+                "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
             ]
         },
         "9th SEP: Grand Theft Auto V": {
@@ -1704,6 +1763,11 @@
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/luigi.zip"
             ]
         },
+        "Starfox Adventures": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sfa.zip"
+            ]
+        },
         "Super Paper Mario": {
             "partes": [
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip"
@@ -1762,6 +1826,11 @@
         "Jackie Chan Stuntmaster": {
             "partes": [
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/jack.zip"
+            ]
+        },
+        "Splinter Cell Pandora Tomorrow": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/scpt.zip"
             ]
         },
         "Plants vs Zombies Ultimate": {
@@ -1949,6 +2018,12 @@
                 "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip"
             ]
         },
+        "Mass Effect": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mass2.zip"
+            ]
+        },
         "Blur": {
             "partes": [
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/blur1.zip",
@@ -2058,6 +2133,11 @@
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip"
             ]
         },
+        "Silent Hill 4: The Room": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh4.zip"
+            ]
+        },
         "Silent Hill 3": {
             "partes": [
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh31.zip",
@@ -2073,7 +2153,7 @@
         },
         "Silent Hill 1 (Actualizado)": {
             "partes": [
-                "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sh1.zip"
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sh1.zip"
             ]
         }
     }
