@@ -133,17 +133,41 @@ def propios_de(catalogo):
             planos[f"{nombre} (PARTE {i})" if len(partes) > 1 else nombre] = url
             if isinstance(datos.get("icono"), str):
                 iconos[url] = datos["icono"]
-        # DLC y actualizaciones de un port propio: van en la misma ficha, en su
-        # sección (OQB Updater 4.8.0). En apps_ports e iconos_ports igual que las
-        # partes, para que se midan y tengan ícono; agrupar() no los separa.
-        for clave in ("dlc", "actualizaciones"):
-            extras = [u for u in datos.get(clave, []) if isinstance(u, str) and u.startswith("https://")]
-            for i, url in enumerate(extras, 1):
-                planos[f"{nombre} [{clave}] (PARTE {i})"] = url
-                if isinstance(datos.get("icono"), str):
-                    iconos[url] = datos["icono"]
-            if extras:
-                propios_de.extras.setdefault(nombre, OrderedDict())[clave] = extras
+        # Secciones de un port propio (OQB Updater 4.8.0): el juego base, un DLC,
+        # una actualizacion, un pack de idioma o versiones que se excluyen entre
+        # si (mismo "grupo": Español / Inglés). Van todas en apps_ports e
+        # iconos_ports para que se midan y tengan ícono; "dlc" y
+        # "actualizaciones" sueltos son la forma corta de dos secciones opcionales.
+        secciones = []
+        for sec in datos.get("secciones", []) or []:
+            if isinstance(sec, dict) and isinstance(sec.get("nombre"), str):
+                secciones.append(sec)
+        if not secciones and (datos.get("dlc") or datos.get("actualizaciones")):
+            secciones.append({"nombre": "Juego base", "partes": partes})
+            if datos.get("dlc"):
+                secciones.append({"nombre": "DLC", "partes": datos["dlc"], "opcional": True})
+            if datos.get("actualizaciones"):
+                secciones.append({"nombre": "Actualización", "partes": datos["actualizaciones"], "opcional": True})
+        if secciones:
+            limpias = []
+            for sec in secciones:
+                urls = [u for u in sec.get("partes", []) if isinstance(u, str) and u.startswith("https://")]
+                if not urls:
+                    continue
+                limpia = OrderedDict(nombre=sec["nombre"], partes=urls)
+                if isinstance(sec.get("grupo"), str) and sec["grupo"]:
+                    limpia["grupo"] = sec["grupo"]
+                elif sec.get("opcional"):
+                    limpia["opcional"] = True
+                    if sec.get("marcada") is False:
+                        limpia["marcada"] = False
+                limpias.append(limpia)
+                for i, url in enumerate(urls, 1):
+                    if url not in partes:
+                        planos[f"{nombre} [{sec['nombre']}] (PARTE {i})"] = url
+                    if isinstance(datos.get("icono"), str):
+                        iconos[url] = datos["icono"]
+            propios_de.extras[nombre] = limpias
     return planos, iconos
 
 
@@ -202,11 +226,22 @@ def main():
         nuevo["apps_ports"] = ports
     nuevo["iconos_ports"] = iconos
     nuevo["ports"] = agrupar(ports)
-    for nombre, extras in propios_de.extras.items():
-        for clave, urls in extras.items():
-            nuevo["ports"].pop(f"{nombre} [{clave}]", None)
-            if nombre in nuevo["ports"]:
-                nuevo["ports"][nombre][clave] = urls
+    # Con secciones: "partes" queda con lo que instala una version vieja de la
+    # app (lo obligatorio y la primera de cada grupo) y "secciones" con todo.
+    for nombre, secciones in propios_de.extras.items():
+        for clave in [c for c in nuevo["ports"] if c.startswith(f"{nombre} [")]:
+            nuevo["ports"].pop(clave)
+        grupos, base = set(), []
+        for sec in secciones:
+            if sec.get("opcional"):
+                continue
+            if sec.get("grupo"):
+                if sec["grupo"] in grupos:
+                    continue
+                grupos.add(sec["grupo"])
+            base.extend(sec["partes"])
+        entrada = OrderedDict(partes=base, secciones=secciones)
+        nuevo["ports"][nombre] = entrada
 
     if nuevo == catalogo:
         print("sin cambios")

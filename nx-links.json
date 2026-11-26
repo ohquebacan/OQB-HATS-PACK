@@ -176,10 +176,10 @@
         "Asura's Wrath (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip",
         "Asura's Wrath (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
         "Asura's Wrath (PARTE 4)": "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip",
-        "Asura's Wrath [dlc] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
-        "Asura's Wrath [dlc] (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
-        "Asura's Wrath [dlc] (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip",
-        "Asura's Wrath [actualizaciones] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip",
+        "Asura's Wrath [DLC] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
+        "Asura's Wrath [DLC] (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
+        "Asura's Wrath [DLC] (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip",
+        "Asura's Wrath [Actualización 1.0.2] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -1286,13 +1286,32 @@
                 "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
                 "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip"
             ],
-            "dlc": [
-                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
-                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
-                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip"
-            ],
-            "actualizaciones": [
-                "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
+            "secciones": [
+                {
+                    "nombre": "Juego base",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip"
+                    ]
+                },
+                {
+                    "nombre": "DLC",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip"
+                    ],
+                    "opcional": true
+                },
+                {
+                    "nombre": "Actualización 1.0.2",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
+                    ],
+                    "opcional": true
+                }
             ],
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png"
         }
@@ -1507,13 +1526,32 @@
                 "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
                 "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip"
             ],
-            "dlc": [
-                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
-                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
-                "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip"
-            ],
-            "actualizaciones": [
-                "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
+            "secciones": [
+                {
+                    "nombre": "Juego base",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-2.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-3.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-Base-PARTE-4.zip"
+                    ]
+                },
+                {
+                    "nombre": "DLC",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip"
+                    ],
+                    "opcional": true
+                },
+                {
+                    "nombre": "Actualización 1.0.2",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
+                    ],
+                    "opcional": true
+                }
             ]
         },
         "9th SEP: Grand Theft Auto V": {
