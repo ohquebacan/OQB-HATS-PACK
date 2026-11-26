@@ -1064,16 +1064,16 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
         "revisado": 4
     },
-    "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip": {
-        "fecha": "2026-11-26T05:48:04Z",
+    "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip": {
+        "fecha": "2026-11-26T07:54:59Z",
         "version": "new",
         "marcas": [
             "/switch/t6game/t6game.nro",
             "/switch/t6game/t6mp.nro",
             "/switch/t6game/t6zm.nro"
         ],
-        "bytes": 64851140,
-        "descomprimido": 135612380,
+        "bytes": 65575744,
+        "descomprimido": 106951680,
         "icono": "64336fefd255.jpg",
         "icono_v": 3,
         "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
