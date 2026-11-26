@@ -938,6 +938,132 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4e79feb3ba07.jpg",
         "revisado": 4
     },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip": {
+        "fecha": "2026-11-26T05:41:46Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/t6zm.nro",
+            "/switch/t6game/t6mp.nro",
+            "/switch/t6game/t6game.nro"
+        ],
+        "bytes": 1600118959,
+        "descomprimido": 1669781903,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip": {
+        "fecha": "2026-11-26T05:42:55Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/sound/mpl_code_post_gfx.english.sabs",
+            "/switch/t6game/sound/zmb_buried.all.sabs",
+            "/switch/t6game/sound/mpl_common.all.sabs"
+        ],
+        "bytes": 1836887801,
+        "descomprimido": 1884024832,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip": {
+        "fecha": "2026-11-26T05:43:59Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/sound/mpl_code_post_gfx.all.sabs",
+            "/switch/t6game/sound/mpl_carrier.all.sabs",
+            "/switch/t6game/sound/mpl_castaway.all.sabl"
+        ],
+        "bytes": 1624917973,
+        "descomprimido": 1720989696,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip": {
+        "fecha": "2026-11-26T05:45:03Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/sound/zmb_tomb.english.sabs",
+            "/switch/t6game/sound/zmb_tomb_load.english.sabs",
+            "/switch/t6game/video/zm_buried_load.webm"
+        ],
+        "bytes": 1801157051,
+        "descomprimido": 1928269267,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip": {
+        "fecha": "2026-11-26T05:40:44Z",
+        "version": "",
+        "marcas": [
+            "/switch/t6game/zone/all/base.ipak"
+        ],
+        "bytes": 2402690048,
+        "descomprimido": 2614362112,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip": {
+        "fecha": "2026-11-26T05:47:20Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/zone/all/dlczm3.ipak",
+            "/switch/t6game/zone/all/dlczm2.ipak",
+            "/switch/t6game/zone/all/faction_cd_mp.ff"
+        ],
+        "bytes": 1805326089,
+        "descomprimido": 1959400960,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip": {
+        "fecha": "2026-11-26T05:48:01Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/zone/all/mp_turbine.ff",
+            "/switch/t6game/zone/all/mp_uplink.ff",
+            "/switch/t6game/zone/all/mp_vertigo.ff"
+        ],
+        "bytes": 989853341,
+        "descomprimido": 1027446170,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
+    "https://github.com/erobles546/apps/releases/download/new/C-Update-0.2.2.zip": {
+        "fecha": "2026-11-26T05:48:04Z",
+        "version": "new",
+        "marcas": [
+            "/switch/t6game/t6game.nro",
+            "/switch/t6game/t6mp.nro",
+            "/switch/t6game/t6zm.nro"
+        ],
+        "bytes": 64851140,
+        "descomprimido": 135612380,
+        "icono": "64336fefd255.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/cod-black-ops-2.jpg",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/082f09ff66e0.jpg",
+        "revisado": 4
+    },
     "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": {
         "fecha": "2026-09-15T20:15:52Z",
         "version": "21.2.0",
