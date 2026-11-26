@@ -254,6 +254,11 @@ def main():
             base.extend(sec["partes"])
         entrada = OrderedDict(partes=base, secciones=secciones)
         nuevo["ports"][nombre] = entrada
+    # Accesos directos propios (4.8.1): una app con su ícono cada uno, en vez de uno solo.
+    for nombre, datos in (catalogo.get("ports_propios") or {}).items():
+        accesos = [a for a in datos.get("accesos", []) or [] if isinstance(a, dict) and isinstance(a.get("nro"), str)]
+        if accesos and nombre in nuevo["ports"]:
+            nuevo["ports"][nombre]["accesos"] = accesos
 
     if nuevo == catalogo:
         print("sin cambios")
