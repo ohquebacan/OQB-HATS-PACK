@@ -198,8 +198,20 @@ def main():
               "probablemente se movió o se reemplazó. No se cambia nada (revisar a mano).")
         return 0
 
+    # Un propio con el mismo nombre que uno de alucardiio-yt lo reemplaza: si
+    # su link cambia, el nuestro no se entera solo. Que quede a la vista.
+    for nombre in (catalogo.get("ports_propios") or {}):
+        de_ellos = [u for n, u in ports.items() if n == nombre or PARTE.match(n) and PARTE.match(n).group(1).strip() == nombre]
+        if de_ellos:
+            print(f"aviso: «{nombre}» es propio y reemplaza al de alucardiio-yt ({', '.join(de_ellos)})")
     # Los propios primero, después los de alucardiio-yt.
-    ports = OrderedDict(list(propios.items()) + [(n, u) for n, u in ports.items() if n not in propios])
+    nombres_propios = set(catalogo.get("ports_propios") or {})
+
+    def es_propio(n):
+        m = PARTE.match(n)
+        return n in propios or n in nombres_propios or bool(m and m.group(1).strip() in nombres_propios)
+
+    ports = OrderedDict(list(propios.items()) + [(n, u) for n, u in ports.items() if not es_propio(n)])
     iconos = OrderedDict(list(iconos_propios.items()) + [(u, i) for u, i in iconos.items() if u not in iconos_propios])
     urls_nuevas = set(ports.values())
 

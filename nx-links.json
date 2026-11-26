@@ -180,6 +180,10 @@
         "Asura's Wrath [DLC] (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip",
         "Asura's Wrath [DLC] (PARTE 3)": "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip",
         "Asura's Wrath [Actualización 1.0.2] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip",
+        "Burnout 3: Takedown (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip",
+        "Burnout 3: Takedown (PARTE 2)": "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip",
+        "Burnout 3: Takedown [Actualización 0.2.4] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip",
+        "Burnout 3: Takedown [Español] (PARTE 1)": "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip",
         "(SOLO ACTUALIZACION) 9th SEP: Grand Theft Auto V": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
         "God of War Collection (1 + 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
         "The King of Fighters 2002: Ultimate Match": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip",
@@ -234,7 +238,6 @@
         "Super Paper Mario": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/spmw.zip",
         "Super Mario Strikers": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/skrs.zip",
         "Mario Party 4": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip",
-        "Burnout 3: Takedown": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip",
         "Skate 3 (Tarda en arrancar)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/skate3.zip",
         "Def Jam: Fight For NY": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dfj.zip",
         "PES 2021": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pes21.zip",
@@ -1314,6 +1317,35 @@
                 }
             ],
             "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png"
+        },
+        "Burnout 3: Takedown": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Juego base",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip"
+                    ]
+                },
+                {
+                    "nombre": "Actualización 0.2.4",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip"
+                    ]
+                },
+                {
+                    "nombre": "Español",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip"
+                    ],
+                    "opcional": true
+                }
+            ],
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png"
         }
     },
     "ports_cambios": {
@@ -1358,6 +1390,10 @@
         "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
         "https://github.com/erobles546/apps/releases/download/new/A-DLC-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
         "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/asuras-wrath.png",
+        "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
+        "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
@@ -1549,6 +1585,35 @@
                     "nombre": "Actualización 1.0.2",
                     "partes": [
                         "https://github.com/erobles546/apps/releases/download/new/A-Update-1.0.2.zip"
+                    ],
+                    "opcional": true
+                }
+            ]
+        },
+        "Burnout 3: Takedown": {
+            "partes": [
+                "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip",
+                "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip",
+                "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Juego base",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-1.zip",
+                        "https://github.com/erobles546/apps/releases/download/new/B-Base-PARTE-2.zip"
+                    ]
+                },
+                {
+                    "nombre": "Actualización 0.2.4",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/B-Update-0.2.4.zip"
+                    ]
+                },
+                {
+                    "nombre": "Español",
+                    "partes": [
+                        "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip"
                     ],
                     "opcional": true
                 }
@@ -1819,11 +1884,6 @@
         "Mario Party 4": {
             "partes": [
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/mp4.zip"
-            ]
-        },
-        "Burnout 3: Takedown": {
-            "partes": [
-                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/b3x.zip"
             ]
         },
         "Skate 3 (Tarda en arrancar)": {
