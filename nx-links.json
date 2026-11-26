@@ -1412,7 +1412,7 @@
                     ]
                 }
             ],
-            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
+            "icono": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
             "accesos": [
                 {
                     "nro": "/switch/t6game/t6mp.nro",
@@ -1473,15 +1473,15 @@
         "https://github.com/erobles546/apps/releases/download/new/B-Espanol.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/burnout-3.png",
         "https://github.com/erobles546/apps/releases/download/new/U-ES.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
         "https://github.com/erobles546/apps/releases/download/new/U-EN.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ultimate-spider-man.jpg",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-5.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
-        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-multijugador.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-1.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-3.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-4.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://pub-b56ab034fab943febb4e39eb1d5d4ca0.r2.dev/C-Base-IPAK.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-5.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-6.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Base-PARTE-7.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
+        "https://github.com/erobles546/apps/releases/download/new/C-Update-0.4.2.zip": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/bo2-online.png",
         "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/kof2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png",
