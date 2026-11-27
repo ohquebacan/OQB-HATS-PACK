@@ -145,9 +145,9 @@
         "revisado": 4
     },
     "https://github.com/ohquebacan/JKSV-BACAN/releases/latest/download/JKSV.nro": {
-        "fecha": "2026-11-26T06:15:43Z",
-        "version": "v3.5-bacan",
-        "nro_version": "3.5 OQB",
+        "fecha": "2026-11-27T06:40:33Z",
+        "version": "v3.8-bacan",
+        "nro_version": "3.8 OQB",
         "icono": "2a79c5b6eb7e.jpg",
         "revisado": 4
     },
@@ -1145,20 +1145,20 @@
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/coloso.png"
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip": {
-        "fecha": "2026-11-13T18:43:10Z",
+        "fecha": "2026-11-27T01:46:29Z",
         "version": "",
         "marcas": [
             "/switch/manhunt1_nx/manhunt.nro",
             "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1A.RIB",
             "/switch/manhunt1_nx/game/audio/xbox/EXECUTE/AXE/AXE1B.RIB"
         ],
-        "bytes": 2500756759,
-        "descomprimido": 2500529231,
-        "icono": "5d204633c387.jpg",
+        "bytes": 2500927128,
+        "descomprimido": 2500698296,
+        "icono": "0a3786cc74a9.jpg",
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/4f73ef6188f3.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/manh.png"
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/manh.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/ea9f49e5cfd3.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/metp2.zip": {
         "fecha": "2026-11-26T01:39:15Z",
@@ -2788,6 +2788,54 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/mvc3.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dmc1.zip": {
+        "fecha": "2026-11-27T01:07:46Z",
+        "version": "",
+        "marcas": [
+            "/switch/dmc_devil/dmc_devil.nro",
+            "/switch/dmc_devil/cache/vfs_index_game.bin",
+            "/switch/dmc_devil/cache/vfs_index_Update.bin"
+        ],
+        "bytes": 3262584107,
+        "descomprimido": 3619320048,
+        "icono": "b2e245e1f097.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dmc.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/430f7b12de6e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dmc2.zip": {
+        "fecha": "2026-11-27T01:17:40Z",
+        "version": "",
+        "marcas": [
+            "/switch/dmc_devil/game/DevilGame/CookedXbox360/AdvTut_BabyRage_SF.xxx",
+            "/switch/dmc_devil/game/DevilGame/CookedXbox360/AdvTut_BlueRage_SF.xxx",
+            "/switch/dmc_devil/game/DevilGame/CookedXbox360/AdvTut_BlueShield_SF.xxx"
+        ],
+        "bytes": 4140902696,
+        "descomprimido": 4325178037,
+        "icono": "b2e245e1f097.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dmc.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/430f7b12de6e.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dmc3.zip": {
+        "fecha": "2026-11-27T01:18:51Z",
+        "version": "",
+        "marcas": [
+            "/switch/dmc_devil/game/DevilGame/Movies/cs00_020_OpeningCredits.bik",
+            "/switch/dmc_devil/game/DevilGame/Movies/cs01_010_WakingUp_A_BINK_QT.bik",
+            "/switch/dmc_devil/game/DevilGame/Movies/cs01_050_Coat.bik"
+        ],
+        "bytes": 1830172308,
+        "descomprimido": 1830153576,
+        "icono": "b2e245e1f097.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/dmc.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/430f7b12de6e.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh11.zip": {
         "fecha": "2026-11-18T21:37:12Z",
         "version": "",
@@ -2819,6 +2867,38 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0234bfe4ecf.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fh1.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nuts1.zip": {
+        "fecha": "2026-11-27T01:32:50Z",
+        "version": "",
+        "marcas": [
+            "/switch/renut-nx/renut-nx.nro",
+            "/switch/renut-nx/deko3d_glsl.bin",
+            "/switch/renut-nx/deko3d_glsl.dict"
+        ],
+        "bytes": 3844604898,
+        "descomprimido": 3844157192,
+        "icono": "9c99907ee4d4.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nuts.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7ef59b127fdc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nuts2.zip": {
+        "fecha": "2026-11-27T01:34:58Z",
+        "version": "",
+        "marcas": [
+            "/switch/renut-nx/game_root/Bundle/50/01ca49",
+            "/switch/renut-nx/game_root/Bundle/50/01d1b6",
+            "/switch/renut-nx/game_root/Bundle/50/01ede7"
+        ],
+        "bytes": 3285425230,
+        "descomprimido": 3285394816,
+        "icono": "9c99907ee4d4.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nuts.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/7ef59b127fdc.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip": {
         "fecha": "2026-11-23T05:38:55Z",
