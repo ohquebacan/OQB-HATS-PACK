@@ -3330,6 +3330,70 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los1.zip": {
+        "fecha": "2026-11-27T19:14:04Z",
+        "version": "",
+        "marcas": [
+            "/switch/los1-nx/los.nro",
+            "/switch/los1-nx/cache/vfs_index_game_root.bin",
+            "/switch/los1-nx/cache/vfs_index_game_root_disc2.bin"
+        ],
+        "bytes": 3596327906,
+        "descomprimido": 3596313234,
+        "icono": "9f3e5b87f5b9.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/a04021ca012d.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los2.zip": {
+        "fecha": "2026-11-27T19:09:58Z",
+        "version": "",
+        "marcas": [
+            "/switch/los1-nx/game_root/Data01.packed",
+            "/switch/los1-nx/game_root/Video/1_1_Intro.bik",
+            "/switch/los1-nx/game_root/Video/1_3_1_Sec2_Dream_Pan.bik"
+        ],
+        "bytes": 3440323715,
+        "descomprimido": 3440244629,
+        "icono": "9f3e5b87f5b9.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/a04021ca012d.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los3.zip": {
+        "fecha": "2026-11-27T19:15:41Z",
+        "version": "",
+        "marcas": [
+            "/switch/los1-nx/game_root_disc2/Data00.packed",
+            "/switch/los1-nx/game_root_disc2/Data01.packed",
+            "/switch/los1-nx/game_root_disc2/Default.xex"
+        ],
+        "bytes": 2798334596,
+        "descomprimido": 2798332126,
+        "icono": "9f3e5b87f5b9.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/a04021ca012d.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los4.zip": {
+        "fecha": "2026-11-27T19:18:41Z",
+        "version": "",
+        "marcas": [
+            "/switch/los1-nx/game_root_disc2/Video/11_7_1_DracoApp.bik",
+            "/switch/los1-nx/game_root_disc2/Video/11_7_1_DracoApp.bik.terabox.uploading.cfg",
+            "/switch/los1-nx/game_root_disc2/Video/11_7_1_DracoApp.MSErum"
+        ],
+        "bytes": 3749240814,
+        "descomprimido": 3749147804,
+        "icono": "9f3e5b87f5b9.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/a04021ca012d.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip": {
         "fecha": "2026-11-23T03:37:32Z",
         "version": "",

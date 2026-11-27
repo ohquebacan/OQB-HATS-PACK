@@ -336,6 +336,10 @@
         "Team Fortress 2 (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip",
         "Team Fortress 2 (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip",
         "Team Fortress 2 (PARTE 3)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip",
+        "Castlevania: Lords of Shadow (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los1.zip",
+        "Castlevania: Lords of Shadow (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los2.zip",
+        "Castlevania: Lords of Shadow (PARTE 3)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los3.zip",
+        "Castlevania: Lords of Shadow (PARTE 4)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los4.zip",
         "Silent Hill: Homecoming": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip",
         "Silent Hill: Downpour (PARTE 1)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip",
         "Silent Hill: Downpour (PARTE 2)": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip",
@@ -1628,6 +1632,10 @@
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los1.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los2.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los3.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
+        "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los4.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/los.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shome.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shome.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd11.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png",
         "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/shd12.zip": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/shdown.png",
@@ -2394,6 +2402,14 @@
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf21.zip",
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf22.zip",
                 "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip"
+            ]
+        },
+        "Castlevania: Lords of Shadow": {
+            "partes": [
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los1.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los2.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los3.zip",
+                "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los4.zip"
             ]
         },
         "Silent Hill: Homecoming": {
