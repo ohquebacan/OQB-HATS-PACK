@@ -178,10 +178,10 @@
         "revisado": 4
     },
     "https://github.com/xlanor/akira/releases/latest/download/akira.nro": {
-        "fecha": "2026-11-16T20:54:27Z",
-        "version": "v0.7.0",
-        "nro_version": "0.7.0",
-        "icono": "de937fceb30d.jpg",
+        "fecha": "2026-11-28T00:08:55Z",
+        "version": "v1.0.4",
+        "nro_version": "1.0.4",
+        "icono": "f280a4bed424.jpg",
         "revisado": 4
     },
     "https://github.com/ohquebacan/Aplicaciones/releases/latest/download/chiaki.nro": {
@@ -1096,6 +1096,21 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/twin.zip": {
+        "fecha": "2026-11-28T00:44:52Z",
+        "version": "",
+        "marcas": [
+            "/switch/reNsanity/reNsanity.nro",
+            "/switch/reNsanity/game.iso"
+        ],
+        "bytes": 2581786820,
+        "descomprimido": 2581786076,
+        "icono": "e28d1acf823b.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/twin.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/10ca2fec1eb8.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip": {
         "fecha": "2026-11-18T03:05:21Z",
         "version": "",
@@ -1129,20 +1144,20 @@
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/kof2.png"
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/coloso.zip": {
-        "fecha": "2026-11-22T19:50:42Z",
+        "fecha": "2026-11-28T03:09:47Z",
         "version": "",
         "marcas": [
             "/switch/celosia_nx/celosia_nx.nro",
             "/switch/celosia_nx/assets/GAMECORE.XFF",
             "/switch/celosia_nx/assets/IOPRP300.IMG"
         ],
-        "bytes": 3732130160,
-        "descomprimido": 3731486108,
-        "icono": "665a7168de72.jpg",
+        "bytes": 3732223660,
+        "descomprimido": 3731579608,
+        "icono": "15c8065bb39c.jpg",
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/276e4898b9f9.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/coloso.png"
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/coloso.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/94565cd65036.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/manh.zip": {
         "fecha": "2026-11-27T01:46:29Z",
@@ -1573,6 +1588,22 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pz.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/downh.zip": {
+        "fecha": "2026-11-28T05:20:35Z",
+        "version": "",
+        "marcas": [
+            "/switch/downhill-revived/downhill.nro",
+            "/switch/downhill-revived/disc.layout",
+            "/switch/downhill-revived/disc.metadata"
+        ],
+        "bytes": 2551209221,
+        "descomprimido": 2551174091,
+        "icono": "45be8ffda57c.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/downh.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/120984d317cd.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sonic.zip": {
         "fecha": "2026-11-23T08:06:09Z",
         "version": "",
@@ -1620,6 +1651,22 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/2afc054fddd4.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffs.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/street2.zip": {
+        "fecha": "2026-11-28T01:19:37Z",
+        "version": "",
+        "marcas": [
+            "/switch/street2-nx/street2.nro",
+            "/switch/street2-nx/game/data/anims.big",
+            "/switch/street2-nx/game/data/aptanims/aptfnts.big"
+        ],
+        "bytes": 2048965241,
+        "descomprimido": 2048938243,
+        "icono": "7e5967861006.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/street2.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/527d00dc7b3e.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip": {
         "fecha": "2026-11-16T03:14:20Z",
@@ -2868,6 +2915,38 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fh1.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/xmen1.zip": {
+        "fecha": "2026-11-27T22:45:13Z",
+        "version": "",
+        "marcas": [
+            "/switch/XMOW/XMOW.nro",
+            "/switch/XMOW/game_root/default.xex",
+            "/switch/XMOW/game_root/WGame/Localization/Xenon/Coalesced_esn.bin"
+        ],
+        "bytes": 3514462871,
+        "descomprimido": 4313060272,
+        "icono": "89cf3a4d9328.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/xmen.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5ab5d02633dc.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/xmen2.zip": {
+        "fecha": "2026-11-27T22:46:37Z",
+        "version": "",
+        "marcas": [
+            "/switch/XMOW/game_root/WGame/CookedXenon/alk0_audio.xxx",
+            "/switch/XMOW/game_root/WGame/CookedXenon/alk0_kismet01.xxx",
+            "/switch/XMOW/game_root/WGame/CookedXenon/alk0_kismet01_LOC_esn.xxx"
+        ],
+        "bytes": 3453922281,
+        "descomprimido": 3453743269,
+        "icono": "89cf3a4d9328.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/xmen.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/5ab5d02633dc.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nuts1.zip": {
         "fecha": "2026-11-27T01:32:50Z",
         "version": "",
@@ -2901,20 +2980,20 @@
         "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp1.zip": {
-        "fecha": "2026-11-23T05:38:55Z",
+        "fecha": "2026-11-28T00:58:15Z",
         "version": "",
         "marcas": [
             "/switch/deadpool-nx/deadpool.nro",
             "/switch/deadpool-nx/deadpool.toml",
             "/switch/deadpool-nx/deko3d_glsl.bin"
         ],
-        "bytes": 3958644208,
-        "descomprimido": 4354772358,
-        "icono": "e2208a16bf53.jpg",
+        "bytes": 4171911627,
+        "descomprimido": 4354908836,
+        "icono": "9638dc900a52.jpg",
         "icono_v": 3,
-        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/65b8c578d2fc.jpg",
-        "revisado": 4,
-        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/deadp.png"
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/deadp.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/cb429ce27db4.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/deadp2.zip": {
         "fecha": "2026-11-23T05:29:33Z",
@@ -2963,6 +3042,22 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/d55c034b6b30.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/alic.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ama.zip": {
+        "fecha": "2026-11-14T10:32:47Z",
+        "version": "",
+        "marcas": [
+            "/switch/LookingGlass/LookingGlass.nro",
+            "/switch/LookingGlass/base/base_s.pk3",
+            "/switch/LookingGlass/base/pak0.pk3"
+        ],
+        "bytes": 783847955,
+        "descomprimido": 783846069,
+        "icono": "11aee115d05e.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/amc.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/407a3adba4f9.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip": {
         "fecha": "2026-11-16T01:10:06Z",
@@ -3234,6 +3329,54 @@
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/boz.png"
     },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bo1.zip": {
+        "fecha": "2026-11-28T04:12:21Z",
+        "version": "",
+        "marcas": [
+            "/switch/OpenBLOPS-NX/OpenBLOPS-NX-MP.nro",
+            "/switch/OpenBLOPS-NX/kbz/code_post_gfx.kbz",
+            "/switch/OpenBLOPS-NX/kbz/code_post_gfx_mp.kbz"
+        ],
+        "bytes": 4158537539,
+        "descomprimido": 4158470775,
+        "icono": "afc5a420ef8d.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bo1.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0df6e135bd0.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bo12.zip": {
+        "fecha": "2026-11-28T04:16:21Z",
+        "version": "",
+        "marcas": [
+            "/switch/OpenBLOPS-NX/main/iw_00.iwd",
+            "/switch/OpenBLOPS-NX/main/iw_08.iwd",
+            "/switch/OpenBLOPS-NX/main/iw_09.iwd"
+        ],
+        "bytes": 4181158095,
+        "descomprimido": 4811708769,
+        "icono": "afc5a420ef8d.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bo1.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0df6e135bd0.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bo13.zip": {
+        "fecha": "2026-11-28T04:16:35Z",
+        "version": "",
+        "marcas": [
+            "/switch/OpenBLOPS-NX/main/localized_English_iw04.iwd",
+            "/switch/OpenBLOPS-NX/main/localized_English_iw05.iwd",
+            "/switch/OpenBLOPS-NX/main/localized_English_iw06.iwd"
+        ],
+        "bytes": 3469288501,
+        "descomprimido": 4205854076,
+        "icono": "afc5a420ef8d.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bo1.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/e0df6e135bd0.jpg",
+        "revisado": 4
+    },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip": {
         "fecha": "2026-11-18T00:52:18Z",
         "version": "",
@@ -3329,6 +3472,70 @@
         "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/31e2b0ca7694.jpg",
         "revisado": 4,
         "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx31.zip": {
+        "fecha": "2026-11-28T00:01:41Z",
+        "version": "",
+        "marcas": [
+            "/switch/fnxf_xiii/fnxf_xiii_o3_lto.nro",
+            "/switch/fnxf_xiii/assets/default.xex",
+            "/switch/fnxf_xiii/assets/nxeart"
+        ],
+        "bytes": 3837431947,
+        "descomprimido": 3837417605,
+        "icono": "c762e75af1c7.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/79b5893ce796.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx32.zip": {
+        "fecha": "2026-11-28T00:09:42Z",
+        "version": "",
+        "marcas": [
+            "/switch/fnxf_xiii/assets/white_data/movie/z008_us.x360.wmp",
+            "/switch/fnxf_xiii/assets/white_data/movie/z016_us.x360.wmp",
+            "/switch/fnxf_xiii/assets/white_data/sys/filelistu.x360.bin"
+        ],
+        "bytes": 4123260757,
+        "descomprimido": 4228536326,
+        "icono": "c762e75af1c7.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/79b5893ce796.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx33.zip": {
+        "fecha": "2026-11-28T00:22:49Z",
+        "version": "",
+        "marcas": [
+            "/switch/fnxf_xiii/assets/white_data/movie/z017_us.x360.wmp",
+            "/switch/fnxf_xiii/assets/white_data/movie/z018_us.x360.wmp",
+            "/switch/fnxf_xiii/assets/white_data/movie/z019_us.x360.wmp"
+        ],
+        "bytes": 4207830233,
+        "descomprimido": 4251454580,
+        "icono": "c762e75af1c7.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/79b5893ce796.jpg",
+        "revisado": 4
+    },
+    "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx34.zip": {
+        "fecha": "2026-11-28T00:17:50Z",
+        "version": "",
+        "marcas": [
+            "/switch/fnxf_xiii/assets/white_data/movie/z000_us.x360.wmp",
+            "/switch/fnxf_xiii/assets/white_data/movie/z002_us.x360.wmp",
+            "/switch/fnxf_xiii/assets/white_data/movie/z003_us.x360.wmp"
+        ],
+        "bytes": 3694434996,
+        "descomprimido": 3694432584,
+        "icono": "c762e75af1c7.jpg",
+        "icono_v": 3,
+        "icono_fuente": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png",
+        "icono_acceso": "https://raw.githubusercontent.com/ohquebacan/OQB-HATS-PACK/main/iconos-acceso-directo/ports/79b5893ce796.jpg",
+        "revisado": 4
     },
     "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los1.zip": {
         "fecha": "2026-11-27T19:14:04Z",

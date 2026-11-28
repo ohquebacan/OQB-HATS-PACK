@@ -3,6 +3,10 @@
     "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/UPD_9th.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/9th.png"
   },
+  "Crash Twinsanity": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/twin.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/twin.png"
+  },
   "God of War Collection (1 + 2)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/gowc.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gowc.png"
@@ -123,6 +127,10 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/pz.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/pz.png"
   },
+  "Downhill Domination": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/downh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/downh.png"
+  },
   "Sonic All Stars Racing Transformed": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/sonic.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sonic.png"
@@ -134,6 +142,10 @@
   "Fifa Street": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ffs.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/ffs.png"
+  },
+  "Fifa Street 2": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/street2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/street2.png"
   },
   "TLOZ: Ocarina of Time (3DS)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/zoot.zip",
@@ -451,6 +463,14 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fh12.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fh1.png"
   },
+  "X-Men Origins: Wolverine (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/xmen1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/xmen.png"
+  },
+  "X-Men Origins: Wolverine (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/xmen2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/xmen.png"
+  },
   "Banjo Kazooie Nuts and bolts (PARTE 1)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/nuts1.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/nuts.png"
@@ -474,6 +494,10 @@
   "Alice: Madness Returns (PARTE 2)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/alic2.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/alic.png"
+  },
+  "American McGees Alice": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/ama.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/amc.png"
   },
   "Dark Souls II: Scholar of the First Sin (PARTE 1)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/dark21.zip",
@@ -543,6 +567,18 @@
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/boz.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/boz.png"
   },
+  "Call of Duty: Black Ops 1 (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bo1.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bo1.png"
+  },
+  "Call of Duty: Black Ops 1 (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bo12.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bo1.png"
+  },
+  "Call of Duty: Black Ops 1 (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bo13.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bo1.png"
+  },
   "Call of Duty: Black Ops 2 (PARTE 1)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/cod21.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/cod2.png"
@@ -566,6 +602,22 @@
   "Team Fortress 2 (PARTE 3)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/tf23.zip",
     "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/tf2.png"
+  },
+  "Final Fantasy XIII (PARTE 1)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx31.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png"
+  },
+  "Final Fantasy XIII (PARTE 2)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx32.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png"
+  },
+  "Final Fantasy XIII (PARTE 3)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx33.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png"
+  },
+  "Final Fantasy XIII (PARTE 4)": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/fx34.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/fx.png"
   },
   "Castlevania: Lords of Shadow (PARTE 1)": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/los1.zip",
